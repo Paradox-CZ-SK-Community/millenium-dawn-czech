@@ -1,6 +1,6 @@
 ﻿l_english:
-  not_usoe_tt: "Dosud nebylo vytvořeno §YSpojené státy Evropy§!" # todo: NEW TRANSLATION
-  not_poteuf_tt: "Dosud nebylo vytvořeno §YEvropská federace§!" # todo: NEW TRANSLATION
+  not_usoe_tt: "Dosud nebyli vytvořeno §YSpojené státy Evropy§!" # todo: NEW TRANSLATION
+  not_poteuf_tt: "Dosud nebyla vytvořeno §YEvropská federace§!" # todo: NEW TRANSLATION
   not_omt_start: "Program OMT nebyl zahájen" # todo: NEW TRANSLATION
   EU_has_over_five_percent_pop_tt: "§Y[ROOT.GetAdjectiveCap]§! Populace vyšší než §G5%§! z celkové populace EU (Aktuální poměr: [?ROOT.var_EUpopRatio|Y%2])." # todo: NEW TRANSLATION
   hide_EU_parliament_members: "Členové Evropského parlamentu jsou skryti" # todo: NEW TRANSLATION
@@ -8,15 +8,15 @@
   form_USoE_tt: "Tvoříme §Y[EUU.GetFlag]Spojené státy Evropy§!." # todo: NEW TRANSLATION
   requires_usoe_tt: "Vyžaduje §YSpojené státy Evropy§! aby Rada Evropské unie schválila." # todo: NEW TRANSLATION
   requires_potef_tt: "Vyžaduje §YPrezident Evropské federace§! aby Rada Evropské unie schválila." # todo: NEW TRANSLATION
-  EU_trigger_article_50: "Spustit článek 50" # todo: NEW TRANSLATION
+  EU_trigger_article_50: "Aktivovat čl. 50" # todo: NEW TRANSLATION
   EU_adopt_eu_law: "Přijmout právo EU" # todo: NEW TRANSLATION
-  EU_draft_an_eu_budget: "Návrh nového rozpočtu EU." # todo: NEW TRANSLATION
+  EU_draft_an_eu_budget: "Návrh rozpočtu EU." # todo: NEW TRANSLATION
   EU_budget_draft: "Zahájili jste tvorbu návrhu rozpočtu EU." # todo: NEW TRANSLATION
-  EU_MFF_draft_tt: "Návrh MFF" # todo: NEW TRANSLATION
+  EU_MFF_draft_tt: "Návrh VFR" # todo: NEW TRANSLATION
   EU_mff_draft: "Zahájili jste tvorbu návrhu víceletého finančního rámce." # todo: NEW TRANSLATION
   focus_EU_mff_EP_approval: "Návrh získal schválení Evropským parlamentem." # todo: NEW TRANSLATION
   focus_EU_budget_EP_approval: "Návrh získal schválení Evropským parlamentem." # todo: NEW TRANSLATION
-  EU_no_urrent_mff_draft: "Žádný aktuální návrh MFF." # todo: NEW TRANSLATION
+  EU_no_urrent_mff_draft: "Žádný aktuální návrh VFR." # todo: NEW TRANSLATION
   EU_no_ongoing_parliament_vote: "Žádné probíhající hlasování v Parlamentu." # todo: NEW TRANSLATION
   EU_no_active_budget_draft: "Žádný aktivní návrh rozpočtu EU." # todo: NEW TRANSLATION
   EU_approve_ipa: "Schválit IPA" # todo: NEW TRANSLATION
@@ -38,7 +38,7 @@
   EU_start_omt_text: "Spustit OMT" # todo: NEW TRANSLATION
   EU_if_has_active_omt: "Pokud má OMT aktivní:" # todo: NEW TRANSLATION
   EUU_european_debt_crisis: "§YEvropská dluhová krize§! Došlo k ní" # todo: NEW TRANSLATION
-  EU_potential: "[ROOT.GetNamewithFlag] je potenciálním členem EU" # todo: NEW TRANSLATION
+  EU_potential: "[ROOT.GetNamewithFlag] je potenciální člen EU" # todo: NEW TRANSLATION
   EU_candidate: "[ROOT.GetNamewithFlag] je kandidátský člen EU" # todo: NEW TRANSLATION
   EUU_migrant_crisis_triggered: "§YMigrační krize v Evropě§! Vyvolána" # todo: NEW TRANSLATION
   european_constitution: "Evropská ústava" # todo: NEW TRANSLATION
@@ -57,30 +57,30 @@
   euro_voting_button_desc: "Rada Evropské unie je druhým legislativním orgánem §C[EUU.GetFlag][EUU.GetName]§! v Millennium Dawn. Rada Evropské unie zastupuje členské státy v legislativním procesu. Veškerá dosud schválená legislativa, navržená legislativa a seznam hlasovacích členů §C[EUU.GetFlag][EUU.GetName]§!.\n\nRada Evropské unie funguje na základě hlasování s kvalifikovanou většinou (QMV), známé také jako dvojí většina. Vyžaduje 55 % Členských států a 65 % populace Evropské unie." # todo: NEW TRANSLATION
   parliament_button_title: "Parlament" # todo: NEW TRANSLATION
   parliament_button_desc: "Evropský parlament je prvním legislativním orgánem §C[EUU.GetFlag][EUU.GetName]§! v Millennium Dawn. Evropský parlament je prvním místem, kde mohou být zákony předkládány k hlasování, aby se staly právními akty Evropské unie.\n\nHráč bude mít 14 dní na splnění mise (viz rozhodnutí) shromážděním většiny hlasů členů Evropského parlamentu (MEP). Jakmile je zákon přijat, postoupí do Rady Evropské unie." # todo: NEW TRANSLATION
-  EU_europeanism_screen_title: "Euro-informace" # todo: NEW TRANSLATION
+  EU_europeanism_screen_title: "Euro-info"
   EU_europeanism_screen_desc: "Záložka Euro-info obsahuje informace o Evropské unii, jako jsou členské státy, jejich populace, poměr populace, hodnoty euroskepticismu a evropské orientace Evropské unie." # todo: NEW TRANSLATION
-  EU_offices_screen_title: "Funkce" # todo: NEW TRANSLATION
+  EU_offices_screen_title: "Funkce"
   EU_offices_screen_desc: "Funkce §C[EUU.GetFlag][EUU.GetName]§!. Funkce §C[EUU.GetFlag][EUU.GetName]§! jsou souborem pozic, které mohou být obsazeny členským státem Evropské unie." # todo: NEW TRANSLATION
-  eu_sec_general_euro_navy_tip: "§YPožadavky:§!\n[!eu_sec_general_euro_navy_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_sec_general_euro_army_tip: "§YPožadavky:§!\n[!eu_sec_general_euro_army_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_minister_economy_finance_tip: "§YPožadavky:§!\n[!eu_minister_economy_finance_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_parliment_president_tip: "§YPožadavky:§!\n[!eu_parliament_president_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_foreign_affairs_security_tip: "§YPožadavky:§!\n[!foreign_affairs_security_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_central_bank_president_tip: "§YPožadavky:§!\n[!eu_central_bank_president_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_frontex_director_tip: "§YPožadavky:§!\n[!eu_frontex_director_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_ambassador_to_un_tip: "§YPožadavky:§!\n[!eu_ambassador_to_un_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_pres_federation_tip: "§YPožadavky:§!\n[!eu_pres_federation_back_click_enabled]" # todo: NEW TRANSLATION
-  EU_run_omt_program_tip: "§YPožadavky:§!\n[!EU_run_omt_program_click_enabled]\n" # todo: NEW TRANSLATION
-  eu_adjust_omt_program_tip: "§YPožadavky:§!\n[!EU_adjust_omt_program_click_enabled]\n" # todo: NEW TRANSLATION
-  eu_reduce_omt_program_tip: "§YPožadavky:§!\n[!EU_reduce_omt_program_click_enabled]" # todo: NEW TRANSLATION
-  eu_whatever_it_takes_tip: "§YPožadavky:§!\n[!EU_whatever_it_takes_click_enabled]" # todo: NEW TRANSLATION
-  eu_president_commission_tip: "§YPožadavky:§!\n[!eu_president_commission_back_click_enabled]" # todo: NEW TRANSLATION
-  eu_president_council_tip: "§YPožadavky:§!\n[!eu_president_council_back_click_enabled]" # todo: NEW TRANSLATION
+  eu_sec_general_euro_navy_tip: "§YPožadavky:§!\n[!eu_sec_general_euro_navy_back_click_enabled]"
+  eu_sec_general_euro_army_tip: "§YPožadavky:§!\n[!eu_sec_general_euro_army_back_click_enabled]"
+  eu_minister_economy_finance_tip: "§YPožadavky:§!\n[!eu_minister_economy_finance_back_click_enabled]"
+  eu_parliment_president_tip: "§YPožadavky:§!\n[!eu_parliament_president_back_click_enabled]"
+  eu_foreign_affairs_security_tip: "§YPožadavky:§!\n[!foreign_affairs_security_back_click_enabled]"
+  eu_central_bank_president_tip: "§YPožadavky:§!\n[!eu_central_bank_president_back_click_enabled]"
+  eu_frontex_director_tip: "§YPožadavky:§!\n[!eu_frontex_director_back_click_enabled]"
+  eu_ambassador_to_un_tip: "§YPožadavky:§!\n[!eu_ambassador_to_un_back_click_enabled]"
+  eu_pres_federation_tip: "§YPožadavky:§!\n[!eu_pres_federation_back_click_enabled]"
+  EU_run_omt_program_tip: "§YPožadavky:§!\n[!EU_run_omt_program_click_enabled]\n"
+  eu_adjust_omt_program_tip: "§YPožadavky:§!\n[!EU_adjust_omt_program_click_enabled]\n"
+  eu_reduce_omt_program_tip: "§YPožadavky:§!\n[!EU_reduce_omt_program_click_enabled]"
+  eu_whatever_it_takes_tip: "§YPožadavky:§!\n[!EU_whatever_it_takes_click_enabled]"
+  eu_president_commission_tip: "§YPožadavky:§!\n[!eu_president_commission_back_click_enabled]"
+  eu_president_council_tip: "§YPožadavky:§!\n[!eu_president_council_back_click_enabled]"
   EU_recently_retired_from_an_eu_office_tt: "§Y[ROOT.GetNameWithFlag]§! Nedávno nebyl(a) uvolněn(a) z postů Evropské unie (Dny do získání nového postu: [?recently_retired_from_an_eu_office:days_left|Y0])" # todo: NEW TRANSLATION
   EU_does_not_hold_another_office_tt: "§Y[ROOT.GetNameWithFlag]§! V současné době nevlastní jiný §C[EUU.GetFlag][EUU.GetName]§! úřad" # todo: NEW TRANSLATION
-  EU_president_council_tt: "§YPředseda Evropské rady§! předsedá a posouvá práci Evropské rady, která se skládá z 27 hlav států a hlavního zástupce §C[EUU.GetFlag][EUU.GetName]§! na světové scéně. Instituce tvoří kolegium hlav států a předseda Evropské komise a poskytuje politický směr pro celou Evropskou unii.\n\n§YPřínosy funkcí:§!\nDržení této funkce nám umožňuje navrhnout zákon k hlasování bez vlivu na kteréhokoli člena.\n\nZvyšuje úspěšnost pro‑evropských a euroskeptických kampaní o §G+10%§!\n\n[!eu_president_council_back_click]\n" # todo: NEW TRANSLATION
+  EU_president_council_tt: "§YPředseda Evropské rady§! předsedá a posouvá práci Evropské rady, která se skládá z 27 hlav států a hlavního zástupce §C[EUU.GetFlag][EUU.GetName]§! na světové scéně. Instituce tvoří kolegium hlav států a předseda Evropské komise a poskytuje politický směr pro celou Evropskou unii.\n\n§YPřínosy funkcí:§!\nDržení této funkce nám umožňuje navrhnout zákon k hlasování bez vlivu na kteréhokoli člena.\n\nZvyšuje úspěšnost proevropských a euroskeptických kampaní o §G+10%§!\n\n[!eu_president_council_back_click]\n" # todo: NEW TRANSLATION
   EU_president_council_unlocks_tt: "Lisabonská smlouva zřídila funkci Prezidenta Evropské rady!" # todo: NEW TRANSLATION
-  eu_president_commission_tt: "§YPrezident Evropské unie§! je šéfem výkonné větve §C[EUU.GetFlag][EUU.GetName]§!. Prezident vede kabinet komisařů, označovaný jednoduše jako Kolegium, which is collectively accountable to the Evropský parlament. Jsou zmocněni k rozdělování portfolií, reorganizaci nebo odvolání komisařů podle potřeby. Komise je jediným orgánem, který má právo navrhovat zákony, které se mají stát evropským právem.\n\n§YPřínosy funkce:§!\nDržení této funkce nám umožňuje předložit návrh k hlasování bez vyžadování vlivu na jakéhokoli člena.\n\nZvyšuje úspěšnost pro‑evropských a euroskeptických kampaní o §G+10%§!\n\nDržení této funkce nám umožňuje dočasně suspendovat členské státy, které mají více než tři porušení, bez ohledu na vliv.\n\n[!eu_president_commission_back_click]\n" # todo: NEW TRANSLATION
+  eu_president_commission_tt: "§YPrezident Evropské unie§! je šéfem výkonné větve §C[EUU.GetFlag][EUU.GetName]§!. Prezident vede kabinet komisařů, označovaný jednoduše jako Kolegium, which is collectively accountable to the Evropský parlament. Jsou zmocněni k rozdělování portfolií, reorganizaci nebo odvolání komisařů podle potřeby. Komise je jediným orgánem, který má právo navrhovat zákony, které se mají stát evropským právem.\n\n§YPřínosy funkce:§!\nDržení této funkce nám umožňuje předložit návrh k hlasování bez vyžadování vlivu na jakéhokoli člena.\n\nZvyšuje úspěšnost proevropských a euroskeptických kampaní o §G+10%§!\n\nDržení této funkce nám umožňuje dočasně suspendovat členské státy, které mají více než tři porušení, bez ohledu na vliv.\n\n[!eu_president_commission_back_click]\n" # todo: NEW TRANSLATION
   EU_high_representative_tt: "§YVysoký představitel Unie pro zahraniční věci a bezpečnostní politiku§! je hlavní koordinátor a představitel Společné zahraniční a bezpečnostní politiky (CFSP) v rámci Evropské unie. Název se často zkracuje na ministra zahraničí EU a primárně koordinuje zahraniční politiku jménem členských států.\n\n§YPřínosy funkce:§!\n\n[!foreign_affairs_security_back_click]\n" # todo: NEW TRANSLATION
   EU_high_representative_unlocks_tt: "§YEvropská služba pro vnější činnost§! založila funkci §YPředseda Evropského parlamentu§!" # todo: NEW TRANSLATION
   EU_president_european_parliament_tt: "§YPředseda Evropského parlamentu§! řídí debaty a činnosti Evropského parlamentu. Zastupuje Evropský parlament ve všech právních záležitostech a vnějších vztazích, zejména mezinárodních vztazích. Má dvouapůlleté období a jeho podpis je vyžadován k podpisu Rozpočtu §C[EUU.GetFlag][EUU.GetName]§! a aktů Unie přijatých v rámci spolurozhodovacího řízení.\n\n§YVýhody úřadu:§!\nDržení tohoto úřadu nám umožňuje předložit návrh zákona k hlasování bez vyžadování vlivu na jakéhokoli člena.\n\nZvyšuje úspěšnost proevropských a euroskeptických kampaní o §G+10%§!\n\n[!eu_parliament_president_back_click]" # todo: NEW TRANSLATION
@@ -94,8 +94,8 @@
   EU_frontex_director_unlocks_tt: "§YEvropská agentura pro hraniční a pobřežní stráž§! zřídila funkci §YŘeditel Frontexu§!" # todo: NEW TRANSLATION
   EU_sec_general_euro_army_tt: "§YGenerální tajemník EuroArmády§! je vrchním velitelem EuroArmády Evropské unie. Zodpovídá za koordinaci EuroArmády, která je spojnými a společnými ozbrojenými silami členských států Evropské unie.\n\n§YVýhody úřadu:§!\n\nDržení tohoto úřadu umožní držiteli dočasně převzít kontrolu nad silami EuroArmády během jeho mandátu.\n[!eu_sec_general_euro_army_back_click]" # todo: NEW TRANSLATION
   EU_sec_general_euro_army_unlocks_tt: "§YEuroArmáda§! Zřídila funkci §YGenerální tajemník EuroArmády§!" # todo: NEW TRANSLATION
-  EU_sec_general_euro_navy_tt: "§YGenerální tajemník EuroNámořnictva§! je hlava EuroNámořnictva Evropské unie. Zodpovídá za koordinaci EuroNámořnictva, které je spojenou a společnou námořní silou Evropské unie.\n\n§YVýhody úřadu:§!\n\nDržení tohoto úřadu umožní držiteli převzít kontrolu nad námořnictvy členských států a sjednotit je do jedné evropské flotily.\n[!eu_sec_general_euro_navy_back_click]" # todo: NEW TRANSLATION
-  EU_sec_general_euro_navy_unlocks_tt: "§YEuroNámořnictvo§! Zřídilo funkci §YGenerální tajemník EuroNámořnictva§!" # todo: NEW TRANSLATION
+  EU_sec_general_euro_navy_tt: "§YGenerální tajemník EuroNavy§! je hlava EuroNavy Evropské unie. Zodpovídá za koordinaci EuroNavy, které je spojenou a společnou námořní silou Evropské unie.\n\n§YVýhody úřadu:§!\n\nDržení tohoto úřadu umožní držiteli převzít kontrolu nad námořnictvy členských států a sjednotit je do jedné evropské flotily.\n[!eu_sec_general_euro_navy_back_click]" # todo: NEW TRANSLATION
+  EU_sec_general_euro_navy_unlocks_tt: "§YEuroNavy§! Zřídilo funkci §YGenerální tajemník EuroNavy§!" # todo: NEW TRANSLATION
   EU_ambassador_to_un_tt: "§YVelvyslanec Unie při OSN§! zastupuje Evropskou unii při Organizaci spojených národů, spolupracuje s diplomatickými misemi všech členských států Evropské unie.\n\n§YVýhody úřadu:§!\n\nDržení tohoto úřadu uděluje zemi status trvalého člena RB OSN.\n\n[!eu_ambassador_to_un_back_click]" # todo: NEW TRANSLATION
   EU_ambassador_to_un_unlocks_tt: "§YStálý člen RB OSN§! Zřídil funkci §YVelvyslanec Unie při OSN§!" # todo: NEW TRANSLATION
   EU_president_of_the_eurofederation_tt: "§YPředseda Evropské federace§! je řádně zvoleným vůdcem Evropské federace. Evropská federace je jednou z posledních možností federalizace Evropské unie a jako taková je tato pozice velmi mocná.\n\n§YVýhody úřadu:§!\n\n[!eu_pres_federation_back_click]" # todo: NEW TRANSLATION
@@ -295,11 +295,11 @@
   list_of_available_laws_header: "§HDostupné reformy Evropské unie§!" # todo: NEW TRANSLATION
   system_of_eu_values_text: "§YEvropské hodnoty§!" # todo: NEW TRANSLATION
   system_of_eu_values_tt: "Systém evropských hodnot:\nHodnota EU:\npřípad porušení - úroveň porušení\n\nPrávní stát:\nParalyzující korupce - 5\nTíživá korupce - 4\nŠířící se korupce - 3\nNekontrolovaná korupce - 2\nSystematická korupce - 1\n\nRespekt k lidské důstojnosti a svobodě:\nvlastní válka vůči členskému státu EU - 10\nmá komunistickou vládu - 2\nmá reakční vládu - 2\nmá komunisty v koalici - 1\nmá reakční v koalici - 1\n\nDemokracie:\nŽádné volby - 5\nDiktatura - 5\nKomunistická diktatura - 5\nFašistická diktatura - 5\nje loutkou - 4\nNeo-imperialismus - 1\n\nPráva žen a menšin:\nZakázaná služba pro ženy - 1\nVolební práh 10% - 1\n\nŽádná záchranná doložka:\nBankrot - 1\nZáchranné financování poskytnuto - 1" # todo: NEW TRANSLATION
-  total_mep_text: "Celkový počet europoslanců: [?global.MEP_Total|C0]" # todo: NEW TRANSLATION
+  total_mep_text: "Celkový počet europoslanců: [?global.MEP_Total|C0]"
   total_mep_tt: "The total number of Members of the European Parliament (MEPs)." # todo: NEW TRANSLATION
-  eu_parliament_majority_text: "Většina: [?global.MEP_Majority|O0]" # todo: NEW TRANSLATION
+  eu_parliament_majority_text: "Většina: [?global.MEP_Majority|O0]"
   eu_parliament_majority_tt: "Potřebujeme podporu majority: [?global.MEP_Majority|O0] k projednání aktuálního bodu agendy. Momentálně máme podporu [?global.active_MEP_Support|G0] europoslanců." # todo: NEW TRANSLATION
-  eu_parliament_supporting_text: "Podporující: [?global.active_MEP_Support|G0]" # todo: NEW TRANSLATION
+  eu_parliament_supporting_text: "Podporující: [?global.active_MEP_Support|G0]"
   eu_parliament_supporting_tt: "Tato hodnota představuje počet europoslanců, kteří aktuálně podporují aktivní agendu. Vždy budeme mít podporu ideologie naší vládnoucí strany." # todo: NEW TRANSLATION
   pass_vote_button_title: "Schválit" # todo: NEW TRANSLATION
   pass_vote_button_desc: "§YPředpoklady:§!\n[!pass_vote_button_click_enabled]\n§YDůsledky:§!\n[!pass_vote_button_click]" # todo: NEW TRANSLATION
@@ -374,53 +374,53 @@
   con_vote_wait: "§YEvropská rada§! nedávno ukončila zasedání. Dny do dalšího zasedání: §Y[?delay_player_next_council_vote:days_left|0Y] Dny§!" # todo: NEW TRANSLATION
   con_vote_wait_no_flag: "§YEvropská rada§! je připravena na zasedání." # todo: NEW TRANSLATION
   eu_candidates_considering: "§YEvropská rada§! momentálně nezvažuje žádné kandidáty EU" # todo: NEW TRANSLATION
-  EU_parliament_PG_Western_Autocracy_influence: "Vliv [EU_parliament_PG_Western_Autocracy_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Western_Autocracy_influence: "Vliv [EU_parliament_PG_Western_Autocracy_icon]"
   EU_parliament_PG_Western_Autocracy_influence_desc: "Vliv [EU_parliament_PG_Western_Autocracy_icon] [EU_parliament_PG_Western_Autocracy_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_conservatism_influence: "Vliv [EU_parliament_PG_conservatism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_conservatism_influence: "Vliv [EU_parliament_PG_conservatism_icon]"
   EU_parliament_PG_conservatism_influence_desc: "Vliv [EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_liberalism_influence: "Vliv [EU_parliament_PG_liberalism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_liberalism_influence: "Vliv [EU_parliament_PG_liberalism_icon]"
   EU_parliament_PG_liberalism_influence_desc: "Vliv [EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_socialism_influence: "Vliv [EU_parliament_PG_socialism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_socialism_influence: "Vliv [EU_parliament_PG_socialism_icon]"
   EU_parliament_PG_socialism_influence_desc: "Vliv [EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Communist-State_influence: "Vliv [EU_parliament_PG_Communist-State_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Communist-State_influence: "Vliv [EU_parliament_PG_Communist-State_icon]"
   EU_parliament_PG_Communist-State_influence_desc: "Vliv [EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_anarchist_communism_influence: "Vliv [EU_parliament_PG_anarchist_communism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_anarchist_communism_influence: "Vliv [EU_parliament_PG_anarchist_communism_icon]"
   EU_parliament_PG_anarchist_communism_influence_desc: "Vliv [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Conservative_influence: "Vliv [EU_parliament_PG_Conservative_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Conservative_influence: "Vliv [EU_parliament_PG_Conservative_icon]"
   EU_parliament_PG_Conservative_influence_desc: "Vliv [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Autocracy_influence: "Vliv [EU_parliament_PG_Autocracy_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Autocracy_influence: "Vliv [EU_parliament_PG_Autocracy_icon]"
   EU_parliament_PG_Autocracy_influence_desc: "Vliv [EU_parliament_PG_Autocracy_icon] [EU_parliament_PG_Autocracy_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Mod_Vilayat_e_Faqih_influence: "Vliv [EU_parliament_PG_Mod_Vilayat_e_Faqih_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Mod_Vilayat_e_Faqih_influence: "Vliv [EU_parliament_PG_Mod_Vilayat_e_Faqih_icon]"
   EU_parliament_PG_Mod_Vilayat_e_Faqih_influence_desc: "Vliv [EU_parliament_PG_Mod_Vilayat_e_Faqih_icon] [EU_parliament_PG_Mod_Vilayat_e_Faqih_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Vilayat_e_Faqih_influence: "Vliv [EU_parliament_PG_Vilayat_e_Faqih_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Vilayat_e_Faqih_influence: "Vliv [EU_parliament_PG_Vilayat_e_Faqih_icon]"
   EU_parliament_PG_Vilayat_e_Faqih_influence_desc: "Vliv [EU_parliament_PG_Vilayat_e_Faqih_icon] [EU_parliament_PG_Vilayat_e_Faqih_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Kingdom_influence: "Vliv [EU_parliament_PG_Kingdom_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Kingdom_influence: "Vliv [EU_parliament_PG_Kingdom_icon]"
   EU_parliament_PG_Kingdom_influence_desc: "Vliv [EU_parliament_PG_Kingdom_icon] [EU_parliament_PG_Kingdom_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Caliphate_influence: "Vliv [EU_parliament_PG_Caliphate_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Caliphate_influence: "Vliv [EU_parliament_PG_Caliphate_icon]"
   EU_parliament_PG_Caliphate_influence_desc: "Vliv [EU_parliament_PG_Caliphate_icon] [EU_parliament_PG_Caliphate_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_Muslim_Brotherhood_influence: "Vliv [EU_parliament_PG_Neutral_Muslim_Brotherhood_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_Muslim_Brotherhood_influence: "Vliv [EU_parliament_PG_Neutral_Muslim_Brotherhood_icon]"
   EU_parliament_PG_Neutral_Muslim_Brotherhood_influence_desc: "Vliv [EU_parliament_PG_Neutral_Muslim_Brotherhood_icon] [EU_parliament_PG_Neutral_Muslim_Brotherhood_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_Autocracy_influence: "Vliv [EU_parliament_PG_Neutral_Autocracy_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_Autocracy_influence: "Vliv [EU_parliament_PG_Neutral_Autocracy_icon]"
   EU_parliament_PG_Neutral_Autocracy_influence_desc: "Vliv [EU_parliament_PG_Neutral_Autocracy_icon] [EU_parliament_PG_Neutral_Autocracy_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_conservatism_influence: "Vliv [EU_parliament_PG_Neutral_conservatism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_conservatism_influence: "Vliv [EU_parliament_PG_Neutral_conservatism_icon]"
   EU_parliament_PG_Neutral_conservatism_influence_desc: "Vliv [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_oligarchism_influence: "Vliv [EU_parliament_PG_oligarchism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_oligarchism_influence: "Vliv [EU_parliament_PG_oligarchism_icon]"
   EU_parliament_PG_oligarchism_influence_desc: "Vliv [EU_parliament_PG_oligarchism_icon] [EU_parliament_PG_oligarchism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_Libertarian_influence: "Vliv [EU_parliament_PG_Neutral_Libertarian_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_Libertarian_influence: "Vliv [EU_parliament_PG_Neutral_Libertarian_icon]"
   EU_parliament_PG_Neutral_Libertarian_influence_desc: "Vliv [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_green_influence: "Vliv [EU_parliament_PG_Neutral_green_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_green_influence: "Vliv [EU_parliament_PG_Neutral_green_icon]"
   EU_parliament_PG_Neutral_green_influence_desc: "Vliv [EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_neutral_Social_influence: "Vliv [EU_parliament_PG_neutral_Social_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_neutral_Social_influence: "Vliv [EU_parliament_PG_neutral_Social_icon]"
   EU_parliament_PG_neutral_Social_influence_desc: "Vliv [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Neutral_Communism_influence: "Vliv [EU_parliament_PG_Neutral_Communism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Neutral_Communism_influence: "Vliv [EU_parliament_PG_Neutral_Communism_icon]"
   EU_parliament_PG_Neutral_Communism_influence_desc: "Vliv [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Nat_Populism_influence: "Vliv [EU_parliament_PG_Nat_Populism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Nat_Populism_influence: "Vliv [EU_parliament_PG_Nat_Populism_icon]"
   EU_parliament_PG_Nat_Populism_influence_desc: "Vliv [EU_parliament_PG_Nat_Populism_icon] [EU_parliament_PG_Nat_Populism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Nat_Fascism_influence: "Vliv [EU_parliament_PG_Nat_Fascism_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Nat_Fascism_influence: "Vliv [EU_parliament_PG_Nat_Fascism_icon]"
   EU_parliament_PG_Nat_Fascism_influence_desc: "Vliv [EU_parliament_PG_Nat_Fascism_icon] [EU_parliament_PG_Nat_Fascism_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Nat_Autocracy_influence: "Vliv [EU_parliament_PG_Nat_Autocracy_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Nat_Autocracy_influence: "Vliv [EU_parliament_PG_Nat_Autocracy_icon]"
   EU_parliament_PG_Nat_Autocracy_influence_desc: "Vliv [EU_parliament_PG_Nat_Autocracy_icon] [EU_parliament_PG_Nat_Autocracy_name] na aktuální bod na programu" # todo: NEW TRANSLATION
-  EU_parliament_PG_Monarchist_influence: "Vliv [EU_parliament_PG_Monarchist_icon]" # todo: NEW TRANSLATION
+  EU_parliament_PG_Monarchist_influence: "Vliv [EU_parliament_PG_Monarchist_icon]"
   EU_parliament_PG_Monarchist_influence_desc: "Vliv [EU_parliament_PG_Monarchist_icon] [EU_parliament_PG_Monarchist_name] na aktuální bod na programu" # todo: NEW TRANSLATION
   EU_show_available_0_loc_key: "Žádná aktivní agenda" # todo: NEW TRANSLATION
   EU_show_available_002_loc_key: "Kandidát Evropské unie" # todo: NEW TRANSLATION
@@ -441,8 +441,8 @@
   EU_show_available_302_loc_key: "PESCO" # todo: NEW TRANSLATION
   EU_show_available_303_loc_key: "Evropský obranný fond" # todo: NEW TRANSLATION
   EU_show_available_304_loc_key: "Evropská bezpečnostní rada" # todo: NEW TRANSLATION
-  EU_show_available_305_loc_key: "Euroarmáda" # todo: NEW TRANSLATION
-  EU_show_available_306_loc_key: "Euronámořnictvo" # todo: NEW TRANSLATION
+  EU_show_available_305_loc_key: "EuroArmáda" # todo: NEW TRANSLATION
+  EU_show_available_306_loc_key: "EuroNavy" # todo: NEW TRANSLATION
   EU_show_available_307_loc_key: "EU Trvalý člen RB OSN" # todo: NEW TRANSLATION
   EU_show_available_308_loc_key: "Jaderná moc EU" # todo: NEW TRANSLATION
   EU_show_available_401_loc_key: "Obecné nařízení o ochraně osobních údajů" # todo: NEW TRANSLATION
@@ -469,7 +469,7 @@
   EU_show_available_999_loc_key: "Návrh rozpočtu EU" # todo: NEW TRANSLATION
   EU_show_available_998_loc_key: "Návrh víceletého finančního rámce" # todo: NEW TRANSLATION
   focus__EP_agenda: "§C[EUU.GetFlag]Evropský parlament§! v současné době neprobírá agendu.\n" # todo: NEW TRANSLATION
-  vote_pass_desc_tt: "[current_active_vote_desc]" # todo: NEW TRANSLATION
+  vote_pass_desc_tt: "[current_active_vote_desc]"
   EU_show_available_desc_002_loc_key: "§OTo navrhované právo je rozšiřující EU právo§!\n\nPřed podáním žádosti o členství v §C[EUU.GetFlag][EUU.GetName]§! je nutné získat status kandidáta EU. Bude probíhat tvrdé vyjednávání se členskými státy §C[EUU.GetFlag][EUU.GetName]§!. Budeme potřebovat hodně vlivu.\n\nUmožňuje Evropskému parlamentu a Evropské radě schválit nové členy §C[EUU.GetFlag][EUU.GetName]§! poté, co přijmou nabídku vstoupit do Unie." # todo: NEW TRANSLATION
   EU_show_available_desc_101_loc_key: "§CTo navrhované právo je Obecné EU právo§!\n\n\"Lidé Evropy, při vytváření stále bližší unie mezi sebou, jsou odhodláni sdílet pokojnou budoucnost založenou na společných hodnotách. Uvědomují si své duchovní a morální dědictví; Unie je založena na nedělitelné, univerzální hodnoty lidské důstojnosti, svobody, rovnosti a solidarity; je založena na principech demokracie a vlády práva.\" – Preambule Charty základních práv Evropské unie. Charta tvoří součást oblasti svobody, bezpečnosti a spravedlnosti (AFSJ) politiky Evropské unie. Charta se vztahuje na všechny hranice Evropské unie a Euratomu, které se musí řídit a legislativně uplatňovat podle jejích ustanovení." # todo: NEW TRANSLATION
   EU_show_available_desc_102_loc_key: "§CTo navrhované právo je Obecné EU právo§!\n\nV návaznosti na Laekenské prohlášení se Evropská rada rozhodla svolat Konvenci o budoucnosti Unie, aby učinila rozhodný krok pro občany směrem k jednodušší Unii, která bude silnější v naplňování svých základních cílů a bude více výrazně přítomná ve světě." # todo: NEW TRANSLATION
@@ -513,8 +513,8 @@
   EU_show_available_desc_110_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nProces evropské integrace dosáhl stavu, kdy jakákoli další integrace povede k federalizaci §C[EUU.GetFlag][EUU.GetName]§!." # todo: NEW TRANSLATION
   EU_show_available_desc_111_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nPo více než 70 letech evropské integrace se členské státy §C[EUU.GetFlag][EUU.GetName]§! rozhodly vzdát se své suverenity a vytvořit §C[EUU.GetFlag] Spojené státy Evropy§!." # todo: NEW TRANSLATION
   EU_show_available_desc_112_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nČlenské státy §C[EUU.GetFlag][EUU.GetName]§! se rozhodly převést Unie do §C[EUU.GetFlag] Evropské federace§! se zásadou kvalifikované většiny hlasů jako základním principem a s vedením §YPresident of the European Federation§!." # todo: NEW TRANSLATION
-  EU_show_available_desc_999_loc_key: "[!]" # todo: NEW TRANSLATION
-  EU_show_available_desc_998_loc_key: "[!]" # todo: NEW TRANSLATION
+  EU_show_available_desc_999_loc_key: "[!]"
+  EU_show_available_desc_998_loc_key: "[!]"
   EU_MD_LAW_FLOWCHART: "Otevírá MD §CEvropská unie§! Tokový diagram" # todo: NEW TRANSLATION
   EU_MD_LAW_FLOWCHART_DESC: "Během zobrazování diagramu můžete zvětšovat dvojitým kliknutím." # todo: NEW TRANSLATION
   EU001: "EU politiky" # todo: NEW TRANSLATION
@@ -540,8 +540,8 @@
   tooltip_focus_EU304_availability: "§YEvropská služba pro vnější činnost§! a §YEvropský obranný fond§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
   tooltip_focus_EU305_availability: "§YEvropská bezpečnostní rada§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
   tooltip_focus_EU306_availability: "§YEvropská bezpečnostní rada§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
-  tooltip_focus_EU307_availability: "§YEuroarmáda§! a §YEuronámořnictvo§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
-  tooltip_focus_EU308_availability: "§YEuroarmáda§! a §YEuronámořnictvo§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
+  tooltip_focus_EU307_availability: "§YEuroArmáda§! a §YEuroNavy§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
+  tooltip_focus_EU308_availability: "§YEuroArmáda§! a §YEuroNavy§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
   tooltip_focus_EU404_availability: "§YNařízení Dublin II§! musí být §Gpřijato§! hlasováním členských států. §YDohoda EU-Turecko§! je §Rnepřijata§! hlasováním členských států." # todo: NEW TRANSLATION
   tooltip_focus_EU405_availability: "§YNařízení Dublin II§! musí být §Gpřijato§! hlasováním členských států. §YRelokace a přemístění žadatelů o azyl§! je §Rnepřijata§! hlasováním členských států." # todo: NEW TRANSLATION
   tooltip_focus_EU406_availability: "§YEvropská agentura pro pohraniční a pobřežní stráž§! musí být §Gpřijato§! hlasováním členských států." # todo: NEW TRANSLATION
@@ -569,7 +569,7 @@
   EUcheat.1.a: "Všechny členské státy EU budou hlasovat ANO!" # todo: NEW TRANSLATION
   EUcheat.1.b: "Všechny členské státy EU budou hlasovat NE!" # todo: NEW TRANSLATION
   EUcheat.1.c: "Přestaňte podvádět!" # todo: NEW TRANSLATION
-  influence_country_vote_tt: "§HPředpoklady:§!\n[!list_of_council_voting_members_button_click_enabled]" # todo: NEW TRANSLATION
+  influence_country_vote_tt: "§HPředpoklady:§!\n[!list_of_council_voting_members_button_click_enabled]"
   country_not_supporting: "§Y[THIS.GetNameWithFlag]§! v současné době nepodporuje náš postoj k tomuto opatření" # todo: NEW TRANSLATION
   no_council_vote_tt: "Žádné probíhající hlasování Rady EU" # todo: NEW TRANSLATION
   EU_level_of_breaches_less_than_3_tt: "Úroveň porušení hodnot Evropské unie je §YMéně než§! 3 (aktuální porušení: [?THIS.breach_of_EU_value|0R])" # todo: NEW TRANSLATION
@@ -666,17 +666,17 @@
   ratio_of_total_eu_header: "§C% z \nEU§!" # todo: NEW TRANSLATION
   euroscepticism_header: "§REuroskepticismus§!" # todo: NEW TRANSLATION
   breach_of_eu_values_header: "§gbPorušení hodnot EU§!" # todo: NEW TRANSLATION
-  eu_president_council_text: "Předseda Evropské rady" # todo: NEW TRANSLATION
-  eu_president_commission_text: "Předseda Evropské komise" # todo: NEW TRANSLATION
-  eu_central_bank_president_text: "Předseda Evropské centrální banky" # todo: NEW TRANSLATION
-  foreign_affairs_security_text: "Vysoký představitel pro zahraniční vztahy a bezpečnostní politiku" # todo: NEW TRANSLATION
-  eu_parliament_president_text: "Předseda Evropského parlamentu" # todo: NEW TRANSLATION
-  eu_minister_economy_finance_text: "Ministr ekonomiky a financí" # todo: NEW TRANSLATION
-  eu_frontex_director_text: "Výkonný ředitel Frontex" # todo: NEW TRANSLATION
-  eu_sec_general_euro_army_text: "Generální tajemník Evropské armády" # todo: NEW TRANSLATION
-  eu_sec_general_euro_navy_text: "Generální tajemník Evropského námořnictva" # todo: NEW TRANSLATION
-  eu_ambassador_to_un_text: "Velvyslanec při OSN" # todo: NEW TRANSLATION
-  eu_retire_office_text: "Odchod do důchodu" # todo: NEW TRANSLATION
+  eu_president_council_text: "Předs. Evropské rady"
+  eu_president_commission_text: "Předs. Evropské komise"
+  eu_central_bank_president_text: "Prezident ECB"
+  foreign_affairs_security_text: "Vysoký představitel SZBP"
+  eu_parliament_president_text: "Předseda EP"
+  eu_minister_economy_finance_text: "Ministr hosp. a financí"
+  eu_frontex_director_text: "Výkonný ředitel Frontex"
+  eu_sec_general_euro_army_text: "Gen. tajemník EuroArmády"
+  eu_sec_general_euro_navy_text: "Gen. tajemník EuroNavy"
+  eu_ambassador_to_un_text: "Velvyslanec při OSN"
+  eu_retire_office_text: "Odchod do důchodu"
   invest_in_SWI: "Příprava investice do §Y[SWI.GetNameWithFlag]§!." # todo: NEW TRANSLATION
   invest_in_GER: "Příprava investice do §Y[GER.GetNameWithFlag]§!." # todo: NEW TRANSLATION
   invest_in_FRA: "Příprava investice do §Y[FRA.GetNameWithFlag]§!." # todo: NEW TRANSLATION
@@ -686,8 +686,8 @@
   EU_fiscal_category_desc: "Fiskální politika §C[EUU.GetFlag] Evropská unie§!:\n\nReformy a reakce na fiskální krizi v §C[EUU.GetFlag] Evropská unie§! a jejích členských států." # todo: NEW TRANSLATION
   eurozone_reforms: "Reformy eurozóny" # todo: NEW TRANSLATION
   eurozone_reforms_desc: "Eurozóna je právě na prahu dluhové krize, kterou Evropa nezažila od doby po druhé světové války. Musíme reformovat eurozónu přijímáním reforem jako §YEvropská bankovní unie§!, §YEurobondy§! nebo §YEvropský mechanismus pro stabilitu (ESM)§!.\n\nDluhová krize EU se dá předejít zavedením následujících reforem:\n- §YEvropská bankovní unie§!\n- §YEurobondy§!\n- §YEvropský mechanismus pro stabilitu§!\n" # todo: NEW TRANSLATION
-  troika_reforms: "Reforemy Trojky" # todo: NEW TRANSLATION
-  troika_reforms_desc: "Reforemy požadované takzvanou Trojkou Evropské komise (EC), Evropské centrální banky (ECB) a Mezinárodního měnového fondu (IMF), aby zabránily bankrotu §Y[ROOT.GetNameWithFlag]§!." # todo: NEW TRANSLATION
+  troika_reforms: "Reformy Trojky" # todo: NEW TRANSLATION
+  troika_reforms_desc: "Reformy požadované takzvanou Trojkou Evropské komise (EK), Evropské centrální banky (ECB) a Mezinárodního měnového fondu (IMF), aby zabránily bankrotu §Y[ROOT.GetNameWithFlag]§!." # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU101_QMV_result: "Hlasovací výsledek Charty základních práv Evropské unie" # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU101_QMV_result_desc: "Členské státy hlasovaly o Chartě základních práv Evropské unie. Nyní ukažme výsledek." # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU102_QMV_result: "Hlasovací výsledek Evropské konvence" # todo: NEW TRANSLATION
@@ -982,8 +982,8 @@
   European_Security_Council_desc: "§YEvropská bezpečnostní rada§! je bezpečnostní rada, která si klade za cíl pomáhat Evropské unii myslet a jednat strategicky v jakékoliv situaci, kdy je Evropská unie zapojena, rychle a účinně." # todo: NEW TRANSLATION
   EUU_euroarmy_sc: "Generální tajemník EuroArmády" # todo: NEW TRANSLATION
   EUU_euroarmy_sc_desc: "§YGenerální tajemník EuroArmády§! je hlavou EuroArmády Evropské unie. Odpovídá za koordinaci EuroArmády, která je sdruženou a společnou ozbrojenou silou Evropské unie." # todo: NEW TRANSLATION
-  EUU_euronavy_sc: "Generální tajemník EuroNámořnictva" # todo: NEW TRANSLATION
-  EUU_euronavy_sc_desc: "§YGenerální tajemník EuroNámořnictva§! je hlavou EuroNámořnictva Evropské unie. Zodpovídá za koordinaci EuroNámořnictva, které je společnou námořní silou Evropské unie." # todo: NEW TRANSLATION
+  EUU_euronavy_sc: "Generální tajemník EuroNavy" # todo: NEW TRANSLATION
+  EUU_euronavy_sc_desc: "§YGenerální tajemník EuroNavy§! je hlavou EuroNavy Evropské unie. Zodpovídá za koordinaci EuroNavy, které je společnou námořní silou Evropské unie." # todo: NEW TRANSLATION
   EUU_cfr_eu: "Charta základních práv Evropské unie" # todo: NEW TRANSLATION
   EUU_cfr_eu_desc: "§YCharta základních práv Evropské unie§! zaručuje politická, sociální a ekonomická práva občanů a rezidentů Evropské unie do evropského práva. Charta tvoří součást oblasti svobody, bezpečnosti a spravedlnosti (AFSJ) politiky Evropské unie. Vztahuje se na všechny hranice Evropské unie a Euratomu, které musí jednat a legislativně působit podle jejích ustanovení." # todo: NEW TRANSLATION
   european_spirit: "Evropský duch" # todo: NEW TRANSLATION
@@ -1052,8 +1052,8 @@
   EU_news.9.t: "Generální tajemník EuroArmády" # todo: NEW TRANSLATION
   EU_news.9.d: "[FROM.GetNameWithFlag] bude nyní zastávat úřad Generálního tajemníka EuroArmády na dalších 5 let." # todo: NEW TRANSLATION
   EU_news.9.a: "Těšíme se na dobrou spolupráci!" # todo: NEW TRANSLATION
-  EU_news.10.t: "Generální tajemník EuroNámořnictva" # todo: NEW TRANSLATION
-  EU_news.10.d: "[FROM.GetNameWithFlag] bude nyní zastávat úřad Generálního tajemníka EuroNámořnictva na dalších 5 let." # todo: NEW TRANSLATION
+  EU_news.10.t: "Generální tajemník EuroNavy" # todo: NEW TRANSLATION
+  EU_news.10.d: "[FROM.GetNameWithFlag] bude nyní zastávat úřad Generálního tajemníka EuroNavy na dalších 5 let." # todo: NEW TRANSLATION
   EU_news.10.a: "Těšíme se na dobrou spolupráci!" # todo: NEW TRANSLATION
   EU_news.11.t: "Velvyslanec Unie při OSN" # todo: NEW TRANSLATION
   EU_news.11.d: "[FROM.GetNameWithFlag] bude nyní zastávat úřad Velvyslance Unie při OSN na dalších 5 let." # todo: NEW TRANSLATION
@@ -1253,8 +1253,8 @@
   tooltip_EU_parliament_focus_EU304_EP_agenda: "Umístí na agendu EP §YEvropská bezpečnostní rada§!.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YEvropská jaderná velmoc§!\n- §YFederalizace Evropské unie§!\n- §YEU stálý člen Rady bezpečnosti OSN§!\n\n" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU305_EP_agenda: "Umístí §YEuroArmáda§! na agendu EP.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YEU jaderný člen§!\n- §YFederalizace Evropské unie§!\n- §YEU Trvalý člen RB OSN§!\n\n" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU305_EP_agenda_additional: "Odemkne kanceláriu Generálního tajemníka EuroArmády!" # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU306_EP_agenda: "Zařadí §YEuroNámořnictvo§! na agendu EP.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YEU Trvalý člen RB OSN§!\n\n" # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU306_EP_agenda_additional: "Odemkne kanceláriu Generálního tajemníka EuroNámořnictva!" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU306_EP_agenda: "Zařadí §YEuroNavy§! na agendu EP.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YEU Trvalý člen RB OSN§!\n\n" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU306_EP_agenda_additional: "Odemkne kanceláriu Generálního tajemníka EuroNavy!" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU307_EP_agenda: "Zařadí §YEU Trvalý člen RB OSN§! na agendu EP.\n\n" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU307_EP_agenda_additional: "Odemkne kanceláriu Velvyslance Unie pri OSN!" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU308_EP_agenda: "Zařadí §YEU jaderný stát§! na agendu EP.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YEU Trvalý člen RB OSN§!\n\n" # todo: NEW TRANSLATION
@@ -1312,8 +1312,8 @@
   tooltip_EU_parliament_focus_EU302_approve: "§YTrvalá strukturovaná spolupráce (PESCO)§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU303_approve: "§YEvropský obranný fond§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU304_approve: "§YEvropská bezpečnostní rada§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU305_approve: "§YEuroarmáda§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU306_approve: "§YEuronámořnictvo§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU305_approve: "§YEuroArmáda§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU306_approve: "§YEuroNavy§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU307_approve: "§YStálý člen Rady bezpečnosti OSN§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU308_approve: "§YEvropská jaderná energie§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU401_approve: "§YObecné nařízení o ochraně osobních údajů (GDPR)§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
@@ -1357,8 +1357,8 @@
   tooltip_EU_parliament_focus_EU302_approve_NOT: "§YTrvalá strukturovaná spolupráce (PESCO)§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU303_approve_NOT: "§YEvropský obranný fond§! nedostal §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU304_approve_NOT: "§YEvropská bezpečnostní rada§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU305_approve_NOT: "§YEuroarmáda§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU306_approve_NOT: "§YEuronámořnictvo§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU305_approve_NOT: "§YEuroArmáda§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU306_approve_NOT: "§YEuroNavy§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU307_approve_NOT: "§YStálý člen Rady bezpečnosti OSN§! nedostal §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU308_approve_NOT: "§YEvropská jaderná energie§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU401_approve_NOT: "§YObecné nařízení o ochraně osobních údajů (GDPR)§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
@@ -1402,7 +1402,7 @@
   tooltip_EU_parliament_focus_EU302_remove: "Odebrat §YTrvalá strukturovaná spolupráce (PESCO)§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU303_remove: "Odebrat §YEvropský obranný fond§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU304_remove: "Odebrat §YEvropská bezpečnostní rada§! z agendy EP." # todo: NEW TRANSLATION
-  tooltip_EU_parliament_focus_EU305_remove: "Odebrat §YEuroarmáda§! z agendy EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU305_remove: "Odebrat §YEuroArmáda§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU306_remove: "Odebrat §YEvropské námořnictvo§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU307_remove: "Odebrat §YStálý člen EU Rady bezpečnosti OSN§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU308_remove: "Odebrat §YEvropská jaderná moc§! z agendy EP." # todo: NEW TRANSLATION
@@ -1430,150 +1430,150 @@
   tooltip_EU_parliament_focus_EU611_remove: "Odebrat §YVnitřní rozšíření§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_focus__Majority_trigger: "" # todo: NEW TRANSLATION
   tooltip_focus_Supermajority_trigger: "V současnosti máme v EP nadpoloviční většinu. (Aktuálně: [?global.active_MEP_Support|0G] / [?global.MEP_Supermajority|0Y])" # todo: NEW TRANSLATION
-  global_MEP_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|C0]" # todo: NEW TRANSLATION
-  invite_PI_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Western_Autocracy: "[?global.PI_PG_Western_Autocracy|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PI_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PP_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§+0]" # todo: NEW TRANSLATION
-  global_MEP_conservatism: "[?global.MEP_PG_conservatism|C0]" # todo: NEW TRANSLATION
-  invite_PI_conservatism: "[?global.MEP_PG_conservatism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_conservatism: "[?global.PI_PG_conservatism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_conservatism: "[?global.MEP_PG_conservatism|§-0]" # todo: NEW TRANSLATION
-  support_PI_conservatism: "[?global.MEP_PG_conservatism|§-0]" # todo: NEW TRANSLATION
-  support_PP_conservatism: "[?global.MEP_PG_conservatism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_liberalism: "[?global.MEP_PG_liberalism|C0]" # todo: NEW TRANSLATION
-  invite_PI_liberalism: "[?global.MEP_PG_liberalism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_liberalism: "[?global.PI_PG_liberalism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_liberalism: "[?global.MEP_PG_liberalism|§-0]" # todo: NEW TRANSLATION
-  support_PI_liberalism: "[?global.MEP_PG_liberalism|§-0]" # todo: NEW TRANSLATION
-  support_PP_liberalism: "[?global.MEP_PG_liberalism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_socialism: "[?global.MEP_PG_socialism|C0]" # todo: NEW TRANSLATION
-  invite_PI_socialism: "[?global.MEP_PG_socialism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_socialism: "[?global.PI_PG_socialism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_socialism: "[?global.MEP_PG_socialism|§-0]" # todo: NEW TRANSLATION
-  support_PI_socialism: "[?global.MEP_PG_socialism|§-0]" # todo: NEW TRANSLATION
-  support_PP_socialism: "[?global.MEP_PG_socialism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Communist-State: "[?global.MEP_PG_Communist-State|C0]" # todo: NEW TRANSLATION
-  invite_PI_Communist-State: "[?global.MEP_PG_Communist-State|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Communist-State: "[?global.PI_PG_Communist-State|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Communist-State: "[?global.MEP_PG_Communist-State|§-0]" # todo: NEW TRANSLATION
-  support_PI_Communist-State: "[?global.MEP_PG_Communist-State|§-0]" # todo: NEW TRANSLATION
-  support_PP_Communist-State: "[?global.MEP_PG_Communist-State|§+0]" # todo: NEW TRANSLATION
-  global_MEP_anarchist_communism: "[?global.MEP_PG_anarchist_communism|C0]" # todo: NEW TRANSLATION
-  invite_PI_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_anarchist_communism: "[?global.PI_PG_anarchist_communism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§-0]" # todo: NEW TRANSLATION
-  support_PI_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§-0]" # todo: NEW TRANSLATION
-  support_PP_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Conservative: "[?global.MEP_PG_Conservative|C0]" # todo: NEW TRANSLATION
-  invite_PI_Conservative: "[?global.MEP_PG_Conservative|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Conservative: "[?global.PI_PG_Conservative|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Conservative: "[?global.MEP_PG_Conservative|§-0]" # todo: NEW TRANSLATION
-  support_PI_Conservative: "[?global.MEP_PG_Conservative|§-0]" # todo: NEW TRANSLATION
-  support_PP_Conservative: "[?global.MEP_PG_Conservative|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Autocracy: "[?global.MEP_PG_Autocracy|C0]" # todo: NEW TRANSLATION
-  invite_PI_Autocracy: "[?global.MEP_PG_Autocracy|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Autocracy: "[?global.PI_PG_Autocracy|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Autocracy: "[?global.MEP_PG_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PI_Autocracy: "[?global.MEP_PG_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PP_Autocracy: "[?global.MEP_PG_Autocracy|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|C0]" # todo: NEW TRANSLATION
-  invite_PI_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Mod_Vilayat_e_Faqih: "[?global.PI_PG_Mod_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  support_PI_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  support_PP_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|C0]" # todo: NEW TRANSLATION
-  invite_PI_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Vilayat_e_Faqih: "[?global.PI_PG_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  support_PI_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§-0]" # todo: NEW TRANSLATION
-  support_PP_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Kingdom: "[?global.MEP_PG_Kingdom|C0]" # todo: NEW TRANSLATION
-  invite_PI_Kingdom: "[?global.MEP_PG_Kingdom|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Kingdom: "[?global.PI_PG_Kingdom|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Kingdom: "[?global.MEP_PG_Kingdom|§-0]" # todo: NEW TRANSLATION
-  support_PI_Kingdom: "[?global.MEP_PG_Kingdom|§-0]" # todo: NEW TRANSLATION
-  support_PP_Kingdom: "[?global.MEP_PG_Kingdom|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Caliphate: "[?global.MEP_PG_Caliphate|C0]" # todo: NEW TRANSLATION
-  invite_PI_Caliphate: "[?global.MEP_PG_Caliphate|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Caliphate: "[?global.PI_PG_Caliphate|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Caliphate: "[?global.MEP_PG_Caliphate|§-0]" # todo: NEW TRANSLATION
-  support_PI_Caliphate: "[?global.MEP_PG_Caliphate|§-0]" # todo: NEW TRANSLATION
-  support_PP_Caliphate: "[?global.MEP_PG_Caliphate|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_Muslim_Brotherhood: "[?global.PI_PG_Neutral_Muslim_Brotherhood|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_Autocracy: "[?global.PI_PG_Neutral_Autocracy|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_conservatism: "[?global.PI_PG_Neutral_conservatism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_oligarchism: "[?global.MEP_PG_oligarchism|C0]" # todo: NEW TRANSLATION
-  invite_PI_oligarchism: "[?global.MEP_PG_oligarchism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_oligarchism: "[?global.PI_PG_oligarchism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_oligarchism: "[?global.MEP_PG_oligarchism|§-0]" # todo: NEW TRANSLATION
-  support_PI_oligarchism: "[?global.MEP_PG_oligarchism|§-0]" # todo: NEW TRANSLATION
-  support_PP_oligarchism: "[?global.MEP_PG_oligarchism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_Libertarian: "[?global.PI_PG_Neutral_Libertarian|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_green: "[?global.MEP_PG_Neutral_green|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_green: "[?global.MEP_PG_Neutral_green|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_green: "[?global.PI_PG_Neutral_green|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_green: "[?global.MEP_PG_Neutral_green|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_green: "[?global.MEP_PG_Neutral_green|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_green: "[?global.MEP_PG_Neutral_green|§+0]" # todo: NEW TRANSLATION
-  global_MEP_neutral_Social: "[?global.MEP_PG_neutral_Social|C0]" # todo: NEW TRANSLATION
-  invite_PI_neutral_Social: "[?global.MEP_PG_neutral_Social|§+0]" # todo: NEW TRANSLATION
-  invite_PP_neutral_Social: "[?global.PI_PG_neutral_Social|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_neutral_Social: "[?global.MEP_PG_neutral_Social|§-0]" # todo: NEW TRANSLATION
-  support_PI_neutral_Social: "[?global.MEP_PG_neutral_Social|§-0]" # todo: NEW TRANSLATION
-  support_PP_neutral_Social: "[?global.MEP_PG_neutral_Social|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|C0]" # todo: NEW TRANSLATION
-  invite_PI_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Neutral_Communism: "[?global.PI_PG_Neutral_Communism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§-0]" # todo: NEW TRANSLATION
-  support_PI_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§-0]" # todo: NEW TRANSLATION
-  support_PP_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Nat_Populism: "[?global.MEP_PG_Nat_Populism|C0]" # todo: NEW TRANSLATION
-  invite_PI_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Nat_Populism: "[?global.PI_PG_Nat_Populism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§-0]" # todo: NEW TRANSLATION
-  support_PI_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§-0]" # todo: NEW TRANSLATION
-  support_PP_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|C0]" # todo: NEW TRANSLATION
-  invite_PI_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Nat_Fascism: "[?global.PI_PG_Nat_Fascism|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§-0]" # todo: NEW TRANSLATION
-  support_PI_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§-0]" # todo: NEW TRANSLATION
-  support_PP_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|C0]" # todo: NEW TRANSLATION
-  invite_PI_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Nat_Autocracy: "[?global.PI_PG_Nat_Autocracy|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PI_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§-0]" # todo: NEW TRANSLATION
-  support_PP_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§+0]" # todo: NEW TRANSLATION
-  global_MEP_Monarchist: "[?global.MEP_PG_Monarchist|C0]" # todo: NEW TRANSLATION
-  invite_PI_Monarchist: "[?global.MEP_PG_Monarchist|§+0]" # todo: NEW TRANSLATION
-  invite_PP_Monarchist: "[?global.PI_PG_Monarchist|§-0]" # todo: NEW TRANSLATION
-  invite_PP_if_PI_negative_Monarchist: "[?global.MEP_PG_Monarchist|§-0]" # todo: NEW TRANSLATION
-  support_PI_Monarchist: "[?global.MEP_PG_Monarchist|§-0]" # todo: NEW TRANSLATION
-  support_PP_Monarchist: "[?global.MEP_PG_Monarchist|§+0]" # todo: NEW TRANSLATION
+  global_MEP_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|C0]"
+  invite_PI_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§+0]"
+  invite_PP_Western_Autocracy: "[?global.PI_PG_Western_Autocracy|§-0]"
+  invite_PP_if_PI_negative_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§-0]"
+  support_PI_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§-0]"
+  support_PP_Western_Autocracy: "[?global.MEP_PG_Western_Autocracy|§+0]"
+  global_MEP_conservatism: "[?global.MEP_PG_conservatism|C0]"
+  invite_PI_conservatism: "[?global.MEP_PG_conservatism|§+0]"
+  invite_PP_conservatism: "[?global.PI_PG_conservatism|§-0]"
+  invite_PP_if_PI_negative_conservatism: "[?global.MEP_PG_conservatism|§-0]"
+  support_PI_conservatism: "[?global.MEP_PG_conservatism|§-0]"
+  support_PP_conservatism: "[?global.MEP_PG_conservatism|§+0]"
+  global_MEP_liberalism: "[?global.MEP_PG_liberalism|C0]"
+  invite_PI_liberalism: "[?global.MEP_PG_liberalism|§+0]"
+  invite_PP_liberalism: "[?global.PI_PG_liberalism|§-0]"
+  invite_PP_if_PI_negative_liberalism: "[?global.MEP_PG_liberalism|§-0]"
+  support_PI_liberalism: "[?global.MEP_PG_liberalism|§-0]"
+  support_PP_liberalism: "[?global.MEP_PG_liberalism|§+0]"
+  global_MEP_socialism: "[?global.MEP_PG_socialism|C0]"
+  invite_PI_socialism: "[?global.MEP_PG_socialism|§+0]"
+  invite_PP_socialism: "[?global.PI_PG_socialism|§-0]"
+  invite_PP_if_PI_negative_socialism: "[?global.MEP_PG_socialism|§-0]"
+  support_PI_socialism: "[?global.MEP_PG_socialism|§-0]"
+  support_PP_socialism: "[?global.MEP_PG_socialism|§+0]"
+  global_MEP_Communist-State: "[?global.MEP_PG_Communist-State|C0]"
+  invite_PI_Communist-State: "[?global.MEP_PG_Communist-State|§+0]"
+  invite_PP_Communist-State: "[?global.PI_PG_Communist-State|§-0]"
+  invite_PP_if_PI_negative_Communist-State: "[?global.MEP_PG_Communist-State|§-0]"
+  support_PI_Communist-State: "[?global.MEP_PG_Communist-State|§-0]"
+  support_PP_Communist-State: "[?global.MEP_PG_Communist-State|§+0]"
+  global_MEP_anarchist_communism: "[?global.MEP_PG_anarchist_communism|C0]"
+  invite_PI_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§+0]"
+  invite_PP_anarchist_communism: "[?global.PI_PG_anarchist_communism|§-0]"
+  invite_PP_if_PI_negative_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§-0]"
+  support_PI_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§-0]"
+  support_PP_anarchist_communism: "[?global.MEP_PG_anarchist_communism|§+0]"
+  global_MEP_Conservative: "[?global.MEP_PG_Conservative|C0]"
+  invite_PI_Conservative: "[?global.MEP_PG_Conservative|§+0]"
+  invite_PP_Conservative: "[?global.PI_PG_Conservative|§-0]"
+  invite_PP_if_PI_negative_Conservative: "[?global.MEP_PG_Conservative|§-0]"
+  support_PI_Conservative: "[?global.MEP_PG_Conservative|§-0]"
+  support_PP_Conservative: "[?global.MEP_PG_Conservative|§+0]"
+  global_MEP_Autocracy: "[?global.MEP_PG_Autocracy|C0]"
+  invite_PI_Autocracy: "[?global.MEP_PG_Autocracy|§+0]"
+  invite_PP_Autocracy: "[?global.PI_PG_Autocracy|§-0]"
+  invite_PP_if_PI_negative_Autocracy: "[?global.MEP_PG_Autocracy|§-0]"
+  support_PI_Autocracy: "[?global.MEP_PG_Autocracy|§-0]"
+  support_PP_Autocracy: "[?global.MEP_PG_Autocracy|§+0]"
+  global_MEP_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|C0]"
+  invite_PI_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§+0]"
+  invite_PP_Mod_Vilayat_e_Faqih: "[?global.PI_PG_Mod_Vilayat_e_Faqih|§-0]"
+  invite_PP_if_PI_negative_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§-0]"
+  support_PI_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§-0]"
+  support_PP_Mod_Vilayat_e_Faqih: "[?global.MEP_PG_Mod_Vilayat_e_Faqih|§+0]"
+  global_MEP_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|C0]"
+  invite_PI_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§+0]"
+  invite_PP_Vilayat_e_Faqih: "[?global.PI_PG_Vilayat_e_Faqih|§-0]"
+  invite_PP_if_PI_negative_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§-0]"
+  support_PI_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§-0]"
+  support_PP_Vilayat_e_Faqih: "[?global.MEP_PG_Vilayat_e_Faqih|§+0]"
+  global_MEP_Kingdom: "[?global.MEP_PG_Kingdom|C0]"
+  invite_PI_Kingdom: "[?global.MEP_PG_Kingdom|§+0]"
+  invite_PP_Kingdom: "[?global.PI_PG_Kingdom|§-0]"
+  invite_PP_if_PI_negative_Kingdom: "[?global.MEP_PG_Kingdom|§-0]"
+  support_PI_Kingdom: "[?global.MEP_PG_Kingdom|§-0]"
+  support_PP_Kingdom: "[?global.MEP_PG_Kingdom|§+0]"
+  global_MEP_Caliphate: "[?global.MEP_PG_Caliphate|C0]"
+  invite_PI_Caliphate: "[?global.MEP_PG_Caliphate|§+0]"
+  invite_PP_Caliphate: "[?global.PI_PG_Caliphate|§-0]"
+  invite_PP_if_PI_negative_Caliphate: "[?global.MEP_PG_Caliphate|§-0]"
+  support_PI_Caliphate: "[?global.MEP_PG_Caliphate|§-0]"
+  support_PP_Caliphate: "[?global.MEP_PG_Caliphate|§+0]"
+  global_MEP_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|C0]"
+  invite_PI_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§+0]"
+  invite_PP_Neutral_Muslim_Brotherhood: "[?global.PI_PG_Neutral_Muslim_Brotherhood|§-0]"
+  invite_PP_if_PI_negative_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§-0]"
+  support_PI_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§-0]"
+  support_PP_Neutral_Muslim_Brotherhood: "[?global.MEP_PG_Neutral_Muslim_Brotherhood|§+0]"
+  global_MEP_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|C0]"
+  invite_PI_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§+0]"
+  invite_PP_Neutral_Autocracy: "[?global.PI_PG_Neutral_Autocracy|§-0]"
+  invite_PP_if_PI_negative_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§-0]"
+  support_PI_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§-0]"
+  support_PP_Neutral_Autocracy: "[?global.MEP_PG_Neutral_Autocracy|§+0]"
+  global_MEP_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|C0]"
+  invite_PI_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§+0]"
+  invite_PP_Neutral_conservatism: "[?global.PI_PG_Neutral_conservatism|§-0]"
+  invite_PP_if_PI_negative_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§-0]"
+  support_PI_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§-0]"
+  support_PP_Neutral_conservatism: "[?global.MEP_PG_Neutral_conservatism|§+0]"
+  global_MEP_oligarchism: "[?global.MEP_PG_oligarchism|C0]"
+  invite_PI_oligarchism: "[?global.MEP_PG_oligarchism|§+0]"
+  invite_PP_oligarchism: "[?global.PI_PG_oligarchism|§-0]"
+  invite_PP_if_PI_negative_oligarchism: "[?global.MEP_PG_oligarchism|§-0]"
+  support_PI_oligarchism: "[?global.MEP_PG_oligarchism|§-0]"
+  support_PP_oligarchism: "[?global.MEP_PG_oligarchism|§+0]"
+  global_MEP_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|C0]"
+  invite_PI_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§+0]"
+  invite_PP_Neutral_Libertarian: "[?global.PI_PG_Neutral_Libertarian|§-0]"
+  invite_PP_if_PI_negative_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§-0]"
+  support_PI_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§-0]"
+  support_PP_Neutral_Libertarian: "[?global.MEP_PG_Neutral_Libertarian|§+0]"
+  global_MEP_Neutral_green: "[?global.MEP_PG_Neutral_green|C0]"
+  invite_PI_Neutral_green: "[?global.MEP_PG_Neutral_green|§+0]"
+  invite_PP_Neutral_green: "[?global.PI_PG_Neutral_green|§-0]"
+  invite_PP_if_PI_negative_Neutral_green: "[?global.MEP_PG_Neutral_green|§-0]"
+  support_PI_Neutral_green: "[?global.MEP_PG_Neutral_green|§-0]"
+  support_PP_Neutral_green: "[?global.MEP_PG_Neutral_green|§+0]"
+  global_MEP_neutral_Social: "[?global.MEP_PG_neutral_Social|C0]"
+  invite_PI_neutral_Social: "[?global.MEP_PG_neutral_Social|§+0]"
+  invite_PP_neutral_Social: "[?global.PI_PG_neutral_Social|§-0]"
+  invite_PP_if_PI_negative_neutral_Social: "[?global.MEP_PG_neutral_Social|§-0]"
+  support_PI_neutral_Social: "[?global.MEP_PG_neutral_Social|§-0]"
+  support_PP_neutral_Social: "[?global.MEP_PG_neutral_Social|§+0]"
+  global_MEP_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|C0]"
+  invite_PI_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§+0]"
+  invite_PP_Neutral_Communism: "[?global.PI_PG_Neutral_Communism|§-0]"
+  invite_PP_if_PI_negative_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§-0]"
+  support_PI_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§-0]"
+  support_PP_Neutral_Communism: "[?global.MEP_PG_Neutral_Communism|§+0]"
+  global_MEP_Nat_Populism: "[?global.MEP_PG_Nat_Populism|C0]"
+  invite_PI_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§+0]"
+  invite_PP_Nat_Populism: "[?global.PI_PG_Nat_Populism|§-0]"
+  invite_PP_if_PI_negative_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§-0]"
+  support_PI_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§-0]"
+  support_PP_Nat_Populism: "[?global.MEP_PG_Nat_Populism|§+0]"
+  global_MEP_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|C0]"
+  invite_PI_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§+0]"
+  invite_PP_Nat_Fascism: "[?global.PI_PG_Nat_Fascism|§-0]"
+  invite_PP_if_PI_negative_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§-0]"
+  support_PI_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§-0]"
+  support_PP_Nat_Fascism: "[?global.MEP_PG_Nat_Fascism|§+0]"
+  global_MEP_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|C0]"
+  invite_PI_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§+0]"
+  invite_PP_Nat_Autocracy: "[?global.PI_PG_Nat_Autocracy|§-0]"
+  invite_PP_if_PI_negative_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§-0]"
+  support_PI_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§-0]"
+  support_PP_Nat_Autocracy: "[?global.MEP_PG_Nat_Autocracy|§+0]"
+  global_MEP_Monarchist: "[?global.MEP_PG_Monarchist|C0]"
+  invite_PI_Monarchist: "[?global.MEP_PG_Monarchist|§+0]"
+  invite_PP_Monarchist: "[?global.PI_PG_Monarchist|§-0]"
+  invite_PP_if_PI_negative_Monarchist: "[?global.MEP_PG_Monarchist|§-0]"
+  support_PI_Monarchist: "[?global.MEP_PG_Monarchist|§-0]"
+  support_PP_Monarchist: "[?global.MEP_PG_Monarchist|§+0]"
   tooltip_EU_parliament_PG_Western_Autocracy_influence: "Rozhodnutí ovlivnit [EU_parliament_PG_Western_Autocracy_icon] [EU_parliament_PG_Western_Autocracy_name] na téma v aktuálním programu jednání je k dispozici" # todo: NEW TRANSLATION
   tooltip_EU_parliament_PG_conservatism_influence: "Rozhodnutí ovlivnit [EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_name] na téma v aktuálním programu jednání je k dispozici" # todo: NEW TRANSLATION
   tooltip_EU_parliament_PG_liberalism_influence: "Rozhodnutí ovlivnit [EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_name] na téma v aktuálním programu jednání je k dispozici" # todo: NEW TRANSLATION
@@ -1686,7 +1686,7 @@
   EU_council_suspend_subsidies_desc: "Podle článku 7 odst. 3 TEU může Rada rozhodnout o pozastavení některých práv vyplývajících z uplatňování Smluv u dotyčného členského státu." # todo: NEW TRANSLATION
   EU_council_revoke_subsidies_suspension: "Zrušit pozastavení EU dotací" # todo: NEW TRANSLATION
   EU_council_revoke_subsidies_suspension_desc: "Podle článku 7 odst. 4 TEU může Rada rozhodnout následně o zrušení opatření přijatých podle odstavce 3 v reakci na změny situace, které vedly k jejich uložení." # todo: NEW TRANSLATION
-  EU_parliament_Supermajority_loc_key: "\nKvalifikovaná většina: [?global.MEP_Supermajority|O0]" # todo: NEW TRANSLATION
+  EU_parliament_Supermajority_loc_key: "\nKvalifikovaná většina: [?global.MEP_Supermajority|O0]"
   EU_parliament_PG_Western_Autocracy_loc_key: "[EU_parliament_PG_Western_Autocracy_icon] [EU_parliament_PG_Western_Autocracy_name]: [?global.MEP_PG_Western_Autocracy|C0] §CMEP§! - [?global.MEP_Ratio_PG_Western_Autocracy|§%0] - [?global.PI_PG_Western_Autocracy|§+] PI [EU_parliament_PG_Western_Autocracy_members]\n" # todo: NEW TRANSLATION
   EU_parliament_PG_conservatism_loc_key: "[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_name]: [?global.MEP_PG_conservatism|C0] §CMEP§! - [?global.MEP_Ratio_PG_conservatism|§%0] - [?global.PI_PG_conservatism|§+] PI [EU_parliament_PG_conservatism_members]\n" # todo: NEW TRANSLATION
   EU_parliament_PG_liberalism_loc_key: "[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_name]: [?global.MEP_PG_liberalism|C0] §CMEP§! - [?global.MEP_Ratio_PG_liberalism|§%0] - [?global.PI_PG_liberalism|§+] PI [EU_parliament_PG_liberalism_members]\n" # todo: NEW TRANSLATION
