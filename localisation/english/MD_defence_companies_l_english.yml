@@ -1,288 +1,539 @@
 ﻿l_english:
- TT_AVAILABLE_AS_DEFENCE_COMPANY: "Dostupné jako §YDefence Company§!:\n" # todo: NEW TRANSLATION
- AST_bae_systems_australia_naval_manufacturer: "BAE Systems Australia" # todo: NEW TRANSLATION
- AST_asc_naval_manufacturer: "ASC" # todo: NEW TRANSLATION
- AST_asc_naval_manufacturer2: "ASC" # todo: NEW TRANSLATION
- AST_gdls_australia_tank_manufacturer: "GDLS Australia" # todo: NEW TRANSLATION
- AST_strategic_marine_naval_manufacturer: "Strategic Marine" # todo: NEW TRANSLATION
- AST_thales_australia_materiel_manufacturer: "Thales Australia" # todo: NEW TRANSLATION
- AST_thales_australia_tank_manufacturer: "Thales Australia" # todo: NEW TRANSLATION
- AUS_steyr_mannlicher_materiel_manufacturer: "Steyr Mannlicher" # todo: NEW TRANSLATION
- AUS_general_dynamics_steyr_tank_manufacturer: "General Dynamics Steyr" # todo: NEW TRANSLATION
- AZE_azerbaijani_defense_industry_materiel_manufacturer: "Azerbaijani Defense Industry" # todo: NEW TRANSLATION
- AZE_azerbaijani_defense_industry_tank_manufacturer: "Azerbaijani Defense Industry" # todo: NEW TRANSLATION
- BEL_fn_herstal_materiel_manufacturer: "FN Herstal" # todo: NEW TRANSLATION
- BEL_cmi_defence_tank_manufacturer: "CMI Defence" # todo: NEW TRANSLATION
- BEL_sabiex_international_tank_manufacturer: "Sabiex International" # todo: NEW TRANSLATION
- BEL_sabca_aircraft_manufacturer: "SABCA" # todo: NEW TRANSLATION
- BRA_avibras_tank_manufacturer: "Avibras" # todo: NEW TRANSLATION
- BRA_avibras_materiel_manufacturer: "Avibras" # todo: NEW TRANSLATION
- BRA_imbel_materiel_manufacturer: "IMBEL" # todo: NEW TRANSLATION
- BRA_helibras_tank_manufacturer: "Helibras" # todo: NEW TRANSLATION
- BRA_embraer_aircraft_manufacturer: "Embraer" # todo: NEW TRANSLATION
- BRA_arsenal_do_marinha_naval_manufacturer: "Arsenal do Marinha" # todo: NEW TRANSLATION
- BUL_arsenal_materiel_manufacturer: "Arsenal" # todo: NEW TRANSLATION
- BRM_burma_defence_industries_materiel_manufacturer: "Myanmar Defence Industries" # todo: NEW TRANSLATION
- BRM_burma_defence_industries_tank_manufacturer: "Myanmar Defence Industries" # todo: NEW TRANSLATION
- CAN_diemaco_materiel_manufacturer: "Diemaco" # todo: NEW TRANSLATION
- CAN_general_dynamics_land_systems_tank_manufacturer: "General Dynamics Land Systems" # todo: NEW TRANSLATION
- CAN_marine_industries_limited_naval_manufacturer: "Marine Industries Limited" # todo: NEW TRANSLATION
- CHI_norinco_tank_manufacturer: "Norinco" # todo: NEW TRANSLATION
- CHI_norinco_materiel_manufacturer: "Norinco" # todo: NEW TRANSLATION
- CHI_inner_mongolia_first_machinery_tank_manufacturer: "Inner Mongolia First Machinery" # todo: NEW TRANSLATION
- CHI_chengdu_aircraft_corp_aircraft_manufacturer: "Chengdu Aircraft Corp" # todo: NEW TRANSLATION
- CHI_shenyang_aircraft_corp_aircraft_manufacturer: "Shenyang Aircraft Corp" # todo: NEW TRANSLATION
- CHI_xian_aircraft_corp_aircraft_manufacturer: "Xian Aircraft Corp" # todo: NEW TRANSLATION
- CHI_china_south_industries_group_materiel_manufacturer: "China South Industries Group" # todo: NEW TRANSLATION
- CHI_changhe_aircraft_corp_tank_manufacturer: "Changhe Aircraft Corp" # todo: NEW TRANSLATION
- CHI_china_state_shipbuilding_corporation_naval_manufacturer: "China State Shipbuilding Corporation" # todo: NEW TRANSLATION
- CHI_china_shipbuilding_industry_corporation_naval_manufacturer: "China Shipbuilding Industry Corporation" # todo: NEW TRANSLATION
- CHL_famae_materiel_manufacturer: "FAMAE" # todo: NEW TRANSLATION
- CHL_famae_tank_manufacturer: "FAMAE" # todo: NEW TRANSLATION
- CHL_enaer_aircraft_manufacturer: "ENAER" # todo: NEW TRANSLATION
- CHL_asmar_naval_manufacturer: "ASMAR" # todo: NEW TRANSLATION
- COL_indumil_materiel_manufacturer: "Indumil" # todo: NEW TRANSLATION
- CRO_djuro_djakovic_tank_manufacturer: "Djuro Djakovic" # todo: NEW TRANSLATION
- CRO_hs_produkt_materiel_manufacturer: "HS Produkt" # todo: NEW TRANSLATION
- CRO_kraljevica_shipyard_naval_manufacturer: "Kraljevica Shipyard" # todo: NEW TRANSLATION
- CZE_aero_aircraft_manufacturer: "Aero" # todo: NEW TRANSLATION
- CZE_czub_materiel_manufacturer: "CZUB" # todo: NEW TRANSLATION
- CZE_vop_tank_manufacturer: "VOP" # todo: NEW TRANSLATION
- DEN_falck_schmidt_tank_manufacturer: "Falck-Schmidt" # todo: NEW TRANSLATION
- DEN_falck_schmidt_materiel_manufacturer: "Falck-Schmidt" # todo: NEW TRANSLATION
- DEN_naval_manufacturer_maersk: "Mærsk" # todo: NEW TRANSLATION
- DEN_defence_skandinavisk_aero_industri: "Skandinavisk Aero Industri" # todo: NEW TRANSLATION
- EGY_kader_factory_tank_manufacturer: "Kader Factory" # todo: NEW TRANSLATION
- EGY_kader_factory_materiel_manufacturer: "Kader Factory" # todo: NEW TRANSLATION
- EGY_helwan_machine_tools_tank_manufacturer: "Helwan Machine Tools" # todo: NEW TRANSLATION
- EGY_maadi_arms_materiel_manufacturer: "Maadi Arms" # todo: NEW TRANSLATION
- EGY_abhco_tank_manufacturer: "ABHCO" # todo: NEW TRANSLATION
- EGY_aoi_aircraft_aircraft_manufacturer: "AOI Aircraft" # todo: NEW TRANSLATION
- EGY_alexandria_shipyard_naval_manufacturer: "Alexandria Shipyard" # todo: NEW TRANSLATION
- EGY_abu_zaabal_tank_factory_tank_manufacturer: "Abu Zaabal Tank Factory" # todo: NEW TRANSLATION
- FIN_patria_tank_manufacturer: "Patria" # todo: NEW TRANSLATION
- FIN_patria_materiel_manufacturer: "Patria" # todo: NEW TRANSLATION
- FIN_sako_materiel_manufacturer: "SAKO" # todo: NEW TRANSLATION
- FIN_meyer_turku_naval_manufacturer: "Meyer Turku" # todo: NEW TRANSLATION
- FRA_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
- FRA_nexter_materiel_manufacturer: "Nexter" # todo: NEW TRANSLATION
- FRA_nexter_tank_manufacturer: "Nexter" # todo: NEW TRANSLATION
- FRA_dassault_aviation_aircraft_manufacturer: "Dassault Aviation" # todo: NEW TRANSLATION
- FRA_naval_group_naval_manufacturer: "Naval Group" # todo: NEW TRANSLATION
- FRA_naval_group_naval_manufacturer2: "Naval Group" # todo: NEW TRANSLATION
- FRA_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
- GEO_tbilisi_aircraft_manufacturing_tank_manufacturer: "Tbilisi Aircraft Manufacturing" # todo: NEW TRANSLATION
- GEO_tbilisi_aircraft_manufacturing_materiel_manufacturer: "Tbilisi Aircraft Manufacturing" # todo: NEW TRANSLATION
- GER_krauss_maffei_tank_manufacturer: "Krauss-Maffei" # todo: NEW TRANSLATION
- GER_rheinmetall_materiel_manufacturer: "Rheinmetall" # todo: NEW TRANSLATION
- GER_rheinmetall_tank_manufacturer: "Rheinmetall" # todo: NEW TRANSLATION
- GER_heckler_koch_materiel_manufacturer: "Heckler & Koch" # todo: NEW TRANSLATION
- GER_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
- GER_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
- GER_thyssenkrupp_marine_naval_manufacturer: "ThyssenKrupp Marine" # todo: NEW TRANSLATION
- GER_thyssenkrupp_marine_naval_manufacturer2: "ThyssenKrupp Marine" # todo: NEW TRANSLATION
- GER_lurssen_werft_naval_manufacturer: "Lurssen Werft" # todo: NEW TRANSLATION
- GRE_eas_materiel_manufacturer: "EAS" # todo: NEW TRANSLATION
- GRE_hellenic_vehicle_industry_tank_manufacturer: "Hellenic Vehicle Industry" # todo: NEW TRANSLATION
- HOL_dutch_defense_vehicle_systems_tank_manufacturer: "Dutch Defense Vehicle Systems" # todo: NEW TRANSLATION
- HOL_damen_shipyards_naval_manufacturer: "Damen Shipyards" # todo: NEW TRANSLATION
- RAJ_ordnance_factories_organization_materiel_manufacturer: "Heavy Vehicle Factory" # todo: NEW TRANSLATION
- RAJ_ordnance_factories_organization_tank_manufacturer: "Heavy Vehicle Factory" # todo: NEW TRANSLATION
- RAJ_hindustan_aeronautics_aircraft_manufacturer: "Hindustan Aeronautics" # todo: NEW TRANSLATION
- RAJ_hindustan_aeronautics_tank_manufacturer: "Hindustan Aeronautics" # todo: NEW TRANSLATION
- RAJ_cochin_shipyard_naval_manufacturer: "Cochin Shipyard" # todo: NEW TRANSLATION
- RAJ_mazagon_dock_limited_naval_manufacturer: "Mazagon Dock Limited" # todo: NEW TRANSLATION
- RAJ_mazagon_dock_limited_naval_manufacturer2: "Mazagon Dock Limited" # todo: NEW TRANSLATION
- RAJ_goa_shipyard_naval_manufacturer: "Goa Shipyard" # todo: NEW TRANSLATION
- RAJ_tata_motors_tank_manufacturer: "Tata Motors" # todo: NEW TRANSLATION
- IND_pt_pindad_tank_manufacturer: "PT Pindad" # todo: NEW TRANSLATION
- IND_pt_pindad_materiel_manufacturer: "PT Pindad" # todo: NEW TRANSLATION
- IND_indonesian_aerospace_aircraft_manufacturer: "Indonesian Aerospace" # todo: NEW TRANSLATION
- IND_indonesian_aerospace_tank_manufacturer: "Indonesian Aerospace" # todo: NEW TRANSLATION
- PER_defense_industries_organization_materiel_manufacturer: "Defense Industries Organization" # todo: NEW TRANSLATION
- PER_defense_industries_organization_tank_manufacturer: "Defense Industries Organization" # todo: NEW TRANSLATION
- PER_panha_tank_manufacturer: "PANHA" # todo: NEW TRANSLATION
- PER_hesa_aircraft_manufacturer: "HESA" # todo: NEW TRANSLATION
- PER_hesa_tank_manufacturer: "HESA" # todo: NEW TRANSLATION
- PER_marine_industries_organization_naval_manufacturer: "Marine Industries Organization" # todo: NEW TRANSLATION
- PER_marine_industries_organization_naval_manufacturer2: "Marine Industries Organization" # todo: NEW TRANSLATION
- ISR_israel_weapon_industries_materiel_manufacturer: "Israel Weapon Industries" # todo: NEW TRANSLATION
- ISR_israel_military_industries_materiel_manufacturer: "Israel Military Industries" # todo: NEW TRANSLATION
- ISR_soltam_systems_tank_manufacturer: "Soltam Systems" # todo: NEW TRANSLATION
- ISR_plasan_tank_manufacturer: "Plasan" # todo: NEW TRANSLATION
- ISR_israel_aerospace_industries_aircraft_manufacturer: "Israel Aerospace Industries" # todo: NEW TRANSLATION
- ISR_rafael_materiel_manufacturer: "Rafael" # todo: NEW TRANSLATION
- ISR_mantak_tank_manufacturer: "MANTAK" # todo: NEW TRANSLATION
- ITA_beretta_materiel_manufacturer: "Beretta" # todo: NEW TRANSLATION
- ITA_iveco_tank_manufacturer: "Iveco" # todo: NEW TRANSLATION
- ITA_agustawestland_tank_manufacturer: "AgustaWestland" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer: "Fincantieri" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer2: "Fincantieri" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer_unfocused: "Fincantieri" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer2_unfocused: "Fincantieri" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer_improved: "Fincantieri" # todo: NEW TRANSLATION
- ITA_fincantieri_naval_manufacturer2_improved: "Fincantieri" # todo: NEW TRANSLATION
- ITA_alenia_aeronautica_aircraft_manufacturer: "Alenia Aermacchi" # todo: NEW TRANSLATION
- ITA_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
- ITA_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
- JAP_komatsu_tank_manufacturer: "Komatsu" # todo: NEW TRANSLATION
- JAP_mitsubishi_heavy_industries_tank_manufacturer: "Mitsubishi Heavy Industries" # todo: NEW TRANSLATION
- JAP_mitsubishi_shipbuilding_naval_manufacturer: "Mitsubishi Shipbuilding" # todo: NEW TRANSLATION
- JAP_mitsubishi_shipbuilding_naval_manufacturer2: "Mitsubishi Shipbuilding" # todo: NEW TRANSLATION
- JAP_mitsubishi_aerospace_aircraft_manufacturer: "Mitsubishi Aerospace" # todo: NEW TRANSLATION
- JAP_mitsubishi_aerospace_tank_manufacturer: "Mitsubishi Aerospace" # todo: NEW TRANSLATION
- JAP_howa_machinery_materiel_manufacturer: "Howa Machinery" # todo: NEW TRANSLATION
- JAP_kawasaki_aerospace_company_aircraft_manufacturer: "Kawasaki Aerospace Company" # todo: NEW TRANSLATION
- JAP_kawasaki_aerospace_company_tank_manufacturer: "Kawasaki Aerospace Company" # todo: NEW TRANSLATION
- JAP_kawasaki_shipbuilding_naval_manufacturer: "Kawasaki Shipbuilding" # todo: NEW TRANSLATION
- JAP_kawasaki_shipbuilding_naval_manufacturer2: "Kawasaki Shipbuilding" # todo: NEW TRANSLATION
- JAP_ihi_corporation_naval_manufacturer: "IHI Corporation" # todo: NEW TRANSLATION
- KOR_hanwha_defense_systems_tank_manufacturer: "Hanwha Defense Systems" # todo: NEW TRANSLATION
- KOR_hyundai_rotem_tank_manufacturer: "Hyundai Rotem" # todo: NEW TRANSLATION
- KOR_hanwha_techwin_tank_manufacturer: "Hanwha Techwin" # todo: NEW TRANSLATION
- KOR_daewoo_firearms_materiel_manufacturer: "Daewoo Firearms" # todo: NEW TRANSLATION
- KOR_korea_aerospace_industries_aircraft_manufacturer: "Korea Aerospace Industries" # todo: NEW TRANSLATION
- KOR_korea_aerospace_industries_tank_manufacturer: "Korea Aerospace Industries" # todo: NEW TRANSLATION
- KOR_hanjin_heavy_industries_naval_manufacturer: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
- KOR_hyundai_heavy_industries_naval_manufacturer: "STX Shipbuilding" # todo: NEW TRANSLATION
- KOR_hyundai_heavy_industries_naval_manufacturer2: "STX Shipbuilding" # todo: NEW TRANSLATION
- KOR_daewoo_shipbuilding_naval_manufacturer: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
- KOR_daewoo_shipbuilding_naval_manufacturer2: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
- MAY_mmc_defence_company: "MMC Corporation Berhad" # todo: NEW TRANSLATION
- MAY_mmc_defence_tank_manufacturer: "MMC Corporation Berhad" # todo: NEW TRANSLATION
- MAY_boustead_naval_shipyard_company: "Boustead Naval Shipyard" # todo: NEW TRANSLATION
- MEX_dgime_materiel_manufacturer: "DGIME" # todo: NEW TRANSLATION
- NKO_1_bureau_materiel_manufacturer: "First Machine Industry Bureau" # todo: NEW TRANSLATION
- NKO_6_bureau_naval_manufacturer: "Sixth Machine Industry Bureau" # todo: NEW TRANSLATION
- NKO_6_bureau_naval_manufacturer2: "Sixth Machine Industry Bureau" # todo: NEW TRANSLATION
- NKO_2_bureau_tank_manufacturer: "Second Machine Industry Bureau" # todo: NEW TRANSLATION
- NOR_kongsberg_materiel_manufacturer: "Kongsberg" # todo: NEW TRANSLATION
- NOR_stx_europe_naval_manufacturer: "STX Europe" # todo: NEW TRANSLATION
- NOR_umoe_mandal_naval_manufacturer: "UMOE Mandal" # todo: NEW TRANSLATION
- PAK_heavy_industries_taxila_tank_manufacturer: "Heavy Industries Taxila" # todo: NEW TRANSLATION
- PAK_pakistan_aeronautical_complex_aircraft_manufacturer: "PAC" # todo: NEW TRANSLATION
- PAK_integrated_defence_systems_materiel_manufacturer: "Integrated Defence Systems" # todo: NEW TRANSLATION
- PAK_pakistan_ordnance_factories_materiel_manufacturer: "Pakistan Ordnance Factories" # todo: NEW TRANSLATION
- PAK_karachi_shipyard_naval_manufacturer: "Karachi Shipyard" # todo: NEW TRANSLATION
- PAK_karachi_shipyard_naval_manufacturer2: "Karachi Shipyard" # todo: NEW TRANSLATION
- PHI_ferfrans_materiel_manufacturer: "Ferfrans" # todo: NEW TRANSLATION
- PHI_floro_international_materiel_manufacturer: "Floro International" # todo: NEW TRANSLATION
- PHI_aviation_composite_technology_aircraft_manufacturer: "Aviation Composite Technology" # todo: NEW TRANSLATION
- POL_polska_grupa_zbrojeniowa_materiel_manufacturer: "Polska Grupa Zbrojeniowa" # todo: NEW TRANSLATION
- POL_polska_grupa_zbrojeniowa_tank_manufacturer: "Polska Grupa Zbrojeniowa" # todo: NEW TRANSLATION
- POL_bumar_tank_manufacturer: "Bumar" # todo: NEW TRANSLATION
- POL_wzm_tank_manufacturer: "WZM" # todo: NEW TRANSLATION
- POL_gdansk_shipyard_naval_manufacturer: "Gdansk Shipyard" # todo: NEW TRANSLATION
- POL_obrum_tank_manufacturer: "OBRUM" # todo: NEW TRANSLATION
- POR_fabrica_de_braco_de_prata_materiel_manufacturer: "INDEP" # todo: NEW TRANSLATION
- POR_bravia_sarl_tank_manufacturer: "Bravia Sarl" # todo: NEW TRANSLATION
- ROM_ratmil_materiel_manufacturer: "Ratmil" # todo: NEW TRANSLATION
- ROM_romarm_tank_manufacturer: "Romarm" # todo: NEW TRANSLATION
- ROM_cugir_materiel_manufacturer: "Cugir Factory" # todo: NEW TRANSLATION
- ROM_iar_tank_manufacturer: "IAR" # todo: NEW TRANSLATION
- ROM_avioane_craiova_aircraft_manufacturer: "Avioane Craiova" # todo: NEW TRANSLATION
- ROM_mfa_mizil_tank_manufacturer: "MFA Mizil" # todo: NEW TRANSLATION
- ROM_galati_shipyard_naval_manufacturer: "Damen Shipyard Galati" # todo: NEW TRANSLATION
- ROM_aerostar_aircraft_manufacturer: "Aerostar" # todo: NEW TRANSLATION
- SOV_military_industry_company_tank_manufacturer: "Military Industry Company" # todo: NEW TRANSLATION
- SOV_rostec_materiel_manufacturer: "Rostec" # todo: NEW TRANSLATION
- SOV_rostec_tank_manufacturer: "Rostec" # todo: NEW TRANSLATION
- SOV_rostec_tank_manufacturer2: "Rostec" # todo: NEW TRANSLATION
- SOV_united_aircraft_corporation_aircraft_manufacturer: "United Aircraft Corporation" # todo: NEW TRANSLATION
- SOV_mil_helicopters_tank_manufacturer: "Mil Helicopters" # todo: NEW TRANSLATION
- SOV_irkut_aircraft_manufacturer: "Irkut" # todo: NEW TRANSLATION
- SOV_almaz_antey_materiel_manufacturer: "Almaz-Antey" # todo: NEW TRANSLATION
- SOV_jsc_defense_systems_materiel_manufacturer: "JSC Defense systems" # todo: NEW TRANSLATION
- SOV_united_shipbuilding_corporation_naval_manufacturer: "United Shipbuilding Corporation" # todo: NEW TRANSLATION
- SOV_united_shipbuilding_corporation_naval_manufacturer2: "United Shipbuilding Corporation" # todo: NEW TRANSLATION
- SOV_kurganmashzavod_tank_manufacturer: "Kurganmashzavod" # todo: NEW TRANSLATION
- SOV_russian_helicopters_tank_manufacturer: "Russian Helicopters" # todo: NEW TRANSLATION
- SAF_denel_land_systems_materiel_manufacturer: "Denel Land Systems" # todo: NEW TRANSLATION
- SAF_denel_land_systems_tank_manufacturer: "Denel Land Systems" # todo: NEW TRANSLATION
- SAF_land_systems_omc_tank_manufacturer: "Land Systems OMC" # todo: NEW TRANSLATION
- SAF_denel_dynamics_materiel_manufacturer: "Denel Dynamics" # todo: NEW TRANSLATION
- SAU_military_industries_corporation_materiel_manufacturer: "Military Industries Corporation" # todo: NEW TRANSLATION
- SAU_abdallah_al_faris_tank_manufacturer: "Abdallah al Faris" # todo: NEW TRANSLATION
- SWI_mowag_tank_manufacturer: "MOWAG" # todo: NEW TRANSLATION
- SWI_ruag_materiel_manufacturer: "RUAG" # todo: NEW TRANSLATION
- SWI_ruag_aircraft_manufacturer: "RUAG" # todo: NEW TRANSLATION
- SWI_pilatus_aircraft_aircraft_manufacturer: "Pilatus Aircraft" # todo: NEW TRANSLATION
- SER_zastava_arms_materiel_manufacturer: "Zastava Arms" # todo: NEW TRANSLATION
- SER_utva_aircraft_manufacturer: "Utva" # todo: NEW TRANSLATION
- SER_yugoimport_spdr_tank_manufacturer: "Yugoimport SPDR" # todo: NEW TRANSLATION
- SER_yugoimport_spdr_materiel_manufacturer: "Yugoimport SPDR" # todo: NEW TRANSLATION
- SIN_st_engineering_tank_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
- SIN_st_engineering_materiel_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
- SIN_st_engineering_naval_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
- SPR_cetme_materiel_manufacturer: "CETME" # todo: NEW TRANSLATION
- SPR_gmv_materiel_manufacturer: "Grupo Mecánica del Vuelo Sistemas S.A.U" # todo: NEW TRANSLATION
- SPR_instalaza_materiel_manufacturer: "Instalaza, S.A." # todo: NEW TRANSLATION
- SPR_indra_materiel_manufacturer: "Indra Sistemas, S.A." # todo: NEW TRANSLATION
- SPR_santa_barbara_sistemas_tank_manufacturer: "Santa Barbara Sistemas" # todo: NEW TRANSLATION
- SPR_urovesa_tank_manufacturer: "URO, Vehículos Especiales, S.A." # todo: NEW TRANSLATION
- SPR_enasa_tank_manufacturer: "Empresa Nacional de Autocamiones, S.A." # todo: NEW TRANSLATION
- SPR_expal_tank_manufacturer: "Explosivos Alaveses, SA" # todo: NEW TRANSLATION
- SPR_navantia_naval_manufacturer: "Navantia" # todo: NEW TRANSLATION
- SPR_escribano_naval_manufacturer: "Escribano M&E" # todo: NEW TRANSLATION
- SPR_navantia_naval_manufacturer2: "Navantia" # todo: NEW TRANSLATION
- SPR_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
- SPR_casa_aircraft_manufacturer: "Construcciones Aeronáuticas SA" # todo: NEW TRANSLATION
- SPR_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
- SUD_military_industry_corporation_materiel_manufacturer: "Military Industry Corporation" # todo: NEW TRANSLATION
- SUD_military_industry_corporation_tank_manufacturer: "Military Industry Corporation" # todo: NEW TRANSLATION
- SWE_bae_systems_hagglunds_tank_manufacturer: "BAE Systems Hägglunds" # todo: NEW TRANSLATION
- SWE_bae_systems_bofors_tank_manufacturer: "BAE Systems Bofors" # todo: NEW TRANSLATION
- SWE_saab_bofors_dynamics_materiel_manufacturer: "Saab Bofors Dynamics" # todo: NEW TRANSLATION
- SWE_saab_ab_aircraft_manufacturer: "Saab AB" # todo: NEW TRANSLATION
- SWE_saab_ab_materiel_manufacturer: "Saab AB" # todo: NEW TRANSLATION
- SWE_kockums_ab_naval_manufacturer: "Kockums AB" # todo: NEW TRANSLATION
- SWE_kockums_ab_naval_manufacturer2: "Kockums AB" # todo: NEW TRANSLATION
- SYR_hmisho_vehicles: "Hmisho Vehicles Group" # todo: NEW TRANSLATION
- SYR_damascus_steel: "Damascus Steel" # todo: NEW TRANSLATION
- TUR_fnss_tank_manufacturer: "FNSS" # todo: NEW TRANSLATION
- TUR_otokar_tank_manufacturer: "Otokar" # todo: NEW TRANSLATION
- TUR_roketsan_materiel_manufacturer: "Roketsan" # todo: NEW TRANSLATION
- TUR_mkek_materiel_manufacturer: "MKEK" # todo: NEW TRANSLATION
- TUR_mkek_tank_manufacturer: "MKEK" # todo: NEW TRANSLATION
- TUR_turkish_aerospace_industries_aircraft_manufacturer: "Turkish Aerospace Industries" # todo: NEW TRANSLATION
- TUR_turkish_aerospace_industries_tank_manufacturer: "Turkish Aerospace Industries" # todo: NEW TRANSLATION
- TUR_golcuk_naval_shipyard_naval_manufacturer: "Golcuk Naval Shipyard" # todo: NEW TRANSLATION
- TUR_golcuk_naval_shipyard_naval_manufacturer2: "Golcuk Naval Shipyard" # todo: NEW TRANSLATION
- UAE_caracal_materiel_manufacturer: "Caracal International" # todo: NEW TRANSLATION
- UAE_emirates_defense_technology_tank_manufacturer: "Emirates Defense Technology" # todo: NEW TRANSLATION
- UAE_abu_dhabi_ship_building_naval_manufacturer: "Abu Dhabi Ship Building" # todo: NEW TRANSLATION
- UKR_kmdb_materiel_manufacturer: "KMDB" # todo: NEW TRANSLATION
- UKR_kmdb_tank_manufacturer: "KMDB" # todo: NEW TRANSLATION
- UKR_malyshev_factory_tank_manufacturer: "Malyshev Factory" # todo: NEW TRANSLATION
- UKR_antonov_aircraft_manufacturer: "Antonov" # todo: NEW TRANSLATION
- UKR_nikolayev_shipyard_naval_manufacturer: "Nikolayev Shipyard" # todo: NEW TRANSLATION
- UKR_nikolayev_shipyard_naval_manufacturer_mtg: "Nikolayev Shipyard" # todo: NEW TRANSLATION
- ENG_bae_land_systems_materiel_manufacturer: "BAE Land Systems" # todo: NEW TRANSLATION
- ENG_bae_land_systems_tank_manufacturer: "BAE Land Systems" # todo: NEW TRANSLATION
- ENG_agustawestland_tank_manufacturer: "AgustaWestland" # todo: NEW TRANSLATION
- ENG_bae_aerospace_aircraft_manufacturer: "BAE Aerospace" # todo: NEW TRANSLATION
- ENG_qinetiq_materiel_manufacturer: "QinetiQ" # todo: NEW TRANSLATION
- ENG_thales_tank_manufacturer: "Thales" # todo: NEW TRANSLATION
- ENG_bae_systems_marine_naval_manufacturer: "BAE Systems Marine" # todo: NEW TRANSLATION
- ENG_bae_systems_submarine_naval_manufacturer: "BAE Systems Submarine" # todo: NEW TRANSLATION
- USA_alliant_techsystems_materiel_manufacturer: "Alliant Techsystems" # todo: NEW TRANSLATION
- USA_bell_helicopter_textron_tank_manufacturer: "Bell Helicopter Textron" # todo: NEW TRANSLATION
- USA_boeing_aircraft_manufacturer: "Boeing" # todo: NEW TRANSLATION
- USA_colt_defense_materiel_manufacturer: "Colt Defense" # todo: NEW TRANSLATION
- USA_consolidated_robotics_materiel_manufacturer: "Consolidated Robotics" # todo: NEW TRANSLATION
- USA_general_dynamics_materiel_manufacturer: "General Dynamics" # todo: NEW TRANSLATION
- USA_general_dynamics_tank_manufacturer: "General Dynamics" # todo: NEW TRANSLATION
- USA_general_dynamics_electric_boat_naval_manufacturer: "General Dynamics Electric Boat" # todo: NEW TRANSLATION
- USA_bath_iron_works_naval_manufacturer: "Bath Iron Works" # todo: NEW TRANSLATION
- USA_national_steel_and_shipbuilding_company_naval_manufacturer: "National Steel and Shipbuilding Company" # todo: NEW TRANSLATION
- USA_lockheed_martin_aircraft_manufacturer: "Lockheed Martin" # todo: NEW TRANSLATION
- USA_ingalls_shipbuilding_naval_manufacturer: "Ingalls Shipbuilding" # todo: NEW TRANSLATION
- USA_northrop_grumman_newport_news_naval_manufacturer: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
- USA_northrop_grumman_newport_news_naval_manufacturer_mtg: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
- USA_northrop_grumman_newport_news_naval_manufacturer2: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
- USA_northrop_grumman_aircraft_manufacturer: "Northrop Grumman" # todo: NEW TRANSLATION
- USA_textron_aviation_defense_manufacturer: "Textron Aviation Defense" # todo: NEW TRANSLATION
- USA_raytheon_materiel_manufacturer: "Raytheon" # todo: NEW TRANSLATION
- USA_sikorsky_aircraft_tank_manufacturer: "Sikorsky Aircraft" # todo: NEW TRANSLATION
- USA_united_defense_tank_manufacturer: "United Defense" # todo: NEW TRANSLATION
- USA_textron_tank_manufacturer: "Textron" # todo: NEW TRANSLATION
+  TT_AVAILABLE_AS_DEFENCE_COMPANY: "K dispozici jako §YObranná společnost§!:\n" # todo: NEW TRANSLATION
+  AST_bae_systems_australia_naval_manufacturer: "BAE Systems Australia" # todo: NEW TRANSLATION
+  AST_asc_naval_manufacturer: "ASC" # todo: NEW TRANSLATION
+  AST_asc_naval_manufacturer2: "ASC" # todo: NEW TRANSLATION
+  AST_gdls_australia_tank_manufacturer: "GDLS Australia" # todo: NEW TRANSLATION
+  AST_strategic_marine_naval_manufacturer: "Strategic Marine" # todo: NEW TRANSLATION
+  AST_thales_australia_materiel_manufacturer: "Thales Australia" # todo: NEW TRANSLATION
+  AST_thales_australia_tank_manufacturer: "Thales Australia" # todo: NEW TRANSLATION
+  AUS_steyr_mannlicher_materiel_manufacturer: "Steyr Mannlicher" # todo: NEW TRANSLATION
+  AUS_general_dynamics_steyr_tank_manufacturer: "General Dynamics Steyr" # todo: NEW TRANSLATION
+  AZE_azerbaijani_defense_industry_materiel_manufacturer: "Azerbaijani Defense Industry - Materiel Division" # todo: NEW TRANSLATION
+  AZE_azerbaijani_defense_industry_tank_manufacturer: "Azerbaijani Defense Industry - Armoured Division" # todo: NEW TRANSLATION
+  BEL_fn_herstal_materiel_manufacturer: "FN Herstal" # todo: NEW TRANSLATION
+  BEL_cmi_defence_tank_manufacturer: "CMI Defence" # todo: NEW TRANSLATION
+  BEL_sabiex_international_tank_manufacturer: "Sabiex International" # todo: NEW TRANSLATION
+  BEL_sabca_aircraft_manufacturer: "SABCA" # todo: NEW TRANSLATION
+  BUL_arsenal_materiel_manufacturer: "Arsenal" # todo: NEW TRANSLATION
+  BRM_burma_defence_industries_materiel_manufacturer: "Myanmar Defence Industries - Materiel Division" # todo: NEW TRANSLATION
+  BRM_burma_defence_industries_tank_manufacturer: "Myanmar Defence Industries - Armoured Division" # todo: NEW TRANSLATION
+  CAN_diemaco_materiel_manufacturer: "Diemaco" # todo: NEW TRANSLATION
+  CAN_general_dynamics_land_systems_tank_manufacturer: "General Dynamics Land Systems" # todo: NEW TRANSLATION
+  CAN_marine_industries_limited_naval_manufacturer: "Marine Industries Limited" # todo: NEW TRANSLATION
+  CHL_famae_materiel_manufacturer: "FAMAE - Materiel Division" # todo: NEW TRANSLATION
+  CHL_famae_tank_manufacturer: "FAMAE - Armoured Division" # todo: NEW TRANSLATION
+  CHL_enaer_aircraft_manufacturer: "ENAER" # todo: NEW TRANSLATION
+  CHL_asmar_naval_manufacturer: "ASMAR" # todo: NEW TRANSLATION
+  CHL_desa_material_manufacturer: "Desarrollos de Automatization S.A." # todo: NEW TRANSLATION
+  COL_indumil_materiel_manufacturer: "Indumil" # todo: NEW TRANSLATION
+  CRO_djuro_djakovic_tank_manufacturer: "Djuro Djakovic" # todo: NEW TRANSLATION
+  CRO_hs_produkt_materiel_manufacturer: "HS Produkt" # todo: NEW TRANSLATION
+  CRO_kraljevica_shipyard_naval_manufacturer: "Kraljevica Shipyard" # todo: NEW TRANSLATION
+  CZE_aero_aircraft_manufacturer: "Aero" # todo: NEW TRANSLATION
+  CZE_czub_materiel_manufacturer: "CZUB" # todo: NEW TRANSLATION
+  CZE_vop_tank_manufacturer: "VOP" # todo: NEW TRANSLATION
+  DEN_falck_schmidt_tank_manufacturer: "Falck-Schmidt - Armoured Division" # todo: NEW TRANSLATION
+  DEN_falck_schmidt_materiel_manufacturer: "Falck-Schmidt - Materiel Division" # todo: NEW TRANSLATION
+  DEN_naval_manufacturer_maersk: "Mærsk" # todo: NEW TRANSLATION
+  DEN_defence_skandinavisk_aero_industri: "Skandinavisk Aero Industri" # todo: NEW TRANSLATION
+  EGY_kader_factory_tank_manufacturer: "Kader Factory - Armoured Division" # todo: NEW TRANSLATION
+  EGY_kader_factory_materiel_manufacturer: "Kader Factory - Materiel Division" # todo: NEW TRANSLATION
+  EGY_helwan_machine_tools_tank_manufacturer: "Helwan Machine Tools" # todo: NEW TRANSLATION
+  EGY_maadi_arms_materiel_manufacturer: "Maadi Arms" # todo: NEW TRANSLATION
+  EGY_abhco_tank_manufacturer: "ABHCO" # todo: NEW TRANSLATION
+  EGY_sakr_factory_material_manufacturer: "Sakr Factory for Development Industries" # todo: NEW TRANSLATION
+  EGY_AAV_vehicle_manufacturer: "Arab American Vehicles" # todo: NEW TRANSLATION
+  EGY_aoi_aircraft_aircraft_manufacturer: "AOI Aircraft" # todo: NEW TRANSLATION
+  EGY_alexandria_shipyard_naval_manufacturer: "Alexandria Shipyard" # todo: NEW TRANSLATION
+  EGY_abu_zaabal_tank_factory_tank_manufacturer: "Abu Zaabal Tank Factory" # todo: NEW TRANSLATION
+  EGY_abu_zaabal_specialized_industries_manufacturer: "Abu Zaabal Specialized Industries" # todo: NEW TRANSLATION
+  FIN_patria_tank_manufacturer: "Patria" # todo: NEW TRANSLATION
+  FIN_patria_materiel_manufacturer: "Patria" # todo: NEW TRANSLATION
+  FIN_sako_materiel_manufacturer: "SAKO" # todo: NEW TRANSLATION
+  FIN_meyer_turku_naval_manufacturer: "Meyer Turku" # todo: NEW TRANSLATION
+  FIN_sisuauto_utility_vehicle_manufacturer: "Oy Sisu Auto" # todo: NEW TRANSLATION
+  FRA_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
+  FRA_nexter_materiel_manufacturer: "GIAT Industries - Materiel Division" # todo: NEW TRANSLATION
+  FRA_nexter_tank_manufacturer: "GIAT Industries - Armored Vehicle Division" # todo: NEW TRANSLATION
+  FRA_dassault_aviation_aircraft_manufacturer: "Dassault Aviation" # todo: NEW TRANSLATION
+  FRA_naval_group_naval_manufacturer: "Naval Group - Surface Division" # todo: NEW TRANSLATION
+  FRA_naval_group_naval_manufacturer2: "Naval Group - Submarine Division" # todo: NEW TRANSLATION
+  FRA_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
+  GEO_tbilisi_aircraft_manufacturing_tank_manufacturer: "Tbilisi Aircraft Manufacturing" # todo: NEW TRANSLATION
+  GEO_tbilisi_aircraft_manufacturing_materiel_manufacturer: "Tbilisi Aircraft Manufacturing" # todo: NEW TRANSLATION
+  GER_krauss_maffei_tank_manufacturer: "Krauss-Maffei" # todo: NEW TRANSLATION
+  GER_krauss_maffei_tank_manufacturer_trait: "Heavy Armor Mass Production" # todo: NEW TRANSLATION
+  GER_panavia_aircraft_manufacturer: "Panavia Aircraft Germany" # todo: NEW TRANSLATION
+  GER_panavia: "Panavia Active in Aircraft Developments" # todo: NEW TRANSLATION
+  GER_cg_haenel: "C.G. Haenel" # todo: NEW TRANSLATION
+  GER_cg_haenel_trait: "Heavy Arms Manufacturer" # todo: NEW TRANSLATION
+  GER_rheinmetall_tank_manufacturer: "Rheinmetall Landsysteme" # todo: NEW TRANSLATION
+  GER_rheinmetall_tank_manufacturer_trait: "Heavy Weapon Innovator" # todo: NEW TRANSLATION
+  GER_heckler_koch_materiel_manufacturer: "Heckler & Koch" # todo: NEW TRANSLATION
+  GER_heckler_koch_materiel_manufacturer_trait: "Small Arms Specialist" # todo: NEW TRANSLATION
+  GER_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
+  GER_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
+  GER_lfk_lenkflugkorper: "LFK Lenkflugkörpersysteme GmbH" # todo: NEW TRANSLATION
+  GER_lurssen_werft_naval_manufacturer: "Naval Vessels Lürssen" # todo: NEW TRANSLATION
+  GER_lurssen_werft_naval_manufacturer_trait: "Anti-Mine Specialist" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_stealth_hull_integration: "Stealth Hull Integration" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_adaptive_stealth: "Adaptive Stealth Coating" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_double_hull: "Reinforced Double Hull" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_networked_sonar: "Networked Sonar Array" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_coaster_surveillance: "Coastal Surveillance Radar Upgrade" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_integrated_combat_management: "Integrated Combat Management System" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_automated_damage_control: "Automated Damage-Control Network" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_automated_repair_drone: "Automated Repair Drone Bay" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_diesel_electric_hybrid: "Diesel-Electric Hybrid Drive" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_high_speed_jet: "High-Speed Water-Jet Propulsion" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_precision_navigation: "Precision Navigation Suite" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_naval_rd_consortium: "Naval R&D Consortium" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_shipyard_consortium: "Shipyard Consortium HQ" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_rapid_prototype: "Rapid Prototyping Directorate" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_integrated_bulk_system: "Integrated Bulk Transfer System" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_modular_licensing: "Modular Licensing Framework" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_lifecycle_bureau: "Lifecycle Support Bureau" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_modular_mission_bay: "Modular Mission Payload Bays" # todo: NEW TRANSLATION
+  GER_mio_trait_lurssen_convoy_escort: "Convoy Escort Coordination Link" # todo: NEW TRANSLATION
+  GRE_eas_materiel_manufacturer: "EAS" # todo: NEW TRANSLATION
+  GRE_hellenic_vehicle_industry_tank_manufacturer: "Hellenic Vehicle Industry" # todo: NEW TRANSLATION
+  HOL_dutch_defense_vehicle_systems_tank_manufacturer: "Dutch Defense Vehicle Systems" # todo: NEW TRANSLATION
+  HOL_damen_shipyards_naval_manufacturer: "Damen Shipyards" # todo: NEW TRANSLATION
+  RAJ_Garden_reach_naval_manufacturer: "Garden Reach Shipbuilders & Engineers" # todo: NEW TRANSLATION
+  RAJ_mazagon_dock_limited_naval_manufacturer2: "Mazagon Dock Limited" # todo: NEW TRANSLATION
+  RAJ_goa_shipyard_naval_manufacturer: "Goa Shipyard" # todo: NEW TRANSLATION
+  RAJ_naval_docyard_visakhapatnam_naval_manufacturer: "Naval Dockyard Visakhapatnam" # todo: NEW TRANSLATION
+  RAJ_mahindra_defence_vehicle_manufacturer: "Mahindra & Mahindra" # todo: NEW TRANSLATION
+  RAJ_Ashok_leyland_vehicle_manufacturer: "Ashok Leyland Limited" # todo: NEW TRANSLATION
+  RAJ_tata_motors_tank_manufacturer: "Tata Motors" # todo: NEW TRANSLATION
+  RAJ_ordnance_factories_board_manufacturer: "Ordnance Factory Board" # todo: NEW TRANSLATION
+  RAJ_ordnance_factories_board_Tank_manufacturer: "Ordnance Vehicle Factory Board" # todo: NEW TRANSLATION
+  RAJ_Larsen_toubro_manufacturer: "Larsen & Toubro Limited" # todo: NEW TRANSLATION
+  RAJ_heavy_vehicle_factory_tank_manufacturer: "Heavy Vehicle Factory" # todo: NEW TRANSLATION
+  RAJ_DRDO_tank_manufacturer: "Defence Research and Development Organisation" # todo: NEW TRANSLATION
+  RAJ_hindustan_aeronautics_aircraft_manufacturer: "Hindustan Aeronautics" # todo: NEW TRANSLATION
+  RAJ_aeronautical_development_manufacturer: "Aeronautical Development Agency" # todo: NEW TRANSLATION
+  RAJ_Bharat_forge_material_manufacture: "Bharat Forge Limited" # todo: NEW TRANSLATION
+  IND_pt_pindad_tank_manufacturer: "PT Pindad" # todo: NEW TRANSLATION
+  IND_pt_pindad_materiel_manufacturer: "PT Pindad" # todo: NEW TRANSLATION
+  IND_indonesian_aerospace_aircraft_manufacturer: "Indonesian Aerospace" # todo: NEW TRANSLATION
+  IND_indonesian_aerospace_tank_manufacturer: "Indonesian Aerospace" # todo: NEW TRANSLATION
+  PER_defense_industries_organization_materiel_manufacturer: "Defense Industries Organization" # todo: NEW TRANSLATION
+  PER_defense_industries_organization_tank_manufacturer: "Defense Industries Organization" # todo: NEW TRANSLATION
+  PER_panha_tank_manufacturer: "PANHA" # todo: NEW TRANSLATION
+  PER_hesa_aircraft_manufacturer: "Iran Aviation Industries Organization" # todo: NEW TRANSLATION
+  PER_hesa_tank_manufacturer: "HESA" # todo: NEW TRANSLATION
+  PER_marine_industries_organization_naval_manufacturer: "Marine Industries Organization" # todo: NEW TRANSLATION
+  PER_marine_industries_organization_naval_manufacturer2: "Marine Industries Organization" # todo: NEW TRANSLATION
+  ISR_israel_weapon_industries_materiel_manufacturer: "Israel Weapon Industries" # todo: NEW TRANSLATION
+  ISR_israel_military_industries_materiel_manufacturer: "Israel Military Industries" # todo: NEW TRANSLATION
+  ISR_soltam_systems_tank_manufacturer: "Soltam Systems" # todo: NEW TRANSLATION
+  ISR_plasan_tank_manufacturer: "Plasan" # todo: NEW TRANSLATION
+  ISR_israel_aerospace_industries_aircraft_manufacturer: "Israel Aerospace Industries" # todo: NEW TRANSLATION
+  ISR_rafael_materiel_manufacturer: "Rafael" # todo: NEW TRANSLATION
+  ISR_mantak_tank_manufacturer: "MANTAK" # todo: NEW TRANSLATION
+  ITA_beretta_materiel_manufacturer: "Beretta" # todo: NEW TRANSLATION
+  ITA_iveco_tank_manufacturer: "Iveco" # todo: NEW TRANSLATION
+  ITA_agustawestland_tank_manufacturer: "AgustaWestland" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer2: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer_unfocused: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer2_unfocused: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer_improved: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_fincantieri_naval_manufacturer2_improved: "Fincantieri" # todo: NEW TRANSLATION
+  ITA_alenia_aeronautica_aircraft_manufacturer: "Alenia Aermacchi" # todo: NEW TRANSLATION
+  ITA_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
+  ITA_airbus_helicopters_tank_manufacturer: "Airbus Helicopters" # todo: NEW TRANSLATION
+  JAP_komatsu_tank_manufacturer: "Komatsu" # todo: NEW TRANSLATION
+  JAP_mitsubishi_heavy_industries_tank_manufacturer: "Mitsubishi Heavy Industries" # todo: NEW TRANSLATION
+  JAP_mitsubishi_shipbuilding_naval_manufacturer: "Mitsubishi Shipbuilding" # todo: NEW TRANSLATION
+  JAP_mitsubishi_shipbuilding_naval_manufacturer2: "Mitsubishi Shipbuilding" # todo: NEW TRANSLATION
+  JAP_mitsubishi_aerospace_aircraft_manufacturer: "Mitsubishi Aerospace" # todo: NEW TRANSLATION
+  JAP_mitsubishi_aerospace_tank_manufacturer: "Mitsubishi Aerospace" # todo: NEW TRANSLATION
+  JAP_howa_machinery_materiel_manufacturer: "Howa Machinery" # todo: NEW TRANSLATION
+  JAP_kawasaki_aerospace_company_aircraft_manufacturer: "Kawasaki Aerospace Company" # todo: NEW TRANSLATION
+  JAP_kawasaki_aerospace_company_tank_manufacturer: "Kawasaki Aerospace Company" # todo: NEW TRANSLATION
+  JAP_kawasaki_shipbuilding_naval_manufacturer: "Kawasaki Shipbuilding" # todo: NEW TRANSLATION
+  JAP_kawasaki_shipbuilding_naval_manufacturer2: "Kawasaki Shipbuilding" # todo: NEW TRANSLATION
+  JAP_ihi_corporation_naval_manufacturer: "IHI Corporation" # todo: NEW TRANSLATION
+  KOR_hanwha_defense_systems_tank_manufacturer: "Hanwha Defense Systems" # todo: NEW TRANSLATION
+  KOR_hyundai_rotem_tank_manufacturer: "Hyundai Rotem" # todo: NEW TRANSLATION
+  KOR_hanwha_techwin_tank_manufacturer: "Hanwha Techwin" # todo: NEW TRANSLATION
+  KOR_daewoo_firearms_materiel_manufacturer: "Daewoo Firearms" # todo: NEW TRANSLATION
+  KOR_korea_aerospace_industries_aircraft_manufacturer: "Korea Aerospace Industries" # todo: NEW TRANSLATION
+  KOR_korea_aerospace_industries_tank_manufacturer: "Korea Aerospace Industries" # todo: NEW TRANSLATION
+  KOR_hanjin_heavy_industries_naval_manufacturer: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
+  KOR_hyundai_heavy_industries_naval_manufacturer: "STX Shipbuilding" # todo: NEW TRANSLATION
+  KOR_hyundai_heavy_industries_naval_manufacturer2: "STX Shipbuilding" # todo: NEW TRANSLATION
+  KOR_daewoo_shipbuilding_naval_manufacturer: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
+  KOR_daewoo_shipbuilding_naval_manufacturer2: "Daewoo Shipbuilding" # todo: NEW TRANSLATION
+  MAY_mmc_defence_company: "MMC Corporation Berhad" # todo: NEW TRANSLATION
+  MAY_mmc_defence_tank_manufacturer: "MMC Corporation Berhad" # todo: NEW TRANSLATION
+  MAY_boustead_naval_shipyard_company: "Boustead Naval Shipyard" # todo: NEW TRANSLATION
+  MEX_dgime_materiel_manufacturer: "Dirección General de Industria Militar" # todo: NEW TRANSLATION
+  MEX_stns_shipyard_naval_manufacturer: "Astilleros de Marina" # todo: NEW TRANSLATION
+  MEX_dina_tank_manufacturer: "Diesel Nacional, S.A." # todo: NEW TRANSLATION
+  NIG_dicon_materiel_manufacturer: "Defence Industries Corporation of Nigeria" # todo: NEW TRANSLATION
+  NIG_navmc_generic_tank_organization: "Nigerian Army Vehicle Manufacturing Company" # todo: NEW TRANSLATION
+  NIG_nigerian_naval_dockyard_naval_manufacturer: "Nigerian Naval Dockyard" # todo: NEW TRANSLATION
+  NKO_1_bureau_materiel_manufacturer: "First Machine Industry Bureau" # todo: NEW TRANSLATION
+  NKO_6_bureau_naval_manufacturer: "Sixth Machine Industry Bureau" # todo: NEW TRANSLATION
+  NKO_6_bureau_naval_manufacturer2: "Sixth Machine Industry Bureau" # todo: NEW TRANSLATION
+  NKO_2_bureau_tank_manufacturer: "Second Machine Industry Bureau" # todo: NEW TRANSLATION
+  NOR_kongsberg_materiel_manufacturer: "Kongsberg" # todo: NEW TRANSLATION
+  NOR_stx_europe_naval_manufacturer: "STX Europe" # todo: NEW TRANSLATION
+  NOR_umoe_mandal_naval_manufacturer: "UMOE Mandal" # todo: NEW TRANSLATION
+  PAK_heavy_industries_taxila_tank_manufacturer: "Heavy Industries Taxila" # todo: NEW TRANSLATION
+  PAK_pakistan_aeronautical_complex_aircraft_manufacturer: "PAC" # todo: NEW TRANSLATION
+  PAK_integrated_defence_systems_materiel_manufacturer: "Integrated Defence Systems" # todo: NEW TRANSLATION
+  PAK_pakistan_ordnance_factories_materiel_manufacturer: "Pakistan Ordnance Factories" # todo: NEW TRANSLATION
+  PAK_karachi_shipyard_naval_manufacturer: "Karachi Shipyard" # todo: NEW TRANSLATION
+  PAK_karachi_shipyard_naval_manufacturer2: "Karachi Shipyard" # todo: NEW TRANSLATION
+  PHI_ferfrans_materiel_manufacturer: "Ferfrans" # todo: NEW TRANSLATION
+  PHI_floro_international_materiel_manufacturer: "Floro International" # todo: NEW TRANSLATION
+  PHI_aviation_composite_technology_aircraft_manufacturer: "Aviation Composite Technology" # todo: NEW TRANSLATION
+  POL_polska_grupa_zbrojeniowa_materiel_manufacturer: "Polska Grupa Zbrojeniowa" # todo: NEW TRANSLATION
+  POL_polska_grupa_zbrojeniowa_tank_manufacturer: "Polska Grupa Zbrojeniowa" # todo: NEW TRANSLATION
+  POL_mesko_materiel_manufacturer: "Mesko" # todo: NEW TRANSLATION
+  POL_bumar_tank_manufacturer: "Bumar" # todo: NEW TRANSLATION
+  POL_wzm_tank_manufacturer: "WZM" # todo: NEW TRANSLATION
+  POL_hsw_stalowa_wola_tank_manufacturer: "HSW Stalowa Wola" # todo: NEW TRANSLATION
+  POL_mio_initial_trait_hsw_stalowa_wola_tank_manufacturer: "Experienced Armor Manufacturer" # todo: NEW TRANSLATION
+  POL_gdansk_shipyard_naval_manufacturer: "Gdansk Shipyard" # todo: NEW TRANSLATION
+  POL_pgz_war_shipyard_naval_manufacturer: "PGZ Stocznia Wojenna" # todo: NEW TRANSLATION
+  POL_obrum_tank_manufacturer: "OBRUM" # todo: NEW TRANSLATION
+  POL_polskie_zaklady_lotnicze_mielec_manufacturer: "Polskie Zakłady Lotnicze Mielec" # todo: NEW TRANSLATION
+  POL_wzl_bydgoszcz_manufacturer: "WZL 2 Bydgoszcz" # todo: NEW TRANSLATION
+  POL_mio_initial_trait_wzl_bydgoszcz_air_manufacturer: "Fighter Manufacturer" # todo: NEW TRANSLATION
+  POL_polskie_zaklady_lotnicze_swidnik_manufacturer: "Polskie Zakłady Lotnicze Świdnik" # todo: NEW TRANSLATION
+  POR_fabrica_de_braco_de_prata_materiel_manufacturer: "INDEP Indústria Nacional de Defesa" # todo: NEW TRANSLATION
+  POR_bravia_sarl_tank_manufacturer: "Bravia Sarl" # todo: NEW TRANSLATION
+  POR_Arsenal_do_Alfeite_naval_manufacturer: "Arsenal do Alfeite" # todo: NEW TRANSLATION
+  POR_envc_naval_manufacturer: "ENVC Estaleiros Navais de Viana do Castelo" # todo: NEW TRANSLATION
+  POR_eid_materiel_manufacturer: "EID, S.A. Empresa de Investigação e Desenvolvimento de Electrónica, S.A." # todo: NEW TRANSLATION
+  POR_ogma_aircraft_manufacturer: "OGMA Indústria Aeronáutica de Portugal S.A." # todo: NEW TRANSLATION
+  SOV_military_industry_company_tank_manufacturer: "Military Industry Company" # todo: NEW TRANSLATION
+  SOV_rostec_materiel_manufacturer: "Rostec" # todo: NEW TRANSLATION
+  SOV_rostec_tank_manufacturer: "Rostec" # todo: NEW TRANSLATION
+  SOV_rostec_tank_manufacturer2: "Rostec" # todo: NEW TRANSLATION
+  SOV_united_aircraft_corporation_aircraft_manufacturer: "United Aircraft Corporation" # todo: NEW TRANSLATION
+  SOV_mil_helicopters_tank_manufacturer: "Mil Helicopters" # todo: NEW TRANSLATION
+  SOV_irkut_aircraft_manufacturer: "Irkut" # todo: NEW TRANSLATION
+  SOV_almaz_antey_materiel_manufacturer: "Almaz-Antey" # todo: NEW TRANSLATION
+  SOV_jsc_defense_systems_materiel_manufacturer: "JSC Defense systems" # todo: NEW TRANSLATION
+  SOV_united_shipbuilding_corporation_naval_manufacturer: "United Shipbuilding Corporation" # todo: NEW TRANSLATION
+  SOV_united_shipbuilding_corporation_naval_manufacturer2: "United Shipbuilding Corporation" # todo: NEW TRANSLATION
+  SOV_kurganmashzavod_tank_manufacturer: "Kurganmashzavod" # todo: NEW TRANSLATION
+  SOV_russian_helicopters_tank_manufacturer: "Russian Helicopters" # todo: NEW TRANSLATION
+  SOV_uralvagonzavod_tank_manufacturer: "Uralvagonzavod" # todo: NEW TRANSLATION
+  SAF_denel_land_systems_materiel_manufacturer: "Denel Land Systems" # todo: NEW TRANSLATION
+  SAF_denel_land_systems_tank_manufacturer: "Denel Land Systems" # todo: NEW TRANSLATION
+  SAF_land_systems_omc_tank_manufacturer: "Land Systems OMC" # todo: NEW TRANSLATION
+  SAF_denel_dynamics_materiel_manufacturer: "Denel Dynamics" # todo: NEW TRANSLATION
+  SAU_military_industries_corporation_materiel_manufacturer: "Military Industries Corporation" # todo: NEW TRANSLATION
+  SAU_abdallah_al_faris_tank_manufacturer: "Abdallah al Faris" # todo: NEW TRANSLATION
+  SWI_mowag_tank_manufacturer: "MOWAG" # todo: NEW TRANSLATION
+  SWI_ruag_materiel_manufacturer: "RUAG" # todo: NEW TRANSLATION
+  SWI_ruag_aircraft_manufacturer: "RUAG" # todo: NEW TRANSLATION
+  SWI_pilatus_aircraft_aircraft_manufacturer: "Pilatus Aircraft" # todo: NEW TRANSLATION
+  SER_zastava_arms_materiel_manufacturer: "Zastava Arms" # todo: NEW TRANSLATION
+  SER_utva_aircraft_manufacturer: "Utva" # todo: NEW TRANSLATION
+  SER_yugoimport_spdr_tank_manufacturer: "Yugoimport SPDR" # todo: NEW TRANSLATION
+  SER_yugoimport_spdr_materiel_manufacturer: "Yugoimport SPDR" # todo: NEW TRANSLATION
+  SIN_st_engineering_tank_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
+  SIN_st_engineering_materiel_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
+  SIN_st_engineering_naval_manufacturer: "ST Engineering" # todo: NEW TRANSLATION
+  SPR_cetme_materiel_manufacturer: "CETME" # todo: NEW TRANSLATION
+  SPR_gmv_materiel_manufacturer: "Grupo Mecánica del Vuelo Sistemas S.A.U" # todo: NEW TRANSLATION
+  SPR_instalaza_materiel_manufacturer: "Instalaza, S.A." # todo: NEW TRANSLATION
+  SPR_indra_materiel_manufacturer: "Indra Sistemas, S.A." # todo: NEW TRANSLATION
+  SPR_santa_barbara_sistemas_tank_manufacturer: "Santa Barbara Sistemas" # todo: NEW TRANSLATION
+  SPR_urovesa_tank_manufacturer: "URO, Vehículos Especiales, S.A." # todo: NEW TRANSLATION
+  SPR_enasa_tank_manufacturer: "Empresa Nacional de Autocamiones, S.A." # todo: NEW TRANSLATION
+  SPR_expal_tank_manufacturer: "Explosivos Alaveses, SA" # todo: NEW TRANSLATION
+  SPR_navantia_naval_manufacturer: "Navantia" # todo: NEW TRANSLATION
+  SPR_escribano_naval_manufacturer: "Escribano M&E" # todo: NEW TRANSLATION
+  SPR_navantia_naval_manufacturer2: "Navantia" # todo: NEW TRANSLATION
+  SPR_airbus_defence_aircraft_manufacturer: "Airbus Defence" # todo: NEW TRANSLATION
+  SPR_casa_aircraft_manufacturer: "EADS CASA" # todo: NEW TRANSLATION
+  SPR_airbus_helicopters_tank_manufacturer: "Eurocopter Espana" # todo: NEW TRANSLATION
+  SUD_military_industry_corporation_materiel_manufacturer: "Military Industry Corporation - Materiel Division" # todo: NEW TRANSLATION
+  SUD_military_industry_corporation_tank_manufacturer: "Military Industry Corporation - Armoured Division" # todo: NEW TRANSLATION
+  SWE_bae_systems_hagglunds_tank_manufacturer: "Alvis Hägglunds" # todo: NEW TRANSLATION
+  SWE_bae_systems_bofors_tank_manufacturer: "Bofors Defence AB" # todo: NEW TRANSLATION
+  SWE_saab_bofors_dynamics_materiel_manufacturer: "Saab Bofors Dynamics" # todo: NEW TRANSLATION
+  SWE_saab_ab_aircraft_manufacturer: "Saab Aeronatics" # todo: NEW TRANSLATION
+  SWE_saab_ab_materiel_manufacturer: "Saab AB" # todo: NEW TRANSLATION
+  SWE_Carl_Gustafs_materiel_manufacturer: "FFV-Carl Gustaf" # todo: NEW TRANSLATION
+  SWE_kockums_ab_naval_manufacturer: "Kockums Båtvarv" # todo: NEW TRANSLATION
+  SWE_kockums_ab_naval_manufacturer2: "Kockums Ubåtsvarv" # todo: NEW TRANSLATION
+  SWE_Volvo_utility_vehicle_manufacturer: "Volvo Defense" # todo: NEW TRANSLATION
+  SWE_Ericsson_materiel_manufacturer: "Ericsson Electronics" # todo: NEW TRANSLATION
+  SYR_hmisho_vehicles: "Hmisho Vehicles Group" # todo: NEW TRANSLATION
+  SYR_damascus_steel: "Damascus Steel" # todo: NEW TRANSLATION
+  TUR_fnss_tank_manufacturer: "FNSS" # todo: NEW TRANSLATION
+  TUR_otokar_tank_manufacturer: "Otokar" # todo: NEW TRANSLATION
+  TUR_roketsan_materiel_manufacturer: "Roketsan" # todo: NEW TRANSLATION
+  TUR_mkek_materiel_manufacturer: "MKEK" # todo: NEW TRANSLATION
+  TUR_mkek_tank_manufacturer: "MKEK" # todo: NEW TRANSLATION
+  TUR_turkish_aerospace_industries_aircraft_manufacturer: "Turkish Aerospace Industries" # todo: NEW TRANSLATION
+  TUR_turkish_aerospace_industries_tank_manufacturer: "Turkish Aerospace Industries" # todo: NEW TRANSLATION
+  TUR_golcuk_naval_shipyard_naval_manufacturer: "Golcuk Naval Shipyard" # todo: NEW TRANSLATION
+  TUR_golcuk_naval_shipyard_naval_manufacturer2: "Golcuk Naval Shipyard" # todo: NEW TRANSLATION
+  UAE_caracal_materiel_manufacturer: "Caracal International" # todo: NEW TRANSLATION
+  UAE_emirates_defense_technology_tank_manufacturer: "Emirates Defense Technology" # todo: NEW TRANSLATION
+  UAE_abu_dhabi_ship_building_naval_manufacturer: "Abu Dhabi Ship Building" # todo: NEW TRANSLATION
+  UKR_kmdb_materiel_manufacturer: "KMDB" # todo: NEW TRANSLATION
+  UKR_kmdb_tank_manufacturer: "KMDB" # todo: NEW TRANSLATION
+  UKR_malyshev_factory_tank_manufacturer: "Malyshev Factory" # todo: NEW TRANSLATION
+  UKR_antonov_aircraft_manufacturer: "Antonov" # todo: NEW TRANSLATION
+  UKR_nikolayev_shipyard_naval_manufacturer: "Nikolayev Shipyard" # todo: NEW TRANSLATION
+  UKR_nikolayev_shipyard_naval_manufacturer_mtg: "Nikolayev Shipyard" # todo: NEW TRANSLATION
+  ENG_bae_land_systems_materiel_manufacturer: "BAE Land Systems" # todo: NEW TRANSLATION
+  ENG_bae_land_systems_tank_manufacturer: "BAE Land Systems" # todo: NEW TRANSLATION
+  ENG_agustawestland_tank_manufacturer: "AgustaWestland" # todo: NEW TRANSLATION
+  ENG_bae_aerospace_aircraft_manufacturer: "BAE Aerospace" # todo: NEW TRANSLATION
+  ENG_qinetiq_materiel_manufacturer: "QinetiQ" # todo: NEW TRANSLATION
+  ENG_thales_tank_manufacturer: "Thales" # todo: NEW TRANSLATION
+  ENG_bae_systems_marine_naval_manufacturer: "BAE Systems Marine" # todo: NEW TRANSLATION
+  ENG_bae_systems_submarine_naval_manufacturer: "BAE Systems Submarine" # todo: NEW TRANSLATION
+  USA_alliant_techsystems_materiel_manufacturer: "Alliant Techsystems" # todo: NEW TRANSLATION
+  USA_bell_helicopter_textron_tank_manufacturer: "Bell Helicopter Textron" # todo: NEW TRANSLATION
+  USA_boeing_aircraft_manufacturer: "Boeing" # todo: NEW TRANSLATION
+  USA_colt_defense_materiel_manufacturer: "Colt Defense" # todo: NEW TRANSLATION
+  USA_consolidated_robotics_materiel_manufacturer: "Consolidated Robotics" # todo: NEW TRANSLATION
+  USA_general_dynamics_APC_manufacturer: "GDLS-C" # todo: NEW TRANSLATION
+  USA_general_dynamics_materiel_manufacturer: "GDLS" # todo: NEW TRANSLATION
+  USA_general_dynamics_tank_manufacturer: "GDLS" # todo: NEW TRANSLATION
+  USA_general_dynamics_electric_boat_naval_manufacturer: "General Dynamics Electric Boat" # todo: NEW TRANSLATION
+  USA_bath_iron_works_naval_manufacturer: "Bath Iron Works" # todo: NEW TRANSLATION
+  USA_national_steel_and_shipbuilding_company_naval_manufacturer: "National Steel and Shipbuilding Company" # todo: NEW TRANSLATION
+  USA_lockheed_martin_aircraft_manufacturer: "Lockheed Martin" # todo: NEW TRANSLATION
+  USA_ingalls_shipbuilding_naval_manufacturer: "Ingalls Shipbuilding" # todo: NEW TRANSLATION
+  USA_northrop_grumman_newport_news_naval_manufacturer: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
+  USA_northrop_grumman_newport_news_naval_manufacturer_mtg: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
+  USA_northrop_grumman_newport_news_naval_manufacturer2: "Northrop Grumman Newport News" # todo: NEW TRANSLATION
+  USA_northrop_grumman_aircraft_manufacturer: "Northrop Grumman" # todo: NEW TRANSLATION
+  USA_textron_aviation_defense_manufacturer: "Textron Aviation Defense" # todo: NEW TRANSLATION
+  USA_raytheon_materiel_manufacturer: "Raytheon" # todo: NEW TRANSLATION
+  USA_sikorsky_aircraft_tank_manufacturer: "Sikorsky Aircraft" # todo: NEW TRANSLATION
+  USA_united_defense_tank_manufacturer: "United Defense" # todo: NEW TRANSLATION
+  USA_textron_tank_manufacturer: "Textron" # todo: NEW TRANSLATION
+  ARG_fabricaciones_militares_manufacturer: "Fabricaciones Militares" # todo: NEW TRANSLATION
+  ARG_citefa_manufacturer: "CITEFA" # todo: NEW TRANSLATION
+  ARG_tamse_tank: "Tanque Argentino Mediano Sociedad del Estado" # todo: NEW TRANSLATION
+  ARG_cicare_helicopter_tank: "Cicaré Helicópteros" # todo: NEW TRANSLATION
+  ARG_rio_santiago_shipyard: "Rio Santiago Shipyard" # todo: NEW TRANSLATION
+  ARG_tandanor_shipyard: "Talleres Navales Dársena Norte" # todo: NEW TRANSLATION
+  ARG_fma_air: "Fábrica Argentina de Aviones" # todo: NEW TRANSLATION
+  ARG_bersa_manufacturer: "Bersa" # todo: NEW TRANSLATION
+  VEN_ucocar_shipyard: "UCOCAR" # todo: NEW TRANSLATION
+  VEN_dianca_shipyard: "DIANCA" # todo: NEW TRANSLATION
+  VEN_cavim_manufacturer: "CAVIM" # todo: NEW TRANSLATION
+  GER_dynamit_nobel_name: "Dynamit Nobel" # todo: NEW TRANSLATION
+  GER_dynamit_nobel_trait: "Rocketry Developer" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_smart_optic_stabilizer: "Smart Optic Stabilizer" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_multi_mode_warhead: "Multi-Mode Warhead" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_urban_reload_warm_up: "Urban Reload Warm Up" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_explosives_line_automation: "Explosives Line Automation" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_advanced_fuze_control: "Advanced Fuze Control" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_digital_testbed_network: "Digital Testbed Network" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_design_continuity_board: "Design Continuity Board" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_night_vision_compatible: "Night Vision Compatible" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_thermal_imaging_targeting: "Thermal Imaging Targeting" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_smart_digital_sight: "Smart Digital Sight" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_rapid_reload_system: "Rapid Reload System" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_urban_breach_rounds: "Urban Breach Rounds" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_extended_range: "Extended Range Motors" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_lightweight_launcher_frame: "Lightweight Launcher Frame" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_compact_guidance_unit: "Compact Guidance Unit" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_compact_warhead: "Compact Warhead Change System" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_rgw_expansion: "RGW 110 Expansion Admin" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_anti_drone_retrofit: "Anti Drone FCS Retrofit" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_rapid_thermal_cooldown: "Rapid Thermal Cooldown" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_explosive_rd: "Explosive R&D Laboratory" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_modular_warhead_production_line: "Modular Warhead Production Line" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_smart_target_link: "Smart Target Link" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_hungary_barrel: "Hungary Coproduction JV" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_hungary_admin_centre: "Hungary JV Admin Centre" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_tube_adapt_system: "Tube Adapting System" # todo: NEW TRANSLATION
+  GER_mio_trait_flexible_contract_framework: "Flexible Contract Frameworks" # todo: NEW TRANSLATION
+  GER_mio_trait_warhead_facility_expansion: "Warhead Facility Expansion" # todo: NEW TRANSLATION
+  GER_mio_trait_low_signature: "Low Signature" # todo: NEW TRANSLATION
+  GER_mio_trait_stockpile_requilification: "Stockpile Requalification" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_legacy_explosive_efficiency: "Legacy Explosive Efficiency" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_aluminum_barrel_extrusion: "Aluminum Barrel Extrusion JV" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_reactive_armour_scale_up: "Reactive Armour Scale Up" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_chemical_mixer_automation: "Chemical Mixer Automation" # todo: NEW TRANSLATION
+  GER_mio_trait_dynamit_high_pressure_launch_charge: "High Pressure Launch Charge" # todo: NEW TRANSLATION
+  GER_mio_trait_trial_ramp_up: "RHW-110 Trial Ramp-Up" # todo: NEW TRANSLATION
+  GER_mio_trait_thermal_tracker_pod: "Thermal Tracker Pod" # todo: NEW TRANSLATION
+  GER_blohm_and_voss: "Blohm & Voss" # todo: NEW TRANSLATION
+  GER_blohm_and_voss_trait: "Standardized Ship Construction" # todo: NEW TRANSLATION
+  GER_artec_name: "Artec GmbH" # todo: NEW TRANSLATION
+  GER_Mercedes_Benz: "Mercedes-Benz" # todo: NEW TRANSLATION
+  GER_Mercedes_trait: "Vehicle Mogul" # todo: NEW TRANSLATION
+  GER_Eurocopter_helicopters_tank_manufacturer: "Eurocopter" # todo: NEW TRANSLATION
+  GER_Eurocopter_helicopters_tank_manufacturer_trait: "Electronic Innovator" # todo: NEW TRANSLATION
+  GER_MBB_helicopters_tank_manufacturer_name: "MBB" # todo: NEW TRANSLATION
+  GER_diehl_defence_aircraft_manufacturer: "Diehl Defence" # todo: NEW TRANSLATION
+  GER_diehl_defence_aircraft_manufacturer_trait: "Precision Ammunitions Plant" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_extended_solid_motor: "Extended Range Solid Rocket Motor" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_dual_mode_seeker: "Dual Mode Infrared Radar Seeker" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_marine_grade_seeker: "Marine Grade Seeker Coating" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_manufactured_propellant: "Additive Manufactured Propellant" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_compliance_cell: "Regulatory Compliance Cell" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_strategic_investment_pool: "Strategic Investment Pool" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_energy_management_hub: "Lean Energy Management Hub" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_spare_part_fabrication: "Additive Spare Part Fabrication" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_circular_design: "Circular Design Principles" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_joint_integration_team: "Joint Venture Integration Team" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_tandem_heat: "Tandem HEAT Warhead" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_infrared_seeker: "Imaging Infrared Seeker" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_armor_penetrator: "Explosive Reactive Armor Penetrator" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_quick_tripod: "Quick Deploy Tripod Launcher" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_prototyping_lines: "Rapid Prototyping Lines" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_agile_design: "Agile Design Reconfiguration" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_joint_assembly: "Joint Localized Assembly" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_lightweight_chassis: "Lehká konstrukce podvozku" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_composite_armor: "Kompozitní pancéřování" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_automated_acquisition: "Automatizovaný systém určování cílů" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_predictive_maintenance: "Prediktivní údržba" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_ondemand_tooling: "Centrum nástrojů na vyžádání" # todo: NEW TRANSLATION
+  GER_mio_trait_diehl_field_replaceable: "Vyměnitelné palebné moduly na bojišti" # todo: NEW TRANSLATION
+  GER_HDW_naval_manufacturer: "Howaldtswerke-Deutsche Werft" # todo: NEW TRANSLATION
+  GER_HDW_naval_manufacturer_trait: "Specialista na ponorky" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_unified_battle_man: "Jednotné jádro řízení boje" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_cross_domain: "Buňka pro spolupráci senzorů napříč doménami" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_smart_fusion_radar: "APAR-SMART L Fusion Radar" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_towed_interceptor: "Tažená sonarová síť pro interceptory" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_multi_layer_shield: "Vícevrstvý štít elektronického boje" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_gyro_navigation_core: "Gyro-stabilizované navigační jádro" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_automated_ciws: "Automatizované propojení CIWS Railgun" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_reinforced_deck: "Posílené palubní pancéřování z kompozitu" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_nano_fiber_hull: "Nanovláknový tlakový trup" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_global_retrofit: "Globální síť dokových retrofitů" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_polymer_sheating: "Polymerové anechoické opláštění" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_silent_operations: "Povlak pro tiché operace" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_automated_ballast: "Automatická regulace balastu" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_low_profile_bow: "Nízkoprofilová příď prorážející vlny" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_codag: "CODAG Eco-Drive Matrix" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_hydrogen_fuel: "Pole vodíkových palivových článků" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_hydro_rudder: "Hydrodynamický X-kormidlový systém" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_harpoon_vls: "Integrace Harpoon VLS" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_sub_surface_drone: "Vypouštěcí hangár pro podmořské drony" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_cryogenic_missile: "Cryogenní zásobník raket" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_shock_absorbent_crew: "Modul posádky s tlumením nárazů" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_rapid_compartment: "Rychlý systém utěsnění oddílů" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_kiel_steel: "Vylepšení Kiel oceli" # todo: NEW TRANSLATION
+  GER_mio_trait_hdw_tkms_shipyard: "TKMS Shipyard Federation" # todo: NEW TRANSLATION
+  GER_SIG_Sauer_materiel_manufacturer_name: "SIG Sauer" # todo: NEW TRANSLATION
+  GER_SIG_Sauer_materiel_manufacturer_trait: "Boji prověřený výrobce" # todo: NEW TRANSLATION
+  GER_helsing_se: "Helsing SE" # todo: NEW TRANSLATION
+  GER_helsing_se_trait: "Inovátor umělé inteligence" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_composite_airframe: "Kompozitní výztuha trupu" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_3d_printed_panels: "3D tištěné kompozitní panely" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_stealth_hull: "Tichý akustický trup" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_ai_guided_swarm: "AI řízené rojové algoritmy" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_low_coatings: "Povlaky s nízkou viditelností" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_jam_resistance: "Odolnost proti rušení v elektronických bojích" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_extended_endurance: "Modul s prodlouženou výdrží" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_integrated_command: "Integrované velící středisko bezpilotních letounů" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_landmark: "Navigační sada založená na orientačních znacích" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_ai_quality: "AI řízená kontrola jakosti" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_rapid_drone_assembly: "Rychlé výrobní linky dronů" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_modular_payload: "Modulární zásobníky nákladu" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_evtol_office: "Kancelář programu EVTOL a dronů" # todo: NEW TRANSLATION
+  GER_mio_trait_helsing_autonomous_rd: "Síť výzkumu a vývoje autonomních systémů" # todo: NEW TRANSLATION
+  GER_mbda_deutschland: "MBDA Deutschland GmbH" # todo: NEW TRANSLATION
+  GER_mbda_deutschland_trait: "Specialista na rakety" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_lightweight: "Lehké vybavení" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_atgm_precision: "Přesný zásah" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_enforcer_platform: "Platforma vybavení Enforcer" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_efficiency: "Efektivní výroba" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_manpads_vanguard: "Průkopník" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_production_surge: "Nápor ve výrobě" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_rd_advance: "Pokrok ve výzkumu a vývoji" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_blos: "BLOS" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_rapid_reload_equipment: "Vybavení pro rychlé doplňování" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_dual_use_esg: "Dvojité využití ESG strategie" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_sam_bulk: "Hromadná výroba" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_sam_deep_shield: "Hluboký štít" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_patriot_system_integration: "Integrace Patriot systému" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_propulsion: "Vylepšení pohonu" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_european_glcm_consortium: "Evropské konzorcium GLCM" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_rd_edge: "Předstih ve výzkumu a vývoji" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_cruise_missile_reach: "Zlepšení dosahu" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_modular_warhead: "Modulární hlavice" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_next_radar: "Aster Next Radar" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_mass_production: "Továrny masové výroby" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_deep_sea_strike_cruise: "Hloubomořský úderný cruise" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_deep_stealth_terrain_follow: "Tichý sledovač terénu" # todo: NEW TRANSLATION
+  GER_mio_trait_mbda_supersonic_naval_interceptor: "Supersonický námořní interceptor" # todo: NEW TRANSLATION
+  GER_rheinmetall_man: "Rheinmetall MAN" # todo: NEW TRANSLATION
+  GER_rheinmetall_man_trait: "Špičkový výrobce automobilů" # todo: NEW TRANSLATION
+  GER_BMW: "Bayerische Motoren Werke AG" # todo: NEW TRANSLATION
+  GER_BMW_trait: "Známý výrobce automobilů" # todo: NEW TRANSLATION
+  GER_german_naval_yards: "Německé námořní loděnice" # todo: NEW TRANSLATION
+  GER_german_naval_yards_trait: "Výrobce malých plavidel" # todo: NEW TRANSLATION
+  GER_siemens_defence_electronics: "Siemens Electronics & Mobility" # todo: NEW TRANSLATION
+  GER_siemens_defence_electronics_trait: "Výrobce elektronického inženýrství" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_uk_signalling: "Chippenham Smart Factory Expansion" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_adaptive_signal_processor: "Adaptivní signálový procesor" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_high_performance_tsn: "Vysoko výkonný TSN modul" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_fault_tolerant_switch_fabric: "Chyběodolná přepínací síť" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_real_time_data_bus: "Datová sběrnice v reálném čase" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_cyber_resilient_firmware: "Kyberodolný firmware" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_modular_plc: "Modulární PLC architektura" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_lean_circuit: "Úsporná výroba obvodů" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_digital_twin_assembly: "Montážní linka digitálního dvojčete" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_modular_design_philosophy: "Modulární filozofie návrhu" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_global_rd_synergy: "Globální synergie ve výzkumu a vývoji" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_automated_quality_inspections: "Automatizované kontroly kvality" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_digital_training_labs: "Digitální školicí laboratoře" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_additive_spare_part: "Vytváření aditivních náhradních dílů" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_on_demand_tooling: "Centrum nástrojů na vyžádání" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_modular_bogie: "Modulární sestava podvozku" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_regenrative_braking: "Regenerační brzdový systém" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_lean_logistics: "Integrace štíhlé logistiky" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_digital_twin_optimization: "Optimalizace rozložení digitálního dvojčete" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_composite_carbody: "Lehké kompozitní karoserie" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_ai_maintenance: "AI řízená údržba" # todo: NEW TRANSLATION
+  GER_mio_trait_siemens_vectron_platform: "Rozšíření linie Vectron" # todo: NEW TRANSLATION
+  GER_thyssenkrupp_marine_naval_manufacturer: "ThyssenKrupp Marine Systems" # todo: NEW TRANSLATION
+  GER_thyssenkrupp_marine_naval_manufacturer_trait: "Expansionist Dockyards" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_quiet_cavitation_hull: "Tichý kavitační trup" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_fuel_cell_propulsion: "Pohon palivových článků" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_high_speed_turbine: "Vysokorychlostní turbínový motor" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_modular_stalth_hull: "Modulární tichý trup" # todo: NEW TRANSLATION
+  GER_mio_trait_european_defense_collaboration: "Evropská obranná spolupráce" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_integrated_network: "Integrovaná dodavatelská síť" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_naval_logistics_partnerships: "Námořní logistická partnerství" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_eco_dry_dock: "Ekologické dokové operace" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_flexible_mission_bay: "Flexibilní palubní zóna" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_naval_rd_pipeline: "R&D pipeline námořních systémů" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_modular_shipbuilding: "Modulární systém stavby lodí" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_reinforced_keel_frame: "Posílený kýlový rám" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_non_magnetic_steel: "Nemagnetická ocel" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_ultra_deep_operating: "Extrémně hluboká provozní hloubka" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_reinforced_bulkheads: "Posílené palubní příčky" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_corrosion_resistant: "Povlak odolný proti korozi" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_digitized_training: "Digitální školicí simulace" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_stealth_optimization: "Interní optimalizace stealth" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_electric_propellor: "Elektrická tichá vrtule" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_stealth_radar_integration: "Integrace stealth radaru" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_retractable_mast: "Vytahovací stožár" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_adaptive_sonar: "Adaptivní sonarová sada" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_ai_combat_simulations: "AI vylepšené bojové simulace" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_compact_system_integration: "Kompaktní integrace systémů" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_integrated_combat_suite: "Integrovaná bojová sada" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_advanced_vls: "Pokročilý vertikální startovací systém" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_multi_role_torpedo: "Všestranná torpédová výzbroj" # todo: NEW TRANSLATION
+  GER_mio_trait_electronic_warfare_dispensers: "Dispenzéry pro elektronický boj" # todo: NEW TRANSLATION
+  GER_mio_trait_thyssenkrupp_rheinmetall: "Integrace Rheinmetall CIWS" # todo: NEW TRANSLATION
+  GER_Flensburger_Fahrzeugbau: "Flensburger Fahrzeugbau" # todo: NEW TRANSLATION
+  GER_Armored_Car_Systems: "Systémy obrněných automobilů" # todo: NEW TRANSLATION
+  mio_cat_destroyers: "Torpédové lodě a stealth torpédové lodě" # todo: NEW TRANSLATION
+  mio_cat_frigates: "Fregaty a stealth fregaty" # todo: NEW TRANSLATION
+  mio_cat_only_small_ships: "Hlídková loď, korveta a stealth korveta" # todo: NEW TRANSLATION

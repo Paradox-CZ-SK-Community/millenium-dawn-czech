@@ -1,446 +1,753 @@
 ﻿l_english:
- MD_AI_RULES: "Možnosti AI" # todo: NEW TRANSLATION
- MD_PEACE_DEALS: "Mírové konference" # todo: NEW TRANSLATION
- MD_FOCUS_TREE_RULES: "Možnosti stromu zaměření" # todo: NEW TRANSLATION
- MD_FORMABLE_RULES: "Vlajky & formovatelné národy" # todo: NEW TRANSLATION
- MD_ORGANISATION_RULES: "Možnosti organizace" # todo: NEW TRANSLATION
- MD_INFLUENCE_RULES: "Možnosti systému vlivu" # todo: NEW TRANSLATION
- MD_OPTIMISATION_RULES: "Optimalizace & výkon" # todo: NEW TRANSLATION
- MD_NUCLEAR_RULES: "Jaderná pravidla" # todo: NEW TRANSLATION
- MD_RULES: "Různá pravidla Millennium Dawn" # todo: NEW TRANSLATION
- MD_CHEAT_RULES: "Možnosti cheatů" # todo: NEW TRANSLATION
- MD_RANDOM_RULES: "Náhodné herní pravidla" # todo: NEW TRANSLATION
- RULE_HARD_AI_ECONOMIC: "Ekonomická AI" # todo: NEW TRANSLATION
- RULE_DISABLE_HARD_AI_ECONOMIC: "Standardní omezení" # todo: NEW TRANSLATION
- RULE_DISABLE_HARD_AI_ECONOMIC_DESC: "Standardní omezení pro AI, které jí neumožňuje posílit svou ekonomiku. Pro historickou hru." # todo: NEW TRANSLATION
- RULE_ENABLE_HARD_AI_ECONOMIC: "Žádná omezení" # todo: NEW TRANSLATION
- RULE_ENABLE_HARD_AI_ECONOMIC_DESC: "Pokud vás nudí, že se v každé hře AI nedostane z ekonomické krize - toto je pro vás. AI už nebude omezena v rozhodování o své ekonomice. Připravte se, že mnoho zemí bude bohatších než vy. Jen pro ty, kteří se nebojí výzvy. Pozdrav od Battle AI;)" # todo: NEW TRANSLATION
- RULE_DISABLE_AI_DEBT_WAR_TITLE: "Dluhové války pro AI" # todo: NEW TRANSLATION
- RULE_DISABLE_AI_DEBT_WAR: "Zakázat" # todo: NEW TRANSLATION
- RULE_DISABLE_AI_DEBT_WAR_DESC: "Toto zakáže funkci dluhových válek pro AI. AI už nebude mít možnost napadnout zemi, která nesplácí své dluhy." # todo: NEW TRANSLATION
- RULE_ENABLE_AI_DEBT_WAR: "Povolit" # todo: NEW TRANSLATION
- RULE_ENABLE_AI_DEBT_WAR_DESC: "Toto nastavení zvýší pravděpodobnost, že AI vyhlásí dluhové války, pokud vůči ní nezaplatíte dluh." # todo: NEW TRANSLATION
- RULE_ENABLE_AI_FIGHTING_AUTONOMY_FOCUS: "AI používá §TZaměření Zvýšit autonomii§!" # todo: NEW TRANSLATION
- RULE_ENABLE_FIGHTING_AUTONOMY_FOCUS: "Povolit" # todo: NEW TRANSLATION
- RULE_ENABLE_FIGHTING_AUTONOMY_FOCUS_DESC: "AI bude bojovat proti vaší autonomii použitím kontinuálního zaměření §YZlepšit autonomii§!." # todo: NEW TRANSLATION
- RULE_DISABLE_FIGHTING_AUTONOMY_FOCUS: "Zakázat" # todo: NEW TRANSLATION
- RULE_DISABLE_FIGHTING_AUTONOMY_FOCUS_DESC: "AI už nebude bojovat proti vaší autonomii použitím kontinuálního zaměření §YZlepšit autonomii§!." # todo: NEW TRANSLATION
- RULE_ALLOW_CHAOTIC_PEACE_CONFERENCE: "Povolit chaotické mírové dohody" # todo: NEW TRANSLATION
- RULE_OPTION_CHAOTIC_PC_NO: "Ne" # todo: NEW TRANSLATION
- RULE_OPTION_CHAOTIC_PC_NO_DESC: "Tato volba by měla zastavit masivní okupace území v AI mírových konferencích.\nDělá to tím, že omezuje, kdo může nárokovat státy na velké mocnosti a vůdce frakcí. (Toto ovlivní pouze AI, ne hráče.)" # todo: NEW TRANSLATION
- RULE_OPTION_CHAOTIC_PC_YES: "Ano" # todo: NEW TRANSLATION
- RULE_OPTION_CHAOTIC_PC_YES_DESC: "Pro ty, kteří si skutečně užívají prokleté mírové konference — proč omezovat svět na 1 §YRusko§!, když je možné vytvořit 12 §YRuských států§! \n(Nezodpovídám za následky, které zvolení této možnosti mohou způsobit!)" # todo: NEW TRANSLATION
- RULE_ALLOW_PLAYER_LED_PEACE_CONFERENCE: "Povolit mírové konference vedené hráčem" # todo: NEW TRANSLATION
- RULE_OPTION_PLAYER_LED_PC_NO: "Ne" # todo: NEW TRANSLATION
- RULE_OPTION_PLAYER_LED_PC_NO_DESC: "Tato volba nechá AI dělat vlastní rozhodnutí, jakkoli hloupá mohou být." # todo: NEW TRANSLATION
- RULE_OPTION_PLAYER_LED_PC_YES: "Ano" # todo: NEW TRANSLATION
- RULE_OPTION_PLAYER_LED_PC_YES_DESC: "Pro ty, kteří nevěří AI, že správně nárokuje území, tato volba umožní, aby během mírových konferencí nároky činili pouze hráči." # todo: NEW TRANSLATION
- RULE_SALAFIST_BRANCH: "Povolit salafistickou větev" # todo: NEW TRANSLATION
- RULE_YES_SALAFIST_BRANCH_DESC: "Povolit salafistickou větev v generickém stromu pro všechny národy bez ohledu na počáteční náboženství." # todo: NEW TRANSLATION
- RULE_NO_SALAFIST_BRANCH_DESC: "Povolit salafistickou větev v generickém stromu pro národy následující jakoukoli variantu islámu." # todo: NEW TRANSLATION
- LIC_AI_BEHAVIOR: "@LIC Liechtenstein" # todo: NEW TRANSLATION
- RULE_LIC_HRE_Alaska: "Vzestup Lichtenštejnska" # todo: NEW TRANSLATION
- RULE_LIC_HRE_Alaska_ALLOWED_DESC: "Povolit Lichtenštejnsku pokus koupit Aljašku od Spojených států a nárokovat Svatou říši římskou. (§R Pokud hrajete s historickými zaměřeními, USA téměř vždy žádost odmítnou. §!)" # todo: NEW TRANSLATION
- RULE_LIC_HRE_Alaska_BLOCKED_DESC: "Nepovolit Lichtenštejnsku pokus koupit Aljašku ani nárokovat Svatou říši římskou." # todo: NEW TRANSLATION
- RUS_AI_BEHAVIOR: "@SOV Russian Federation" # todo: NEW TRANSLATION
- RULE_OPTION_PUTIN: "§YJednotné Rusko§!" # todo: NEW TRANSLATION
- RULE_OPTION_PUTIN_AI_DESC: "§YRuská federace§! bude usilovat o prosazení zahraniční politiky §YJednotného Ruska§! a posílit je." # todo: NEW TRANSLATION
- RULE_OPTION_PEACEFUL_REFORM: "§YReformace§! Ruska" # todo: NEW TRANSLATION
- RULE_OPTION_PEACEFUL_REFORM_AI_DESC: "Rusko bude usilovat o liberální formy a posilovat vazby se Západem." # todo: NEW TRANSLATION
- RULE_OPTION_THE_RED_MENACE: "§YČervená hrozba§!" # todo: NEW TRANSLATION
- RULE_OPTION_THE_RED_MENACE_AI_DESC: "Rusko se začne posouvat směrem k marxistickým politikám a pokusí se obnovit §YSovětský svaz§! \n" # todo: NEW TRANSLATION
- RULE_OPTION_RISE_OF_RUSSIA: "§YZvstup§! Ruska" # todo: NEW TRANSLATION
- RULE_OPTION_RISE_OF_RUSSIA_AI_DESC: "Rusko se začne posouvat k nacionalistickým politikám a bude usilovat o agresivní zahraniční politiku s cílem vyhlásit §YVelké Rusko§!.\n" # todo: NEW TRANSLATION
- RULE_OPTION_NAZBOL_RUSSIA: "§YČerveno-černé§! Rusko" # todo: NEW TRANSLATION
- RULE_OPTION_NAZBOL_RUSSIA_AI_DESC: "§YNacionální bolševici§! vidí jinou cestu pro rozvoj své domoviny. Zavedou nový pořádek, nastolí kontrolu a vrátí velikost §YRuska§!.\n" # todo: NEW TRANSLATION
- RUS_AI_PUTIN_BEHAVIOR: "@SOV Putin's Priorities" # todo: NEW TRANSLATION
- RULE_SUPPORT_KADYR: "§YRamzan Kadyrov§! je Putinův pěšák" # todo: NEW TRANSLATION
- RULE_SUPPORT_KADYR_DESC: "Rusko umožní §YRamzan Kadyrov§! zavést svůj vlastní pořádek v Čečensku, výměnou za to obdrží loajální armádu" # todo: NEW TRANSLATION
- RULE_SUPPORT_WAGNER: "Putinův kuchař" # todo: NEW TRANSLATION
- RULE_SUPPORT_WAGNER_DESC: "Rusko co nejdříve vytvoří §YWagnerovy PMCs§! a využije všechny jejich schopnosti" # todo: NEW TRANSLATION
- RUS_AI_JIRIK_BEHAVIOR: "@SOV Zhirinovsky's Priorities" # todo: NEW TRANSLATION
- RULE_SUPPORT_ARMENIA: "§YAkoalice proti Turecku§!" # todo: NEW TRANSLATION
- RULE_SUPPORT_ARMENIA_DESC: "Rusko začne shromažďovat spojence k boji proti §YTureckému vlivu§!" # todo: NEW TRANSLATION
- RULE_SUPPORT_TURKEY: "Podpora pro §YTurecko§!" # todo: NEW TRANSLATION
- RULE_SUPPORT_TURKEY_DESC: "Rusko si zvolí §YTurecko§! jako spojence. Aliance dobude východ!" # todo: NEW TRANSLATION
- USA_AI_BEHAVIOR: "@USA United States Of America" # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRAT: "Sklon k Demokratům" # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRAT_AI_DESC: "Spojené státy budou usilovat o zvolení vedení Demokratické strany a budou držet zemi v moderním smyslu směrem k centrolevé koalici u moci." # todo: NEW TRANSLATION
- RULE_OPTION_REPUBLICAN: "Sklon k Republikánům" # todo: NEW TRANSLATION
- RULE_OPTION_REPUBLICAN_AI_DESC: "Spojené státy budou usilovat o zvolení vedení Republikánské strany a budou držet zemi v moderním smyslu směrem k centropravé koalici u moci." # todo: NEW TRANSLATION
- RULE_OPTION_REFORMED_REPUBLIC: "Zreformovaná republika" # todo: NEW TRANSLATION
- RULE_OPTION_REFORMED_REPUBLIC_AI_DESC: "Vůle lidu byla vyslyšena. Politický tlak a veřejné pobouření vedly k zásadním politickým a ekonomickým reformám, které umožňují lepší zastoupení a viditelnost třetích stran. Nyní je na lidech, aby zvolili stranu, která je reprezentuje." # todo: NEW TRANSLATION
- RULE_OPTION_POST_UNITED: "Post United" # todo: NEW TRANSLATION
- RULE_OPTION_POST_UNITED_AI_DESC: "PAX AMERICANA NAVŽDY!!!" # todo: NEW TRANSLATION
- FIJ_AI_BEHAVIOR: "@FIJ Republic of Fiji" # todo: NEW TRANSLATION
- EARLY_COUP_ESCALATION: "Raná eskalace převratu" # todo: NEW TRANSLATION
- EARLY_COUP_ESCALATION_AI_DESC: "AI pokazí puč v roce 2000, což způsobí přímou cestu k určitým alternativním historickým možnostem." # todo: NEW TRANSLATION
- BREAKING_HISTORY: "Narušení historie" # todo: NEW TRANSLATION
- BREAKING_HISTORY_AI_DESC: "AI zpacká puč v roce 2006, což jí umožní nepostupovat historickou cestou." # todo: NEW TRANSLATION
- NIG_AI_BEHAVIOR: "@NIG Federal Republic of Nigeria" # todo: NEW TRANSLATION
- RULE_OPTION_RISE_OF_BOKO_HARAM: "Vzestup Boko Haram" # todo: NEW TRANSLATION
- RULE_OPTION_RISE_OF_BOKO_HARAM_AI_DESC: "Tlačí na Nigerii, aby umožnila Boko Haram převzít kontrolu nad zemí." # todo: NEW TRANSLATION
- RULE_OPTION_PDP_EMPOWERED: "People's Democratic Party" # todo: NEW TRANSLATION
- RULE_OPTION_PDP_EMPOWERED_AI_DESC: "People's Democratic Party je jedna z největších stran Nigérie. Hlavně prosazuje křesťanské postoje a nezařazené ideologie." # todo: NEW TRANSLATION
- RULE_OPTION_ANPP_EMPOWERED: "All Nigeria's People Party" # todo: NEW TRANSLATION
- RULE_OPTION_ANPP_EMPOWERED_AI_DESC: "All Nigeria's People Party (nebo Progressive Democratic Congress v roce 2017) je hlavní opoziční stranou v roce 2000 v Nigérii. Je důležité poznamenat, že se velmi podobá sociální demokracii v Evropě a prosazuje zásadní reformy v Nigérii." # todo: NEW TRANSLATION
- FRA_AI_BEHAVIOR_MD: "@FRA French Republic" # todo: NEW TRANSLATION
- RULE_OPTION_FRA_HISTORICAL: "Historické chování AI" # todo: NEW TRANSLATION
- RULE_OPTION_FRA_HISTORICAL_DESC: "Francie zůstane západní a jedním z lídrů EU. Francie se bude snažit směrovat Evropskou unii k větší centralizaci, zároveň si udrží vliv v bývalých koloniích." # todo: NEW TRANSLATION
- RULE_OPTION_FRA_EGALITE: "Égalité" # todo: NEW TRANSLATION
- RULE_OPTION_FRA_EGALITE_DESC: "Francie zvolí Égalité a bude se posouvat k marxismu." # todo: NEW TRANSLATION
- RULE_OPTION_FRA_FRATERNITE: "Fraternité" # todo: NEW TRANSLATION
- RULE_OPTION_FRA_FRATERNITE_DESC: "Francie zvolí Fraternité a bude usilovat o dominanci v Evropě." # todo: NEW TRANSLATION
- ITA_AI_BEHAVIOR_MD: "@ITA Italian Republic" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_DEMOCRATICP: "Democratic Party" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_DEMOCRATICP_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_FORZA: "Forza Italia Party" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_FORZA_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_SOCIALL: "Social Liberalism" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_SOCIALL_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_RADICALP: "The Radical Party" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_RADICALP_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_LEFTP: "Five Star Movement" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_LEFTP_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_RIGHTP: "National Alliance" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_RIGHTP_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_LEU: "Free and Equal" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_LEU_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_GREENS: "Federation of the Greens" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_GREENS_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_EAST: "Italian Communist Party" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_EAST_DESC: "" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_NONCOM: "Communist Refoundation Party" # todo: NEW TRANSLATION
- RULE_OPTION_ITA_NONCOM_DESC: "" # todo: NEW TRANSLATION
- PRC_AI_BEHAVIOR: "@CHI People's Republic of China" # todo: NEW TRANSLATION
- RULE_OPTION_CHINESE_HEGEMONY: "Čínská hegemonie" # todo: NEW TRANSLATION
- RULE_OPTION_CHINESE_HEGEMONY_AI_DESC: "Čína bude usilovat o dominanci ve své sféře vlivu i ve světě, snažit se sesadit Ameriku z pozice jediného globálního hegemona. Odmítne pod tlakem vzdát se svých sociálních a politických hodnot ve prospěch západního liberálního mezinárodního řádu. Čína sice zřídka přímo vyvolá válku a raději získává vliv jinými prostředky, ale neuhne před válkou, pokud bude nucena použít sílu." # todo: NEW TRANSLATION
- RULE_OPTION_A_LONG_PEACE: "Pokojný vzestup" # todo: NEW TRANSLATION
- RULE_OPTION_A_LONG_PEACE_AI_DESC: "Čína bude upřednostňovat diplomacii a spolupráci před konfrontací, bude usilovat o rozvoj a neustále se přizpůsobovat existujícím pravidlům mezinárodního řádu místo jeho svržení. Bude také směřovat k liberalizaci politicky i ekonomicky." # todo: NEW TRANSLATION
- RULE_OPTION_RED_DAWN: "Rudý úsvit" # todo: NEW TRANSLATION
- RULE_OPTION_RED_DAWN_AI_DESC: "Čína se bude snažit vrátit ke svým maoistickým kořenům, zvrátit Dengovy ekonomické reformy a při zahraniční politice se řídit ideologií spíše než strategií. Válka bude nevyhnutelná, protože Čína bude usilovat o revoluci mezinárodního řádu ve svém obrazu, řízeném univerzalistickým komunismem spíše než specifickými čínskými hodnotami." # todo: NEW TRANSLATION
- JAP_AI_BEHAVIOR: "@JAP Japan" # todo: NEW TRANSLATION
- RULE_OPTION_RED_STAR_OVER_TOKYO: "Červená hvězda nad Tokiem" # todo: NEW TRANSLATION
- RULE_OPTION_RED_STAR_OVER_TOKYO_AI_DESC: "V minulosti nebyla představa komunistického Japonska tak nepravděpodobná. V následujících letech se tato možnost zdála ustupovat, když Japonsko přijalo plně kapitalistický ekonomický systém. Zázračný růst, který tento systém kdysi přinesl, však nyní stagnuje. Nerovnost je rozšířená a obyvatelé Japonska začínají přijímat možnost, že změna stávajících poměrů může být nutná..." # todo: NEW TRANSLATION
- RULE_OPTION_RETURN_OF_THE_EMPIRE: "Návrat impéria" # todo: NEW TRANSLATION
- RULE_OPTION_RETURN_OF_THE_EMPIRE_AI_DESC: "Když byla Japonsko velkou mocností, upíralo svůj zrak na celý asijský kontinent a téměř dosáhlo zaslouženého postavení. Nyní je Japonsko slabé a podřízené vůli cizích mocností. Japonsko se bude snažit obnovit svou dřívější slávu a znovu vybudovat impérium ve Východní Asii." # todo: NEW TRANSLATION
- BRM_AI_BEHAVIOR: "@BRM Union of Myanmar" # todo: NEW TRANSLATION
- RULE_OPTION_BEACON_OF_DEMOCRACY: "Maják demokracie" # todo: NEW TRANSLATION
- RULE_OPTION_BEACON_OF_DEMOCRACY_AI_DESC: "Myanmar bude usilovat o reformy bez kompromisů a rychle dovede NLD k moci. Místo aby dělal ústupky Tatmadaw, Myanmar zmobilizuje různé příznivce politické liberalizace, včetně etnických povstaleckých skupin, s cílem jednou provždy ukončit vliv armády v politice." # todo: NEW TRANSLATION
- RULE_OPTION_AN_IRON_FIST: "Železná pěst" # todo: NEW TRANSLATION
- RULE_OPTION_AN_IRON_FIST_AI_DESC: "Platí pouze pro start v roce 2000: toto herní pravidlo přinutí Myanmar zůstat diktaturou a místo pozitivní reakce na tlak k reformám, jak se stalo historicky, bude reagovat represemi a totalitarismem. Navíc, aby odvedla pozornost od ztráty legitimity, vojenská vláda bude usilovat o válku nejen s povstaleckými skupinami v zemi, ale také se sousedy." # todo: NEW TRANSLATION
- SWE_AI_BEHAVIOR: "@SWE Kingdom of Sweden" # todo: NEW TRANSLATION
- RULE_OPTION_NORTHERN_AMBITION: "Severní ambice" # todo: NEW TRANSLATION
- RULE_OPTION_NORTHERN_AMBITION_AI_DESC: "Švédská krajní pravice zaznamená nárůst popularity, vyvrcholením čehož bude pokus o založení švédského impéria v severní Evropě." # todo: NEW TRANSLATION
- SYR_AI_BEHAVIOR: "@SYR Syrian Arab Republic" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_HISTORICAL: "Historické AI" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_HISTORICAL_DESC: "Hafez al-Assad bude nahrazen svým nejstarším synem Bašárem al-Assadem. Bašár udrží Sýrii jako zemi orientovanou na Rusko se vyváženým zaměřením na diplomacii, armádu a ekonomiku." # todo: NEW TRANSLATION
- RULE_OPTION_SYR_IRON_LADY: "Železná dáma Sýrie" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_IRON_LADY_DESC: "Hafez al-Assad bude nahrazen svou dcerou Bushrou al-Assad. Bushra zaujme neutrálnější postoj mezi velmocemi s důrazem na diplomacii a ekonomiku." # todo: NEW TRANSLATION
- RULE_OPTION_SYR_SYRIAN_SAVAGE: "Syrský divoch" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_SYRIAN_SAVAGE_DESC: "Hafez al-Assad bude nahrazen svým nejmladším synem Maherem al-Assadem. Maher se pokusí vytvořit Velkou Sýrii a vybudovat novou moc na Středním východě. Zaměří se na vojenskou a ekonomickou expanzi." # todo: NEW TRANSLATION
- RULE_OPTION_SYR_NEW_ASSAD: "Nový al-Assad" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_NEW_ASSAD_DESC: "Po Damašské jarní revoluci bude Hafez al-Assad nahrazen svým bratrem Rifaatem al-Assadem. Rifaat se zaměří na pro-saúdskou politiku s důrazem na diplomacii a ekonomiku." # todo: NEW TRANSLATION
- RULE_OPTION_SYR_DAMASCUS_SPRING: "Damascenské jaro" # todo: NEW TRANSLATION
- RULE_OPTION_SYR_DAMASCUS_SPRING_DESC: "Sýrii ovládne hnutí Damascenského jara a země se promění v demokracii." # todo: NEW TRANSLATION
- BHR_AI_BEHAVIOR: "@BHR Bahrain" # todo: NEW TRANSLATION
- RULE_OPTION_DAY_OF_RAGE: "Den hněvu" # todo: NEW TRANSLATION
- RULE_OPTION_DAY_OF_RAGE_AI_DESC: "Lidé v Bahrajnu, ve stylu protivládních protestů 90. let, budou tlačit na větší politickou liberalizaci, vyústěním čehož bude vznik plně demokratického šíitského státu. Tato nová šíitská republika se sblíží s Íránem." # todo: NEW TRANSLATION
- SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia" # todo: NEW TRANSLATION
- RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Globální džihád - nejdříve GCC" # todo: NEW TRANSLATION
- RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "Saúdská Arábie se pokusí reformovat svou ekonomiku a sjednotit GCC do superstátu. Poté bude saúdská monarchie svržena povstáním al-Káidy, což povede k založení radikálního islámského státu, který bude šířit své fundamentalistické ideologie násilnými prostředky." # todo: NEW TRANSLATION
- RULE_OPTION_GLOBAL_JIHAD: "Globální džihád" # todo: NEW TRANSLATION
- RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "Saúdská monarchie bude svržena povstáním al-Káidy, což povede k založení radikálního islámského státu, který bude šířit své fundamentalistické ideologie násilnými prostředky." # todo: NEW TRANSLATION
- RULE_OPTION_ISLAMIC_AWAKENING: "Islámské probuzení" # todo: NEW TRANSLATION
- RULE_OPTION_ISLAMIC_AWAKENING_AI_DESC: "Hnutí Sahwa, ovlivněné Muslimským bratrstvem, bude úspěšně tlačit na saúdskou monarchii, aby ustoupila a umožnila vznik pluralitní islámské demokracie." # todo: NEW TRANSLATION
- RULE_OPTION_RETURN_OF_THE_BAATH: "Návrat Baasu" # todo: NEW TRANSLATION
- RULE_OPTION_RETURN_OF_THE_BAATH_AI_DESC: "Saúdská Arábie se postupně liberalizuje, což poskytne prostor ideologii Baasu (sociální arabský nacionalismus) získat pozici v zemi. Baasistická Arábie se poté pokusí vyhnat cizí vojska ze Středního východu a rozšířit své území." # todo: NEW TRANSLATION
- RULE_OPTION_SHIA_REVIVAL: "Šíitské oživení" # todo: NEW TRANSLATION
- RULE_OPTION_SHIA_REVIVAL_AI_DESC: "Šíité v Saúdské Arábii využijí příležitosti politické liberalizace k převzetí moci v zemi a sladí Saúdskou Arábii s Íránem a Ruskem." # todo: NEW TRANSLATION
- BRI_AI_BEHAVIOR: "@ENG United Kingdom" # todo: NEW TRANSLATION
- RULE_OPTION_EUROPEAN_FUTURE: "Evropská budoucnost" # todo: NEW TRANSLATION
- RULE_OPTION_EUROPEAN_FUTURE_AI_DESC: "Spojené království už není tím, čím bývalo. Británie už nemůže tvrdit, že je globální supervelmocí. To ale neznamená, že britský národ nemá hrát roli na světové scéně; evropský projekt poskytuje naději na zachování britského postavení ve světě jako součást širší komunity zemí sdílejících určité ideály." # todo: NEW TRANSLATION
- RULE_OPTION_RED_REPUBLIC: "Červená republika" # todo: NEW TRANSLATION
- RULE_OPTION_RED_REPUBLIC_AI_DESC: "Během celé své historie byla Velká Británie podřízena monarchům, aristokratům a šlechtě. Britský třídní systém je jedním z nejznámějších na světě, britští pracující trpí, zatímco bohatí se obohacují. Revoluce je dlouho v přípravě." # todo: NEW TRANSLATION
- RULE_OPTION_RULE_BRITANNIA: "Rule Britannia" # todo: NEW TRANSLATION
- RULE_OPTION_RULE_BRITANNIA_AI_DESC: "Kdysi býval tento ostrov známý a obávaný po celém světě. Britský monarcha vládl impériu, nad kterým nezapadalo slunce. Nyní však mezinárodní postavení Británie upadlo. Pouhý poskok Spojených států, stín své bývalé slávy. Nastal čas obnovit Britské impérium." # todo: NEW TRANSLATION
- GRE_AI_BEHAVIOR: "@GRE Greece" # todo: NEW TRANSLATION
- RULE_HELLENIC_REPUBLIC: "Historické" # todo: NEW TRANSLATION
- RULE_HELLENIC_REPUBLIC_DESC: "Řecko zachová demokracii a bude se snažit vyřešit řeckou dluhovou krizi pomocí úsporných opatření." # todo: NEW TRANSLATION
- RULE_OPTION_KKE: "KKE" # todo: NEW TRANSLATION
- RULE_OPTION_KKE_DESC: "Po narůstajícím nespokojení s vládou kvůli problémům způsobeným dluhovou krizí lidé posílí Komunistickou stranu Řecka a pokusí se vytvořit komunistický stát." # todo: NEW TRANSLATION
- RULE_OPTION_GOLDEN_DAWN: "Golden Dawn" # todo: NEW TRANSLATION
- RULE_OPTION_GOLDEN_DAWN_DESC: "Po narůstajícím nespokojení s vládou kvůli problémům způsobeným dluhovou krizí lidé posílí nacionalistickou stranu Golden Dawn a pokusí se vytvořit silný řecký stát." # todo: NEW TRANSLATION
- CAN_AI_BEHAVIOR: "@CAN Canada" # todo: NEW TRANSLATION
- RULE_NORTH_AMERICAN_STATUS_QUO: "Status quo v Severní Americe" # todo: NEW TRANSLATION
- RULE_NORTH_AMERICAN_STATUS_QUO_DESC: "Toto nastavení zajistí, že Kanada zůstane v NATO a bude setrvale spolupracovat s NATO a USA." # todo: NEW TRANSLATION
- RULE_NATIONALIST_CANADA: "Nacionalistická Kanada" # todo: NEW TRANSLATION
- RULE_NATIONALIST_CANADA_DESC: "Kanada se stane nacionalistickou a bude usilovat o dominanci v Severní Americe." # todo: NEW TRANSLATION
- RULE_STAND_ALONE_CANADA: "Samostatně" # todo: NEW TRANSLATION
- RULE_STAND_ALONE_CANADA_DESC: "Ozbrojená neutralita je stále neutralita." # todo: NEW TRANSLATION
- BOT_AI_BEHAVIOR: "@BOT Botswana" # todo: NEW TRANSLATION
- RULE_BOT_BDP_RULES: "BDP Stronghold - Historické" # todo: NEW TRANSLATION
- RULE_BOT_BDP_RULES_DESC: "BDP bude i nadále držet Botswanu, zůstane nezařazená a věrná konzervativním hodnotám." # todo: NEW TRANSLATION
- RULE_BOT_POLITICAL_RAINBOW: "Politická duha" # todo: NEW TRANSLATION
- RULE_BOT_POLITICAL_RAINBOW_DESC: "Opozice v Botswaně se pokusí prolomit vládnutí BDP a vytvořit více-stranickou demokracii." # todo: NEW TRANSLATION
- RULE_BOT_KGOSIKGOLO: "The Kgosikgolo" # todo: NEW TRANSLATION
- RULE_BOT_KGOSIKGOLO_DESC: "Tradiční kmenoví náčelníci Botswany budou posíleni a jeden z nich bude korunován Kgosikgolo Botswany." # todo: NEW TRANSLATION
- NKO_AI_BEHAVIOR: "@NKO Korea DPR" # todo: NEW TRANSLATION
- RULE_NKO_NAM_RULES: "Kim Jong-nam" # todo: NEW TRANSLATION
- RULE_NKO_NAM_RULES_DESC: "Kim Jong-nam ovládne moc a navždy změní Koreu na cestu \"Reform and Open up\"." # todo: NEW TRANSLATION
- RULE_NKO_UN_RULES: "Kim Jong-un" # todo: NEW TRANSLATION
- RULE_NKO_UN_RULES_DESC: "Jako zvolený nástupce Kim Jong-ila bude Kim Jong-un pokračovat v cestě džučche, antiamerikanismu, soběstačnosti a represivní vlády." # todo: NEW TRANSLATION
- RULE_NKO_JUNTA_RULES: "Junta - puč" # todo: NEW TRANSLATION
- RULE_NKO_JUNTA_RULES_DESC: "Junta provede převrat, aby zachovala čistotu džučche; vždy bude přijímat džučche a uchová si moc navždy." # todo: NEW TRANSLATION
- RULE_NKO_Yo_jong: "Kim Yo-jong" # todo: NEW TRANSLATION
- RULE_NKO_Yo_jong_ALLOWED_DESC: "Kim Yo-jong povede Korejský poloostrov jasnou cestou." # todo: NEW TRANSLATION
- RULE_NKO_Yo_jong_BLOCKED_DESC: "Nedovolit Kim Yo-jong převzít moc." # todo: NEW TRANSLATION
- SIN_AI_BEHAVIOR: "@SIN Sinagpore" # todo: NEW TRANSLATION
- SIN_GLOBAL_DIPLOMACY: "Globální diplomacie" # todo: NEW TRANSLATION
- SIN_GLOBAL_DIPLOMACY_DESC: "Cílem Singapuru ve světě je nastolit nový řád globální diplomacie." # todo: NEW TRANSLATION
- SIN_SINGAPORE_ALONE: "Singapur sám" # todo: NEW TRANSLATION
- SIN_SINGAPORE_ALONE_DESC: "Historické - toto je historická cesta Singapuru.\n\nSingapur nejlépe obstojí, pokud stojí sám." # todo: NEW TRANSLATION
- SIN_PRESSURE_SOUTH_ASIAN_SEAS: "Vyvíjet tlak na jihoasijská moře" # todo: NEW TRANSLATION
- SIN_PRESSURE_SOUTH_ASIAN_SEAS_DESC: "Nová vlna singapurské síly přichází." # todo: NEW TRANSLATION
- SWI_AI_BEHAVIOR: "@SWI Switzerland" # todo: NEW TRANSLATION
- SWI_MOUNTAIN_FORTRESS: "Horská pevnost" # todo: NEW TRANSLATION
- SWI_MOUNTAIN_FORTRESS_DESC: "Švýcarsko promění svou zemi v pevnost." # todo: NEW TRANSLATION
- SWI_NATO: "Cesta do NATO" # todo: NEW TRANSLATION
- SWI_NATO_DESC: "Švýcarsko bude usilovat o přiblížení se k NATO." # todo: NEW TRANSLATION
- SWI_SWISS_PROTECTION_LEAGUE: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
- SWI_SWISS_PROTECTION_LEAGUE_DESC: "Švýcarsko bude usilovat o novou frakci spolu s Rakouskem a Lichtenštejnskem." # todo: NEW TRANSLATION
- UKR_AI_BEHAVIOR: "@UKR Ukraine" # todo: NEW TRANSLATION
- UKR_PRO_RUSSIAN: "Pro-ruská vláda" # todo: NEW TRANSLATION
- UKR_PRO_RUSSIAN_DESC: "Kyjev se vydá pro-ruskou cestou napříč celým stromem." # todo: NEW TRANSLATION
- UKR_SLAVA_UKRAINE: "Sláva Ukrajině" # todo: NEW TRANSLATION
- UKR_SLAVA_UKRAINE_DESC: "Kyjev se vydá pro-ukrajinskou cestou napříč stromem." # todo: NEW TRANSLATION
- UKR_NATIONAL_FRONT: "Národní fronta" # todo: NEW TRANSLATION
- UKR_NATIONAL_FRONT_DESC: "Kyjev se vydá nacionalistickou cestou napříč stromem." # todo: NEW TRANSLATION
- SPR_AI_BEHAVIOR: "@SPR Spain" # todo: NEW TRANSLATION
- SPR_CONSERVATIVE_LEANINGS: "Konzervativní sklony" # todo: NEW TRANSLATION
- SPR_CONSERVATIVE_LEANINGS_DESC: "Španělsko se bude silně přiklánět k Partido Popular a dalším konzervativním stranám." # todo: NEW TRANSLATION
- SPR_RENACIMIENTO_NACIONALISTA: "Renacimiento Nacionalista" # todo: NEW TRANSLATION
- SPR_RENACIMIENTO_NACIONALISTA_DESC: "Španělsko se bude silně přiklánět k stranám jako Vox a España 2000." # todo: NEW TRANSLATION
- SPR_NACION_UNIDAD_IMPERIO: "Nacion Unidad Imperio" # todo: NEW TRANSLATION
- SPR_NACION_UNIDAD_IMPERIO_DESC: "Španělsko se bude silně přiklánět k La Falange." # todo: NEW TRANSLATION
- SPR_SOCIALISM_RISING: "Vzestup socialismu" # todo: NEW TRANSLATION
- SPR_SOCIALISM_RISING_DESC: "PSOE a sociálně demokratické strany budou mít vyšší šanci na zvolení a vstup do vlády." # todo: NEW TRANSLATION
- SPR_COMMUNIST_REVISIONISM: "Komunistický revizionismus" # todo: NEW TRANSLATION
- SPR_COMMUNIST_REVISIONISM_DESC: "Španělsko se pokusí posílit komunistické strany." # todo: NEW TRANSLATION
- SPR_THE_OLD_WAYS: "Staré způsoby" # todo: NEW TRANSLATION
- SPR_THE_OLD_WAYS_DESC: "Španělsko se bude snažit oživit Španělské impérium." # todo: NEW TRANSLATION
- PER_AI_BEHAVIOR: "@PER Iran" # todo: NEW TRANSLATION
- PER_REVOLUTIONARY_PERSIA: "Návrat Pahlaví" # todo: NEW TRANSLATION
- PER_REVOLUTIONARY_PERSIA_DESC: "Pahlaví II se vrátí do Íránu a založí světský stát." # todo: NEW TRANSLATION
- PER_PAN_PERSIA: "Íránská federace" # todo: NEW TRANSLATION
- PER_PAN_PERSIA_DESC: "Pan-íránisté získají moc v Íránu a budou usilovat o vytvoření íránské federace!" # todo: NEW TRANSLATION
- PER_FIRE_HAS_NO_FRIENDS_IRAN: "MEK" # todo: NEW TRANSLATION
- PER_FIRE_HAS_NO_FRIENDS_IRAN_DESC: "MEK obsadí moc v Íránu ve snaze vytvořit lidovou republiku." # todo: NEW TRANSLATION
- GEO_AI_BEHAVIOR: "@GEO General Georgian Behavior" # todo: NEW TRANSLATION
- GEO_NATIONALIST_behavior: "@GEO Nationalist's behavior" # todo: NEW TRANSLATION
- GEO_help_CHE_behavior: "@GEO Help for Chechens" # todo: NEW TRANSLATION
- GEO_2008_war_behavior: "@GEO Behavior in 2008 war" # todo: NEW TRANSLATION
- GEO_2013_behavior: "@GEO Behavior in 2013" # todo: NEW TRANSLATION
- GEO_SAAKASHVILI: "Prozápadní (Mikheil Saakašvili)" # todo: NEW TRANSLATION
- GEO_SAAKASHVILI_DESC: "Eduard Shevardnadze bude znovu zvolen, ale proběhne Růžová revoluce a v moci bude Mikheil Saakašvili." # todo: NEW TRANSLATION
- GEO_PRO_WEST_SHEVA: "Prozápadní (Eduard Shevardnadze)" # todo: NEW TRANSLATION
- GEO_PRO_WEST_SHEVA_DESC: "Eduard Shevardnadze bude znovu zvolen a vydá se prozápadní cestou bez Růžové revoluce." # todo: NEW TRANSLATION
- GEO_PRO_RUS: "Pro-ruské chování" # todo: NEW TRANSLATION
- GEO_PRO_RUS_DESC: "Eduard Shevardnadze se vydá pro-ruskou cestou." # todo: NEW TRANSLATION
- GEO_NATIONALIST: "Nacionalistické chování" # todo: NEW TRANSLATION
- GEO_NATIONALIST_DESC: "Gruzie se vydá nacionalistickou cestou. Nebude se starat o Západ ani Východ. Nakonec vyhlásí Velkou Gruzii." # todo: NEW TRANSLATION
- GEO_COMMUNISM: "Komunistické chování" # todo: NEW TRANSLATION
- GEO_COMMUNISM_DESC: "Gruzie se vydá komunistickou cestou. Obnoví sovětskou republiku a podle nastavení komunistického chování v herních pravidlech buď přijme ZSFSR, nebo půjde vlastní cestou." # todo: NEW TRANSLATION
- GEO_WILL_FOLLOW_OWN_WAY: "Vlastní cesta" # todo: NEW TRANSLATION
- GEO_WILL_FOLLOW_OWN_WAY_DESC: "Nacionalistická Gruzie půjde vlastní cestou a rozdrtí Arménii a Ázerbájdžán" # todo: NEW TRANSLATION
- GEO_WILL_BE_PRO_ARMENIA: "Pro-arménské" # todo: NEW TRANSLATION
- GEO_WILL_BE_PRO_ARMENIA_DESC: "Nacionalistická Gruzie pomůže Arménii rozdrtit Ázerbájdžán" # todo: NEW TRANSLATION
- GEO_WILL_BE_PRO_AZERI: "Pro-ázerbájdžánské" # todo: NEW TRANSLATION
- GEO_WILL_BE_PRO_AZERI_DESC: "Nacionalistická Gruzie pomůže Ázerbájdžánu rozdrtit Arménii" # todo: NEW TRANSLATION
- GEO_WILL_HELP: "Pomoc @CHE Čečencům" # todo: NEW TRANSLATION
- GEO_WILL_HELP_DESC: "Gruzie pomůže Čečencům ve válce s Ruskem. Mohou Gruzii v budoucnu pomoci." # todo: NEW TRANSLATION
- GEO_WONT_HELP: "Nepomáhat @CHE Čečencům" # todo: NEW TRANSLATION
- GEO_WONT_HELP_DESC: "Gruzie nepomůže Čečencům ve válce s Ruskem. Budou ke Gruzii nepřátelští." # todo: NEW TRANSLATION
- GEO_ATTACK_RUS: "Příprava na válku" # todo: NEW TRANSLATION
- GEO_ATTACK_RUS_DESC: "Gruzie se připraví na válku v roce 2008 a pokusí se vyhrát." # todo: NEW TRANSLATION
- GEO_WEAKBOY: "Kompromis s Ruskem" # todo: NEW TRANSLATION
- GEO_WEAKBOY_DESC: "Gruzie bude usilovat o kompromis s Ruskem, aby se vyhnula bojovým akcím." # todo: NEW TRANSLATION
- GEO_GEORGIAN_DREAMS: "Prozápadní (Georgian Dreams)" # todo: NEW TRANSLATION
- GEO_GEORGIAN_DREAMS_DESC: "V roce 2013 se Gruzie vydá západní cestou a vládnoucí stranou budou Georgian Dreams. Spolupráce se Západem a ruský pragmatismus." # todo: NEW TRANSLATION
- GEO_UNITED_NATIONAL_MOVEMENT: "Prozápadní a protiruská rétorika (United National Movement)" # todo: NEW TRANSLATION
- GEO_UNITED_NATIONAL_MOVEMENT_DESC: "V roce 2013 Gruzie se vydá západní cestou a vládnoucí stranou bude United National Movement. Nakonec bude prezidentem Mikheil Saakashvili a Gruzie bude prosazovat ostrou protiruskou rétoriku." # todo: NEW TRANSLATION
- GEO_NATIONALIST_2013: "Nacionalismus (Emzar Kvitsiani)" # todo: NEW TRANSLATION
- GEO_NATIONALIST_2013_DESC: "V roce 2013 se Gruzie vydá nacionalistickou cestou. Prohloubí spolupráci s Východem. Protiv LGBT+ rétorika." # todo: NEW TRANSLATION
- GEO_UNITED_GEORGIA: "Nové vyhlídky (United Georgia)" # todo: NEW TRANSLATION
- GEO_UNITED_GEORGIA_DESC: "V roce 2013 se Gruzie vydá cestou nových vyhlídek. Prohloubí spolupráci s Východem. Multivektorová politika." # todo: NEW TRANSLATION
- BLR_ai_behavior: "@BLR Obecné běloruské chování" # todo: NEW TRANSLATION
- BLR_arms_police_behavior: "@BLR Chování: Ochrana země" # todo: NEW TRANSLATION
- BLR_union_state_ai_behavior: "@BLR Chování Unie států" # todo: NEW TRANSLATION
- BLR_DEFAULT: "Alexander Lukashenko" # todo: NEW TRANSLATION
- BLR_DEFAULT_DESC: "Výchozí cesta. Lukašenko potlačí opozici, bude stát na straně Ruska a pomáhat mu, a také bude spolupracovat s Východem." # todo: NEW TRANSLATION
- BLR_NATIONALIST: "Nacionalistická cesta" # todo: NEW TRANSLATION
- BLR_NATIONALIST_DESC: "Bělorusko se vydá nacionalistickou cestou, omezí ruský vliv, bude si nárokovat některá území v Evropě a porazí ruského medvěda." # todo: NEW TRANSLATION
- BLR_RUS_NATIONALIST: "Proruští nacionalisté" # todo: NEW TRANSLATION
- BLR_RUS_NATIONALIST_DESC: "Nacionalisté nemusí být pouze prozápadní; mohou být také proruští národní bolševici a vojenská junta prosazuje pro-ruskou linii." # todo: NEW TRANSLATION
- BLR_COMMUNISM: "Komunistická cesta" # todo: NEW TRANSLATION
- BLR_COMMUNISM_DESC: "Bělorusko vybuduje komunismus ve východní Evropě a nakonec se Bělorusko stane Litbel." # todo: NEW TRANSLATION
- BLR_DEMOCRATIC: "Demokratická cesta" # todo: NEW TRANSLATION
- BLR_DEMOCRATIC_DESC: "Bělorusko se pokusí vybudovat úspěšnou západní demokracii místo postsovětského totalitního režimu." # todo: NEW TRANSLATION
- BLR_NEUTRALITY: "Hajdukevich Path" # todo: NEW TRANSLATION
- BLR_NEUTRALITY_DESC: "Vezme moc v zemi do svých rukou kvůli nejasnému charakteru běloruské politiky. Pro-ruský oligarcha s jasnou touhou vytěžit co nejvíce výhod ze spolupráce s Ruskem." # todo: NEW TRANSLATION
- BLR_POST_LUKA_DEFAULT: "Vláda Lukašenka" # todo: NEW TRANSLATION
- BLR_POST_LUKA_DEFAULT_DESC: "Alexander Lukashenko bude vládnout zemi až do konce věků" # todo: NEW TRANSLATION
- BLR_MOMMY: "Svetlana Tikhanovskaya" # todo: NEW TRANSLATION
- BLR_MOMMY_DESC: "Svetlana Tikhanovskaya bude u moci po protestech a vydá se prozápadní cestou." # todo: NEW TRANSLATION
- BLR_WONT_FOLLOW_UNION_STATE: "Nevstupovat do Unie států" # todo: NEW TRANSLATION
- BLR_WONT_FOLLOW_UNION_STATE_DESC: "Bělorusko nebude tvořit Unii států a nestane se ruskou loutkou." # todo: NEW TRANSLATION
- BLR_WILL_FOLLOW_UNION_STATE: "Vytvořit Unii států" # todo: NEW TRANSLATION
- BLR_WILL_FOLLOW_UNION_STATE_DESC: "Bělorusko se pokusí vytvořit Unii států. Nejprve se stanou ruskou loutkou, ale později..." # todo: NEW TRANSLATION
- BLR_POLICE_PRIORITY: "Zaměření na financování policie" # todo: NEW TRANSLATION
- BLR_POLICE_PRIORITY_DESC: "Musíme zpočátku zajistit financování policie." # todo: NEW TRANSLATION
- BLR_ARMY_PRIORITY: "Zaměření na financování armády" # todo: NEW TRANSLATION
- BLR_ARMY_PRIORITY_DESC: "Musíme zpočátku zajistit financování armády." # todo: NEW TRANSLATION
- BOSNIAN_AI_BEHAVIOR: "@BOS Bosna a Hercegovina" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_PEACEFUL: "Bosňáci vedou" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_PEACEFUL_AI_DESC: "Bosňáci zvítězí ve volbách a vznikne pro-bosenská vláda. Ta začne spolupráci s ostatními frakcemi s cílem mírového státu. Bosna také zahájí spolupráci se zeměmi NATO." # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_COMMIE: "Dělnická fronta" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_COMMIE_AI_DESC: "Bosna se vydá cestou svazů a dělníků s cílem svrhnout vládu a nastolit komunistickou vládu pro lid." # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_MUSLIM_NATION: "Bosňácký revanchismus" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_MUSLIM_NATION_AI_DESC: "Bosna se pokusí následovat pravou cestu islámu a obnovit velikost, kterou kdysi měla." # todo: NEW TRANSLATION
- RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA: "Spolupráce se Srpskou" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_AI_DESC: "Dojde k nástupu pro-Srpské vlády zaměřené na obyvatele Bosny a rivalizující frakce s velkou mírou spolupráce. Bosna začne inklinovat k @SOV ruskému ochránci." # todo: NEW TRANSLATION
- RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_SRPSKA_FIRST: "Srpska první" # todo: NEW TRANSLATION
- RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_SRPSKA_FIRST_AI_DESC: "Srpska se pokusí převzít plnou kontrolu nad Bosnou ve snaze znovu se spojit s @SER Jugoslávií" # todo: NEW TRANSLATION
- RULE_DISABLE_FORMABLE_NATIONS: "Zakázat formovatelné národy" # todo: NEW TRANSLATION
- RULE_YES_FORMABLE_NATIONS_DESC: "Zakáže rozhodnutí o formovatelných národech." # todo: NEW TRANSLATION
- RULE_NO_FORMABLE_NATIONS_DESC: "Formovatelné národy budou povoleny." # todo: NEW TRANSLATION
- RULE_ALLOW_MULTIPLE_FORMABLES: "Povolit více stejných formovatelných národů" # todo: NEW TRANSLATION
- RULE_ALLOW_MULTIPLE_FORMABLES_BLOCKED_DESC: "Povolí pouze jednomu národu vytvořit konkrétní formovatelný stát." # todo: NEW TRANSLATION
- RULE_ALLOW_MULTIPLE_FORMABLES_ALLOWED_DESC: "Umožní, aby stejný formovatelný stát mohl vytvořit jakákoli země, která splní potřebná kritéria (to může například vést ke vzniku soupeřících Arabských unií). Vlajky pro tyto formovatelné státy jsou nastaveny tak, aby byly pravděpodobně jedinečné, ale není to zaručeno." # todo: NEW TRANSLATION
- RULE_ALLOW_EDGY_FLAGS: "Povolit kontroverzní vlajky" # todo: NEW TRANSLATION
- RULE_ALLOW_EDGY_FLAGS_BLOCKED_DESC: "Zabraňuje zobrazení některých kontroverznějších možností vlajek." # todo: NEW TRANSLATION
- RULE_ALLOW_EDGY_FLAGS_ALLOWED_DESC: "Umožní více kontroverzních možností vlajek, které by normálně byly cenzurovány." # todo: NEW TRANSLATION
- RULE_DISABLE_EU: "Zakázat EU" # todo: NEW TRANSLATION
- RULE_YES_DISABLE_EU_DESC: "Všechny země budou odstraněny z Evropské unie." # todo: NEW TRANSLATION
- RULE_NO_DISABLE_EU_DESC: "Evropská unie zůstane beze změn." # todo: NEW TRANSLATION
- RULE_DISABLE_NATO: "Zakázat NATO" # todo: NEW TRANSLATION
- RULE_YES_DISABLE_NATO_DESC: "NATO bude po načtení hry zakázáno." # todo: NEW TRANSLATION
- RULE_NO_DISABLE_NATO_DESC: "NATO zůstane frakcí." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_AMOUNT_GAIN: "Množství získaného vlivu při šíření" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_AMOUNT_GAIN_DESC: "Změňte množství vlivu získaného šířením vlivu." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_DEFAULT_GAIN_3: "3%" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_DEFAULT_GAIN_3_DESC: "3% vlivu získaného za akci šíření. Pro zvýšení tempa získávání vlivu." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_0_5: "0.5%" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_0_5_DESC: "0.5% vlivu získaného za akci šíření. Pro výrazné zpomalení získávání vlivu." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_2: "2%" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_2_DESC: "Standardní množství vlivu získané za akci šíření vlivu." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_4: "4%" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_GAIN_4_DESC: "4% vlivu získaného za akci šíření. Pro výrazné zvýšení získávání vlivu." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_AMOUNT_COOLDOWN: "Doba čekání pro šíření vlivu" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_30_COOLDOWN: "30 Days" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_30_COOLDOWN_DESC: "Výchozí doba čekání. Jednou za 30 dní můžete šířit svůj vliv do jiné země." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_14_COOLDOWN: "14 Days" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_14_COOLDOWN_DESC: "Jednou za 14 dní můžete šířit svůj vliv do jiné země." # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_0_COOLDOWN: "No Cooldown" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_0_COOLDOWN_DESC: "Bez doby čekání pro šíření vlivu, pro případ, že chcete vrazit všechnu svou §Hpolitickou sílu§! do ovlivňování jiných zemí!" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_60_COOLDOWN: "60 Days" # todo: NEW TRANSLATION
- RULE_SPREAD_INFLUENCE_60_COOLDOWN_DESC: "Jednou za 60 dní můžete šířit svůj vliv do jiné země." # todo: NEW TRANSLATION
- RULE_INVEST_INFLUENCE_AMOUNT_GAIN: "Zisk vlivu z investic" # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_1: "1%" # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_1_DESC: "Výchozí možnost. 1% vlivu získaného vždy, když někdo přijme vaše investice." # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_0_5: "0.5%" # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_0_5_DESC: "0.5% vlivu získaného vždy, když někdo přijme vaše investice." # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_2: "2%" # todo: NEW TRANSLATION
- RULE_INVEST_DEFAULT_GAIN_2_DESC: "2% vlivu získaného vždy, když někdo přijme vaše investice." # todo: NEW TRANSLATION
- RULE_INFLUENCE_COOLDOWN: "Doba čekání pro zisk vlivu z investic" # todo: NEW TRANSLATION
- RULE_14_DAY_INFLUENCE: "14 Day Cooldown" # todo: NEW TRANSLATION
- RULE_14_DAY_INFLUENCE_DESC: "Výchozí možnost. Doba čekání pro zisk vlivu z investic je 14 dní neboli 2 týdny. Platí pro zemi pro všechny možné investiční příležitosti. I když můžete stále investovat, v tomto časovém rámci nezískáte žádný vliv." # todo: NEW TRANSLATION
- RULE_0_DAY_INFLUENCE: "No Cooldown" # todo: NEW TRANSLATION
- RULE_0_DAY_INFLUENCE_DESC: "Starý systém MD: vliv z investic bez časového omezení. Můžete investovat tak často, jak chcete a stále získávat vliv; nedoporučuje se těm, kdo preferují vyváženou hru!" # todo: NEW TRANSLATION
- RULE_30_DAY_INFLUENCE: "30 Day Cooldown" # todo: NEW TRANSLATION
- RULE_30_DAY_INFLUENCE_DESC: "Doporučená možnost pro multiplayer. Doba čekání pro zisk vlivu z investic je 30 dní, přibližně 1 měsíc. Platí pro zemi pro všechny možné investiční příležitosti. I když můžete stále investovat, v tomto časovém rámci nezískáte žádný vliv." # todo: NEW TRANSLATION
- RULE_ENABLE_DIVISION_LIMITER: "Povolit omezení divizí AI" # todo: NEW TRANSLATION
- RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Disabled AI Division Limiter\n\nVe výchozím nastavení nebude AI omezena v počtu jednotek, které může vyrobit. Pokud chcete z výkonových důvodů omezit počet divizí, prosím povolte mě!" # todo: NEW TRANSLATION
- RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Enabled AI Division Limiter\n\nKdyž jsem povolen, AI bude méně pravděpodobně produkovat jednotky, což umožní plynulejší zážitek a dovolí vám, hráči, hrát s relativním klidem!" # todo: NEW TRANSLATION
- RULE_OPTION_POTATO_EDITION: "Potato Edition" # todo: NEW TRANSLATION
- RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Enabled Potato Edition AI Division Limiter\n\nJeště více omezuje AI z výkonových důvodů.\n" # todo: NEW TRANSLATION
- RULE_REMOVE_MICRO_STATES: "Odstranit mikrostáty" # todo: NEW TRANSLATION
- RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "Odstranění mikrostátů by mělo pomoci s výkonem na slabších počítačích.\nVětšina karibských států bude anektována buď Spojeným královstvím, Bahamy budou připojeny k USA, Trinidad k Venezuele a všechny ostatní mikro-státy v Evropě budou připojeny k jejich nejbližšímu patronovi." # todo: NEW TRANSLATION
- RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Odstraňování mikrostátů by mělo pomoci výkonu pro nižší konfigurace počítačů.\n" # todo: NEW TRANSLATION
- RULE_DISABLE_ALERT_AI: "Disable Alert AI" # todo: NEW TRANSLATION
- RULE_DISABLE_ALERT_AI_DESC: "Všechny jaderné velmoci jako Spojené státy, Severní Korea, Čína a Rusko nastaví své jaderné síly do pohotovosti, aby odvrátily jaderný útok, pokud je hráč zasáhne. Povoleno to způsobí určité zpomalení výkonu, ale výsledkem je dynamičtější AI." # todo: NEW TRANSLATION
- RULE_DISABLE_ALERT_YES_AI_DESC: "Můžete shodit jaderné zbraně na AI a ona nebude nic dělat nazpět. Je to jen pro úsporu výkonu na slabších PC" # todo: NEW TRANSLATION
- FSTK_ALLOWED: "Nuclear First Strike Allowed" # todo: NEW TRANSLATION
- RULE_YES_FSTK_ALLOWED_DESC: "Hráč si může zvolit jadernou doktrínu §Y$nuclear_doctrine_6_loc_key$§!" # todo: NEW TRANSLATION
- RULE_NO_FSTK_ALLOWED_DESC: "Hráč si nemůže zvolit jadernou doktrínu §Y$nuclear_doctrine_6_loc_key$§!" # todo: NEW TRANSLATION
- AI_FIRST_USE: "AI First Use of Nuclear Weapons" # todo: NEW TRANSLATION
- RULE_YES_AI_FIRST_USE_DESC: "AI může jako první použít §Yjaderné zbraně§!." # todo: NEW TRANSLATION
- RULE_NO_AI_FIRST_USE_DESC: "AI si nemůže zvolit jadernou doktrínu, která dovoluje první použití §Yjaderných zbraní§!." # todo: NEW TRANSLATION
- RULE_ALLOW_ENABLE_LEDGER: "Povolit MD Ledger" # todo: NEW TRANSLATION
- RULE_ALLOW_ENABLE_LEDGER_YES_DESC: "MD's Ledger je povolen. (Některé informace z informačního ledgeru La Resistance mohou být duplikované. Zakázat tuto funkci, pokud chcete náročnější hru.)" # todo: NEW TRANSLATION
- RULE_ALLOW_ENABLE_LEDGER_NO_DESC: "Zakáže MD ledger. To je lepší pro uživatele, kteří preferují autentický zážitek a chtějí využívat La Resistance k získávání kritických informací." # todo: NEW TRANSLATION
- RULE_HISTORIC_NINE_ELEVEN: "Historické spuštění 11. září" # todo: NEW TRANSLATION
- RULE_HISTORIC_NINE_ELEVEN_NO: "11. září se nespustí náhodně. Místo toho se spustí někdy v roce 2001 nebo později." # todo: NEW TRANSLATION
- RULE_HISTORIC_NINE_ELEVEN_YES: "11. září se spustí někdy v září 2001." # todo: NEW TRANSLATION
- RULE_ALLOW_HELP_GUI: "Povolit MD Help GUI" # todo: NEW TRANSLATION
- RULE_ALLOW_HELP_GUI_YES: "Tímto povolíte MD Help GUI." # todo: NEW TRANSLATION
- RULE_ALLOW_HELP_GUI_NO: "Tímto zakážete MD Help GUI." # todo: NEW TRANSLATION
- RULE_ALLOW_CHEAT_DECISIONS: "Povolit cheat rozhodnutí" # todo: NEW TRANSLATION
- RULE_YES_ALLOW_CHEAT_DECISIONS_DESC: "Cheat rozhodnutí povolena" # todo: NEW TRANSLATION
- RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Cheat rozhodnutí zakázána" # todo: NEW TRANSLATION
- RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y(Multiplayer)§! Povolit globální přepínání cheat rozhodnutí" # todo: NEW TRANSLATION
- RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Volitelné)§!\n\nGlobální přepínání cheat rozhodnutí povoleno\n§YPOZNÁMKA:§! Jakákoli země na světě může přepínat cheat rozhodnutí a efekty jsou §Yglobální§!. Zobrazí se událost oznamující, která země to přepnula.\n§YUjistěte se, že máte povoleno používat toto rozhodnutí v multiplayerové hře!§!\n\n§YPOZNÁMKA:§! Také musíte povolit herní pravidlo \"Allow Cheat Decisions\" pokud chcete používat cheaty!" # todo: NEW TRANSLATION
- RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Volitelné)§!\n\nGlobální přepínání cheat rozhodnutí zakázáno\n§YPOZNÁMKA:§! Jakákoli země na světě může přepínat cheat rozhodnutí a efekty jsou §Yglobální§!. Zobrazí se událost oznamující, která země to přepnula.\n§YUjistěte se, že máte povoleno používat toto rozhodnutí v multiplayerové hře!§!\n\n§YPOZNÁMKA:§! Také musíte povolit herní pravidlo \"Allow Cheat Decisions\" pokud chcete používat cheaty!" # todo: NEW TRANSLATION
- RULE_DISABLE_ANTI_BULLY: "Zakázat veřejnou válečnou únavu" # todo: NEW TRANSLATION
- RULE_YES_ANTI_BULLY_DESC: "Zakáže systém veřejné válečné únavy, což vám umožní být válečným štváčem bez trestů." # todo: NEW TRANSLATION
- RULE_NO_ANTI_BULLY_DESC: "Systém veřejné válečné únavy bude povolen." # todo: NEW TRANSLATION
- RULE_RANDOM_IDEOLOGIES: "Náhodné politické orientace" # todo: NEW TRANSLATION
- RULE_RANDOM_IDEOLOGIES_NO_DESC: "Všechny země si zachovají svou historickou orientaci." # todo: NEW TRANSLATION
- RULE_RANDOM_IDEOLOGIES_YES_DESC: "Všechny země mají nyní náhodnou orientaci." # todo: NEW TRANSLATION
- RULE_RANDOM_RELIGION: "Náhodná náboženství" # todo: NEW TRANSLATION
- RULE_RANDOM_RELIGION_NO_DESC: "Všechny země si zachovají svá historická náboženství." # todo: NEW TRANSLATION
- RULE_RANDOM_RELIGION_YES_DESC: "Všechny země mají svá náboženství náhodně přiřazena." # todo: NEW TRANSLATION
- RULE_RANDOM_INTERNAL_FACTIONS: "Náhodné vnitřní frakce" # todo: NEW TRANSLATION
- RULE_RANDOM_INTERNAL_FACTIONS_NO_DESC: "Všechny země si zachovají své historické vnitřní frakce." # todo: NEW TRANSLATION
- RULE_RANDOM_INTERNAL_FACTIONS_YES_DESC: "Všechny země mají náhodné vnitřní frakce." # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_PLAYER: "Obtížnost energie pro hráče" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_PLAYER_DESC: "Upravte množství spotřeby a zisku energie pro hráče. (§RWARNING:§! Pro relativně vyváženou hru se důrazně doporučuje držet tuto volbu blízko výchozí.)" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_AI: "Obtížnost energie pro AI" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_AI_DESC: "Upravte množství spotřeby a zisku energie pro AI (§RWARNING:§! Pro relativně vyváženou hru se důrazně doporučuje držet tuto volbu blízko výchozí.)" # todo: NEW TRANSLATION
- RULE_OPTION_VERY_EASY: "Velmi snadné" # todo: NEW TRANSLATION
- RULE_OPTION_EASY: "Snadné" # todo: NEW TRANSLATION
- RULE_OPTION_HARD: "Těžké" # todo: NEW TRANSLATION
- RULE_OPTION_VERY_HARD: "Velmi těžké" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_VERY_EASY_DESC: "§YPříjem energie hráče:§!§G +50%§!\n§YSpotřeba energie hráče:§!§G -50%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_EASY_DESC: "§YPříjem energie hráče:§!§G +25%§!\n§YSpotřeba energie hráče:§!§G -25%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_NORMAL_DESC: "Generování a spotřeba energie nebudou ovlivněny." # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_HARD_DESC: "§YPříjem energie hráče:§!§R -25%§!\n§YSpotřeba energie hráče:§!§R +25%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_VERY_HARD_DESC: "§YPříjem energie hráče:§!§R -50%§!\n§YSpotřeba energie hráče:§!§R +50%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_VERY_EASY_DESC_AI: "§YPříjem energie AI:§!§G +50%§!\n§YSpotřeba energie AI:§!§G -50%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_EASY_DESC_AI: "§YPříjem energie AI:§!§G +25%§!\n§YSpotřeba energie AI:§!§G -25%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_NORMAL_DESC_AI: "Generování a spotřeba energie nebudou ovlivněny." # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_HARD_DESC_AI: "§YPříjem energie AI:§!§R -25%§!\n§YSpotřeba energie AI:§!§R +25%§!" # todo: NEW TRANSLATION
- RULE_ENERGY_DIFFICULTY_VERY_HARD_DESC_AI: "§YPříjem energie AI:§!§R -50%§!\n§YSpotřeba energie AI:§!§R +50%§!" # todo: NEW TRANSLATION
- RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Povolit stažení intervenčních sil" # todo: NEW TRANSLATION
- RULE_YES_ALLOW_INTERVENTION_FORCES: "§YPOZNÁMKA: Toto není vyvážené a je to jen dočasné opatření pro dělat cokoliv chcete. Jakékoli problémy s dobrovolníky a podobně nejsou naší starostí.§! Umožňuje vám stáhnout intervenční síly ze zemí.\n" # todo: NEW TRANSLATION
- RULE_NO_ALLOW_INTERVENTION_FORCES: "§YVýchozí§!. Neumožňuje vám stáhnout intervenční síly z cizích konfliktů." # todo: NEW TRANSLATION
- RULE_OPTION_MD_DEFAULT: "Výchozí chování AI" # todo: NEW TRANSLATION
- RULE_OPTION_MD_DEFAULT_AI_DESC: "AI bude volit zaměření náhodně s mírným důrazem na historické volby. Světový stav a stav země budou mírně ovlivňovat volby." # todo: NEW TRANSLATION
- AI_CHAOS: "Chaotické chování AI" # todo: NEW TRANSLATION
- AI_CHAOS_DESC: "AI si vždy zvolí zcela náhodné zaměření ze všech právě dostupných zaměření. Všechna zaměření jsou si rovna, zaručeno maximální zmatení." # todo: NEW TRANSLATION
- RULE_OPTION_RANDOM: "Náhodné chování AI" # todo: NEW TRANSLATION
- RULE_OPTION_RANDOM_DESC: "Pro AI bude náhodně vybrána nechaotická cesta, kterou se bude ubírat." # todo: NEW TRANSLATION
- RULE_ALLOW_RELEASE_NATIONS_PEACE_ONLY_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! může uvolnit tyto země, když budou splněny určité podmínky." # todo: NEW TRANSLATION
- RULE_ALLOW_RELEASE_NATIONS_CHINA_TIB_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, pokud nejprve nedokončí zaměření §Y$CHI_A_Tibetan_SAR$§!." # todo: NEW TRANSLATION
- RULE_ALLOW_RELEASE_NATIONS_CHINA_ETK_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, pokud nejprve nedokončí zaměření §Y$CHI_devolve_power_to_the_Xinjiang$§!." # todo: NEW TRANSLATION
- RULE_ALLOW_RELEASE_NATIONS_CHINA_MON_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, pokud nejprve nedokončí zaměření §Y$CHI_Outer_Mongolia_SAR$§!." # todo: NEW TRANSLATION
- RULE_ALLOW_RELEASE_NATIONS_CHINA_TAI_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, pokud nejprve nedokončí zaměření §Y$CHI_Establish_Taiwan_SAR$§!." # todo: NEW TRANSLATION
- RULE_ALLOW_MP_OPTIMIZATIONS: "Povolit optimalizace pro multiplayer" # todo: NEW TRANSLATION
- RULE_YES_ALLOW_MP_OPTIMIZATIONS_DESC: "Hráčům bude povoleno slučovat země v regionech za účelem zvýšení výkonu." # todo: NEW TRANSLATION
- RULE_NO_ALLOW_MP_OPTIMIZATIONS_DESC: "Hráčům nebude povoleno slučovat země v regionech za účelem zvýšení výkonu." # todo: NEW TRANSLATION
- RULE_DISABLE_GENERALS_KILLED: "Zakázat náhodné zabíjení generálů v bitvách" # todo: NEW TRANSLATION
- RULE_ENABLE_GENERALS_KILLED_DESC: "Generálové budou mít šanci být zabiti, což donutí hráče věnovat větší pozornost jejich schopnostem." # todo: NEW TRANSLATION
- RULE_DISABLE_GENERALS_KILLED_DESC: "Generálové nebudou mít šanci být zabiti - zaměřeno na lepší multiplayerový zážitek." # todo: NEW TRANSLATION
- RULE_ALLOW_MP_FREE_FACTORIES: "Povolit přístup k rozhodnutím o volných továrnách" # todo: NEW TRANSLATION
- RULE_NOT_ALLOW_MP_FREE_FACTORIES_DESC: "Hráči k těmto rozhodnutím nebudou mít přístup." # todo: NEW TRANSLATION
- RULE_ALLOW_MP_FREE_FACTORIES_DESC: "Pro lepší vyvážení multiplayeru budou mít hráči přístup k rozhodnutím, která jim umožní upravovat jejich průmyslovou kapacitu." # todo: NEW TRANSLATION
+  MD_AI_RULES: "Možnosti AI" # todo: NEW TRANSLATION
+  MD_PEACE_DEALS: "Mírové konference" # todo: NEW TRANSLATION
+  MD_FOCUS_TREE_RULES: "Možnosti stromu zaměření" # todo: NEW TRANSLATION
+  MD_FORMABLE_RULES: "Vlajky a formovatelné národy" # todo: NEW TRANSLATION
+  MD_ORGANISATION_RULES: "Možnosti organizace" # todo: NEW TRANSLATION
+  MD_INFLUENCE_RULES: "Možnosti systému vlivu" # todo: NEW TRANSLATION
+  MD_OPTIMISATION_RULES: "Optimalizace a výkon" # todo: NEW TRANSLATION
+  MD_NUCLEAR_RULES: "Jaderná pravidla" # todo: NEW TRANSLATION
+  MD_RULES: "Různá pravidla Millennium Dawn" # todo: NEW TRANSLATION
+  MD_CHEAT_RULES: "Možnosti cheatů" # todo: NEW TRANSLATION
+  MD_RANDOM_RULES: "Náhodně generovat pravidla hry" # todo: NEW TRANSLATION
+  RULE_HARD_AI_ECONOMIC: "Ekonomické AI" # todo: NEW TRANSLATION
+  RULE_DISABLE_HARD_AI_ECONOMIC: "Obvyklé omezení" # todo: NEW TRANSLATION
+  RULE_DISABLE_HARD_AI_ECONOMIC_DESC: "Obvyklé omezení pro AI, které jí nedovoluje zlepšovat její ekonomiku. Pro historickou hru." # todo: NEW TRANSLATION
+  RULE_ENABLE_HARD_AI_ECONOMIC: "Žádná omezení" # todo: NEW TRANSLATION
+  RULE_ENABLE_HARD_AI_ECONOMIC_DESC: "Pokud vás nudí, že každá hra s AI nezvládá ekonomickou krizi - tohle je pro vás. AI již nebude omezena v rozhodování o své ekonomice. Připravte se na to, že mnoho zemí bude bohatších než vy. Pouze pro ty, kteří se nebojí výzvy. Pozdravy od Battle AI;)" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER: "Počáteční politická síla AI" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_NO: "Žádná počáteční politická síla AI" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_NO_DESC: "AI nezačne s žádnou politickou silou." # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_250: "250 politická síla" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_250_DESC: "Přidejte 250 politickou sílu všem AI národům." # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_500: "500 politická síla" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_500_DESC: "Přidejte 500 politickou sílu všem AI národům." # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_1000: "1000 politická síla" # todo: NEW TRANSLATION
+  RULE_AI_STARTING_POLITICAL_POWER_1000_DESC: "Přidejte 1000 politickou sílu všem AI národům." # todo: NEW TRANSLATION
+  RULE_DISABLE_AI_DEBT_WAR_TITLE: "Dluhové války pro AI" # todo: NEW TRANSLATION
+  RULE_DISABLE_AI_DEBT_WAR: "Vypnout" # todo: NEW TRANSLATION
+  RULE_DISABLE_AI_DEBT_WAR_DESC: "Toto vypne funkci dluhových válek pro AI. AI již nebude mít možnost napadnout zemi, která nesplatí svůj dluh." # todo: NEW TRANSLATION
+  RULE_ENABLE_AI_DEBT_WAR: "Povolit" # todo: NEW TRANSLATION
+  RULE_ENABLE_AI_DEBT_WAR_DESC: "Toto nastavení zvýší pravděpodobnost vyhlašování dluhových válek AI, pokud vy dlužíte jim." # todo: NEW TRANSLATION
+  RULE_ENABLE_AI_FIGHTING_AUTONOMY_FOCUS: "AI používá §TZvýšit zaměření autonomie§!" # todo: NEW TRANSLATION
+  RULE_ENABLE_FIGHTING_AUTONOMY_FOCUS: "Povolit" # todo: NEW TRANSLATION
+  RULE_ENABLE_FIGHTING_AUTONOMY_FOCUS_DESC: "AI bude bojovat proti vaší autonomii pomocí kontinuálního zaměření §YZlepšit autonomii§!." # todo: NEW TRANSLATION
+  RULE_DISABLE_FIGHTING_AUTONOMY_FOCUS: "Zakázat" # todo: NEW TRANSLATION
+  RULE_DISABLE_FIGHTING_AUTONOMY_FOCUS_DESC: "AI již nebude bojovat proti vaší autonomii pomocí kontinuálního zaměření §YZlepšit autonomii§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_MD_ANNEX: "Povolit úklid border gore" # todo: NEW TRANSLATION
+  RULE_OPTION_MD_ANNEX_NO_DESC: "Nebude mít vliv na hranice po mírové dohodě a zůstanou tak, jak byly nakresleny na konferenci." # todo: NEW TRANSLATION
+  RULE_OPTION_MD_ANNEX_YES_DESC: "Po mírové dohodě, pokud existuje více instancí téhož tagu, budou všechny zbývající tagy integrovány do tagu s nejsilnějším suzerénem. Síla suzeréna bude určena podle jejich pořadí síly národního ducha. Úklid po válce může trvat až 14 dní." # todo: NEW TRANSLATION
+  RULE_ALLOW_CHAOTIC_PEACE_CONFERENCE: "Povolit chaotické mírové dohody" # todo: NEW TRANSLATION
+  RULE_OPTION_CHAOTIC_PC_NO: "Ne" # todo: NEW TRANSLATION
+  RULE_OPTION_CHAOTIC_PC_NO_DESC: "Tato volba by měla zřejmě zastavit, aby si všichni hráči AI nedělali nároky na území během mírových konferencí.\nToto omezuje, kdo může nárokovat státy na velmoci a vůdce frakcí. (Toto ovlivní pouze AI, hráč ne.)" # todo: NEW TRANSLATION
+  RULE_OPTION_CHAOTIC_PC_YES: "Ano" # todo: NEW TRANSLATION
+  RULE_OPTION_CHAOTIC_PC_YES_DESC: "Pro ty, kteří si skutečně užívají prokleté mírové konference, proč omezovat svět na 1 §YRusko§! když jsou možné 12 §YRuska§!\n(Nejsem zodpovědný za výsledky, které z této volby mohou vyplynout!)" # todo: NEW TRANSLATION
+  RULE_ALLOW_PLAYER_LED_PEACE_CONFERENCE: "Povolit mírové konference vedené hráčem" # todo: NEW TRANSLATION
+  RULE_OPTION_PLAYER_LED_PC_NO: "Ne" # todo: NEW TRANSLATION
+  RULE_OPTION_PLAYER_LED_PC_NO_DESC: "Tato volba umožní AI dělat vlastní rozhodnutí, ať už budou hloupá." # todo: NEW TRANSLATION
+  RULE_OPTION_PLAYER_LED_PC_YES: "Ano" # todo: NEW TRANSLATION
+  RULE_OPTION_PLAYER_LED_PC_YES_DESC: "Pro ty, kteří nevěří AI, že správně zařídí věci, to umožní pouze hráčům dělat nároky během mírových konferencí." # todo: NEW TRANSLATION
+  RULE_ALLOW_CONDITIONAL_PEACE_DEAL: "Povolit Podmíněné mírové dohody" # todo: NEW TRANSLATION
+  RULE_OPTION_CONDITIONAL_PEACE_DEAL_YES_DESC: "Umožní válčícím státům použít naplánovanou diplomatickou akci §YPodmíněné mírové dohody§! , která umožní státům podepsat mírové dohody, jež nevyžadují plnou kapitulaci ani jedné strany." # todo: NEW TRANSLATION
+  RULE_OPTION_CONDITIONAL_PEACE_DEAL_NO_DESC: "Zakáže státům používat §YPodmíněné mírové dohody§! naplánovanou diplomatickou akcí, která donutí státy vytrvat v totální válce, aby dosáhly míru." # todo: NEW TRANSLATION
+  RULE_PEACE_PROPOSAL_BLOCKED_TT: "Přestože §YPodmíněné mírové dohody§! jsou povoleny, toto bude zablokováno, použijte místo toho §Y$CPD_OFFER_CONDITIONAL_PEACE_TITLE$§!." # todo: NEW TRANSLATION
+  RULE_SALAFIST_BRANCH: "Povolit Salafistickou větev" # todo: NEW TRANSLATION
+  RULE_YES_SALAFIST_BRANCH_DESC: "Umožňuje Salafistickou větev v generickém stromu pro všechny země bez ohledu na počáteční náboženství." # todo: NEW TRANSLATION
+  RULE_NO_SALAFIST_BRANCH_DESC: "Umožňuje Salafistickou větev v generickém stromu pro národy sledující jakoukoli variantu islámu." # todo: NEW TRANSLATION
+  LIC_AI_BEHAVIOR: "@LIC Lichtenštejnsko" # todo: NEW TRANSLATION
+  RULE_LIC_HRE_Alaska: "@LIC Vzestup Lichtenštejnska" # todo: NEW TRANSLATION
+  RULE_LIC_HRE_Alaska_ALLOWED_DESC: "Umožnit Lichtenštejnsku pokus o koupi Aljašky od Spojených států a nárok na Svatou říši římskou. (§RHraní s historickými fókusy znamená, že USA téměř vždy žádost zamítne.§!)" # todo: NEW TRANSLATION
+  RULE_LIC_HRE_Alaska_BLOCKED_DESC: "Nedovolte Lichtenštejnsku pokus o koupi Aljašky ani nárok na Svatou říši římskou." # todo: NEW TRANSLATION
+  SOO_AI_BEHAVIOR: "@SOO Jižní Osetie" # todo: NEW TRANSLATION
+  RULE_SOO_Scythia: "@SOO Vzestup Scythie" # todo: NEW TRANSLATION
+  RULE_SOO_Scythia_ALLOWED_DESC: "Otevřete Jižní Osetii přístup k možnosti získat starověký stát Scythia" # todo: NEW TRANSLATION
+  RULE_SOO_Scythia_BLOCKED_DESC: "Jižní Osetii nebude dovoleno vytvořit stát Scythia." # todo: NEW TRANSLATION
+  CUB_AI_BEHAVIOR: "@CUB Kuba" # todo: NEW TRANSLATION
+  RULE_CUB_Tesak: "@CUB Síla Tesaka" # todo: NEW TRANSLATION
+  RULE_CUB_Tesak_ALLOWED_DESC: "Slavný ruský nacionalista \"Tesak\" se dostane k moci na Kubě" # todo: NEW TRANSLATION
+  RULE_CUB_Tesak_BLOCKED_DESC: "\"Tesak\" se na Kubě nedostane k moci." # todo: NEW TRANSLATION
+  HOL_AI_BEHAVIOR: "@HOL Nizozemsko" # todo: NEW TRANSLATION
+  HOL_DEMOCRATIC_RULE: "Demokratická" # todo: NEW TRANSLATION
+  HOL_DEMOCRATIC_RULE_AI_DESC: "Nizozemsko bude následovat demokratickou cestu s PvdA, CDA nebo VVD, kladouc důraz na spolupráci s západními institucemi a mezinárodní řád založený na pravidlech.\n" # todo: NEW TRANSLATION
+  HOL_POPULIST_RULE: "Populistická" # todo: NEW TRANSLATION
+  HOL_POPULIST_RULE_AI_DESC: "Nizozemsko bude následovat populistický směr, s LPF nebo PVV, vedený národní suverenitou, přímou demokracií a silnou rétorikou proti zavedené politice.\n" # todo: NEW TRANSLATION
+  HOL_MONARCHY_VOC_RULE: "Verenigde Oost-Indische Compagnie" # todo: NEW TRANSLATION
+  HOL_MONARCHY_VOC_RULE_AI_DESC: "Nizozemsko znovu obnoví V.O.C. (Verenigde Oost-Indische Compagnie), která bude moci působit jako suverénní námořní moc. Území v Asii a dále budou opět spravována prostřednictvím korporační nadvlády nebo dobytí." # todo: NEW TRANSLATION
+  HOL_MONARCHY_WIC_RULE: "West-Indische Copagnie" # todo: NEW TRANSLATION
+  HOL_MONARCHY_WIC_RULE_AI_DESC: "Nizozemsko znovu oživí Západoindickou společnost (WIC), která bude mít pravomoc nad atlantskými držbami. Prostřednictvím směsi obchodu a dobytí znovu prosadí vliv Nizozemska v Americe a Africe pod koronou." # todo: NEW TRANSLATION
+  HOL_NVU_RULE: "Nederlandse Volks-Unie" # todo: NEW TRANSLATION
+  HOL_NVU_RULE_AI_DESC: "Nizozemsko spadá pod vládu NVU, radikální ultranacionalistické hnutí s ambicemi vytvořit sjednocené germánské impérium. Prostřednictvím militarismu, kulturní asimilace a agresivního expanzionismu bude holandský stát usilovat o vedení pan-germánského osudu — ať to stojí cokoli." # todo: NEW TRANSLATION
+  RUS_AI_BEHAVIOR: "@SOV Ruská federace" # todo: NEW TRANSLATION
+  RULE_OPTION_PUTIN: "Jednotná Rus" # todo: NEW TRANSLATION
+  RULE_OPTION_PUTIN_AI_DESC: "Ruská federace bude usilovat o prosazování zahraniční politiky Jednotné Rus a posílení jejich postavení.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_PEACEFUL_REFORM: "Liberální Rusko" # todo: NEW TRANSLATION
+  RULE_OPTION_PEACEFUL_REFORM_AI_DESC: "Rusko bude usilovat o liberální formy a navázání větších vazeb se Západem.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_RED_MENACE: "Červená hrozba" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_RED_MENACE_AI_DESC: "Rusko bude mírně skloněno k marxistickým politikám a bude se snažit obnovit Sovětský svaz.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_RISE_OF_RUSSIA: "Rusko Zhirinovského" # todo: NEW TRANSLATION
+  RULE_OPTION_RISE_OF_RUSSIA_AI_DESC: "Rusko se začne ubírat nacionalistickými politikami a bude usilovat o agresivní zahraniční politiku s cílem vyhlásit Velké Rusko.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_NAZBOL_RUSSIA: "Národněbolševické Rusko" # todo: NEW TRANSLATION
+  RULE_OPTION_NAZBOL_RUSSIA_AI_DESC: "Národněbolševici vidí jiný způsob rozvoje své vlasti. Zřídí nový řád, získají kontrolu a vrátí slávu Ruska.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_IRON_DIMON_RUSSIA: "Železný Dimon" # todo: NEW TRANSLATION
+  RULE_OPTION_IRON_DIMON_RUSSIA_AI_DESC: "Rusko potřebuje nového vládce, který se nebude navždy podřizovat a vyjednávat s těmi, kteří kdykoliv zradí naši velkou vlast.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_LIBERAL_DIMON_RUSSIA: "Liberální Dimon" # todo: NEW TRANSLATION
+  RULE_OPTION_LIBERAL_DIMON_RUSSIA_AI_DESC: "Dmitrij Anatoljevič konečně zvolí liberální cestu a povede Rusko k liberalismu.\n" # todo: NEW TRANSLATION
+  RULE_OPTION_OLIGARCHS_RUSSIA: "Oligarchické Rusko" # todo: NEW TRANSLATION
+  RULE_OPTION_OLIGARCHS_RUSSIA_AI_DESC: "Povedou oligarchové k ovládnutí celé země, první stát oligarchů?\n" # todo: NEW TRANSLATION
+  RULE_OPTION_CONFEDERATION_RUSSIA: "Ruská konfederace" # todo: NEW TRANSLATION
+  RULE_OPTION_CONFEDERATION_RUSSIA_AI_DESC: "Rusko poskytne svým subjektům co největší autonomii a stane se skutečnou federací, a možná konfederací?\n" # todo: NEW TRANSLATION
+  USA_AI_BEHAVIOR: "@USA Spojené státy americké" # todo: NEW TRANSLATION
+  RULE_OPTION_DEMOCRAT: "Demokraticky orientovaný" # todo: NEW TRANSLATION
+  RULE_OPTION_DEMOCRAT_AI_DESC: "Spojené státy budou usilovat o volbu vedení Demokratické strany a udržovat zemi, v moderním slova smyslu, směrem k centrolevicové shodě vládnutí." # todo: NEW TRANSLATION
+  RULE_OPTION_REPUBLICAN: "Republikánsky orientovaný" # todo: NEW TRANSLATION
+  RULE_OPTION_REPUBLICAN_AI_DESC: "USA budou usilovat o volbu vedení Republikánské strany a udržovat zemi, v moderním pojetí, směrem k středopravej shodě vládnutí." # todo: NEW TRANSLATION
+  RULE_OPTION_REFORMED_REPUBLIC: "Reformovaná republika" # todo: NEW TRANSLATION
+  RULE_OPTION_REFORMED_REPUBLIC_AI_DESC: "Vůle lidu byla vyslyšena. Politický tlak a veřejný ohlas vedly k zásadním politickým a ekonomickým reformám, které umožní lepší zastoupení a viditelnost třetích stran. Nyní je na lidech vybrat stranu, která je bude reprezentovat." # todo: NEW TRANSLATION
+  RULE_OPTION_POST_UNITED: "Éra po Unitedu" # todo: NEW TRANSLATION
+  RULE_OPTION_POST_UNITED_AI_DESC: "Orel padá mnohem víc, než by se dalo očekávat. §RNeaktivujte historickou AI§!" # todo: NEW TRANSLATION
+  RULE_OPTION_ALL_AHEAD_SLOW: "Vše vpřed pomalu" # todo: NEW TRANSLATION
+  RULE_OPTION_ALL_AHEAD_SLOW_AI_DESC: "Povolením tohoto herního pravidla zajistíte, že AI nezkolabuje USA. V podstatě vyřazuje RNG faktor z nehistorického AI režimu." # todo: NEW TRANSLATION
+  RULE_OPTION_GREAT_COLLAPSE: "Velký kolaps" # todo: NEW TRANSLATION
+  RULE_OPTION_GREAT_COLLAPSE_AI_DESC: "Se zánikem SSSR v roce 1991 se militarismus USA stal pro daňové poplatníky čím dál tíživějším břemenem. Série protestů v letech 1995–1999 vedla k rostoucím ztrátám na životech a rostoucí nespokojenosti obyvatel a pevně zakořeněná studenoválečná federální vláda zůstala. Nyní, na počátku století, spolu s obavami z fám o Y2K a spekulacemi o národní železniční stávce, které by mohly paralyzovat ekonomiku a koordinovat protistátní operace federální vlády." # todo: NEW TRANSLATION
+  RULE_OPTION_HISTORICAL_PRESIDENTS: "Historičtí prezidenti USA" # todo: NEW TRANSLATION
+  RULE_OPTION_HISTORICAL_PRESIDENTS_AI_DESC: "AI bude volit prezidenty 20. ledna každého volebního roku na základě historického vítěze." # todo: NEW TRANSLATION
+  USB_AI_BEHAVIOR: "@USB Svobodné státy Ameriky" # todo: NEW TRANSLATION
+  RULE_OPTION_REVANCHIST_PATH: "Znovuzískání osudu" # todo: NEW TRANSLATION
+  RULE_OPTION_REVANCHIST_PATH_AI_DESC: "Federální vlivy budou ovlivňovat Svobodné státy, aby orientovaly svou zahraniční politiku směrem k revanšismu pro kontinentálních 48 států. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_ISOLATION_PATH: "Velké uzavření" # todo: NEW TRANSLATION
+  RULE_OPTION_ISOLATION_PATH_AI_DESC: "Americký sen je mrtvý, svět se jeví jako neustále se rozšiřující prázdnota. Lidé a političtí vůdcové se rozhodnou odvrátit se od světa a užívat si sladkého klidu a ticha, které jejich kout přinese. §R Musí být zvoleno jedno z pravidel USA Game Rule Post United nebo USA Game Rule Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_ARCADIA_PATH: "Východní identita" # todo: NEW TRANSLATION
+  RULE_OPTION_ARCADIA_PATH_AI_DESC: "S americkým snem zvráceným na noční můru, federální vlivy selhávají. Proto se lidé rozhodli, že nový směr vpřed je správný a rozhodli se vytvořit novou \\"Východní identitu\\" prostřednictvím plánu Arcadia. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_SECOND_COAL_WARS: "Druhé uhelné války" # todo: NEW TRANSLATION
+  RULE_OPTION_SECOND_COAL_WARS_AI_DESC: "Svobodné státy oznámí obnovené organizaci UMWA, že doly ve Západní Virginii nebudou znovu otevřeny na principech, proč byly původně uzavřeny: „Moderní řešení a problémy byly důvodem jejich uzavření.“ V důsledku toho horníci začnou protestovat a prohlásí stát za nezávislý, což povede k incidentu Druhých uhelných válek. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  CSA_AI_BEHAVIOR: "@CSA Jižní republika Ameriky" # todo: NEW TRANSLATION
+  RULE_OPTION_A_SOUTHERN_AMERICA_PATH: "Jižní Amerika" # todo: NEW TRANSLATION
+  RULE_OPTION_A_SOUTHERN_AMERICA_PATH_AI_DESC: "S americký sen stále hořící v srdcích jižních národů mnozí přimějí vládu reformovat staré slávy a vydat se vytvořit novou Ameriku. Jižní Ameriku. §R Musí mít buď USA Game Rule Post United nebo USA Game Rule Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_GOLDEN_CIRCLE_PATH: "Zlatý kruh" # todo: NEW TRANSLATION
+  RULE_OPTION_GOLDEN_CIRCLE_PATH_AI_DESC: "Mnoho Jižanů věří, že by měli vytvořit nové osudy, které jsou výhradně jižanské. Proto si mnozí u moci přejí oživit starý nápad Konfederace jako způsob, jak upevnit tuto novou éru svobody. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_SOUTHERN_ARCADIA_PATH: "Východní identita" # todo: NEW TRANSLATION
+  RULE_OPTION_SOUTHERN_ARCADIA_PATH_AI_DESC: "S americkým snem zhořelým a málokomu se líbí „konfederátní stigma“. Mnoho Jižanů hledí na francouzské vlivy Cajun a Creole, aby vytvořili novou identitu. Není americká ani konfederátská, ale je naší. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_FLORIDA_UPRISING_PATH: "Florida Vzpoura" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_FLORIDA_UPRISING_PATH_AI_DESC: "V raných dnech naší mladé země ovládli socialističtí šíři a sympatizanti volby. Nyní nastal čas pro skutečné jižanské patrioty bránit to, co zbylo z našich domovů proti těmto rudým ďáblům. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  CAS_AI_BEHAVIOR: "@CSA Southern Republic Of America" # todo: NEW TRANSLATION
+  RULE_OPTION_ROCKY_MOUNTAIN_RESISTANCE_PATH: "Odpor Skalnatých hôr" # todo: NEW TRANSLATION
+  RULE_OPTION_ROCKY_MOUNTAIN_RESISTANCE_PATH_AI_DESC: "Vláda Olympie povolí místním orgánům prosadit rostoucí nepokoje ve státě Idaho v Skalnatých horách. Selhání místního dohledu nad rostoucím hnutím odporu povede k nezávislostní vzpouře proti Cascadskému národu. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_PEACE_IN_OUR_TIME_PATH: "Mír v našem čase" # todo: NEW TRANSLATION
+  RULE_OPTION_PEACE_IN_OUR_TIME_PATH_AI_DESC: "Vláda Olympie pošle speciální vyšetřovací jednotku, aby pomohla a vedla protinárodní odpor. Postupem času jejich pomoc obnoví pořádek a donutí vůdce RMR, aby rozpadl skupinu, což povede k mírumilovější a jednotnější zemi. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  LKT_AI_BEHAVIOR: "@LKT Republika Lakota" # todo: NEW TRANSLATION
+  RULE_OPTION_RECLAMATION_FRONT_WAR_PATH: "Válka Fronty znovuzískání území" # todo: NEW TRANSLATION
+  RULE_OPTION_RECLAMATION_FRONT_WAR_PATH_AI_DESC: "Severní vláda zahodí a znehodnotí náhodný příliv domorodců pod organizaci Reclamation Front. Takový zapálený auditor poslaný vládou Lakota jde na vlastní pěst setkat se s vedením RF, což vyvolá rychlý rozkol a vede k postupné militarizaci a válce mezi RF ovládaným Kansasem a Republikou Lakota. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_RECLAMATION_FRONT_PEACE_PATH: "Mír Fronty znovuzískání území" # todo: NEW TRANSLATION
+  RULE_OPTION_RECLAMATION_FRONT_PEACE_PATH_AI_DESC: "Chápání zmatků v hlášeních vyvolá další vyšetřování, což vede k rychlému vyvrácení některých agresivnějších tvrzení o organizaci RF. S touto novou soudržností začnou probíhat jednání o obnově národa a spolupráci na lepším ekonomickém a sociálním svazku pro všechny. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  NEN_AI_BEHAVIOR: "@NEN Nová Anglie" # todo: NEW TRANSLATION
+  RULE_OPTION_GREEN_MOUNTAIN_REBELLION: "Povstání Zelených hor" # todo: NEW TRANSLATION
+  RULE_OPTION_GREEN_MOUNTAIN_REBELLION_AI_DESC: "Nepoddávající se tlaku několika nahlas křičících hlasů. Národní vláda Nové Anglie odmítne Vermonťanův požadavek přesunout sídlo vlády do Monteplieru. V důsledku toho napětí poroste až do chvíle, kdy bude nutné potlačit počínající vzpouru v tomto státě. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_OTHER_NEW_CAPITAL: "Druhé nové hlavní město" # todo: NEW TRANSLATION
+  RULE_OPTION_THE_OTHER_NEW_CAPITAL_AI_DESC: "Vzhledem k tomu, že jen málokdo skutečně chtěl vědět, kde má být nové hlavní město, vláda Nové Anglie přijímá \"požadavky\" Vermonterů a přesune hlavní město do Monteplieru. §R Musí být zvoleno buď USA pravidlo Post United nebo USA pravidlo Great Collapse§!" # todo: NEW TRANSLATION
+  FIJ_AI_BEHAVIOR: "@FIJ Republiky Fidži" # todo: NEW TRANSLATION
+  RULE_OPTION_EARLY_COUP_ESCALATION: "Ranní eskalace puče" # todo: NEW TRANSLATION
+  RULE_OPTION_EARLY_COUP_ESCALATION_AI_DESC: "AI selže během puče v roce 2000, čímž se otevře cesta k určitým alternativním historickým možnostem." # todo: NEW TRANSLATION
+  RULE_OPTION_BREAKING_HISTORY: "Lámání historie" # todo: NEW TRANSLATION
+  RULE_OPTION_BREAKING_HISTORY_AI_DESC: "AI zkompli puč z roku 2006 a nepovede se mu jít po historické cestě." # todo: NEW TRANSLATION
+  NIG_AI_BEHAVIOR: "@NIG Federální republika Nigérie" # todo: NEW TRANSLATION
+  RULE_OPTION_RISE_OF_BOKO_HARAM: "Vzestup Boko Haram" # todo: NEW TRANSLATION
+  RULE_OPTION_RISE_OF_BOKO_HARAM_AI_DESC: "Tlak na Nigérii, aby Boko Haram získali kontrolu nad zemí." # todo: NEW TRANSLATION
+  RULE_OPTION_PDP_EMPOWERED: "Lidová demokratická strana" # todo: NEW TRANSLATION
+  RULE_OPTION_PDP_EMPOWERED_AI_DESC: "Lidová demokratická strana je jednou z největších stran Nigérie. Prosazuje především křesťanskou část náboženského spektra a nekonformní ideologie." # todo: NEW TRANSLATION
+  RULE_OPTION_ANPP_EMPOWERED: "Vše Nigérie Lidová strana" # todo: NEW TRANSLATION
+  RULE_OPTION_ANPP_EMPOWERED_AI_DESC: "Vše Nigérie Lidová strana (nebo Progresivní demokratický kongres v roce 2017) je hlavní opoziční stranou v Nigérii v roce 2000. Je důležité poznamenat, že svou povahou se velmi podobá sociální demokracii v Evropě a tlačí na zásadní reformy v Nigérii." # todo: NEW TRANSLATION
+  FRA_AI_BEHAVIOR_MD: "@FRA Francouzská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_HISTORICAL: "Historické chování AI" # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_HISTORICAL_DESC: "Francie zůstane západní a jedním z vůdců EU. Francie bude usilovat o větší centralizaci Evropské unie a zároveň si udrží vliv v bývalých koloniích." # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_EGALITE: "Égalité" # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_EGALITE_DESC: "Francie si vybere Égalité a odkloní se k marxismu." # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_FRATERNITE: "Fraternité" # todo: NEW TRANSLATION
+  RULE_OPTION_FRA_FRATERNITE_DESC: "Francie zvolí Fraternité a zaměří se na dominanci nad Evropou." # todo: NEW TRANSLATION
+  ITA_AI_BEHAVIOR_MD: "@ITA Italská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_DEMOCRATICP: "Demokratická strana" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_DEMOCRATICP_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_FORZA: "Forza Italia Strana" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_FORZA_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_SOCIALL: "Sociální liberalismus" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_SOCIALL_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_RADICALP: "Radikální strana" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_RADICALP_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_LEFTP: "Hnutí pěti hvězd" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_LEFTP_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_RIGHTP: "Národní aliance" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_RIGHTP_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_LEU: "Svobodní a rovní" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_LEU_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_GREENS: "Federace zelených" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_GREENS_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_EAST: "Italská komunistická strana" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_EAST_DESC: "" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_NONCOM: "Strana obnovy komunismu" # todo: NEW TRANSLATION
+  RULE_OPTION_ITA_NONCOM_DESC: "" # todo: NEW TRANSLATION
+  CHI_AI_BEHAVIOR: "@CHI Čínská lidová republika" # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_CHINESE_HEGEMONY: "Čínská hegemonie" # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_CHINESE_HEGEMONY_AI_DESC: "Čína bude usilovať o dominanci ve své sféře vlivu a na světě jako celku, usilujíc o to, aby převzala postavení USA jako jediného globálního hegemonu. Bude se vyhýbat tlaku zvenčí na opuštění svých jedinečných sociálních a politických hodnot ve prospěch hodnot, které odpovídají západnímu liberálnímu mezinárodnímu řádu. Zatímco Čína bude zřídka usilovat o válku přímo a bude hledat vliv jinými prostředky, nevykazuje se vyhýbat válce, pokud bude cítit, že musí použít sílu." # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_A_LONG_PEACE: "Mírný vzestup" # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_A_LONG_PEACE_AI_DESC: "Čína bude upřednostňovat diplomacii a spolupráci před konfrontací a usilovat o rozvoj při neustálém dodržování stávajících pravidel mezinárodního řádu, místo pokusu o jeho svržení. Také učiní kroky směrem k liberalizaci jak politicky, tak ekonomicky." # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_RED_DAWN: "Červený úsvit" # todo: NEW TRANSLATION
+  RULE_OPTION_CHI_RED_DAWN_AI_DESC: "Čína bude usilovat o návrat k maoistickým kořenům, potlačit hospodářské reformy Deng Xiaopinga a dělat volby v zahraniční politice na základě ideologie spíše než strategie. Válka je nevyhnutelná, protože Čína usiluje o revoluci mezinárodního řádu do svého vlastního obrazu, obrazu poháněného univerzalistickým komunismem spíše než specifickými čínskými hodnotami." # todo: NEW TRANSLATION
+  ROC_AI_BEHAVIOR: "@TAI Čínská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_PROJECT_NATIONAL_GLORY: "Projekt národní slávy" # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_PROJECT_NATIONAL_GLORY_AI_DESC: "V souladu s odkazem zesnulého prezidenta Čankajška budeme protiútokem na pevninu a sjednotíme Čínu." # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_UNITE_CHANNEL: "Sjednocení Tchajwanského průlivu" # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_UNITE_CHANNEL_AI_DESC: "Dvě strany Tchajwanského průlivu nemohou zůstat navždy rozdělené, a určitě se vydají směrem k znovusjednocení pod stejným systémem." # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_STATUS_QUO: "Udržet status quo" # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_STATUS_QUO_AI_DESC: "Žádné sjednocení, žádná nezávislost, žádný boj." # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_ROAD_TO_SPLIT: "Sen o Tchaj-wanu" # todo: NEW TRANSLATION
+  RULE_OPTION_TAI_ROAD_TO_SPLIT_AI_DESC: "Dvě strany Tchajwanského průlivu jsou spravovány samostatně a nejsou sobě podřízeny. Co je Čínská republika?" # todo: NEW TRANSLATION
+  JAP_AI_BEHAVIOR: "@JAP Japan" # todo: NEW TRANSLATION
+  RULE_OPTION_RED_STAR_OVER_TOKYO: "Červená hvězda nad Tokiem" # todo: NEW TRANSLATION
+  RULE_OPTION_RED_STAR_OVER_TOKYO_AI_DESC: "V minulosti nebyla perspektiva komunistického Japonska tak nemyslitelnou možností. V průběhu let se tato možnost zdála mizet s tím, jak Japonsko přijalo plně kapitalistický ekonomický systém. Avšak zázračný růst, který tento systém kdysi poskytoval, nyní stagnuje. Nerovnost je rozsáhlá a lidé v Japonsku začínají přijímat možnost, že změna stávajícího stavu může být nutná..." # todo: NEW TRANSLATION
+  RULE_OPTION_RETURN_OF_THE_EMPIRE: "Návrat říše" # todo: NEW TRANSLATION
+  RULE_OPTION_RETURN_OF_THE_EMPIRE_AI_DESC: "Kdysi bylo Japonsko velkou zemí. Zaměřovalo se na celou asijskou pevninu a bylo blízko dosažení zasloužené pozice. Nyní je Japonsko slabé a pod vlivem zahraničních mocností. Japonsko bude usilovat o návrat k tomu, čím kdysi bylo, a znovu vybudovat říši ve východní Asii." # todo: NEW TRANSLATION
+  BRM_AI_BEHAVIOR: "@BRM Union of Myanmar" # todo: NEW TRANSLATION
+  RULE_OPTION_BEACON_OF_DEMOCRACY: "Maják demokracie" # todo: NEW TRANSLATION
+  RULE_OPTION_BEACON_OF_DEMOCRACY_AI_DESC: "Myanmar bude usilovat o reformy bez kompromisů, rychle posílí vládu NLD k moci. Místo ustupování Tatmadaw, Myanmar mobilizuje různé podporovatele politické liberalizace, včetně etnických povstaleckých skupin, s cílem jednou provždy ukončit vliv armády v politice." # todo: NEW TRANSLATION
+  RULE_OPTION_AN_IRON_FIST: "Železná pěst" # todo: NEW TRANSLATION
+  RULE_OPTION_AN_IRON_FIST_AI_DESC: "Pouze platí pro počáteční datum 2000; toto pravidlo hry donutí Myanmar zůstat diktaturou a namísto pozitivní reakce na tlak na reformu, jak tomu bylo historicky, zvolí represivní a totalitní cestu. Navíc, aby zakryla ztrátu legitimity, bude vojenská vláda usilovat o válku nejen s rebelujícími skupinami uvnitř země, ale i se sousedy." # todo: NEW TRANSLATION
+  SWE_AI_BEHAVIOR: "@SWE Kingdom of Sweden" # todo: NEW TRANSLATION
+  RULE_OPTION_NORTHERN_AMBITION: "Severní ambice" # todo: NEW TRANSLATION
+  RULE_OPTION_NORTHERN_AMBITION_AI_DESC: "Švédská krajní pravice zažije vzestup popularity, který vyvrcholí pokusem o vybudování švédského impéria v severní Evropě." # todo: NEW TRANSLATION
+  RULE_OPTION_SWE_PRO_WESTERN: "Jdi na Západ" # todo: NEW TRANSLATION
+  RULE_OPTION_SWE_PRO_WESTERN_AI_DESC: "Švédsko bude blízko NATO a EU." # todo: NEW TRANSLATION
+  RULE_OPTION_SWE_RED_SWEDEN: "Švédská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_SWE_RED_SWEDEN_AI_DESC: "Švédská extrémně levicová scéna převezme moc a svěří monarchii." # todo: NEW TRANSLATION
+  SYR_AI_BEHAVIOR: "@SYR Syrská arabská Republika" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_HISTORICAL: "Historické AI" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_HISTORICAL_DESC: "Hafez al-Assad bude následován svým nejstarším synem Bassár al-Assádem. Bashar si udrží Sýrii jako zemi orientovanou na Rusko s vyváženým zaměřením na diplomacii, vojenskou a ekonomiku." # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_IRON_LADY: "Železná dáma Sýrie" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_IRON_LADY_DESC: "Hafez al-Assad bude následován dcerou Bushra al-Assád. Bushra zaujme vyváženější postoj mezi velmocemi se zaměřením na diplomacii a ekonomiku." # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_SYRIAN_SAVAGE: "Sýrský divoch" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_SYRIAN_SAVAGE_DESC: "Hafez al-Assad bude následován nejmladším synem Maherem al-Assadem. Maher se bude snažit vytvořit Větší Sýrii a vybudovat novou mocnost na Blízkém východě. Zaměří se na vojenský a ekonomický rozmach." # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_NEW_ASSAD: "Nový al-Assád" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_NEW_ASSAD_DESC: "Hafez al-Assad bude následován jeho bratrem Rifátem al-Assád po Damascus Spring. Rifát se zaměří na pro-Saúdskou politiku se zaměřením na diplomacii a ekonomiku." # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_DAMASCUS_SPRING: "Damaské jaro" # todo: NEW TRANSLATION
+  RULE_OPTION_SYR_DAMASCUS_SPRING_DESC: "Sýrie bude ovládnuta hnutím Damaské jaro a promění se v demokracii." # todo: NEW TRANSLATION
+  BHR_AI_BEHAVIOR: "@BHR Bahrain" # todo: NEW TRANSLATION
+  RULE_OPTION_DAY_OF_RAGE: "Den vzpoury" # todo: NEW TRANSLATION
+  RULE_OPTION_DAY_OF_RAGE_AI_DESC: "Lidé v Bahrajnu, v duchu proti-vlámských protestů z 90. let, budou usilovat o větší politickou liberalizaci, což vyvrcholí vznikem plně demokratického šíitského státu. Tato nová šíitská republika se spojí s Íránem." # todo: NEW TRANSLATION
+  SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia" # todo: NEW TRANSLATION
+  RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Globální džihád - GCC první" # todo: NEW TRANSLATION
+  RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "Saudská Arábie se pokusí reformovat svou ekonomiku a sjednotit GCC jako super stát. Poté bude monarchie svržena vzbouřením al-Káidy, což povede k zavedení radikálního islámského státu, který bude šířit svou fundamentální ideologii násilnými prostředky." # todo: NEW TRANSLATION
+  RULE_OPTION_GLOBAL_JIHAD: "Globální džihád" # todo: NEW TRANSLATION
+  RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "Saudská monarchie bude svržena vzbouřením al-Káidy, což povede k zavedení radikálního islámského státu, který se snaží šířit svou fundamentalistickou ideologii násilnými prostředky." # todo: NEW TRANSLATION
+  RULE_OPTION_ISLAMIC_AWAKENING: "Islámské probuzení" # todo: NEW TRANSLATION
+  RULE_OPTION_ISLAMIC_AWAKENING_AI_DESC: "Islámské hnutí Sahwa, ovlivněné Muslimským bratrstvem, úspěšně vyvíjí tlak na saúdskou monarchii, aby přešla k pluralistické islámské demokracii." # todo: NEW TRANSLATION
+  RULE_OPTION_RETURN_OF_THE_BAATH: "Návrat Baath" # todo: NEW TRANSLATION
+  RULE_OPTION_RETURN_OF_THE_BAATH_AI_DESC: "Saudská Arábie bude postupně liberalizovat, což poskytne příležitost pro unikátní ideologii socialistického arabského nacionalismu Baathistické Arábie získat moc. Baathistická Arábie pak bude usilovat o vyhnání zahraničních vojsk z Blízkého východu a rozšíření svého území." # todo: NEW TRANSLATION
+  RULE_OPTION_SHIA_REVIVAL: "Šíitské oživení" # todo: NEW TRANSLATION
+  RULE_OPTION_SHIA_REVIVAL_AI_DESC: "Šíité Saúdské Arábie využijí příležitosti politické liberalizace a převezmou kontrolu nad Saúdskou Arábií, čímž sjednotí zemi s Íránem a Ruskem." # todo: NEW TRANSLATION
+  BRI_AI_BEHAVIOR: "@ENG United Kingdom" # todo: NEW TRANSLATION
+  RULE_OPTION_EUROPEAN_FUTURE: "Evropská budoucnost" # todo: NEW TRANSLATION
+  RULE_OPTION_EUROPEAN_FUTURE_AI_DESC: "Spojené království už není tím, čím bývalo. Británie již nemůže tvrdit, že je globální supervelmocí. To však neznamená, že Britové nemají roli na světové scéně; evropský projekt dává naději na zachování postavení Británie ve světě jako součást širší komunity národů sdílejících sadu ideálů." # todo: NEW TRANSLATION
+  RULE_OPTION_RED_REPUBLIC: "Červená republika" # todo: NEW TRANSLATION
+  RULE_OPTION_RED_REPUBLIC_AI_DESC: "Po celou svou historií byla Velká Británie ovládána monarchiem, aristokracií a šlechtou. Britský třídní systém je jedním z nejproslulejších na světě a pracující vrstvy Velké Británie trpí, zatímco bohatí zbohatnou. Revoluce byla dlouho na pořadu." # todo: NEW TRANSLATION
+  RULE_OPTION_RULE_BRITANNIA: "Vláda Británie" # todo: NEW TRANSLATION
+  RULE_OPTION_RULE_BRITANNIA_AI_DESC: "Kdysi byl tento korunní ostrov známý a děsil svět. Britský monarcha velel nad říší, nad níž nikdy nepadlo slunce. Nyní však britská mezinárodní pozice upadá. Pouhým poskokem Spojených států, stínem svého bývalého já. Přišel čas, aby byl britský impérium obnoven." # todo: NEW TRANSLATION
+  GRE_AI_BEHAVIOR: "@GRE Greece" # todo: NEW TRANSLATION
+  RULE_HELLENIC_REPUBLIC: "Historické" # todo: NEW TRANSLATION
+  RULE_HELLENIC_REPUBLIC_DESC: "Řecko bude udržovat demokracii a pokusí se řešit řeckou dluhovou krizi prostřednictvím úsporných opatření." # todo: NEW TRANSLATION
+  RULE_OPTION_KKE: "KKE" # todo: NEW TRANSLATION
+  RULE_OPTION_KKE_DESC: "Poté, co nespokojenost s vládou vzroste kvůli problémům způsobeným dluhovou krizí, lidé posílí Komunistickou stranu Řecka a pokusí se vytvořit komunistický stát." # todo: NEW TRANSLATION
+  RULE_OPTION_GOLDEN_DAWN: "Zlatý úsvit" # todo: NEW TRANSLATION
+  RULE_OPTION_GOLDEN_DAWN_DESC: "Poté, co vzroste nespokojenost s vládou kvůli problémům způsobeným dluhovou krizí, lidé posílí nacionalistickou stranu Zlatý úsvit a pokusí se vytvořit silný řecký stát." # todo: NEW TRANSLATION
+  CAN_AI_BEHAVIOR: "@CAN Canada" # todo: NEW TRANSLATION
+  RULE_NORTH_AMERICAN_STATUS_QUO: "Severoamerický status quo" # todo: NEW TRANSLATION
+  RULE_NORTH_AMERICAN_STATUS_QUO_DESC: "Severoamerický status quo zajistí, že Kanada zůstane v NATO a zůstane relativně na místě spolu s NATO a USA." # todo: NEW TRANSLATION
+  RULE_NATIONALIST_CANADA: "Nacionalistická Kanada" # todo: NEW TRANSLATION
+  RULE_NATIONALIST_CANADA_DESC: "Kanada pojde nationalisticky a bude usilovat o nadvládu nad Severní Amerikou." # todo: NEW TRANSLATION
+  RULE_STAND_ALONE_CANADA: "Nezávislý postoj" # todo: NEW TRANSLATION
+  RULE_STAND_ALONE_CANADA_DESC: "Ozbrojená neutralita je stále neutralitou." # todo: NEW TRANSLATION
+  BOT_AI_BEHAVIOR: "@BOT Botswana" # todo: NEW TRANSLATION
+  RULE_BOT_BDP_RULES: "BDP pevnost - historická" # todo: NEW TRANSLATION
+  RULE_BOT_BDP_RULES_DESC: "BDP bude nadále držet Botswany, zůstane neutrální a věrný konzervativním hodnotám." # todo: NEW TRANSLATION
+  RULE_BOT_POLITICAL_RAINBOW: "Politická duha" # todo: NEW TRANSLATION
+  RULE_BOT_POLITICAL_RAINBOW_DESC: "Opozční síly v Botswaně se pokusí prolomit nadvládu BDP nad Botswanou a vytvořit vícestranickou demokracii." # todo: NEW TRANSLATION
+  RULE_BOT_KGOSIKGOLO: "Kgosikgolo" # todo: NEW TRANSLATION
+  RULE_BOT_KGOSIKGOLO_DESC: "Tradiční vůdci kmenů Botswany budou posíleni a jeden z nich bude korunován Kgosikgolo Botswany." # todo: NEW TRANSLATION
+  NKO_AI_BEHAVIOR: "@NKO Korea DPR" # todo: NEW TRANSLATION
+  RULE_NKO_NAM_RULES: "Kim Čong-nam" # todo: NEW TRANSLATION
+  RULE_NKO_NAM_RULES_DESC: "Kim Čong-nam bude mít moc a navždy promění Koreu na cestě Reformy a otevření." # todo: NEW TRANSLATION
+  RULE_NKO_UN_RULES: "Kim Čong-un" # todo: NEW TRANSLATION
+  RULE_NKO_UN_RULES_DESC: "Jako zvolený nástupce Kim Čong-ila bude Kim Čong-un pokračovat na cestě Juche, antiamerikanismu, soběstačnosti a utlačující vlády." # todo: NEW TRANSLATION
+  RULE_NKO_JUNTA_RULES: "Puč junty" # todo: NEW TRANSLATION
+  RULE_NKO_JUNTA_RULES_DESC: "Puč junty k zachování čistoty Juche; budou vždy prosazovat Juche a udrží moc navždy." # todo: NEW TRANSLATION
+  RULE_NKO_Yo_jong: "Kim Yo-jong" # todo: NEW TRANSLATION
+  RULE_NKO_Yo_jong_ALLOWED_DESC: "Kim Yo-jong bude vést Korejský poloostrov na jasnou cestu." # todo: NEW TRANSLATION
+  RULE_NKO_Yo_jong_BLOCKED_DESC: "Nedovolte Kim Yo-jong, aby se chopil moci." # todo: NEW TRANSLATION
+  SIN_AI_BEHAVIOR: "@SIN Singapore" # todo: NEW TRANSLATION
+  SIN_GLOBAL_DIPLOMACY: "Globální diplomacie" # todo: NEW TRANSLATION
+  SIN_GLOBAL_DIPLOMACY_DESC: "Cíl Singapuru ve světě je zavést novou éru globální diplomacie." # todo: NEW TRANSLATION
+  SIN_SINGAPORE_ALONE: "Singapur sám" # todo: NEW TRANSLATION
+  SIN_SINGAPORE_ALONE_DESC: "Historické - Toto je historická cesta Singapuru.\n\nSingapur stojí nejlépe sám." # todo: NEW TRANSLATION
+  SIN_PRESSURE_SOUTH_ASIAN_SEAS: "Tlak na jižní Asijská moře" # todo: NEW TRANSLATION
+  SIN_PRESSURE_SOUTH_ASIAN_SEAS_DESC: "Nová vlna síly Singapuru se objevuje." # todo: NEW TRANSLATION
+  SWI_AI_BEHAVIOR: "@SWI Switzerland" # todo: NEW TRANSLATION
+  SWI_MOUNTAIN_FORTRESS: "Horská pevnost" # todo: NEW TRANSLATION
+  SWI_MOUNTAIN_FORTRESS_DESC: "Švýcarsko promění svou zemi ve pevnost." # todo: NEW TRANSLATION
+  SWI_NATO: "Cesta k NATO" # todo: NEW TRANSLATION
+  SWI_NATO_DESC: "Švýcarsko se přiblíží k NATO" # todo: NEW TRANSLATION
+  SWI_SWISS_PROTECTION_LEAGUE: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
+  SWI_SWISS_PROTECTION_LEAGUE_DESC: "Švýcarsko bude usilovat o novou frakci s Rakouskem a Lichtenštejnskem" # todo: NEW TRANSLATION
+  SER_AI_BEHAVIOR: "@SER Yugoslavia" # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_COMMI: "Miloševič je komunista" # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_COMMI_AI_DESC: "Poté, co Miloševič zůstane u moci, povede zemi zpět k komunismu a pokusí se oživit Jugoslávii." # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_NATI: "Miloševičova Velká Srb" # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_NATI_AI_DESC: "Miloševič bude následovat cestu znovuzrození Velké Srbska a bude se snažit vrátit všechna území, na kterých žije srbské obyvatelstvo." # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_FEDERATION: "Miloševičova balkánská federace" # todo: NEW TRANSLATION
+  RULE_OPTION_MILOCEVIC_FEDERATION_AI_DESC: "Miloševič bude sledovat cestu velkolepého, neuskutečného projektu - Balkánské federace." # todo: NEW TRANSLATION
+  RULE_OPTION_SERBIAN_KINGDOM: "Království Srbska" # todo: NEW TRANSLATION
+  RULE_OPTION_SERBIAN_KINGDOM_AI_DESC: "Po svržení Miloševiče převezmou moc příznivci nationalismu a monarchie a pokusí se vrátit bývalou slávu srbského národa." # todo: NEW TRANSLATION
+  RULE_OPTION_SERBIAN_LIBERALS: "Liberální Srbsko" # todo: NEW TRANSLATION
+  RULE_OPTION_SERBIAN_LIBERALS_AI_DESC: "Srbská politika zvolí cestu liberalismu a demokracie." # todo: NEW TRANSLATION
+  UKR_AI_BEHAVIOR: "@UKR Ukraine" # todo: NEW TRANSLATION
+  UKR_VINTRENKO: "Vitrenko" # todo: NEW TRANSLATION
+  UKR_VINTRENKO_DESC: "Ukrajina bude následovat cestu ortodoxního nacionalbolševického feminismu." # todo: NEW TRANSLATION
+  UKR_NATIONALISTS: "Ukrainian Nationalism" # todo: NEW TRANSLATION
+  UKR_NATIONALISTS_DESC: "Ukrajina bude následovat cestu ukrajinských nacionalistů, dědiců UPA." # todo: NEW TRANSLATION
+  UKR_DEMOCRATIC: "Demokratická Ukrajina" # todo: NEW TRANSLATION
+  UKR_DEMOCRATIC_DESC: "Ukrajina bude následovat prozápadní cestu a bude usilovat o začlenění do Evropského společenství." # todo: NEW TRANSLATION
+  UKR_COMMUNISM: "Komunistická Ukrajina" # todo: NEW TRANSLATION
+  UKR_COMMUNISM_DESC: "Ukrajina bude následovat komunistickou cestu a možná oživí SSSR." # todo: NEW TRANSLATION
+  UKR_SOCIALISM: "Socialistická Ukrajina" # todo: NEW TRANSLATION
+  UKR_SOCIALISM_DESC: "Ukrajina bude následovat socialistickou cestu a bude se snažit vytvořit sociálně rovný stát." # todo: NEW TRANSLATION
+  UKR_YUSHENKO: "Juščenko" # todo: NEW TRANSLATION
+  UKR_YUSHENKO_DESC: "Ukrajina bude následovat prezidentství Juščenka." # todo: NEW TRANSLATION
+  UKR_YANUK: "Janukovič" # todo: NEW TRANSLATION
+  UKR_YANUK_DESC: "Ukrajina bude následovat prezidentství Janukoviče." # todo: NEW TRANSLATION
+  SPR_AI_BEHAVIOR: "@SPR Spain" # todo: NEW TRANSLATION
+  SPR_CONSERVATIVE_LEANINGS: "Konzervativní sklony" # todo: NEW TRANSLATION
+  SPR_CONSERVATIVE_LEANINGS_DESC: "Španělsko bude silně nakloněno k Partido Popular a dalším konzervativním stranám." # todo: NEW TRANSLATION
+  SPR_RENACIMIENTO_NACIONALISTA: "Nacionalistické znovuzrození" # todo: NEW TRANSLATION
+  SPR_RENACIMIENTO_NACIONALISTA_DESC: "Španělsko bude naklánět směrem k stranám jako Vox a España 2000." # todo: NEW TRANSLATION
+  SPR_NACION_UNIDAD_IMPERIO: "Národní jednota impéria" # todo: NEW TRANSLATION
+  SPR_NACION_UNIDAD_IMPERIO_DESC: "Španělsko se bude výrazně naklánět k La Falange." # todo: NEW TRANSLATION
+  SPR_SOCIALISM_RISING: "Socialismus vzrůstá" # todo: NEW TRANSLATION
+  SPR_SOCIALISM_RISING_DESC: "PSOE a sociálně-demokratické strany budou pravděpodobněji voleny a tlačeny do vládnoucí strany." # todo: NEW TRANSLATION
+  SPR_COMMUNIST_REVISIONISM: "Komunistický revisionismus" # todo: NEW TRANSLATION
+  SPR_COMMUNIST_REVISIONISM_DESC: "Španělsko se bude snažit posunout k komunistickým stranám." # todo: NEW TRANSLATION
+  SPR_THE_OLD_WAYS: "Staré způsoby" # todo: NEW TRANSLATION
+  SPR_THE_OLD_WAYS_DESC: "Španělsko bude usilovat o oživení španělského impéria." # todo: NEW TRANSLATION
+  PER_AI_BEHAVIOR: "@PER Iran" # todo: NEW TRANSLATION
+  PER_REVOLUTIONARY_PERSIA: "Návrat Pahlavího" # todo: NEW TRANSLATION
+  PER_REVOLUTIONARY_PERSIA_DESC: "Pahlaví II se vrátí do Íránu a založí sekulární stát." # todo: NEW TRANSLATION
+  PER_PAN_PERSIA: "Íránská federace" # todo: NEW TRANSLATION
+  PER_PAN_PERSIA_DESC: "Pan-Iránisté převezmou moc v Íránu a budou usilovat o vytvoření Íránské federace!" # todo: NEW TRANSLATION
+  PER_FIRE_HAS_NO_FRIENDS_IRAN: "MEK" # todo: NEW TRANSLATION
+  PER_FIRE_HAS_NO_FRIENDS_IRAN_DESC: "MEK získá moc v Íránu ve snaze o vytvoření lidové republiky." # todo: NEW TRANSLATION
+  PER_NO_REVOULT_IRAN: "Žádné revoluce" # todo: NEW TRANSLATION
+  PER_NO_REVOULT_IRAN_DESC: "Írán se bude vyvíjet mírumilovně a bez revolucí." # todo: NEW TRANSLATION
+  RULE_PER_ZOROASTRIAN_STATE: "@PER Zoroastrian Resurgence" # todo: NEW TRANSLATION
+  RULE_PER_ZOROASTRIAN_STATE_ALLOWED_DESC: "Během zoroastrijského vzestupu by mohla být hratelná frakce." # todo: NEW TRANSLATION
+  RULE_PER_ZOROASTRIAN_STATE_BLOCKED_DESC: "Zoroastrijové se neobjeví" # todo: NEW TRANSLATION
+  GEO_AI_BEHAVIOR: "@GEO Georgia" # todo: NEW TRANSLATION
+  GEO_NATIONALIST_behavior: "@GEO Nationalist's behavior" # todo: NEW TRANSLATION
+  GEO_help_CHE_behavior: "@GEO Help for Chechens" # todo: NEW TRANSLATION
+  GEO_2008_war_behavior: "@GEO Behavior in 2008 war" # todo: NEW TRANSLATION
+  GEO_2013_behavior: "@GEO Behavior in 2013" # todo: NEW TRANSLATION
+  GEO_SAAKASHVILI: "Pro-Western (Mikheil Saakashvili)" # todo: NEW TRANSLATION
+  GEO_SAAKASHVILI_DESC: "Eduard Ševardnadze bude znovu zvolen, nastane Rose Revolution a Mikheil Saakašvili se ujme moci." # todo: NEW TRANSLATION
+  GEO_PRO_WEST_SHEVA: "Pro-Western (Eduard Ševardnadze)" # todo: NEW TRANSLATION
+  GEO_PRO_WEST_SHEVA_DESC: "Eduard Ševardnadze bude znovu zvolen a bude postupovat po prozápadní cestě bez Rose Revolution." # todo: NEW TRANSLATION
+  GEO_PRO_RUS: "Pro-ruské chování" # todo: NEW TRANSLATION
+  GEO_PRO_RUS_DESC: "Eduard Ševardnadze bude následovat pro-ruskou cestu." # todo: NEW TRANSLATION
+  GEO_NATIONALIST: "Nacionalistické chování" # todo: NEW TRANSLATION
+  GEO_NATIONALIST_DESC: "Gruzie bude následovat nacionalistickou cestu. Nezajímají je Západ ani Východ. Na konci vyhlásí Velkou Gruzii." # todo: NEW TRANSLATION
+  GEO_COMMUNISM: "Komunistické chování" # todo: NEW TRANSLATION
+  GEO_COMMUNISM_DESC: "Gruzie bude následovat komunistickou cestu. Obnoví SSSR a bude záviset na pravidlech Komunistického chování; buď přijmou ZSFSR, nebo budou následovat vlastní cestu." # todo: NEW TRANSLATION
+  GEO_WILL_FOLLOW_OWN_WAY: "Vlastní cesta" # todo: NEW TRANSLATION
+  GEO_WILL_FOLLOW_OWN_WAY_DESC: "Nacionalistická Gruzie bude následovat svou vlastní cestu a doběhne Arménii a Ázerbájdžán." # todo: NEW TRANSLATION
+  GEO_WILL_BE_PRO_ARMENIA: "Pro-arménská" # todo: NEW TRANSLATION
+  GEO_WILL_BE_PRO_ARMENIA_DESC: "Nacionalistická Gruzie bude pomáhat Arménii porazit Ázerbájdžán." # todo: NEW TRANSLATION
+  GEO_WILL_BE_PRO_AZERI: "Pro-Ázerbájdžánský" # todo: NEW TRANSLATION
+  GEO_WILL_BE_PRO_AZERI_DESC: "Nacionalistická Gruzie bude pomáhat Ázerbájdžánu porazit Arménii." # todo: NEW TRANSLATION
+  GEO_WILL_HELP: "Pomoc Čečenům" # todo: NEW TRANSLATION
+  GEO_WILL_HELP_DESC: "Gruzie pomůže Čečencům ve válce s Ruskem. Mohou Gruzii v budoucnu pomoci." # todo: NEW TRANSLATION
+  GEO_WONT_HELP: "Nepomáhej Čečenům" # todo: NEW TRANSLATION
+  GEO_WONT_HELP_DESC: "Gruzie Čečencům ve válce s Ruskem nepomůže. Bude vůči Gruzii nepřátelská." # todo: NEW TRANSLATION
+  GEO_ATTACK_RUS: "Příprava na válku" # todo: NEW TRANSLATION
+  GEO_ATTACK_RUS_DESC: "Gruzie bude připravena na válku v roce 2008 a bude se snažit ve válce zvítězit." # todo: NEW TRANSLATION
+  GEO_WEAKBOY: "Dohoda s Ruskem" # todo: NEW TRANSLATION
+  GEO_WEAKBOY_DESC: "Gruzie bude usilovat o dohodu s Ruskem, aby se vyhnula boji." # todo: NEW TRANSLATION
+  GEO_GEORGIAN_DREAMS: "Pro-západní (Georgian Dreams)" # todo: NEW TRANSLATION
+  GEO_GEORGIAN_DREAMS_DESC: "V roce 2013 bude Gruzie následovat západní cestu a vládnoucí stranou bude Georgian Dreams. Spolupráce se Západem a ruský pragmatismus." # todo: NEW TRANSLATION
+  GEO_UNITED_NATIONAL_MOVEMENT: "Pro-západní a anti-ruská rétorika (United National Movement)" # todo: NEW TRANSLATION
+  GEO_UNITED_NATIONAL_MOVEMENT_DESC: "V roce 2013 bude Gruzie následovat západní cestu a vládnoucí stranou bude United National Movement. Nakonec bude Mikheil Saakašvili prezidentem a Gruzie bude následovat tvrdou anti-ruskou rétoriku." # todo: NEW TRANSLATION
+  GEO_NATIONALIST_2013: "Nationalismus (Emzar Kvitsiani)" # todo: NEW TRANSLATION
+  GEO_NATIONALIST_2013_DESC: "V roce 2013 bude Gruzie sledovat nacionalistickou cestu. Prohloubit spolupráci se Východem. Anti-LGBTQ rétorika." # todo: NEW TRANSLATION
+  GEO_UNITED_GEORGIA: "Nástupující výhled (Sjednocená Gruzie)" # todo: NEW TRANSLATION
+  GEO_UNITED_GEORGIA_DESC: "V roce 2013 bude Gruzie následovat Rozvíjející se cestu. Prohloubí spolupráci se Východem. Vícesměrná politika." # todo: NEW TRANSLATION
+  BLR_ai_behavior: "@BLR Bělorusko" # todo: NEW TRANSLATION
+  BLR_arms_police_behavior: "@BLR Ochrana země" # todo: NEW TRANSLATION
+  BLR_union_state_ai_behavior: "@BLR Chování Státu Unie" # todo: NEW TRANSLATION
+  BLR_DEFAULT: "Alexandr Lukašenko" # todo: NEW TRANSLATION
+  BLR_DEFAULT_DESC: "Výchozí cesta. Alexandr Lukašenko potlačí opozici, bude sledovat Rusko a pomáhat mu, a také bude spolupracovat s Východem." # todo: NEW TRANSLATION
+  BLR_NATIONALIST: "Nacionalistická cesta" # todo: NEW TRANSLATION
+  BLR_NATIONALIST_DESC: "Bělorusko bude následovat nacionalistickou cestu, sníží vliv Ruska, bude si nárokovat některá území v Evropě a nakonec zničí ruského medvěda." # todo: NEW TRANSLATION
+  BLR_RUS_NATIONALIST: "Pro-ruský nacionalisté" # todo: NEW TRANSLATION
+  BLR_RUS_NATIONALIST_DESC: "Nacionalisté mohou být nejen prozápadní, ale i pro-ruskí Nacionalbolševici a vojenská junta prosazuje pro-ruskou linii." # todo: NEW TRANSLATION
+  BLR_COMMUNISM: "Komunistická cesta" # todo: NEW TRANSLATION
+  BLR_COMMUNISM_DESC: "Bělorusko vybuduje komunismus ve východní Evropě a nakonec se Bělorusko stane Litbel." # todo: NEW TRANSLATION
+  BLR_DEMOCRATIC: "Demokratická cesta" # todo: NEW TRANSLATION
+  BLR_DEMOCRATIC_DESC: "Bělorusko se bude snažit vybudovat úspěšnou západní demokracii namísto post-sovětského totalitarismu." # todo: NEW TRANSLATION
+  BLR_NEUTRALITY: "Cesta Hajdukevicha" # todo: NEW TRANSLATION
+  BLR_NEUTRALITY_DESC: "On se chopí moci v zemi do svých rukou kvůli nejasnému charakteru běloruské politiky. Pro-ruský oligarcha s jasnou snahou vytěžit z spolupráce s Ruskem co největší výhody." # todo: NEW TRANSLATION
+  BLR_POST_LUKA_DEFAULT: "Lukašenkův režim" # todo: NEW TRANSLATION
+  BLR_POST_LUKA_DEFAULT_DESC: "Alexandr Lukašenko bude vládnout zemi až do konce věků." # todo: NEW TRANSLATION
+  BLR_MOMMY: "Svetlana Tikhanovová" # todo: NEW TRANSLATION
+  BLR_MOMMY_DESC: "Svetlana Tikhanovová bude u moci po protestech a bude prosazovat pro-západní cestu." # todo: NEW TRANSLATION
+  BLR_WONT_FOLLOW_UNION_STATE: "Nedodržovat Stát Unie" # todo: NEW TRANSLATION
+  BLR_WONT_FOLLOW_UNION_STATE_DESC: "Bělorusko nevybuduje Stát Unie a nestane se ruskou loutkou." # todo: NEW TRANSLATION
+  BLR_WILL_FOLLOW_UNION_STATE: "Formovat Stát Unie" # todo: NEW TRANSLATION
+  BLR_WILL_FOLLOW_UNION_STATE_DESC: "Bělorusko se pokusí vytvořit Stát Unie. Zpočátku se stane ruskou loutkou, ale později..." # todo: NEW TRANSLATION
+  PMR_ai_behavior: "@PMR Transnistrie" # todo: NEW TRANSLATION
+  PMR_HISTORIC_DEFAULT: "Historická cesta" # todo: NEW TRANSLATION
+  PMR_HISTORIC_DEFAULT_DESC: "Transnistrie se bude snažit následovat historickou cestu sbližování s Ruskem." # todo: NEW TRANSLATION
+  PMR_LIBERAL: "Demokratická Transnistrie" # todo: NEW TRANSLATION
+  PMR_LIBERAL_DESC: "Transnistrie bude následovat demokratickou cestu a bude usilovat o integraci s Moldavskem." # todo: NEW TRANSLATION
+  PMR_PATRIOTIC: "Republikánská Transnistrie" # todo: NEW TRANSLATION
+  PMR_PATRIOTIC_DESC: "Transnistrie bude následovat cestu Republikánské strany s jedinečnými politickými příležitostmi." # todo: NEW TRANSLATION
+  PMR_COMMUNISM: "Návrat k komunismu" # todo: NEW TRANSLATION
+  PMR_COMMUNISM_DESC: "Vlajka komunistů bude znovu vyvěšena nad Transnistrí a cesta k oživení Moldavské SSR bude otevřena." # todo: NEW TRANSLATION
+  PMR_UKRAINE: "Ukrajinská Transnistrie" # todo: NEW TRANSLATION
+  PMR_UKRAINE_DESC: "Transnistrie bude usilovat stát se součástí Ukrajiny oddělením od Ruska." # todo: NEW TRANSLATION
+  PMR_LEBED: "Transnistrie generála Lebeda" # todo: NEW TRANSLATION
+  PMR_LEBED_DESC: "Generál Lebed se chopí moci v Transnistrii do svých rukou a dokončí práci 14. armády." # todo: NEW TRANSLATION
+  PMR_sub_behavior: "@PMR Transnistrie – dílčí chování" # todo: NEW TRANSLATION
+  PMR_PASSIVE_DEFAULT: "Ekonomická priorita" # todo: NEW TRANSLATION
+  PMR_PASSIVE_DEFAULT_DESC: "Transnistrie se zaměří na ekonomické odvětví." # todo: NEW TRANSLATION
+  PMR_SHERIFF: "Boj proti „Šerifovi“" # todo: NEW TRANSLATION
+  PMR_SHERIFF_DESC: "Transnistrie se zaměří na boj proti vlivu korporace „Sheriff“." # todo: NEW TRANSLATION
+  CUB_ai_behavior: "@CUB Kuba" # todo: NEW TRANSLATION
+  CUB_HISTORIC_DEFAULT: "Historická cesta" # todo: NEW TRANSLATION
+  CUB_HISTORIC_DEFAULT_DESC: "Kuba bude usilovat o následování historické cesty." # todo: NEW TRANSLATION
+  CUB_LIBERAL: "Cesta Miguela Maria Diaze" # todo: NEW TRANSLATION
+  CUB_LIBERAL_DESC: "Kuba bude sledovat cestu volby Miguela Maria Diaze." # todo: NEW TRANSLATION
+  CUB_COMMUNISM: "Komunistická Kuba" # todo: NEW TRANSLATION
+  CUB_COMMUNISM_DESC: "Kuba bude pokračovat ve své komunistické cestě." # todo: NEW TRANSLATION
+  CUB_NATIONALIST: "Nacionalismus na Kubě" # todo: NEW TRANSLATION
+  CUB_NATIONALIST_DESC: "Falanční nacionalisté převezmou moc na Kubě." # todo: NEW TRANSLATION
+  CUB_DEMOCRATS: "Demokratická Kuba" # todo: NEW TRANSLATION
+  CUB_DEMOCRATS_DESC: "Kuba zvolí cestu demokratských reforem." # todo: NEW TRANSLATION
+  BOSNIAN_AI_BEHAVIOR: "@BOS Bosna a Hercegovina" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_PEACEFUL: "Bosňáci vedou cestu" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_PEACEFUL_AI_DESC: "Bosňáci budou dominovat volbám, což povede k probosenské vládě. Ta zahájí spolupráci s ostatními frakcemi s cílem vybudovat národ míru. Bosna také zahájí spolupráci se silami NATO." # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_COMMIE: "Dělnická fronta" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_COMMIE_AI_DESC: "Bosná bude pochodovat po cestě odborů a dělníků, aby svrhla vládu a zavedla pro lidi komunistickou vládu." # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_MUSLIM_NATION: "Bosňácký revizionismus" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_BOSNIAN_LEADERSHIP_MUSLIM_NATION_AI_DESC: "Bosnie bude usilovat o pravou islámskou cestu a obnovení bývalé slávy." # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA: "Spolupráce se Srbskou republikou" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_AI_DESC: "Do moci bude uvedena pro Srpska vláda zaměřená na lid Bosny a rivalní frakce s velkou mírou spolupráce. Bosna bude naklánět k @SOV ruskému strážci." # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_SRPSKA_FIRST: "Srpská první" # todo: NEW TRANSLATION
+  RULE_OPTION_PRO_LEADERSHIP_TO_SRPSKA_SRPSKA_FIRST_AI_DESC: "Srpska se bude snažit plně ovládnout Bosnu v snaze znovuzjednotit Jugoslávii." # todo: NEW TRANSLATION
+  POL_AI_BEHAVIOR_MD: "@POL Polsko" # todo: NEW TRANSLATION
+  POL_HISTORICAL: "Výchozí" # todo: NEW TRANSLATION
+  POL_HISTORICAL_DESC: "Polsko zůstane na demokratické cestě a pokusí se vstoupit do EU. Dominantní stranou bude PO s anti-ruskou politikou." # todo: NEW TRANSLATION
+  POL_COMMUNISM: "Červený sen" # todo: NEW TRANSLATION
+  POL_COMMUNISM_DESC: "Polsko se opět stane komunistickým a začne šířit Červenou revoluci v Evropě." # todo: NEW TRANSLATION
+  POL_PHALANGA: "Falanga" # todo: NEW TRANSLATION
+  POL_PHALANGA_DESC: "Polsko zvolí cestu nacionalistického hnutí Falanga." # todo: NEW TRANSLATION
+  POL_KORWIN_AG: "Korwin vstupuje do CSTO" # todo: NEW TRANSLATION
+  POL_KORWIN_AG_DESC: "Polsko podpoří stranu UPR, vyhraje jako Korwin, napadne Ukrajinu a vstoupí do CSTO." # todo: NEW TRANSLATION
+  POL_KORWIN_PE: "Korwin zůstává v NATO" # todo: NEW TRANSLATION
+  POL_KORWIN_PE_DESC: "Polsko podpoří stranu UPR, vyhraje jako Korwin, vstoupí Ukrajinu do NATO a zreformuje Polsko-Litevské společenství." # todo: NEW TRANSLATION
+  POL_WALESA: "Wałęsa znovu prezidentem" # todo: NEW TRANSLATION
+  POL_WALESA_DESC: "Polsko podpoří stranu ChDRP, vyhraje jako Wałęsa a zvolí svou budoucnost." # todo: NEW TRANSLATION
+  CZE_AI_BEHAVIOR_MD: "@CZE Česká republika" # todo: NEW TRANSLATION
+  CZE_HISTORICAL: "Výchozí" # todo: NEW TRANSLATION
+  CZE_HISTORICAL_DESC: "Česká republika bude následovat historický volební program, co nejdříve začne exportovat vozy Škoda a pokusí se o invazi do Iráku. Petr Pavel zůstane v demokratické České republice a dokončí standardní mise." # todo: NEW TRANSLATION
+  CZE_COMMUNISM: "Vítězství KSČM" # todo: NEW TRANSLATION
+  CZE_COMMUNISM_DESC: "KSČM, komunistická strana, vyhraje volby a zahájí alternativní historickou cestu, kde bude usilovat o nárokování sporných území od jiných zemí." # todo: NEW TRANSLATION
+  GER_AI_BEHAVIOR: "@GER Spolková republika Německo" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_CONSERVATIVE: "Konzervativní" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_CONSERVATIVE_DESC: "Německo bude usilovat o konzervativní cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_SOCIAL_DEMOCRATIC: "Sociálně-demokratická" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_SOCIAL_DEMOCRATIC_DESC: "Německo bude usilovat o sociálně-demokratickou cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_LIBERALISM: "Liberalismus" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_LIBERALISM_DESC: "Německo bude usilovat o liberální cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_POPULISM: "Populismus" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_POPULISM_DESC: "Německo bude usilovat o populistickou cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_GREEN: "Zelená" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_GREEN_DESC: "Německo bude usilovat o zelenou cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_NATIONALIST: "Nacionalistický" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_NATIONALIST_DESC: "Německo bude usilovat o nacionalistickou cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_SOCIALIST: "Socialistický" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_SOCIALIST_DESC: "Německo bude usilovat o socialistickou cestu." # todo: NEW TRANSLATION
+  RULE_OPTION_GER_MONARCHIST: "Monarchistický" # todo: NEW TRANSLATION
+  RULE_OPTION_GER_MONARCHIST_DESC: "Německo se bude snažit následovat monarchistickou cestu." # todo: NEW TRANSLATION
+  BRA_AI_BEHAVIOR: "@BRA Federativní republika Brazílie" # todo: NEW TRANSLATION
+  BRA_HISTORICAL: "Historické" # todo: NEW TRANSLATION
+  BRA_HISTORICAL_DESC: "Brazílie bude pravděpodobně nakloněna k Lulovi a bude pracovat na prosazení jeho politik a zároveň bude udržovat pozitivní vztahy s západními i východními mocnostmi, mezi těmito skupinami bude udržována tenká hranice." # todo: NEW TRANSLATION
+  BRA_LULA: "Dělnická strana" # todo: NEW TRANSLATION
+  BRA_LULA_DESC: "Brazílie se bude snažit zajistit, aby Lula a Dělnická strana se stali hlavními favority nadcházejících voleb a stali se centrem moci v Brazílii." # todo: NEW TRANSLATION
+  BRA_SERRA: "Brazilská sociálně demokratická strana" # todo: NEW TRANSLATION
+  BRA_SERRA_DESC: "Brazílie se bude snažit zajistit, aby Serra a Brazíleská sociálně demokratická strana zůstali u moci v prvních volbách." # todo: NEW TRANSLATION
+  EST_AI_BEHAVIOR: "@EST Estonská republika" # todo: NEW TRANSLATION
+  EST_HISTORICAL: "Historický" # todo: NEW TRANSLATION
+  EST_HISTORICAL_DESC: "Estonsko bude následovat svou historickou cestu pokojného soužití a aspirace vstoupit do Evropské unie." # todo: NEW TRANSLATION
+  RULE_OPTION_EST_FASCIST: "Radikální Estonsko" # todo: NEW TRANSLATION
+  RULE_OPTION_EST_FASCIST_DESC: "Rádikální prvky se dostanou k moci v Estonsku, což může vést k nestabilitě v regionu." # todo: NEW TRANSLATION
+  RULE_OPTION_EST_DEMOCRATIC: "Cesta demokracie" # todo: NEW TRANSLATION
+  RULE_OPTION_EST_DEMOCRATIC_DESC: "Estonsko bude dodržovat demokratické hodnoty a jedna z demokratických stran získá moc v zemi." # todo: NEW TRANSLATION
+  RULE_OPTION_EST_CENTER: "Centrum Estonska" # todo: NEW TRANSLATION
+  RULE_OPTION_EST_CENTER_DESC: "Estonsko bude následovat cestu centrismu ve svém politickém směřování." # todo: NEW TRANSLATION
+  ROM_AI_BEHAVIOR: "@ROM Rumunská republika" # todo: NEW TRANSLATION
+  ROM_HISTORICAL: "Historický" # todo: NEW TRANSLATION
+  ROM_HISTORICAL_DESC: "Rumunsko bude následovat svou historickou cestu pokojného soužití a aspirací vstoupit do Evropské unie." # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_FASCIST: "Radikální Rumunsko" # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_FASCIST_DESC: "Radikální prvky se dostanou k moci v Rumunsku, což může vést k nestabilitě v regionu." # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_DEMOCRATIC: "Cesta demokracie" # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_DEMOCRATIC_DESC: "Rumunsko bude dodržovat demokratické hodnoty a jedné z demokratických stran se dostane k moci v zemi." # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_CENTER: "Centrismus v Rumunsku" # todo: NEW TRANSLATION
+  RULE_OPTION_ROM_CENTER_DESC: "Rumunsko bude následovat cestu centrismu ve svém politickém směřování." # todo: NEW TRANSLATION
+  RULE_DISABLE_FORMABLE_NATIONS: "Zakázat formovatelné národy" # todo: NEW TRANSLATION
+  RULE_YES_FORMABLE_NATIONS_DESC: "Zakáže rozhodnutí formovatelných národů." # todo: NEW TRANSLATION
+  RULE_NO_FORMABLE_NATIONS_DESC: "Formovatelné národy budou povoleny." # todo: NEW TRANSLATION
+  RULE_ALLOW_MULTIPLE_FORMABLES: "Povolit více stejných formovatelných zemí" # todo: NEW TRANSLATION
+  RULE_ALLOW_MULTIPLE_FORMABLES_BLOCKED_DESC: "Pouze jedna konkrétní formovatelná země může být vytvořena jednou zemí." # todo: NEW TRANSLATION
+  RULE_ALLOW_MULTIPLE_FORMABLES_ALLOWED_DESC: "Umožňuje, aby stejná formovatelná země mohla být vytvořena jakoukoli zemí, která splní potřebná kritéria (to může vést k rivalním arabským uniím, například). Vlajky pro tyto formovatelné země jsou nastaveny tak, že je pravděpodobné, že budou jedinečné, nicméně to není zaručeno." # todo: NEW TRANSLATION
+  RULE_ALLOW_EDGY_FLAGS: "Povolit odvážné vlajky" # todo: NEW TRANSLATION
+  RULE_ALLOW_EDGY_FLAGS_BLOCKED_DESC: "Zabraňuje zobrazení některých z nejkontroverznějších možností vlajek." # todo: NEW TRANSLATION
+  RULE_ALLOW_EDGY_FLAGS_ALLOWED_DESC: "Umožňuje více kontroverzní možnosti vlajek, které by normálně byly cenzurovány." # todo: NEW TRANSLATION
+  RULE_DISABLE_EU: "Zakázat EU" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_EU_DESC: "Všechny země budou z Evropské unie odstraněny." # todo: NEW TRANSLATION
+  RULE_NO_DISABLE_EU_DESC: "Evropská unie bude existovat tak, jak je." # todo: NEW TRANSLATION
+  RULE_EUROPEAN_VOTING_COOLDOWN_LIMIT: "Doba mezi volbami Evropské unie" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_SIXTY: "60 dní" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_SIXTY_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na 60 dní namísto výchozích 180 dní." # todo: NEW TRANSLATION
+  RULE_OPTION_EU_NINETY: "90 dní" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_NINETY_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na 90 dní namísto výchozích 180 dní." # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE_HUNDRED_TWENTY: "120 dní" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE_HUNDRED_TWENTY_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na 120 dní namísto výchozích 180 dní." # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE_HUNDRED_EIGHTY: "180 dní" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE_HUNDRED_EIGHTY_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na výchozích 180 dní." # todo: NEW TRANSLATION
+  RULE_OPTION_EU_TWO_HUNDRED_TEN: "210 dní" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_TWO_HUNDRED_TEN_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na 210 dní namísto výchozích 180 dní." # todo: NEW TRANSLATION
+  RULE_DISABLE_NATO: "Zakázat NATO" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_NATO_DESC: "NATO bude při načtení do hry zakázáno." # todo: NEW TRANSLATION
+  RULE_NO_DISABLE_NATO_DESC: "NATO zůstane frakcí." # todo: NEW TRANSLATION
+  GAME_RULE_nato_disabled: "§YNATO§! Zakázáno Pomocí Herního Pravidla" # todo: NEW TRANSLATION
+  RULE_DISABLE_CSTO: "Zakázat CSTO" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_CSTO_DESC: "CSTO bude při načítání do hry zakázáno." # todo: NEW TRANSLATION
+  RULE_NO_DISABLE_CSTO_DESC: "CSTO zůstane frakcí." # todo: NEW TRANSLATION
+  GAME_RULE_csto_disabled: "§YCSTO§! Zakázáno Pomocí Herního Pravidla" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_AMOUNT_GAIN: "Zisk vlivu při šíření vlivu" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_AMOUNT_GAIN_DESC: "Změnit množství vlivu získaného ze šíření vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_3: "3%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_3_DESC: "Získání 3% vlivu za každou akci šíření. Pokud chcete zvýšit tempo získávání vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_0_5: "0,5%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_0_5_DESC: "0,5% vlivu získáno za každou akci šíření. Pokud chcete skutečně zpomalit zisk vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_1_5: "1,5%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_1_5_DESC: "1,5% vlivu získáno za každou akci šíření. Výchozí nárůst vlivu na akci šíření." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_1: "1%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_1_DESC: "1% vlivu získáno za každou akci šíření. Pokud opravdu chcete zpomalit získávání vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_2: "2%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_2_DESC: "2% vlivu získáno za každou akci šíření. Pokud chcete skutečně zvýšit rychlost nárůstu vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_4: "4%" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_GAIN_4_DESC: "4% vlivu získáno za každou akci šíření. Pokud opravdu chcete výrazně zvýšit rychlost nárůstu vlivu." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_AMOUNT_COOLDOWN: "Doba šíření vlivu" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_30_COOLDOWN: "30 dní" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_30_COOLDOWN_DESC: "Výchozí doba mezi šířením. Jednou za 30 dní můžete šířit svůj vliv na jinou zemi." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_14_COOLDOWN: "14 dní" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_14_COOLDOWN_DESC: "Jednou za 14 dní můžete šířit svůj vliv na jinou zemi." # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_0_COOLDOWN: "Žádné zpoždění" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_0_COOLDOWN_DESC: "Žádné časové omezení pro šíření vlivu, pro chvíli, kdy chcete hodně §Hpolitickou sílu§! vložit do ovlivňování ostatních zemí!" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_60_COOLDOWN: "60 dní" # todo: NEW TRANSLATION
+  RULE_SPREAD_INFLUENCE_60_COOLDOWN_DESC: "Jednou za 60 dní můžete šířit svůj vliv na jinou zemi." # todo: NEW TRANSLATION
+  RULE_INVEST_INFLUENCE_AMOUNT_GAIN: "Zisk vlivu z investic" # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_1: "1%" # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_1_DESC: "Výchozí volba. 1% vlivu získáno, kdykoli někdo přijme vaše investice." # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_0_5: "0,5%" # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_0_5_DESC: "0,5% vlivu získáno, kdykoli někdo přijme vaše investice." # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_2: "2%" # todo: NEW TRANSLATION
+  RULE_INVEST_DEFAULT_GAIN_2_DESC: "2% vlivu získáno, kdykoli někdo přijme vaše investice." # todo: NEW TRANSLATION
+  RULE_INFLUENCE_COOLDOWN: "Doba získávání vlivu z investic" # todo: NEW TRANSLATION
+  RULE_14_DAY_INFLUENCE: "14 dní" # todo: NEW TRANSLATION
+  RULE_14_DAY_INFLUENCE_DESC: "Výchozí volba. Doba získávání vlivu z investic je 14 dní neboli 2 týdny. To platí pro národ pro všechny možné investiční příležitosti. Ačkoliv můžete investovat, v této době nezískáte žádný vliv." # todo: NEW TRANSLATION
+  RULE_0_DAY_INFLUENCE: "Žádné zpoždění" # todo: NEW TRANSLATION
+  RULE_0_DAY_INFLUENCE_DESC: "Staré MD vliv získávaný z investičního časového omezení. Můžete investovat tak často, jak chcete, a stále získávat vliv; nedoporučeno pro hráče, kteří vyžadují rovnováhu!" # todo: NEW TRANSLATION
+  RULE_30_DAY_INFLUENCE: "30 dní" # todo: NEW TRANSLATION
+  RULE_30_DAY_INFLUENCE_DESC: "Doporučená multiplayerová volba. Doba získávání vlivu z investic je 30 dní, přibližně jeden měsíc. Platí pro národ pro všechny možné investiční příležitosti. Ačkoliv můžete investovat, v této době nezískáte žádný vliv." # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_TICK: "Povolit měsíční §YDomestic Independence§! růstový signál" # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_TICK_NO_DESC: "Zakáže měsíční §YDomestic Independence§! růstový signál." # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_TICK_YES_DESC: "Povolí měsíční §YDomestic Independence§! Growth Tick. Každý měsíc §YDomestic Independence§! poroste o hodnotu nastavenou v herním pravidle \"Monthly §YDomestic Independence§! Growth Tick\", které má výchozí hodnotu 0,10% za měsíc." # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT: "Množství měsíčního §YDomestic Independence§! Growth Tick Amount" # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_05: "0,05%" # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_05_DESC: "Každý měsíc §YDomestic Independence§! se zvyšuje o 0,05% dokud je povolen měsíční §YDomestic Independence§! Growth Tick." # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_10: "0,10%" # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_10_DESC: "Každý měsíc §YDomestic Independence§! se zvyšuje o 0,10% dokud je povolen měsíční §YDomestic Independence§! Growth Tick." # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_15: "0,15%" # todo: NEW TRANSLATION
+  RULE_MONTHLY_DOMESTIC_INFLUENCE_GAIN_AMOUNT_15_DESC: "Každý měsíc §YDomestic Independence§! se zvyšuje o 0,15% dokud je povolen měsíční §YDomestic Independence§! Growth Tick." # todo: NEW TRANSLATION
+  RULE_DISABLE_AI_INFLUENCE_PUPPETING: "Zakázat AI ovládání vlivem" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_AI_INFLUENCE_PUPPETING_DESC: "AI nebude moci ovládat ostatní státy prostřednictvím systému vlivu." # todo: NEW TRANSLATION
+  RULE_NO_DISABLE_AI_INFLUENCE_PUPPETING_DESC: "AI bude moci ovládat ostatní státy prostřednictvím systému vlivu." # todo: NEW TRANSLATION
+  RULE_DISABLE_WESTERN_OUTLOOK_FEATURES: "Zakázat agresivní vlivové prvky pro Western Outlook" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_WESTERN_OUTLOOK_FEATURES: "Zakáže agresivní západní prvky, jako vlivový puč nebo vlivové ovládnutí." # todo: NEW TRANSLATION
+  RULE_ENABLE_DIVISION_LIMITER: "Povolit AI omezovač divizí" # todo: NEW TRANSLATION
+  RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Zakázán AI omezovač divizí\n\nVe výchozím nastavení AI nebude omezen v počtu jednotek, které může produkovat. Pokud chcete omezit divize kvůli výkonu, prosím zapněte mě!" # todo: NEW TRANSLATION
+  RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Povolen AI omezovač divizí\n\nKdyž bude povolen, AI bude méně nakloněna tvořit jednotky, což umožní plynulejší hru a hráči klidnější hraní!" # todo: NEW TRANSLATION
+  RULE_OPTION_POTATO_EDITION: "Bramborová edice" # todo: NEW TRANSLATION
+  RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Povolen omezovač AI divizí pro Bramborovou edici\n\nJeště více omezuje AI z důvodu výkonu.\n" # todo: NEW TRANSLATION
+  RULE_REMOVE_MICRO_STATES: "Odstranit mikrostáty" # todo: NEW TRANSLATION
+  RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "Odstraněním mikrostátů by se měl zlepšit výkon pro méně výkonné stroje.\nVětšina karibských států bude anexována do Velké Británie, Bahamy do USA, Trinidad do Venezuely a všechny ostatní mikrostáty v Evropě do jejich nejbližšího prospěvatele." # todo: NEW TRANSLATION
+  RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Odstranění mikrostátů by mělo pomoci výkonu pro počítače s nižším výkonem.\n" # todo: NEW TRANSLATION
+  RULE_ALLOW_WORLD_WAR: "Vláčková světová válka" # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_WORLD_WAR: "Povolit Vláčkovou světovou válku" # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_WORLD_WAR_YES_DESC: "Tato volba omezí sandboxové prvky Millennium Dawn a uvede svět k světové válce v určitém roce, podobně jako u jiných módů.\n\nDoporučujeme hrát v historickém režimu a vypnout volbu 'AI Debt Wars'." # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_WORLD_WAR_NO: "Zakázat Vláčkovou světovou válku" # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_WORLD_WAR_NO_DESC: "Millennium Dawn zůstane ve své konvenční podobě, sandbox mód." # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_LEDGER: "Povolit MD účetní deník" # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_LEDGER_YES_DESC: "MD účetní deník je povolen. (Některé informace z La Resistance intel ledger mohou být redundantní. Vypněte tuto funkci, pokud chcete těžší hru.)" # todo: NEW TRANSLATION
+  RULE_ALLOW_ENABLE_LEDGER_NO_DESC: "Vypne MD účetní deník. To je lepší pro uživatele, kteří preferují autentičtější zážitek a chtějí využít La Resistance k získání důležitých informací." # todo: NEW TRANSLATION
+  RULE_HISTORIC_EVENTS: "Spouštění historických událostí" # todo: NEW TRANSLATION
+  RULE_HISTORIC_EVENTS_NO: "Historické události se nebudou spouštět náhodně. Většina událostí se bude i nadále spouštět náhodně, avšak určité události budou zaručeně spouštěny v měsíci odpovídajícím jejich historickému datu, aby se snížila šance na jejich výrazné zpoždění." # todo: NEW TRANSLATION
+  RULE_HISTORIC_EVENTS_YES: "Historické události se spouštějí." # todo: NEW TRANSLATION
+  RULE_ALLOW_HELP_GUI: "Povolit MD Nápověd GUI" # todo: NEW TRANSLATION
+  RULE_ALLOW_HELP_GUI_YES: "To povolí MD Nápovědu GUI." # todo: NEW TRANSLATION
+  RULE_ALLOW_HELP_GUI_NO: "Toto zakáže MD Nápovědu GUI." # todo: NEW TRANSLATION
+  RULE_ALLOW_PLAYER_COLORED_PUPPETS: "Povolit MD Barevné Loutky" # todo: NEW TRANSLATION
+  RULE_OPTION_MD_COLORED_PUPPETS_YES_DESC: "Jelikož bylo toto herní pravidlo aktivováno, každá země, která se stane loutkou, automaticky převezme barvu, kterou má její Suzerén. (Například pokud Čína ovládne Indii, Indie bude mít barvu Číny)." # todo: NEW TRANSLATION
+  RULE_OPTION_MD_COLORED_PUPPETS_NO_DESC: "Jelikož toto herní pravidlo bylo vypnuto, země při ovládnutí loutkou nebudou měnit barvu a jejich barva zůstane statická." # todo: NEW TRANSLATION
+  RULE_ALLOW_CHEAT_DECISIONS: "Povolit cheat rozhodnutí" # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_CHEAT_DECISIONS_DESC: "Cheat rozhodnutí povolena." # todo: NEW TRANSLATION
+  RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Cheat rozhodnutí zakázána." # todo: NEW TRANSLATION
+  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y(Multiplayer)§! Umožnit globální přepínání cheat rozhodnutí" # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Optional)§!\n\nGlobální přepínání cheat rozhodnutí je povoleno\n§YPoznámka:§! Jakákoliv země na světě může cheat rozhodnutí přepínat a účinky jsou §Yglobální§!. Událost se objeví, která země jej přepíná.\n§YMěli byste se ujistit, že máte povoleno použít rozhodnutí v multiplayer hře!§!\n\n§YPoznámka:§! Také je potřeba povolit herní pravidlo \"Povolit cheat rozhodnutí\", pokud chcete používat cheaty!" # todo: NEW TRANSLATION
+  RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Optional)§!\n\nGlobální přepínání cheat rozhodnutí zakázáno\n§YPoznámka:§! Jakákoliv země na světě může cheat rozhodnutí přepínat a účinky jsou §Yglobální§!. Událost se objeví, která země jej přepíná.\n§YMěli byste se ujistit, že máte povoleno použít rozhodnutí v multiplayer hře!§!\n\n§YPoznámka:§! Také je potřeba povolit herní pravidlo \"Povolit cheat rozhodnutí\", pokud chcete používat cheaty!" # todo: NEW TRANSLATION
+  RULE_DISABLE_ANTI_BULLY: "Zakázat veřejnou válečnou únavu" # todo: NEW TRANSLATION
+  RULE_YES_ANTI_BULLY_DESC: "Zakáže systém veřejné válečné únavy, čímž vám umožní být válečník bez sankcí." # todo: NEW TRANSLATION
+  RULE_NO_ANTI_BULLY_DESC: "Systém veřejné válečné únavy bude aktivní." # todo: NEW TRANSLATION
+  RULE_RANDOM_IDEOLOGIES: "Náhodně měnit pohledy" # todo: NEW TRANSLATION
+  RULE_RANDOM_IDEOLOGIES_NO_DESC: "Všechny národy si zachovají své historické pohledy." # todo: NEW TRANSLATION
+  RULE_RANDOM_IDEOLOGIES_YES_DESC: "Všechny národy nyní mají náhodně přiřazené pohledy." # todo: NEW TRANSLATION
+  RULE_RANDOM_RELIGION: "Náhodně měnit náboženství" # todo: NEW TRANSLATION
+  RULE_RANDOM_RELIGION_NO_DESC: "Všechny národy si zachovají svá historická náboženství." # todo: NEW TRANSLATION
+  RULE_RANDOM_RELIGION_YES_DESC: "Všechny národy budou mít náboženství náhodně přiřazené." # todo: NEW TRANSLATION
+  RULE_RANDOM_INTERNAL_FACTIONS: "Náhodně měnit vnitřní frakce" # todo: NEW TRANSLATION
+  RULE_RANDOM_INTERNAL_FACTIONS_NO_DESC: "Všechny národy si zachovají své historické vnitřní frakce." # todo: NEW TRANSLATION
+  RULE_RANDOM_INTERNAL_FACTIONS_YES_DESC: "Všechny národy mají náhodně promíchané vnitřní frakce." # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_PLAYER: "Obtížnost energie hráče" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_PLAYER_DESC: "Upravuje množství spotřeby a zisku energie pro hráče. (§RVAROVÁNÍ:§! kvůli vyvážené hratelnosti se silně doporučuje ponechat tuto volbu co nejblíže výchozí hodnotě)" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_AI: "Obtížnost energie AI" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_AI_DESC: "Upravuje množství spotřeby a zisku energie pro AI (§RVAROVÁNÍ:§! kvůli vyvážené hratelnosti se silně doporučuje ponechat tuto volbu co nejblíže výchozí hodnotě)" # todo: NEW TRANSLATION
+  RULE_OPTION_VERY_EASY: "Velmi snadné" # todo: NEW TRANSLATION
+  RULE_OPTION_EASY: "Snadné" # todo: NEW TRANSLATION
+  RULE_OPTION_HARD: "Těžké" # todo: NEW TRANSLATION
+  RULE_OPTION_VERY_HARD: "Velmi těžké" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_VERY_EASY_DESC: "§YZisk energie hráče:§!§G +50%§!\n§YSpotřeba energie hráče:§!§G -50%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_EASY_DESC: "§YZisk energie hráče:§!§G +25%§!\n§YSpotřeba energie hráče:§!§G -25%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_NORMAL_DESC: "Generace a spotřeba energie nebudou ovlivněny." # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_HARD_DESC: "§YZisk energie hráče:§!§R -25%§!\n§YSpotřeba energie hráče:§!§R +25%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_VERY_HARD_DESC: "§YZisk energie hráče:§!§R -50%§!\n§YSpotřeba energie hráče:§!§R +50%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_VERY_EASY_DESC_AI: "§YZisk energie AI:§!§G +50%§!\n§YSpotřeba energie AI:§!§G -50%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_EASY_DESC_AI: "§YZisk energie AI:§!§G +25%§!\n§YSpotřeba energie AI:§!§G -25%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_NORMAL_DESC_AI: "Generace a spotřeba energie AI nebudou ovlivněny." # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_HARD_DESC_AI: "§YZisk energie AI:§!§R -25%§!\n§YSpotřeba energie AI:§!§R +25%§!" # todo: NEW TRANSLATION
+  RULE_ENERGY_DIFFICULTY_VERY_HARD_DESC_AI: "§YZisk energie AI:§!§R -50%§!\n§YSpotřeba energie AI:§!§R +50%§!" # todo: NEW TRANSLATION
+  RULE_INTERNAL_FACTION_TICK_AMOUNT: "§YVnitřní frakce§! Názor měsíční počet bodů názoru" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_10: "0.10 Názor měsíčně" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_10_DESC: "Rychlost měsíčního tiků názoru vnitřní frakce bude nastavena na 0.10 namísto výchozí hodnoty 0.50. Millennium Dawn's custom achievements will be disabled with this setting." # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_25: "0.25 Názor měsíčně" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_25_DESC: "Rychlost měsíčního tiků názoru vnitřní frakce bude nastavena na 0.25 namísto výchozí 0.50. Millennium Dawn's custom achievements will be disabled with this setting." # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_50: "0.50 Názor měsíčně" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_50_DESC: "Rychlost měsíčního tiků názoru vnitřní frakce bude nastavena na výchozí 0.50" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_75: "0.75 Názor měsíčně" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_75_DESC: "Rychlost měsíčního tiků názoru vnitřní frakce bude nastavena na 0.75 namísto výchozí 0.50" # todo: NEW TRANSLATION
+  RULE_INTERNAL_FACTION_COST_REDUCTION: "Snížení nákladů na vnitřní frakce" # todo: NEW TRANSLATION
+  RULE_DISABLE_INTERNAL_FACTION_COST_REDUCTION_DESC: "Náklady na změnu vnitřních frakcí budou výchozí." # todo: NEW TRANSLATION
+  RULE_ENABLE_INTERNAL_FACTION_COST_REDUCTION_DESC: "Náklady na změnu vnitřních frakcí budou sníženy, což umožní všem národům (pokud nemají výslovný obsah bránící to). §RPokud narazíte na nefunkční zaměření nebo cokoli jiného, je to na vás.§!" # todo: NEW TRANSLATION
+  RULE_ENABLE_INVESTMENT_COLLAPSE_LOCK: "Povolit zámek kolapsu investic" # todo: NEW TRANSLATION
+  RULE_ENABLE_INVESTMENT_COLLAPSE_LOCK_NO_DESC: "Můžete posílat investice do zemí, pokud máte aktivní misi \"Bankruptcy Incoming\"." # todo: NEW TRANSLATION
+  RULE_ENABLE_INVESTMENT_COLLAPSE_LOCK_YES_DESC: "Už nemůžete posílat investice do zemí, pokud máte aktivní misi \"Bankruptcy Incoming\"." # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE: "Volba chování Sýrie během Arabského jara" # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE_DEFAULT_DESC: "Sýrie bude hodnotit volbu Arabského jara normálně." # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_CIVIL_WAR: "Historická občanská válka Sýrie" # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_CIVIL_WAR_DESC: "Sýrie zajistí, že si zvolí možnosti, pokud Arabské jaro přijde a bude nutit k historické občanské válce." # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_ISIS_SPAWN: "Vznik ISIS" # todo: NEW TRANSLATION
+  RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_ISIS_SPAWN_DESC: "Sýrie bude po celou dobu Arabského jara volit tyto možnosti, aby zajistila vznik historického Islámského státu (ISIS). To také zaručuje, že dojde k historické občanské válce." # todo: NEW TRANSLATION
+  RULE_ALLOW_CHANGING_LEGACY_DOCTRINES: "Povolit změnu legacy pozemních doktrín" # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_CHANGING_LEGACY_DOCTRINES_DESC: "Můžete změnit své legacy pozemní doktríny." # todo: NEW TRANSLATION
+  RULE_NO_ALLOW_CHANGING_LEGACY_DOCTRINES_DESC: "Nelze měnit své legacy pozemní doktríny. Toto je výchozí možnost." # todo: NEW TRANSLATION
+  RULE_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR: "Zakázat občanskou válku Muslimského bratrstva" # todo: NEW TRANSLATION
+  RULE_YES_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR_DESC: "Občanská válka Muslimského bratrstva bude zakázána." # todo: NEW TRANSLATION
+  RULE_NO_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR_DESC: "Občanská válka Muslimského bratrstva bude povolena." # todo: NEW TRANSLATION
+  RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Povolit odvolání intervenčních sil" # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTE: Toto není vyvážené a slouží jen jako dočasné opatření pro to, co chcete dělat. Jakékoli problémy se dobrovolníky a jinak nejsou na nás.§! Umožňuje vám odvolat intervenční síly z zemí.\n" # todo: NEW TRANSLATION
+  RULE_NO_ALLOW_INTERVENTION_FORCES: "§YDefault§!. Neumožňuje odvolat intervenční síly z cizích konfliktů." # todo: NEW TRANSLATION
+  RULE_OPTION_MD_DEFAULT: "Výchozí chování AI" # todo: NEW TRANSLATION
+  RULE_OPTION_MD_DEFAULT_AI_DESC: "AI bude vybírat zaměření náhodně s mírným důrazem na historické volby. Stav světa a status zemí budou volby mírně ovlivňovat." # todo: NEW TRANSLATION
+  AI_CHAOS: "Chaotické AI chování" # todo: NEW TRANSLATION
+  AI_CHAOS_DESC: "AI bude vždy vybírat zcela náhodné zaměření ze všech aktuálně dostupných zaměření. Všechna zaměření jsou si rovna, maximum zmatku zaručeno." # todo: NEW TRANSLATION
+  RULE_OPTION_RANDOM: "Náhodné chování AI" # todo: NEW TRANSLATION
+  RULE_OPTION_RANDOM_DESC: "AI bude následovat náhodnou cestu, která není chaotická." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_PEACE_ONLY_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! může uvolnit tyto země, když budou splněny určité podmínky." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_CHE_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$SOV_referendum_in_chechnya$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_BSH_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$SOV_referendum_in_bashkiria$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_TAT_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$SOV_referendum_in_tatarstan$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_KHM_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$SOV_referendum_in_khmao$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_CRM_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$SOV_referendum_in_crimea$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_RUSSIA_SUBJECT_RF_TOOLTIP: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_CHINA_TIB_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže uvolnit tuto zemi, dokud nejdříve nedokončí fokus §Y$CHI_Tibet_SAR$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_CHINA_ETK_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže tuto zemi uvolnit, dokud nejprve nedokončíte zaměření §Y$CHI_Xinjiang_SAR$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_CHINA_MON_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže tuto zemi uvolnit, dokud nejprve nedokončíte zaměření §Y$CHI_Outer_Mongolia_SAR$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_CHINA_TAI_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže tuto zemi uvolnit, dokud nejprve nedokončíte zaměření §Y$CHI_Establish_Taiwan_SAR$§!." # todo: NEW TRANSLATION
+  RULE_ALLOW_RELEASE_NATIONS_UKRAINE_FEDERALIZE_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nemůže tuto zemi uvolnit, dokud Ukrajinu nezfederalizujete." # todo: NEW TRANSLATION
+  RULE_ALLOW_MP_OPTIMIZATIONS: "Povolit optimalizace pro multiplayer" # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_MP_OPTIMIZATIONS_DESC: "Hráčům bude umožněno slučovat země v regionech pro zvýšení výkonu." # todo: NEW TRANSLATION
+  RULE_NO_ALLOW_MP_OPTIMIZATIONS_DESC: "Hráčům nebude povoleno slučovat země v regionech za účelem zlepšení výkonu." # todo: NEW TRANSLATION
+  RULE_DISABLE_GENERALS_KILLED: "Zakázat náhodné zabíjení generálů v bitvách" # todo: NEW TRANSLATION
+  RULE_ENABLE_GENERALS_KILLED_DESC: "Generálové budou mít šanci být zabiti, což přiměje hráče věnovat větší pozornost jejich schopnostem." # todo: NEW TRANSLATION
+  RULE_DISABLE_GENERALS_KILLED_DESC: "Generálové nebudou mít šanci být zabiti - zaměřeno na lepší zážitek v MP." # todo: NEW TRANSLATION
+  RULE_ALLOW_MP_FREE_FACTORIES: "Povolit přístup k rozhodnutím o bezplatných továrnách" # todo: NEW TRANSLATION
+  RULE_NOT_ALLOW_MP_FREE_FACTORIES_DESC: "Hráči k těmto rozhodnutím nebudou mít přístup." # todo: NEW TRANSLATION
+  RULE_ALLOW_MP_FREE_FACTORIES_DESC: "Pro lepší vyvážení multiplayeru hráči získají přístup k rozhodnutím, která umožní upravit jejich průmyslovou kapacitu." # todo: NEW TRANSLATION
+  RULE_ALLOW_MP_ENHANCEMENTS: "Vylepšení MP" # todo: NEW TRANSLATION
+  RULE_NOT_ALLOW_MP_ENHANCEMENTS_DESC: "Nepovolí MP mechanikám zrychlení hry, není doporučeno pro singleplayer." # todo: NEW TRANSLATION
+  RULE_ALLOW_MP_ENHANCEMENTS_DESC: "Povolit MP mechanikám zrychlit hru" # todo: NEW TRANSLATION
+  ARM_AI_BEHAVIOR: "@ARM Armenia" # todo: NEW TRANSLATION
+  RULE_OPTION_TSARUKYAN: "Cesta Tsarukyana" # todo: NEW TRANSLATION
+  RULE_OPTION_TSARUKYAN_AI_DESC: "Arménie bude řízena proslulým oligarchou Gagikem Tsarukyanem." # todo: NEW TRANSLATION
+  RULE_OPTION_MONARCHISTS: "Monarchistická Arménie" # todo: NEW TRANSLATION
+  RULE_OPTION_MONARCHISTS_AI_DESC: "Arménie se znovu stane monarchistickým státem." # todo: NEW TRANSLATION
+  RULE_OPTION_DEMOCRATS: "Arménie pro NATO" # todo: NEW TRANSLATION
+  RULE_OPTION_DEMOCRATS_AI_DESC: "Arménie bude usilovat o to stát se oporou Západu v Kavkazu a bude usilovat o vstup do NATO." # todo: NEW TRANSLATION
+  RULE_OPTION_UNITED_STATE_OF_ARMENIA: "Spojené státy Arménie" # todo: NEW TRANSLATION
+  RULE_OPTION_UNITED_STATE_OF_ARMENIA_AI_DESC: "Arménie si vytvoří svou vlastní verzi Spojených států." # todo: NEW TRANSLATION
+  RULE_OPTION_DASHNAK_COMMI: "Dashnakští socialisté" # todo: NEW TRANSLATION
+  RULE_OPTION_DASHNAK_COMMI_AI_DESC: "Levé křídlo Dashnaků se dostane k moci v Arménii." # todo: NEW TRANSLATION
+  RULE_OPTION_DASHNAK_NATI: "Dashnakští nacionalisté" # todo: NEW TRANSLATION
+  RULE_OPTION_DASHNAK_NATI_AI_DESC: "Pravé křídlo Dashnaků se dostane k moci v Arménii." # todo: NEW TRANSLATION
+  RULE_STARTING_DEBT_RULE: "Počáteční státní dluh" # todo: NEW TRANSLATION
+  RULE_OPTION_NORMAL_DEBT: "Historický státní dluh" # todo: NEW TRANSLATION
+  RULE_STARTING_DEBT_NORMAL_RULE_DESC: "Toto herní pravidlo ponechává vše podle obvyklého historického výchozího nastavení." # todo: NEW TRANSLATION
+  RULE_OPTION_PLAYER_DEBT_ONLY: "Odebrat dluh hráče" # todo: NEW TRANSLATION
+  RULE_STARTING_DEBT_PLAYER_ONLY_RULE_DESC: "Odebere počáteční státní dluh jen národům vedeným hráčem." # todo: NEW TRANSLATION
+  RULE_OPTION_AI_DEBT_ONLY: "Odebrat dluh AI" # todo: NEW TRANSLATION
+  RULE_STARTING_DEBT_AI_ONLY_RULE_DESC: "Odebere počáteční státní dluh jen národům řízeným AI." # todo: NEW TRANSLATION
+  RULE_OPTION_EVERYONE_DEBT: "Odebrat dluh všem" # todo: NEW TRANSLATION
+  RULE_STARTING_DEBT_EVERYONE_RULE_DESC: "Odebere počáteční státní dluh ze všech zemí." # todo: NEW TRANSLATION
+  LBA_AI_BEHAVIOR: "@LBA Libya" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_ISLAMIC_FIGHTING_GROUP: "Povstání v Sahelu" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_ISLAMIC_FIGHTING_GROUP_DESC: "Libyjská islámská bojová skupina zavraždí Gaddáfího a pokusí se dobýt Sahel." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GRAND_MUFTI: "Libyjský velký muftí" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GRAND_MUFTI_DESC: "V Libyi bude jmenován velký muftí, který následně převezme kontrolu nad zemí." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_DEMOCRACY: "Libyjská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_DEMOCRACY_DESC: "Muammar Gaddáfí přijme demokratické reformy v Libyi." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_KINGDOM: "Království Libye" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_KINGDOM_DESC: "Muammar Gaddáfí obnoví Království Libye a vrátí moc Senussiům." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_ANTI_COLONIAL_UNION: "Gaddáfí - Antikoloniální unie" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_ANTI_COLONIAL_UNION_DESC: "Gaddáfí založí Antikoloniální unii a způsobí potíže po celém světě." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_UAR: "Gaddáfí - Spojená arabská republika" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_UAR_DESC: "Gaddáfí bude spolupracovat s Ba'athisty a pokusí se vytvořit Spojenou arabskou republiku." # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_AFRICA: "Gaddáfi - Spojené státy Afriky" # todo: NEW TRANSLATION
+  RULE_OPTION_LBA_GADDAFI_AFRICA_DESC: "Gaddáfí se bude snažit vytvořit Spojené státy Afriky." # todo: NEW TRANSLATION
+  RULE_GOD_OF_WAR: "Mod Boha Války" # todo: NEW TRANSLATION
+  RULE_GOD_OF_WAR_NO: "Vypnuto" # todo: NEW TRANSLATION
+  RULE_GOD_OF_WAR_YES: "Povoleno" # todo: NEW TRANSLATION
+  RULE_GOD_OF_WAR_NO_DESC: "AI bude používat výchozí konfiguraci." # todo: NEW TRANSLATION
+  RULE_GOD_OF_WAR_YES_DESC: "AI bude používat pokročilé šablony a některé cheatovací prvky." # todo: NEW TRANSLATION

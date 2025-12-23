@@ -1,0 +1,249 @@
+﻿l_english:
+  NATO: "NATO" # todo: NEW TRANSLATION
+  NATO_member: "NATO člen" # todo: NEW TRANSLATION
+  NATO_member_desc: "Severoatlantická aliance (NATO) je obranná aliance složená z USA, Kanady a několika evropských zemí. Zpočátku jako pouhá politická aliance z ní NATO rychle vyrostlo v anti-sovětskou vojenskou alianci. Po rozpadu Sovětského svazu NATO zaujalo stále intervencionističtější roli ve světě. Přesto je hlavním účelem aliance nadále chránit své členské země, a útok na jeden členský stát je útokem na všechny." # todo: NEW TRANSLATION
+  NATO_member_tooltip: "§RFaction Special Rules§!:\n- Pouze vůdce frakce může zaručit ostatní země\n- Země mohou být povolány jen do obranných válek\n- Vstup a odchod z frakce je řízen rozhodnutími a událostmi" # todo: NEW TRANSLATION
+  NATO_guarantee_rule_tt: "§ROnly the Faction Leader of NATO can guarantee other countries!§!" # todo: NEW TRANSLATION
+  NATO_call_ally_rule_tt: "§RNATO members can only call allies in defensive wars!§!" # todo: NEW TRANSLATION
+  NATO_join_ally_rule_tt: "§RNATO members can only join allies in defensive wars!§!" # todo: NEW TRANSLATION
+  NATO_join_faction_rule_tt: "§RCountries can't join NATO through normal means!§!" # todo: NEW TRANSLATION
+  NATO_offer_join_faction_rule_tt: "§ROther countries can't be invited to join NATO through normal means!§!" # todo: NEW TRANSLATION
+  NATO_kick_from_faction_rule_tt: "§RNATO countries can't be kicked out of NATO through normal means§!" # todo: NEW TRANSLATION
+  NATO_leave_faction_rule_tt: "§RNATO countries can't leave NATO through normal means§!" # todo: NEW TRANSLATION
+  NATO_dismantle_faction_rule_tt: "§RNATO nelze rozpustit§!" # todo: NEW TRANSLATION
+  axis_of_resistance: "Osa odporu" # todo: NEW TRANSLATION
+  RESISTANCE_AXIS: "Osa odporu" # todo: NEW TRANSLATION
+  faction_resistance_axis_member: "Osa odporu" # todo: NEW TRANSLATION
+  faction_resistance_axis_member_desc: "Osa odporu odkazuje na neformální alianci mezi Íránem, Sýrií a Hizballáhem (později také iráckými šiítskými milicemi a hutijskými povstalci). Je to soubor zemí, které se staví proti izraelskému, saúdskoarabskému a západnímu vlivu na Blízkém východě." # todo: NEW TRANSLATION
+  faction_resistance_axis_member_TT: "§RFaction Special Rule§!:\n- Pouze šiitské země jsou do frakce povoleny" # todo: NEW TRANSLATION
+  resistance_axis_join_faction_rule_tt: "§ROnly Shia countries can join the Axis of Resistance§!" # todo: NEW TRANSLATION
+  resistance_axis_offer_join_faction_rule_tt: "§ROnly Shia countries can join the Axis of Resistance§!" # todo: NEW TRANSLATION
+  CSTO: "CSTO" # todo: NEW TRANSLATION
+  CSTO_member: "Člen CSTO" # todo: NEW TRANSLATION
+  CSTO_member_desc: "Organizace Smlouvy o kolektivní bezpečnosti (CSTO) je obranná vojenská aliance složená z postsovětských států. Organizace vznikla po zhroucení Sovětského svazu a vytvoření Společenství nezávislých států, když se země snažily udržet jednotu postsovětských národů. Postupně se vyvinula v samostatnou vojenskou alianci." # todo: NEW TRANSLATION
+  CSTO_member_tooltip: "§RFaction Special Rules§!:\n- Pouze země, které bývaly součástí Sovětského svazu, jsou do frakce povoleny\n- Země mohou být povolány jen do obranných válek" # todo: NEW TRANSLATION
+  CSTO_call_ally_rule_tt: "§RCSTO members can only call allies in defensive wars!§!" # todo: NEW TRANSLATION
+  CSTO_join_ally_rule_tt: "§RCSTO members can only join allies in defensive wars!§!" # todo: NEW TRANSLATION
+  CSTO_join_faction_rule_tt: "§ROnly post-Soviet countries can join CSTO!§!" # todo: NEW TRANSLATION
+  CSTO_offer_join_faction_rule_tt: "§ROnly post-Soviet countries can be invited to CSTO!§!" # todo: NEW TRANSLATION
+  FIFTH_INTERNATIONAL_MEMBER_FACTION: "$faction_fifth_international_member$" # todo: NEW TRANSLATION
+  faction_fifth_international_member: "Pátá internacionála" # todo: NEW TRANSLATION
+  faction_fifth_international_member_desc: "Pátá internacionála byla založena jako nástupce čtvrté Internacionály Trotského a třetí Internacionály Stalina, aby spojila všechny komunisty na světě proti kapitalistické hrozbě." # todo: NEW TRANSLATION
+  faction_fifth_international_member_TT: "§RFaction Special Rules§!:\n- Do frakce mohou vstoupit jen země, které jsou vládnuté vznikajícími (Emerging) nebo nezařazenými komunisty" # todo: NEW TRANSLATION
+  faction_fifth_international_member_join_faction_rule_tt: "§RMusí být řízeny [Communist-State_L] nebo [Neutral_Communism_L], aby se mohli připojit k Páté internacionále!§!" # todo: NEW TRANSLATION
+  faction_fifth_international_member_offer_join_faction_rule_tt: "§RMusí být řízeny [Communist-State_L] nebo [Neutral_Communism_L], aby se mohli připojit k Páté internacionále!§!" # todo: NEW TRANSLATION
+  UKR_baltic_black_sea_union_faction: "Baltsko-černomořské společenství" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member: "Baltsko-černomořské společenství" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_desc: "Baltsko-černomořské společenství je nástupcem Intermarium. S uskupením národů spojených od Baltského moře po Černé moře bude sloužit jako buffer mezi Východem a Západem." # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_TT: "§RFaction Special Rules§!:\n- Do frakce jsou povoleny jen země, vůči nimž byla Unie původně navržena\n- Země mohou být povolány jen do obranných válek" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_call_ally_rule_tt: "§RBaltsko-černomořské společenství členové mohou povolat spojence jen do obranných válek!§!" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_join_ally_rule_tt: "§RBaltsko-černomořské společenství členové se mohou připojovat ke spojencům jen do obranných válek!§!" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_join_faction_rule_tt: "§ROd země, vůči nimž byla Unie původně navržena, jsou do Baltsko-černomořského společenství povoleny!§!" # todo: NEW TRANSLATION
+  faction_baltic_black_sea_union_member_offer_join_faction_rule_tt: "§ROd země, vůči nimž byla Unie původně navržena, jsou do Baltsko-černomořského společenství povoleny!§!" # todo: NEW TRANSLATION
+  Jerusalem_Defence_Pact: "Jeruzalémská obranná smlouva" # todo: NEW TRANSLATION
+  PENINSULA_SHIELD: "Rada pro spolupráci v Perském zálivu" # todo: NEW TRANSLATION
+  idea_gcc_member_state: "Člen GCC" # todo: NEW TRANSLATION
+  idea_gcc_member_state_desc: "GCC je politické a ekonomické uskupení všech arabských monarchií v Perském zálivu." # todo: NEW TRANSLATION
+  idea_gcc_member_state_TT: "§RFaction Special Rules§!:\n- Jakmile bude dokončena §YA Robust Alliance§!, do frakce budou moci vstoupit pouze země, které jsou členy GCC." # todo: NEW TRANSLATION
+  gcc_member_state_join_faction_rule_tt: "§ROnly Gulf Cooperation Council Members can join the Gulf Cooperation Council faction!§!" # todo: NEW TRANSLATION
+  gcc_member_state_offer_join_faction_rule_tt: "§ROnly Gulf Cooperation Council Members can join the Gulf Cooperation Council faction!§!" # todo: NEW TRANSLATION
+  british_commonwealth: "Společenství národů" # todo: NEW TRANSLATION
+  faction_british_commonwealth: "Společenství národů" # todo: NEW TRANSLATION
+  faction_british_commonwealth_desc: "Spojené království se rozhodlo reformovat Společenství národů do vojensky orientovanější aliance." # todo: NEW TRANSLATION
+  faction_british_commonwealth_TT: "§RFaction Special Rule§!:\n- Do frakce jsou povoleny pouze země s §YČlen Společenství národů§!" # todo: NEW TRANSLATION
+  faction_british_commonwealth_join_faction_rule_tt: "§ROnly Commonwealth of Nations Members can join the British Commonwealth!§!" # todo: NEW TRANSLATION
+  faction_british_commonwealth_offer_join_faction_rule_tt: "§ROnly Commonwealth of Nations Members can join the British Commonwealth!§!" # todo: NEW TRANSLATION
+  cento_alliance: "CENTO" # todo: NEW TRANSLATION
+  faction_cento_alliance: "Člen CENTO" # todo: NEW TRANSLATION
+  faction_cento_alliance_desc: "CENTO, také známé jako Centrální smluvní organizace, je vojenská aliance nedávno oživená k ochraně sekulárních a demokratických hodnot na Blízkém východě. Ačkoliv její vznik nebyl studenoválečného rázu, její členové si slíbili změnu a usilují o větší změnu v regionu." # todo: NEW TRANSLATION
+  faction_cento_TT: "§RFaction Special Rules§!:\n- Do frakce jsou povoleny jen některé země ze Středního východu, Afriky a Střední Asie\n- Země mohou být povolány jen do obranných válek" # todo: NEW TRANSLATION
+  faction_cento_alliance_call_ally_rule_tt: "§R CENTO Alliance members can only call allies in defensive wars!§!" # todo: NEW TRANSLATION
+  faction_cento_alliance_join_ally_rule_tt: "§R CENTO members can only join allies in defensive wars!§!" # todo: NEW TRANSLATION
+  faction_cento_alliance_join_faction_rule_tt: "§ROnly some countries in Middle East and Central Asia can join CENTO!§!" # todo: NEW TRANSLATION
+  faction_cento_alliance_offer_join_faction_rule_tt: "§ROnly some countries in Middle East and Central Asia can join CENTO!§!" # todo: NEW TRANSLATION
+  seato_alliance: "Východ" # todo: NEW TRANSLATION
+  faction_seato_alliance: "Člen Východu" # todo: NEW TRANSLATION
+  faction_seato_alliance_desc: "Východ znamená Východoasijská bezpečnostní smlouva. Tato frakce vznikla na podporu americké snahy o silnější demokratickou alianci ve Východní Asii, aby čelila rostoucímu čínskému vlivu a dominanci. Hlavní cíle frakce jsou chránit demokratické normy v regionu a posílit vojenskou spolupráci a bezpečnost mezi členskými státy." # todo: NEW TRANSLATION
+  faction_seato_TT: "§RFaction Special Rules§!:\n- Do frakce je povoleno jen několik zemí východní Asie a Oceánie\n- Země mohou být povolány jen do obranných válek" # todo: NEW TRANSLATION
+  faction_seato_alliance_call_ally_rule_tt: "§R EAST Alliance members can only call allies in defensive wars!§!" # todo: NEW TRANSLATION
+  faction_seato_alliance_join_ally_rule_tt: "§R EAST members can only join allies in defensive wars!§!" # todo: NEW TRANSLATION
+  faction_seato_alliance_join_faction_rule_tt: "§ROnly some countries in East Asia and Oceania can join EAST!§!" # todo: NEW TRANSLATION
+  faction_seato_alliance_offer_join_faction_rule_tt: "§ROnly some countries in East Asia and Oceania can join EAST!§!" # todo: NEW TRANSLATION
+  imperial_bloc_alliance: "Imperial Bloc" # todo: NEW TRANSLATION
+  faction_imperial_bloc_alliance: "Imperial Bloc Member" # todo: NEW TRANSLATION
+  faction_imperial_bloc_alliance_desc: "Impériální blok, často označovaný jako neo-střední mocnosti, byl vytvořen Německem, aby konkuroval dominanci CSTO a NATO v regionu. Ačkoliv vznik paktu Němci byl nucený, vedl k posunu ve světě směrem k více bipolarizovanému uspořádání." # todo: NEW TRANSLATION
+  faction_imperial_bloc_TT: "§RFaction Special Rules§!:\n- Do frakce jsou povoleny jen některé země v Evropě\n- Země mohou být povolány do §HOfenzivních§! válek" # todo: NEW TRANSLATION
+  faction_imperial_bloc_join_faction_rule_tt: "§ROnly some countries in Europe can join Imperial Bloc!§!" # todo: NEW TRANSLATION
+  faction_imperial_bloc_alliance_join_faction_rule_tt: "§ROnly some countries in Europe can join Imperial Bloc!§!" # todo: NEW TRANSLATION
+  faction_imperial_bloc_alliance_offer_join_faction_rule_tt: "§ROnly some countries in Europe can join Imperial Bloc!§!" # todo: NEW TRANSLATION
+  brics_alliance: "BRICS" # todo: NEW TRANSLATION
+  faction_brics_alliance: "BRICS Member" # todo: NEW TRANSLATION
+  faction_brics_alliance_desc: "BRICS je soubor několika zemí napříč několika regiony. I když byla dohoda původně navržena spíše ekonomické povahy, její členové se rozhodli, že pro ně je nejlepší vytvořit obrannou smlouvu, která bude soupeřem aliancím jako NATO." # todo: NEW TRANSLATION
+  faction_brics_TT: "§RFaction Special Rules§!:\n- kdokoliv schválený jádrovými členy je povolen do frakce\n- Země mohou být povolány jen do obranných válek" # todo: NEW TRANSLATION
+  faction_brics_alliance_call_ally_rule_tt: "§R Členové BRICS aliance mohou volat spojence jen do obranných válek!§!" # todo: NEW TRANSLATION
+  faction_brics_alliance_join_ally_rule_tt: "§R Členové BRICS aliance se mohou připojit ke spojencům jen během obranných válek!§!" # todo: NEW TRANSLATION
+  faction_brics_alliance_join_faction_rule_tt: "§R Pouze země s povolením se mohou připojit k BRICS!§!" # todo: NEW TRANSLATION
+  faction_brics_alliance_offer_join_faction_rule_tt: "§R Pouze země s povolením se mohou připojit k BRICS!§!" # todo: NEW TRANSLATION
+  taj_alliance: "TAJ Pakt" # todo: NEW TRANSLATION
+  faction_taj_alliance: "TAJ člen" # todo: NEW TRANSLATION
+  faction_taj_alliance_desc: "Tato země je členem TAJ paktu (Korunní pakt). Aliance byla založena tajickou vládou; aliance má za cíl poskytnout jednotnou obranu proti těm, kdo usilují o poškození států Střední Asie. Někteří spekulují, že důvod vzniku aliance byl odstrašení ruské agrese v důsledku odklonu tajické vlády od vlády ruské." # todo: NEW TRANSLATION
+  faction_taj_TT: "§R Hlavní pravidla frakce§!:\n- Pouze některé země z Blízkého východu a Střední Asie jsou do frakce povoleny\n- Země mohou být volány pouze do obranných válek" # todo: NEW TRANSLATION
+  faction_taj_alliance_call_ally_rule_tt: "§R TAJ aliance mohou volat spojence jen do obranných válek!§!" # todo: NEW TRANSLATION
+  faction_taj_alliance_join_ally_rule_tt: "§R Členové TAJ aliance se mohou připojit ke spojencům jen během obranných válek!§!" # todo: NEW TRANSLATION
+  faction_taj_alliance_join_faction_rule_tt: "§R Pouze některé země ze Středního východu a Střední Asie mohou vstoupit do TAJ paktu!§!" # todo: NEW TRANSLATION
+  faction_taj_alliance_offer_join_faction_rule_tt: "§R Pouze některé země ze Středního východu a Střední Asie mohou být pozvány ke vstupu do TAJ paktu!§!" # todo: NEW TRANSLATION
+  mto_alliance: "MTO" # todo: NEW TRANSLATION
+  faction_mto_alliance: "MTO člen" # todo: NEW TRANSLATION
+  faction_mto_alliance_desc: "Tato země je členem MTO (Středomořská smluvní organizace), která se podílí na vzájemné obraně islámských národů v rámci MTO. MTO se také podílí na různých hospodářských projektech napříč Blízkým východem a okolními oblastmi, s hlavním cílem zlepšit ekonomickou prosperitu muslimů" # todo: NEW TRANSLATION
+  faction_mto_TT: "§R Hlavní pravidla frakce§!:\n- Pouze některé země ze Středního východu a severní Afriky jsou do frakce povoleny\n- Země mohou být volány pouze do obranných válek" # todo: NEW TRANSLATION
+  faction_mto_alliance_call_ally_rule_tt: "§R MTO aliance mohou volat spojence jen do obranných válek!§!" # todo: NEW TRANSLATION
+  faction_mto_alliance_join_ally_rule_tt: "§R MTO členové aliance se mohou připojit ke spojencům jen během obranných válek!§!" # todo: NEW TRANSLATION
+  faction_mto_alliance_join_faction_rule_tt: "§R Pouze některé země ze Středního východu a severní Afriky mohou vstoupit do MTO!§!" # todo: NEW TRANSLATION
+  faction_mto_alliance_offer_join_faction_rule_tt: "§R Pouze některé země ze Středního východu a severní Afriky mohou být pozvány ke vstupu do MTO!§!" # todo: NEW TRANSLATION
+  fao_alliance: "FAO" # todo: NEW TRANSLATION
+  chinese_united_front: "Čínská sjednocená fronta" # todo: NEW TRANSLATION
+  SHANGHAI_PACT: "Šanghajský pakt" # todo: NEW TRANSLATION
+  SCO_name: "Šanghajská organizace pro spolupráci" # todo: NEW TRANSLATION
+  faction_manifest_sco_name: "K eurazijské harmonii" # todo: NEW TRANSLATION
+  faction_manifest_sco_desc: "Tento manifest vytyčuje kolektivní vizi členských států Šanghajské organizace pro spolupráci (SCO) pro inkluzivní, stabilní a suverénní eurasijský prostor. Zakotven v principech vzájemného respektu, nezasahování a spolupráce pro vzájemný prospěch." # todo: NEW TRANSLATION
+  sco_member: "Člen Šanghajské organizace pro spolupráci" # todo: NEW TRANSLATION
+  sco_member_desc: "Šanghajská organizace pro spolupráci (SCO) je euroasijská politická, ekonomická a bezpečnostní organizace, jejíž založení bylo oznámeno dne 15. června 2001 v Šanghaji v Číně vedoucími představiteli Číny, Kazachstánu, Kyrgyzstánu, Ruska, Tádžikistánu a Uzbekistánu." # todo: NEW TRANSLATION
+  sco_member_econ_desc: "Šanghajská organizace pro spolupráci (SCO) je euroasijská politická, ekonomická a bezpečnostní organizace, jejíž založení bylo oznámeno dne 15. června 2001 v Šanghaji v Číně vedoucími představiteli Číny, Kazachstánu, Kyrgyzstánu, Ruska, Tádžikistánu a Uzbekistánu." # todo: NEW TRANSLATION
+  sco_member_pol_desc: "Šanghajská organizace pro spolupráci (SCO) je euroasijská politická, ekonomická a bezpečnostní organizace, jejíž založení bylo oznámeno dne 15. června 2001 v Šanghaji v Číně vedoucími představiteli Číny, Kazachstánu, Kyrgyzstánu, Ruska, Tádžikistánu a Uzbekistánu." # todo: NEW TRANSLATION
+  sco_member_mil_desc: "Šanghajská organizace pro spolupráci (SCO) je euroasijská politická, ekonomická a bezpečnostní organizace, jejíž založení bylo oznámeno dne 15. června 2001 v Šanghaji v Číně vedoucími představiteli Číny, Kazachstánu, Kyrgyzstánu, Ruska, Tádžikistánu a Uzbekistánu." # todo: NEW TRANSLATION
+  sco_member_tooltip: "§RFaction Special Rules§!:\n- Čína nemůže rozpustit svou frakci\n- Čína může do své frakce zvát pouze členy SCO\n- Běžní členové SCO mohou svobodně vstupovat do jiných frakcí" # todo: NEW TRANSLATION
+  sco_member_leave_faction_rule_tt: "§R Čína nemůže opustit Šanghajský pakt!§!" # todo: NEW TRANSLATION
+  sco_member_dismantle_faction_rule_tt: "§R Čína nemůže rozpustit Šanghajský pakt!§!" # todo: NEW TRANSLATION
+  sco_member_join_faction_rule_tt: "§R Jen členové Šanghajské organizace pro spolupráci (SCO) mohou vstoupit do Šanghajského paktu!§!" # todo: NEW TRANSLATION
+  sco_member_offer_join_faction_rule_tt: "§R Jen členové Šanghajské organizace pro spolupráci (SCO) mohou vstoupit do Šanghajského paktu!§!" # todo: NEW TRANSLATION
+  faction_goal_sco_connected_capitals_name: "Propojená hlavní města" # todo: NEW TRANSLATION
+  faction_goal_sco_connected_capitals_desc: "Musíme propojit všechna hlavní města této frakce železnicí, aby se zlepšila produktivita a jednota." # todo: NEW TRANSLATION
+  joining_rule_sco: "Pouze členové Šanghajské organizace pro spolupráci" # todo: NEW TRANSLATION
+  joining_rule_sco_eco: "Pouze členové Šanghajské organizace pro spolupráci" # todo: NEW TRANSLATION
+  joining_rule_sco_political: "Pouze členové Šanghajské organizace pro spolupráci" # todo: NEW TRANSLATION
+  joining_rule_sco_mil: "Pouze členové Šanghajské organizace pro spolupráci" # todo: NEW TRANSLATION
+  call_to_war_rule_chinese_united_front: "Čínská sjednocená fronta" # todo: NEW TRANSLATION
+  call_to_war_rule_chinese_indian_alliance: "Čínsko-indická aliance" # todo: NEW TRANSLATION
+  gca_alliance: "Aliance Gran-Colombia" # todo: NEW TRANSLATION
+  joining_rule_gca_nations: "Vyberte národy Gran-Colombia" # todo: NEW TRANSLATION
+  all_gca_possible_members: "Všichni možní členové GCA" # todo: NEW TRANSLATION
+  all_gca_possible_members_desc: "Mějte všechny možné členy Aliance Gran-Colombia ve frakci." # todo: NEW TRANSLATION
+  fia_alliance: "Svobodná nezávislá aliance" # todo: NEW TRANSLATION
+  fia_call_ally_rule_tt: "§R FIA členové mohou volat spojence jen do obranných válek!§!" # todo: NEW TRANSLATION
+  fia_join_ally_rule_tt: "§R FIA členové se mohou připojit ke spojencům jen během obranných válek!§!" # todo: NEW TRANSLATION
+  fia_join_faction_rule_tt: "§R Pouze post-Soviet státy se mohou připojit k FIA!§!" # todo: NEW TRANSLATION
+  fia_offer_join_faction_rule_tt: "§R Pouze post-sovětské země mohou být pozvány ke vstupu do FIA!§!" # todo: NEW TRANSLATION
+  Levant_Liberation_Committee: "Levantská osvobozenecká liga" # todo: NEW TRANSLATION
+  Peninsula_Sword: "Peninsula Sword" # todo: NEW TRANSLATION
+  UNITED_ARAB_ALLIANCE: "Spojená arabská aliance" # todo: NEW TRANSLATION
+  british_alliance: "Anglosaská aliance" # todo: NEW TRANSLATION
+  freedom_league: "Liga svobody" # todo: NEW TRANSLATION
+  washington_pact: "Washingtonův pakt" # todo: NEW TRANSLATION
+  japanese_alliance_democratic: "Východoasijská aliance" # todo: NEW TRANSLATION
+  east_asian_pact: "Východoasijský pakt" # todo: NEW TRANSLATION
+  japanese_alliance_communist: "Červená sféra prosperity" # todo: NEW TRANSLATION
+  unasul: "UNASUL" # todo: NEW TRANSLATION
+  USA_ROK: "USA-ROK aliance" # todo: NEW TRANSLATION
+  Eastern_europe_pact: "Pakt východní Evropy" # todo: NEW TRANSLATION
+  REP_member: "Člen REP" # todo: NEW TRANSLATION
+  POL_red_europe_pact: "Pakt Červené Evropy" # todo: NEW TRANSLATION
+  POL_eastern_europe_pact: "Pakt východní Evropy" # todo: NEW TRANSLATION
+  KALMAR_UNION: "Kalmarova unie" # todo: NEW TRANSLATION
+  Balkan_Socialist_Union: "Balkánská socialistická unie" # todo: NEW TRANSLATION
+  Fossil_Energy_Pact_faction: "Pakt fosilní energie" # todo: NEW TRANSLATION
+  Eurasian_Alliance: "Eurasijská aliance" # todo: NEW TRANSLATION
+  Western_Alliance: "Západní aliance" # todo: NEW TRANSLATION
+  Anti_Turanic_Coalition: "Proti turánské koalici" # todo: NEW TRANSLATION
+  UNASUL_faction: "UNASUL" # todo: NEW TRANSLATION
+  Aryavarta_pact: "Pakt Svatého Slunce" # todo: NEW TRANSLATION
+  VIE_RAJPACT: "Revoluční pakt" # todo: NEW TRANSLATION
+  Northern_Alliance: "Severní aliance" # todo: NEW TRANSLATION
+  imperial_Union: "Impériální unie" # todo: NEW TRANSLATION
+  TEAM_A: "Tým A" # todo: NEW TRANSLATION
+  TEAM_B: "Tým B" # todo: NEW TRANSLATION
+  TEAM_C: "Tým C" # todo: NEW TRANSLATION
+  TEAM_D: "Tým D" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_1: "Organizace pro mezinárodní bezpečnost" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_2: "Smlouva o světové obraně" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_3: "Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_4: "Předběžná obrana $CONTINENT$ smlouva" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_5: "$CONTINENT_ADJ$ Koalice" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_6: "$CONTINENT_ADJ$ Federace" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_1: "Iniciativa míru" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_2: "Liga sebeurčení" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_3: "Kolektivní $CONTINENT_ADJ$ Obranný pakt" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_4: "Pakt sebeurčení $CONTINENT_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_5: "Kompakt $LEADER_COUNTRY_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_1: "$CONTINENT_ADJ$ Kalifát" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_2: "Islámský kalifát $CONTINENT$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_3: "$LEADER_COUNTRY_ADJ$ Ummah" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_4: "Následovníci $LEADER_COUNTRY$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_5: "Cesta spravedlnosti $CONTINENT_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_1: "Nevázané $CONTINENT_ADJ$ státy" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_2: "Nevázaná $CONTINENT_ADJ$ Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_3: "The $CONTINENT$ Aliance" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_4: "Konfederované $CONTINENT_ADJ$ národy" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_5: "Koalice $LEADER_COUNTRY$" # todo: NEW TRANSLATION
+  FACTION_NAME_NATIONALIST_1: "Národní obranná liga" # todo: NEW TRANSLATION
+  FACTION_NAME_NATIONALIST_2: "Pakt obran $LEADER_COUNTRY_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_NATIONALIST_3: "$LEADER_COUNTRY_ADJ$ Pakt národní obnovy" # todo: NEW TRANSLATION
+  FACTION_NAME_NATIONALIST_4: "Pakt Učiňte $LEADER_COUNTRY$ opět velkým" # todo: NEW TRANSLATION
+  UAR_arab_liberation_front: "Arabská osvobozenecká fronta" # todo: NEW TRANSLATION
+  joining_rule_shia: "Pouze šíitské státy" # todo: NEW TRANSLATION
+  joining_rule_post_soviet_states: "Pouze post-sovětské státy" # todo: NEW TRANSLATION
+  stabilizing_balkans: "Stabilizace Balkánů" # todo: NEW TRANSLATION
+  stabilizing_balkans_desc: "Balkán je 'horká' oblast, kterou je třeba stabilizovat pro dlouhodobý mír v Evropě" # todo: NEW TRANSLATION
+  nato_expansion: "Rozšíření NATO" # todo: NEW TRANSLATION
+  nato_expansion_desc: "Abychom zajistili mír a omezili rostoucí hrozbu, musíme hledat sílu v počtech." # todo: NEW TRANSLATION
+  transform_nato_forces: "Transformovat síly NATO" # todo: NEW TRANSLATION
+  transform_nato_forces_desc: "Musíme zlepšit strukturu sil NATO, abychom čelili výzvám zítřka." # todo: NEW TRANSLATION
+  nato_gdp_per_capita: "NATO hospodářský rozvoj" # todo: NEW TRANSLATION
+  nato_gdp_per_capita_desc: "Abychom zajistili bezpečnou a prosperující budoucnost, musíme zajistit, aby každý členský stát byl ekonomicky vyspělý." # todo: NEW TRANSLATION
+  transform_eap_forces: "Transformovat síly Východoasijského paktu" # todo: NEW TRANSLATION
+  transform_eap_forces_desc: "Musíme zlepšit strukturu sil Východoasijského paktu, abychom čelili výzvám zítřka." # todo: NEW TRANSLATION
+  check_russia: "Čelte ruské hrozbě" # todo: NEW TRANSLATION
+  check_russia_desc: "Rusko po dlouhou dobu narušuje mír, musíme zajistit, že jejich kroky budou tlumeny." # todo: NEW TRANSLATION
+  check_china: "Čelte čínské hrozbě" # todo: NEW TRANSLATION
+  check_china_desc: "Čína narušuje mír už příliš dlouho; musíme zajistit, aby její kroky byly pod kontrolou." # todo: NEW TRANSLATION
+  democracy_in_europe: "Demokracie v Evropě" # todo: NEW TRANSLATION
+  democracy_in_europe_desc: "Je nezbytné, abychom ustanovili a zajistili, že demokracie v Evropě bude kralovat." # todo: NEW TRANSLATION
+  democracy_in_europe_completed_tt: "Všechny evropské země mají volby a patří k západní nebo nezařazené orientaci." # todo: NEW TRANSLATION
+  democracy_in_east_asia: "Demokracie ve východní Asii" # todo: NEW TRANSLATION
+  democracy_in_east_asia_desc: "Je nezbytné, abychom ustanovili a zajistili, že demokracie ve východní Asii bude kralovat." # todo: NEW TRANSLATION
+  democracy_in_east_asia_completed_tt: "Všechny země východní Asie mají volby a patří k západní nebo nezařazené orientaci." # todo: NEW TRANSLATION
+  faction_goal_no_terrorism_name: "Žádná teroristická hrozba" # todo: NEW TRANSLATION
+  faction_goal_no_terrorism_desc: "Všechny členské země mají zanedbanou teroristickou hrozbu, a my tak můžeme dosáhnout stability v této části světa." # todo: NEW TRANSLATION
+  crush_the_democracy_goal_name: "Zničit demokracii" # todo: NEW TRANSLATION
+  crush_the_democracy_goal_desc: "Lidé musí zapomenout na demokratické ideály. Teprve tehdy budeme v bezpečí před západní propagandou a útoky." # todo: NEW TRANSLATION
+  help_ukraine_name: "Pomozte Ukrajině proti invazi" # todo: NEW TRANSLATION
+  help_ukraine_name_desc: "Ukrajina směřuje na Západ a Rusko zoufale lpí na svém padlém impériu. Musíme chránit vůli Ukrajiny změnit její cestu." # todo: NEW TRANSLATION
+  help_taiwan_name: "Pomozte Taiwanu proti invazi" # todo: NEW TRANSLATION
+  help_taiwan_name_desc: "Čína se stala jasnou hrozbou pro východní Asii. Zabránit tomu, aby Taiwan připadl Číně, by bylo vhodné." # todo: NEW TRANSLATION
+  control_mandeb_goal_name: "Ovládání Mandebského průlivu" # todo: NEW TRANSLATION
+  control_mandeb_goal_name_desc: "Mandébský průliv je jednou z klíčových oblastí Rudého moře. Musíme ho ovládnout, aby byl zajištěn kontinuální obchod a logistika v regionu." # todo: NEW TRANSLATION
+  call_to_war_rule_never: "Žádný válečný zásah" # todo: NEW TRANSLATION
+  nato_defeat_taliban: "Porazit terorismus v Afghánistánu" # todo: NEW TRANSLATION
+  nato_defeat_taliban_desc: "V důsledku rozsáhlých teroristických útoků na USA musí být NATO připraveno tuto hrozbu zničit dříve, než způsobí další škody." # todo: NEW TRANSLATION
+  SHORT_TERM: "Krátkodobé" # todo: NEW TRANSLATION
+  MEDIUM_TERM: "Střednědobé" # todo: NEW TRANSLATION
+  LONG_TERM: "Dlouhodobé" # todo: NEW TRANSLATION
+  rule_group_sco_specific: "Pravidla SCO" # todo: NEW TRANSLATION
+  dismissal_rule_sco_too_much_aggression: "Přílišná agrese" # todo: NEW TRANSLATION
+  dismissal_rule_impossible: "Nemožné" # todo: NEW TRANSLATION
+  rule_group_leader_influence: "Vliv vůdce" # todo: NEW TRANSLATION
+  joining_rule_imperial_bloc_states: "Imperiální blok" # todo: NEW TRANSLATION
+  joining_rule_israel_or_neighbors_states: "Izrael nebo sousední státy" # todo: NEW TRANSLATION
+  joining_rule_baltic_black_sea_union: "Balticko-Černomořská unie" # todo: NEW TRANSLATION
+  faction_peace_nato_doctrine: "Doktrína NATO" # todo: NEW TRANSLATION
+  war_declaration_claimed_state: "Nárokovaný stát" # todo: NEW TRANSLATION
+  rule_group_war_declaration_geography: "Geografie" # todo: NEW TRANSLATION
+  war_declaration_european: "Evropský" # todo: NEW TRANSLATION
+  call_to_war_rule_defensive_only: "Pouze obranné" # todo: NEW TRANSLATION
+  industrial_warfare: "Průmyslová válka" # todo: NEW TRANSLATION
+  industrial_warfare_desc: "Války v moderních stoletích se rychle vyvíjejí; zbraně se přesunuly ze ruční výroby na průmyslové výrobní linky. V důsledku tohoto vývoje jsou státy schopny vyrobit větší množství výzbroje pro podporu vojáků na frontě." # todo: NEW TRANSLATION
+  bosporus_controlled: "Bospor pod kontrolou" # todo: NEW TRANSLATION
+  bosporus_controlled_desc: "Síly naší aliance obsadily Bospor a nyní sklízí výhody z kontroly tak důležitého průlivu." # todo: NEW TRANSLATION
+  industrialized_warfare_idea: "Průmyslová válka" # todo: NEW TRANSLATION
+  not_in_a_locked_faction_TT: "Není členem uzamčené frakce" # todo: NEW TRANSLATION
+  not_in_a_locked_faction_TT_NOT: "Je v současné době členem uzamčené frakce" # todo: NEW TRANSLATION
+  nato_25_per_capita_or_more_tt: "Všechny členy NATO mají HDP na obyvatele alespoň 25 tisíc" # todo: NEW TRANSLATION

@@ -1,504 +1,751 @@
 ﻿l_english:
- france_focus: "Francouzský strom zaměření" # todo: NEW TRANSLATION
- FRA_state_of_french_politics: "Stav francouzské politiky" # todo: NEW TRANSLATION
- FRA_state_of_french_politics_desc: "Země Francie se nachází v jedné z nejsledovanějších — a nejnestabilnějších — pozic na světě. Komunistické strany ve Francii dosáhly bezprecedentního úspěchu ve volbách. Národní fronta je rovněž rostoucí stranou, která reprezentuje narůstající nacionalistickou rétoriku mezi lidmi." # todo: NEW TRANSLATION
- FRA_french_parliament: "Francouzský parlament" # todo: NEW TRANSLATION
- FRA_french_parliament_desc: "Francouzský parlament v současné podobě má dvě části: Senát a Národní shromáždění. Dvouúrovňový systém umožňuje vládě udržovat jakousi kontrolu a protiváhu, zároveň zajišťuje adekvátní zastoupení pro všechny občany." # todo: NEW TRANSLATION
- FRA_the_fifth_power: "Pátá velmoc" # todo: NEW TRANSLATION
- FRA_the_fifth_power_desc: "Nyní jsme pátou nejsilnější ekonomickou mocností na světě. Tento úspěch si zaslouží obdiv a ocenění. Nicméně Francie je víc než páté místo. Pohněme vpřed a nikdy nežijme ve stínu jiných!" # todo: NEW TRANSLATION
- FRA_liberty: "Liberté" # todo: NEW TRANSLATION
- FRA_liberty_desc: "'Liberté', tedy svoboda, klade důraz na osobní práva a svobody nade vše. Pokračujeme po cestě, kterou nám vytyčili naši předkové!" # todo: NEW TRANSLATION
- FRA_equality: "Égalité" # todo: NEW TRANSLATION
- FRA_equality_desc: "'Égalité', tedy rovnost, vychází z základního přesvědčení, že každý si zaslouží stejné zacházení. Nikdo by neměl být upřednostňován. Budeme tuto filozofii sledovat, abychom posílili naši zemi a osvobodili náš lid!" # todo: NEW TRANSLATION
- FRA_fraternity: "Fraternité" # todo: NEW TRANSLATION
- FRA_fraternity_desc: "'Fraternité', tedy bratrství, je koncept vzájemného přátelství a soudržnosti. Abychom posílili Francii, musíme začít podporovat Fraternité při práci na společném cíli!" # todo: NEW TRANSLATION
- FRA_stricter_policing: "Přísnější policie" # todo: NEW TRANSLATION
- FRA_stricter_policing_desc: "Lidé vždy měli svá práva. Jsou však chvíle, kdy tato práva překračují meze a začínají omezovat schopnost naší policie." # todo: NEW TRANSLATION
- FRA_euro_investments: "Investice v eurozóně" # todo: NEW TRANSLATION
- FRA_euro_investments_desc: "Naše současné postavení v eurozóně nám umožnilo získat zahraniční investice napříč Evropskou unií. Navíc můžeme využít velký soukromý sektor k prosazení dalšího rozvoje doma i v zahraničí." # todo: NEW TRANSLATION
- FRA_the_national_assembly: "Národní shromáždění" # todo: NEW TRANSLATION
- FRA_the_national_assembly_desc: "Vyšší část vlády ve Francii má dvě úrovně: Národní shromáždění a Senát. Většina francouzského zastoupení je v dolní komoře, což je Národní shromáždění. Musíme zajistit jejich podporu, aby mohla projít budoucí legislativa." # todo: NEW TRANSLATION
- FRA_global_economics: "Globální ekonomika" # todo: NEW TRANSLATION
- FRA_global_economics_desc: "Svět je obrovské místo. Každá země přináší něco svého. Spojené státy s inovacemi, Čína s rozsáhlou výrobou, Švýcaři se svými bankéři, nebo Rusko s rezervami zemního plynu. Je důležité, aby se francouzský lid postavil kupředu a začal dominovat na trzích." # todo: NEW TRANSLATION
- FRA_french_nato_restructures: "Restrukturalizace NATO ve Francii" # todo: NEW TRANSLATION
- FRA_french_nato_restructures_desc: "Jsme jedním ze zakládajících členů NATO. Je důležité, abychom lépe sladili naši vojenskou strukturu s NATO pro hladší operace." # todo: NEW TRANSLATION
- FRA_competitive_education: "Konkurenceschopné vzdělání" # todo: NEW TRANSLATION
- FRA_competitive_education_desc: "V našem novém světě už to není jen ekonomická síla, co pohání růst. Síla vzdělání je nenahraditelná." # todo: NEW TRANSLATION
- FRA_french_political_reformation: "Politická reforma Francie" # todo: NEW TRANSLATION
- FRA_french_political_reformation_desc: "I když jsme jednou z největších zemí na světě, náš politický systém není imunní vůči korupci a neefektivitě. Měli bychom to změnit." # todo: NEW TRANSLATION
- FRA_french_autonomy: "Francouzská autonomie" # todo: NEW TRANSLATION
- FRA_french_autonomy_desc: "'Neexistuje nic důležitějšího než nezávislost pro Francouze' - Ted52." # todo: NEW TRANSLATION
- FRA_strength_in_the_eu: "Síla v EU" # todo: NEW TRANSLATION
- FRA_strength_in_the_eu_desc: "Evropská unie je úspěch, do kterého se zapojuje celá Evropa. Spojení národů pod jednou pevnou vládou, kde každý stát má hlas, velký i malý, je pozoruhodné. Schopnost spolupracovat nás posune vpřed na mnoho let." # todo: NEW TRANSLATION
- FRA_european_investments2: "Investice do východní Evropy" # todo: NEW TRANSLATION
- FRA_european_investments2_desc: "Východní Evropa je připravená na investice. Je to solidní příležitost získat finanční zisk a zároveň posílit naše evropské sousedy." # todo: NEW TRANSLATION
- FRA_vive_la_france: "Vive la France!" # todo: NEW TRANSLATION
- FRA_vive_la_france_desc: "'Vive la France' byla fráze vyjadřující francouzský patriotismus. Volně přeloženo 'Ať žije Francie' nebo 'Hurá pro Francii'. V každém případě je to výraz velkého nacionalismu v naší ještě větší zemi!" # todo: NEW TRANSLATION
- FRA_the_will_of_the_people: "Vůle lidu" # todo: NEW TRANSLATION
- FRA_the_will_of_the_people_desc: "Francouzský lid toho zažil mnoho. Angličtí imperialisté během stoleté války, komunisté, kteří ohrožovali Francouzskou republiku, a pak nacisté za druhé světové války. Přes to všechno síla francouzské vůle rostla!" # todo: NEW TRANSLATION
- FRA_european_expanisonism: "La République en Marche" # todo: NEW TRANSLATION
- FRA_european_expanisonism_desc: "Nová politická síla se objevuje a prosazuje §Y[EUU.GetFlag] Evropskou unii§!: La République en Marche" # todo: NEW TRANSLATION
- FRA_a_united_union: "Konzervativní evropský přístup" # todo: NEW TRANSLATION
- FRA_a_united_union_desc: "Konzervativní evropský přístup: Evropská integrace je dlouhý proces." # todo: NEW TRANSLATION
- FRA_cooperation_in_union: "Projev na Sorbonně" # todo: NEW TRANSLATION
- FRA_cooperation_in_union_desc: "Prezident Macron pronáší inspirující projev o §Y[EUU.GetFlag] Evropské unii§!." # todo: NEW TRANSLATION
- FRA_invitations_to_the_eu: "Aachenská smlouva" # todo: NEW TRANSLATION
- FRA_invitations_to_the_eu_desc: "Při 55. výročí Elysejské smlouvy §Y[FRA.GetNameWithFlag]§! a §Y[GER.GetNameWithFlag]§! znovu potvrzují své závazky a podepisují tzv. Aachenskou smlouvu, formálně Smlouvu o franco-německé spolupráci a integraci." # todo: NEW TRANSLATION
- FRA_european_persuasion: "Přitáhnout evropské investory" # todo: NEW TRANSLATION
- FRA_european_persuasion_desc: "Musíme přilákat investory z §Y[EUU.GetFlag] Evropské unie§!." # todo: NEW TRANSLATION
- FRA_french_political_dominance: "Francouzská politická dominance" # todo: NEW TRANSLATION
- FRA_french_political_dominance_desc: "Francie je jednou z největších zemí v Evropské unii. I když chceme zůstat autonomní, musíme tlačit na to, aby jsme dominovali politickému dění v EU." # todo: NEW TRANSLATION
- FRA_preparing_the_union: "Podpora jihu" # todo: NEW TRANSLATION
- FRA_preparing_the_union_desc: "Musíme podpořit naše jižní a středomořské sousedy v §Y[EUU.GetFlag] Evropské unii§!." # todo: NEW TRANSLATION
- FRA_a_international_language: "Mezinárodní jazyk" # todo: NEW TRANSLATION
- FRA_a_international_language_desc: "Francouzština je jedním z těch jazyků, které jsou rozšířeny po celém světě. Je to pátý nejrozšířenější jazyk na světě." # todo: NEW TRANSLATION
- FRA_the_new_seat: "Nové předsednictví" # todo: NEW TRANSLATION
- FRA_the_new_seat_desc: "Země, která drží sídlo Evropského parlamentu, je skutečnou mocností, se kterou nelze lehce soupeřit. Má vliv a bezpochyby největší pocit moci v Evropské unii." # todo: NEW TRANSLATION
- FRA_uniting_the_union: "Příležitosti jednotného trhu na Balkáně" # todo: NEW TRANSLATION
- FRA_uniting_the_union_desc: "S přistoupením nových členů do §Y[EUU.GetFlag] Evropské unie§! z Balkánu jsou zde skvělé investiční příležitosti díky jednotnému evropskému trhu." # todo: NEW TRANSLATION
- FRA_means_of_production: "Způsoby výroby" # todo: NEW TRANSLATION
- FRA_means_of_production_desc: "Způsoby výroby měly být řízeny dělníky. My jsme dělníci a musíme uchopit výrobní prostředky od byrokratické třídy!" # todo: NEW TRANSLATION
- FRA_honor_the_communes: "Uctít komunardy" # todo: NEW TRANSLATION
- FRA_honor_the_communes_desc: "Začátkem roku 1871 někteří z prvních socialistických revolucionářů obsadili části Paříže v ozbrojeném konfliktu s Francouzskou republikou. Radikální národní garda převzala kontrolu nad Paříží místo pravidelné armády po prusko-francouzské válce. Měli bychom uctít tyto muže a ženy více než některé z těch, které jsme doposud uctívali." # todo: NEW TRANSLATION
- FRA_a_new_dawn: "Nové úsvit" # todo: NEW TRANSLATION
- FRA_a_new_dawn_desc: "Svět se stal zkaženým a chamtivým místem. Pokud by měl každý stejný podíl a stejné postavení, byl by to nový úsvit pro společnost." # todo: NEW TRANSLATION
- FRA_equality_en_masse: "Rovnost masám" # todo: NEW TRANSLATION
- FRA_equality_en_masse_desc: "Rovnost je nutností. Radikální socialismus musí být dosažen, aby posunul společnost vpřed, a zajištění rovné příležitosti poskytne lepší společnost." # todo: NEW TRANSLATION
- FRA_marxist_ideology: "Marxistická ideologie" # todo: NEW TRANSLATION
- FRA_marxist_ideology_desc: "Marxismus má historii jako žádná jiná ideologie. Parti Communiste Français dokázala, že marxismus je opět životaschopnou formou vlády. Osvoboďte dělníky!" # todo: NEW TRANSLATION
- FRA_socialism_in_france: "Socialismus ve Francii" # todo: NEW TRANSLATION
- FRA_socialism_in_france_desc: "Francie byla převážně líhní revolucí. Francouzský lid nesnese, když jsou jeho práva deptána, a svrhuje ty, kteří to dělají. Socialismus je o tom, aby se práva nedržela při zemi!" # todo: NEW TRANSLATION
- FRA_reduction_of_press: "Potlačení tisku" # todo: NEW TRANSLATION
- FRA_reduction_of_press_desc: "Právo na svobodný tisk se získává, ne požaduje. Názory pravice musí být dále potlačovány, protože jinak destabilizují naši velkou zemi!" # todo: NEW TRANSLATION
- FRA_the_communist_party: "Komunistická strana" # todo: NEW TRANSLATION
- FRA_the_communist_party_desc: "'Parti Communiste Français' znovu nastoupila do dění. Nejprve se prosadili mezi lidmi a nyní jsou součástí vlády. Vive la France!" # todo: NEW TRANSLATION
- FRA_a_new_international: "Nová internacionála" # todo: NEW TRANSLATION
- FRA_a_new_international_desc: "Trockij a jeho kamarádi z Internacionály věděli, jak na to. Vybudujme novou ve jménu komunismu doma i v zahraničí!" # todo: NEW TRANSLATION
- FRA_preparing_the_revolution: "Příprava revoluce" # todo: NEW TRANSLATION
- FRA_preparing_the_revolution_desc: "Svět je zralý pro revoluci. Vydržme chvíli a začněme podněcovat plameny." # todo: NEW TRANSLATION
- FRA_new_popular_army: "Nová lidová armáda" # todo: NEW TRANSLATION
- FRA_new_popular_army_desc: "Naše armáda potřebuje politickou ideologickou výchovu. Vzdělávání, které lépe vnukne, že soudruh je skoro tak důležitý jako oni samotní, je zásadní." # todo: NEW TRANSLATION
- FRA_securing_our_place: "Zajištění našeho postavení" # todo: NEW TRANSLATION
- FRA_securing_our_place_desc: "Vláda je mírně nestabilní kvůli nedávnému uchopení moci. Měli bychom rozšířit rozpočty na propagandu ve městech i na venkově, aby se náš vliv posílil." # todo: NEW TRANSLATION
- FRA_igniting_the_flames: "Rozdmýchání plamenů" # todo: NEW TRANSLATION
- FRA_igniting_the_flames_desc: "Plameny revoluce byly zapáleny. Rozšiřme příliv revoluce široko daleko!" # todo: NEW TRANSLATION
- FRA_leave_europe: "Referendum o Frexitu" # todo: NEW TRANSLATION
- FRA_leave_europe_desc: "Evropská unie je věc, která v praxi může být užitečná, ale neposkytuje nám nic skutečného kromě toho, že je dočista úzkostlivou macechou. Nechme lid rozhodnout! Uspořádejte referendum o Frexitu!" # todo: NEW TRANSLATION
- FRA_renounce_nato: "Zřeknutí se NATO" # todo: NEW TRANSLATION
- FRA_renounce_nato_desc: "NATO není nic jiného než lež, která předstírá, že jde o demokracii. Američané a jiní Evropané vnucují svou představu demokracie v cizích zemích jménem svobody. Musíme tento stín zahodit, abychom opět vzkvétali!" # todo: NEW TRANSLATION
- FRA_freedom_from_the_west: "Svoboda od Západu" # todo: NEW TRANSLATION
- FRA_freedom_from_the_west_desc: "V posledních letech Západ prosazoval svou ideologii v zahraničí a vyžadoval, aby francouzský lid následoval. Musíme se těchto utlačovatelů zbavit a utvořit si vlastní osud!" # todo: NEW TRANSLATION
- FRA_the_paris_accord: "Pařížské ujednání" # todo: NEW TRANSLATION
- FRA_the_paris_accord_desc: "Abychom čelili vlivu NATO a EU v Evropě, je čas vytvářet vlastní alianci. Pařížské ujednání ukáže, že ti, kdo se k nám připojí, budou posíleni." # todo: NEW TRANSLATION
- FRA_euroscepticsm: "Euroskepticismus" # todo: NEW TRANSLATION
- FRA_euroscepticsm_desc: "Evropa nám vnucovala své nadměrné ideologie příliš dlouho. Prosazování silnější Evropské unie pouze sníží naši autonomii." # todo: NEW TRANSLATION
- FRA_electoral_shutdown: "Zastavení voleb" # todo: NEW TRANSLATION
- FRA_electoral_shutdown_desc: "Volby jsou politika bláznů. Zastavme je. Nemůžeme nechat lidi, aby byli sváděni líbivými slovy. Trocha manipulace může zajistit, že budou u moci ti praví." # todo: NEW TRANSLATION
- FRA_heavier_policing: "Gendarmerie Nationale" # todo: NEW TRANSLATION
- FRA_heavier_policing_desc: "Vojenská policie je nyní efektivní. Můžeme ji ale posílit vytvořením pseudojednotek pro potlačení nesouhlasu a prosazení naší ideologie." # todo: NEW TRANSLATION
- FRA_self_deterimnation: "Právo na sebeurčení" # todo: NEW TRANSLATION
- FRA_self_deterimnation_desc: "Jedinou zemí na světě, která záleží, je Francie. Nic víc, nic míň." # todo: NEW TRANSLATION
- FRA_neo_nationalists: "Neo-nacionalisté" # todo: NEW TRANSLATION
- FRA_neo_nationalists_desc: "Nacionalismus, ač není nový koncept, se dnes dostal do popředí francouzských zpráv a médií a posouvá se k vládní moci." # todo: NEW TRANSLATION
- FRA_censorship_in_education: "Cenzura ve vzdělávání" # todo: NEW TRANSLATION
- FRA_censorship_in_education_desc: "Děti nemusí číst knihy. Letáčky jsou mnohem lepší." # todo: NEW TRANSLATION
- FRA_strong_guy: "Tvrdá ruka" # todo: NEW TRANSLATION
- FRA_strong_guy_desc: "Země potřebuje pevnou ruku a těžkou pěst. Připomeňme lidem, kdo má kontrolu." # todo: NEW TRANSLATION
- FRA_the_national_front: "Národní fronta" # todo: NEW TRANSLATION
- FRA_the_national_front_desc: "Národní fronta se stala symbolem zajímavého fenoménu. Nyní jsou nejpopulárnější vládnoucí stranou. Ukázali, že znovu navrátí francouzskou slávu, společně s novými členy." # todo: NEW TRANSLATION
- FRA_napoleon_dream: "Napoleonův sen" # todo: NEW TRANSLATION
- FRA_napoleon_dream_desc: "Císař Napoleon měl pravdu. Uplatnit nárok na Evropu a demonstrovat sílu francouzského lidu a ozbrojených sil. Naše nadřazené taktiky a vynikající pečivo jim ukážou!" # todo: NEW TRANSLATION
- FRA_european_betrayal: "Evropské zrady" # todo: NEW TRANSLATION
- FRA_european_betrayal_desc: "Evropa nám jen píchla nůž do zad. Nyní je čas oplatit stejnou mincí." # todo: NEW TRANSLATION
- FRA_new_napoleon_guard: "Nová Napoleonova garda" # todo: NEW TRANSLATION
- FRA_new_napoleon_guard_desc: "Napoleonova císařská garda byla přímo řízenou silou samotným Napoleonem. Byla to elitní jednotka používaná strategicky k dosažení vítězství. Je čas takovou jednotku obnovit." # todo: NEW TRANSLATION
- FRA_nationalism_in_europe: "Nacionalismus v Evropě" # todo: NEW TRANSLATION
- FRA_nationalism_in_europe_desc: "Evropští nacionalisté hledají a snaží se získat podporu. Není to jen naše povinnost je podporovat, ale i svrhávat vlády, které je potlačují!" # todo: NEW TRANSLATION
- FRA_a_new_empire: "Nové impérium" # todo: NEW TRANSLATION
- FRA_a_new_empire_desc: "Francouzské impérium znovu povstane! Už nebudeme směškem Evropy. Naše armáda a ekonomika vyrostly. Nyní je čas napravit to, co Napoleon nedokončil." # todo: NEW TRANSLATION
- FRA_economic_policy: "Ekonomická politika" # todo: NEW TRANSLATION
- FRA_economic_policy_desc: "Naše ekonomika je jen pátá na světě. Možná můžeme být aktivní a ukázat, co znamená dobrá ekonomická politika." # todo: NEW TRANSLATION
- FRA_free_market: "Volný trh" # todo: NEW TRANSLATION
- FRA_free_market_desc: "Světové trhy je lepší nechat rozhodovat samy než regulovat. Volný trh je lepší než regulovaný trh!" # todo: NEW TRANSLATION
- FRA_total_sa: "Total SA" # todo: NEW TRANSLATION
- FRA_total_sa_desc: "Total SA je jednou z největších ropných společností na světě. Můžeme využít jejich aktiva k rozšíření našich ropných odvětví pro potřeby Republiky." # todo: NEW TRANSLATION
- FRA_french_economic_intervention: "Ekonomická intervence" # todo: NEW TRANSLATION
- FRA_french_economic_intervention_desc: "Nejlepším způsobem, jak ovlivnit ekonomiku, je pravidelně do ní zasahovat. Nicméně příliš velká intervence může způsobit problémy." # todo: NEW TRANSLATION
- FRA_reduction_in_taxes: "Snížení daní" # todo: NEW TRANSLATION
- FRA_reduction_in_taxes_desc: "Daně jsou přehnané! Snižme je. Doufejme, že to přiláká nové investice a podpoří soukromý sektor." # todo: NEW TRANSLATION
- FRA_deregulation: "Deregulace" # todo: NEW TRANSLATION
- FRA_deregulation_desc: "Prvním krokem k budování ekonomiky je deregulace. Umožnění rozvoje v dříve omezených oblastech může být právě to, co potřebujeme." # todo: NEW TRANSLATION
- FRA_state_stock_in_sa: "Státní podíl v SA" # todo: NEW TRANSLATION
- FRA_state_stock_in_sa_desc: "Total SA odvádí skvělou práci v nedávných kontraktech. Měli bychom držet jejich akcie částečně ve státních rukou, aby to zvýšilo nejen naše zisky, ale i nezávislost na zahraničí." # todo: NEW TRANSLATION
- FRA_paris_employment_projects: "Projekty zaměstnanosti v Paříži" # todo: NEW TRANSLATION
- FRA_paris_employment_projects_desc: "Paříž v minulosti trpěla vysokou nezaměstnaností. Dejme lidem něco na práci." # todo: NEW TRANSLATION
- FRA_nationalization_of_steel: "Znacionalizování oceli" # todo: NEW TRANSLATION
- FRA_nationalization_of_steel_desc: "Znacionalizování ocelářství by mělo zlepšit naši průmyslovou kapacitu." # todo: NEW TRANSLATION
- FRA_private_contracting: "Soukromé zakázky" # todo: NEW TRANSLATION
- FRA_private_contracting_desc: "Najímání místních soukromých firem by mělo urychlit stavební projekty. Bude to však finančně náročné, protože už nebudeme určovat cenu." # todo: NEW TRANSLATION
- FRA_tapping_resources: "Využití zdrojů" # todo: NEW TRANSLATION
- FRA_tapping_resources_desc: "Ve Francii jsou rozmanité suroviny. Měli bychom je prozkoumat a snížit tak naši závislost na dovozu." # todo: NEW TRANSLATION
- FRA_offshore_oilrigs: "Námořní ropné plošiny" # todo: NEW TRANSLATION
- FRA_offshore_oilrigs_desc: "Kourou má u pobřeží lehké ropné zásoby, které můžeme těžit. Ropa je černé zlato a musíme zbohatnout!" # todo: NEW TRANSLATION
- FRA_state_run_construction: "Státní řízení výstavby" # todo: NEW TRANSLATION
- FRA_state_run_construction_desc: "Stát stanovuje ceny a počet zaměstnanců. Problém však může nastat, pokud je projekt podfinancován nebo příliš rozvleklý, takže zaměstnanci často stojí bez práce." # todo: NEW TRANSLATION
- FRA_infrastructure_projects: "Projekty infrastruktury" # todo: NEW TRANSLATION
- FRA_infrastructure_projects_desc: "Místní infrastruktura měla v minulosti problémy. Vylepšme systém." # todo: NEW TRANSLATION
- FRA_decentralization: "Decentralizace" # todo: NEW TRANSLATION
- FRA_decentralization_desc: "Decentralizace vlády přinese mnoho výhod. Státy se stanou více nezávislými, podobně jako ve Spojených státech. Může nám to přinést více daňových příjmů snížením centralizovaných ekonomických opatření." # todo: NEW TRANSLATION
- FRA_centralization: "Centralizace" # todo: NEW TRANSLATION
- FRA_centralization_desc: "Centralizace vlády nám umožní mít větší kontrolu nad nezávislými proměnnými na každém místě a ovlivnit tak všechny oblasti života." # todo: NEW TRANSLATION
- FRA_french_healthcare: "Francouzská zdravotní péče" # todo: NEW TRANSLATION
- FRA_french_healthcare_desc: "Francouzský zdravotní systém patří mezi nejlépe vybudované na světě. Je jedním z mála, které nabízejí skutečné univerzální zdravotnictví." # todo: NEW TRANSLATION
- FRA_french_arms_industries: "Francouzský zbrojní průmysl" # todo: NEW TRANSLATION
- FRA_french_arms_industries_desc: "Francouzský zbrojní průmysl patří mezi nejziskovější společnosti na planetě. Ať už Nexter, Dassault nebo skupina Thales, vždy stojí za investici či státní zakázku." # todo: NEW TRANSLATION
- FRA_research_and_dev_projects: "Projekty výzkumu a vývoje" # todo: NEW TRANSLATION
- FRA_research_and_dev_projects_desc: "Státem řízený výzkum a vývoj zvyšuje standardy vědecké dokonalosti." # todo: NEW TRANSLATION
- FRA_reformed_universal_healthcare: "Reformované univerzální zdravotnictví" # todo: NEW TRANSLATION
- FRA_reformed_universal_healthcare_desc: "I přes to, že máme jeden z nejlepších zákonných systémů zdravotní péče, stále má své nedostatky." # todo: NEW TRANSLATION
- FRA_nexter: "Nexter" # todo: NEW TRANSLATION
- FRA_nexter_desc: "Nexter je francouzská státem vlastněná zbrojní společnost specializující se na vývoj zbraní a vozidel." # todo: NEW TRANSLATION
- FRA_dassault: "Dassault" # todo: NEW TRANSLATION
- FRA_dassault_desc: "Dassault je především letecká společnost. Jedním z jejich nejznámějších výrobků je Mirage." # todo: NEW TRANSLATION
- FRA_thales_group: "Thales Group" # todo: NEW TRANSLATION
- FRA_thales_group_desc: "Thales Group je především elektronická společnost. Odvedli skvělou práci na řadě našich technologicky pokročilých lodí." # todo: NEW TRANSLATION
- FRA_usa_fra_collaboration: "Spolupráce USA–Francie" # todo: NEW TRANSLATION
- FRA_usa_fra_collaboration_desc: "Spolupráce se Spojenými státy není jen prospěšná, je to také zřejmá volba." # todo: NEW TRANSLATION
- FRA_french_armed_forces: "Francouzské ozbrojené síly" # todo: NEW TRANSLATION
- FRA_french_armed_forces_desc: "Po většinu francouzské historie byly ozbrojené síly zdrojem obrovské hrdosti naší země. Armády, které pochodovaly proti Angličanům, aby bránily právo na francouzského krále, nebo muži, kteří sloužili pod Napoleonem. Vojenské síly nás odlišují od ostatních." # todo: NEW TRANSLATION
- FRA_the_french_army: "Armée de Terre" # todo: NEW TRANSLATION
- FRA_the_french_army_desc: "'Armée de Terre', tedy francouzská armáda, je jednou ze tří hlavních složek naší vojenské struktury. Její úspěchy jsou oslavovány daleko a široko. Síly by měly být nadále ctěny a rozšiřovány, aby posouvaly naši zemi vpřed." # todo: NEW TRANSLATION
- FRA_the_french_air_force: "Armée de l'Air" # todo: NEW TRANSLATION
- FRA_the_french_air_force_desc: "Naše letectvo patří mezi nejstarší na světě. První jednotka francouzské letecké síly vznikla v roce 1909 jako součást armády. Nyní je to samostatné letectvo a vyvážíme jedny z nejlepších leteckých strojů na světě." # todo: NEW TRANSLATION
- FRA_french_navy: "Marine Nationale" # todo: NEW TRANSLATION
- FRA_french_navy_desc: "Francouzské námořnictvo rozšířilo naše ambice a vliv po celém světě. Pomohlo vytvořit jednu z největších koloniálních říší po boku Španělů a Angličanů. Investice do něj nám umožní lépe působit v zahraničí." # todo: NEW TRANSLATION
- FRA_amx_leclerc: "AMX Leclerc" # todo: NEW TRANSLATION
- FRA_amx_leclerc_desc: "AMX Leclerc a jeho nástupci jsou hlavními tanky francouzské armády. Jsou robustní a vyvážené jako většina moderních tanků. Další investice do jejich vývoje mohou posílit naše obrněné síly." # todo: NEW TRANSLATION
- FRA_network_centric_warfare: "Síťocentrické válčení" # todo: NEW TRANSLATION
- FRA_network_centric_warfare_desc: "Stejně jako Američané a další evropské velmoci bychom měli investovat do technologicky pokročilejších metod vedení války, abychom méně spoléhali na lidi a více na technologie. Změna bude drahá, ale nakonec zachrání více francouzských životů." # todo: NEW TRANSLATION
- FRA_land_air_coordination: "Koordinace pozemních a vzdušných sil" # todo: NEW TRANSLATION
- FRA_land_air_coordination_desc: "Koordinace pozemních a vzdušných sil je zásadní pro jakoukoli společnou údernou skupinu. Bez pozemních sil nemůžeme posouvat frontu; bez letectva nemůžeme očekávat efektivní palebnou podporu. Proto musíme zlepšit koordinaci mezi leteckou a pozemní válkou." # todo: NEW TRANSLATION
- FRA_the_mirage: "Mirage" # todo: NEW TRANSLATION
- FRA_the_mirage_desc: "Mirage se stal jedním z ikonických stíhačů francouzského letectva. Slouží v devíti dalších zemích a je vyváženým strojem do mnoha států." # todo: NEW TRANSLATION
- FRA_maritime_fighters: "Námořní stíhačky" # todo: NEW TRANSLATION
- FRA_maritime_fighters_desc: "Zlepšení našeho letectva i námořnictva si vyžádá efektivnější stíhačky pro námořní operace." # todo: NEW TRANSLATION
- FRA_lafayette_class: "Frégate Légère Furtive" # todo: NEW TRANSLATION
- FRA_lafayette_class_desc: "Třída Frégate Légère Furtive byla navržena koncem 80. let jako náhrada za zastaralé torpédoborce. Lodě jsou lehké, víceúčelové a vhodné pro obranné role ve francouzské flotile." # todo: NEW TRANSLATION
- FRA_de_gaulle_class: "Třída De Gaulle" # todo: NEW TRANSLATION
- FRA_de_gaulle_class_desc: "Nosič letadel třídy De Gaulle je desátým letadlovým lodním uspořádáním pro francouzské námořnictvo. Je také jediným jaderným letadlovým nosičem mimo americké námořnictvo, což z něj činí silný a impozantní plavidlo." # todo: NEW TRANSLATION
- FRA_amx_10: "AMX-10" # todo: NEW TRANSLATION
- FRA_amx_10_desc: "AMX-10 je lehký průzkumný tank pro francouzskou armádu. AMX se pyšní působivou rychlostí 85 km/h na ideálním terénu. Není třeba říkat, že AMX je velmi rychlý." # todo: NEW TRANSLATION
- FRA_vbci: "VBCI" # todo: NEW TRANSLATION
- FRA_vbci_desc: "VBCI byl určen jako náhrada za zastaralý AMX-10P; byl vyvinut a plánován do služby v pozdních 2000. VBCI přináší mnoho vylepšení, včetně vyšší rychlosti 100 km/h. VBCI však obětoval větší dělo ve prospěch lehčího vyzbrojení a vyšších rychlostí." # todo: NEW TRANSLATION
- FRA_forward_air_bases: "Přední letecké základny" # todo: NEW TRANSLATION
- FRA_forward_air_bases_desc: "Abychom se připravili na jakýkoli výsledek, musíme vybudovat přední letecké základny pro správně připravené ofenzivní nebo obranné plány." # todo: NEW TRANSLATION
- FRA_mirage_2000d: "Mirage 2000D" # todo: NEW TRANSLATION
- FRA_mirage_2000d_desc: "Mirage 2000D je běžné útočné letadlo, které nám slouží spolehlivě od svého vzniku. Investice do budoucích a lepších variant poctí dědictví Mirage." # todo: NEW TRANSLATION
- FRA_carrier_fighters: "Rafale Marine" # todo: NEW TRANSLATION
- FRA_carrier_fighters_desc: "Rafale Marine je námořní verze stroje Rafale. Má podobnou konstrukci jako jeho pozemní varianta. Celkově je tento stíhač monstrum v boji o moře." # todo: NEW TRANSLATION
- FRA_med_naval_bases: "Středomořské námořní základny" # todo: NEW TRANSLATION
- FRA_med_naval_bases_desc: "Korsika je ideálním teritoriem pro vylepšenou námořní základnu. Je oddělená od pevniny a zároveň relativně dobře bránitelná." # todo: NEW TRANSLATION
- FRA_triomphant_class: "Třída Triomphant" # todo: NEW TRANSLATION
- FRA_triomphant_class_desc: "Ponorky třídy Triomphant měly nahradit starší typy a nyní tvoří základ námořní části jaderných odstrašujících sil." # todo: NEW TRANSLATION
- FRA_ifv_investment: "Investice do IFV" # todo: NEW TRANSLATION
- FRA_ifv_investment_desc: "Investice do lepších IFV a dalších lehkých obrněných vozidel nám pomohou posílit armádu i ekonomiku!" # todo: NEW TRANSLATION
- FRA_national_arms_exports: "Národní vývoz zbraní" # todo: NEW TRANSLATION
- FRA_national_arms_exports_desc: "Francie se stala významným hráčem v obraném průmyslu a měla by v tom pokračovat." # todo: NEW TRANSLATION
- FRA_the_space_program: "Vesmírný program" # todo: NEW TRANSLATION
- FRA_the_space_program_desc: "Vesmír je nová hranice a nedávno jsme dokázali, že se z něj můžeme mnoho naučit! Stojí za to obnovit důvěru v náš vesmírný program." # todo: NEW TRANSLATION
- FRA_floreal_class: "Třída Floreal" # todo: NEW TRANSLATION
- FRA_floreal_class_desc: "Třída Floreal představuje většinu lehkých fregat ve francouzském loďstvu. Jednotky této třídy jsou určené pro víceúčelový boj proti hladinovým cílům, podporu pozemních operací, protiletadlovou a středně pokročilou antisubmarinní činnost." # todo: NEW TRANSLATION
- FRA_laredoubtable_class: "Třída La Redoubtale" # todo: NEW TRANSLATION
- FRA_laredoubtable_class_desc: "Ponorky třídy La Redoubtale jsou jedny ze starších ponorek ve službě francouzského námořnictva. Přesto je nelze podceňovat — hrají klíčovou roli v námořních strategiích francouzského jaderného odstrašení." # todo: NEW TRANSLATION
- FRA_honour_and_fidelity: "Čest a Věrnost" # todo: NEW TRANSLATION
- FRA_honour_and_fidelity_desc: "Motto francouzské legie dobře rezonuje s naší zemí. Vojenské představení a specifika vyzdvihují hodnoty cti v tom, co dělají, a věrnosti jejich neochvějné oddanosti francouzské vlasti." # todo: NEW TRANSLATION
- FRA_cnes_budgeting: "Rozpočet CNES" # todo: NEW TRANSLATION
- FRA_cnes_budgeting_desc: "CNES je hlavní součástí francouzského letectví a aeronautiky. Měli bychom umožnit rozpočtování pro CNES, abychom mohli nadále postupovat vpřed a zůstat konkurenceschopní v této nové oblasti." # todo: NEW TRANSLATION
- FRA_international_space_research: "Mezinárodní vesmírná iniciativa" # todo: NEW TRANSLATION
- FRA_international_space_research_desc: "Měli bychom spolupracovat s jinými zeměmi, jako jsou Spojené státy, abychom začali posouvat tuto hranici dál!" # todo: NEW TRANSLATION
- FRA_kourou_launch_pad: "Startovací rampa Kourou" # todo: NEW TRANSLATION
- FRA_kourou_launch_pad_desc: "Kourou v Guayaně je strategické místo pro vesmírné starty a zároveň území přímo pod naší správou. Můžeme také vyjednat dohody s jinými vesmírnými agenturami o využívání tohoto vynikajícího místa." # todo: NEW TRANSLATION
- FRA_honour_homeland_valour_discpline: "Čest, Vlast, Statečnost, Disciplína" # todo: NEW TRANSLATION
- FRA_honour_homeland_valour_discpline_desc: "Motto francouzského námořnictva vyjadřuje víc než jen to, co znamená být v armádě. Lidé jsou sjednoceni ve vlasti, jsme naplněni ctí a statečností a naši odvážní lidé jsou disciplinovaní." # todo: NEW TRANSLATION
- FRA_french_space: "Francouzský vesmírný program" # todo: NEW TRANSLATION
- FRA_french_space_desc: "Naše dominance ve vesmírných záležitostech je zásadní pro budoucnost a pro získávání zdrojů a výhod, které nabízí obloha nad námi." # todo: NEW TRANSLATION
- FRA_peaceful_rise: "Pokojný vzestup" # todo: NEW TRANSLATION
- FRA_peaceful_rise_desc: "Francouzský lid rozhodl. Nepůjdeme starými cestami. Naše ideje budou šířeny v zahraničí mírovou cestou." # todo: NEW TRANSLATION
- FRA_aggresive_expanisionism: "Agresivní expanze" # todo: NEW TRANSLATION
- FRA_aggresive_expanisionism_desc: "Musíme se připravit na svět a konflikt, který brzy vypukne." # todo: NEW TRANSLATION
- FRA_stage_carribean: "Fáze: Karibik" # todo: NEW TRANSLATION
- FRA_stage_carribean_desc: "Ačkoliv jsme v Karibiku nikdy neměli silné zastoupení, území, která tam stále držíme nebo se je snažíme získat, budou o to cennější." # todo: NEW TRANSLATION
- FRA_stage_africa: "Fáze: Afrika" # todo: NEW TRANSLATION
- FRA_stage_africa_desc: "Kdysi naše velká říše ovládala zhruba 45 % Afriky. Měli bychom navrátit část kontroly do francouzské sféry." # todo: NEW TRANSLATION
- FRA_stage_americas: "Fáze: Ameriky" # todo: NEW TRANSLATION
- FRA_stage_americas_desc: "Ameriky byly obzvlášť důležité v raném kolonialním impériu. Louisiana, Québec byly pilíři naší říše." # todo: NEW TRANSLATION
- FRA_stage_europe: "Fáze: Evropa" # todo: NEW TRANSLATION
- FRA_stage_europe_desc: "Evropa byla vždy středem zájmu francouzské politiky. Jednou jsme dobyli většinu kontinentu. Vládli jsme nad velkou částí pevninské Evropy. Francouzská nadvláda nad těmito zeměmi se znovu naplní." # todo: NEW TRANSLATION
- FRA_stage_asia: "Fáze: Asie" # todo: NEW TRANSLATION
- FRA_stage_asia_desc: "Asie pro nás byla vždy komplikovaná co do investic zdrojů. Vlastnili jsme přístavy v Indii, Indočíně a mnoho menších ostrovů v Pacifiku. Přesto jsou tamní lidé a zdroje, které lze získat, velmi atraktivní." # todo: NEW TRANSLATION
- FRA_stage_oceania: "Fáze: Oceánie" # todo: NEW TRANSLATION
- FRA_stage_oceania_desc: "Francouzský vliv v Oceánii je roztroušený a řídký." # todo: NEW TRANSLATION
- FRA_the_dominican: "Dominikánská republika a Haiti" # todo: NEW TRANSLATION
- FRA_the_dominican_desc: "Ostrov, na kterém tyto dvě země leží, má strategický — dokonce extrémně strategický význam. Může nás posunout směrem k Louisianě nebo do dalších karibských států." # todo: NEW TRANSLATION
- FRA_island_bases: "Ostrovní základny" # todo: NEW TRANSLATION
- FRA_island_bases_desc: "Ostrovy na jihovýchodě Karibiku držené Francií jsou užitečné pro zřizování výchozích základen pro operace v Americe." # todo: NEW TRANSLATION
- FRA_north_africa: "Severní Afrika" # todo: NEW TRANSLATION
- FRA_north_africa_desc: "Maghreb kdysi ovládala Francie. Maroko, Alžírsko a Tunisko přísahaly věrnost Francouzskému impériu!" # todo: NEW TRANSLATION
- FRA_the_horn: "Roh Afriky" # todo: NEW TRANSLATION
- FRA_the_horn_desc: "Roh Afriky byl poněkud zanedbán ve prospěch jiných regionů. Návrat Džibuti do našich kolonií však zlepší naše možnosti projekce moci." # todo: NEW TRANSLATION
- FRA_quebec: "Québec" # todo: NEW TRANSLATION
- FRA_quebec_desc: "Québec představoval jedno z větších dosažení v Novém světě. Znamenal nový typ kolonialismu — takový, který zahrnoval spolupráci s domorodci místo násilného zabírání jejich území. Domorodci byli pro kolonizátory příliš cenní na to, aby o ně přišli." # todo: NEW TRANSLATION
- FRA_piedmonte: "Piemont" # todo: NEW TRANSLATION
- FRA_piedmonte_desc: "Piemont není nutně francouzský. Tato oblast leží na druhé straně franco-italské hranice. Království Sardinie-Piemont bylo za Napoleona klientským státem. Je možné obnovit tuto spolupráci." # todo: NEW TRANSLATION
- FRA_the_benelux: "Benelux" # todo: NEW TRANSLATION
- FRA_the_benelux_desc: "Nizozemí neboli Benelux bylo vždy místem konfliktů v Evropě. Pád burgundského krále, národnostní rozdělení v Belgii mezi Flandrami a Valony. Je také sídlem EU. Proto je strategické usilovat o obnovení určité kontroly v těchto zemích." # todo: NEW TRANSLATION
- FRA_indian_ocean_bases: "Základny v Indickém oceánu" # todo: NEW TRANSLATION
- FRA_indian_ocean_bases_desc: "Indický oceán je široká a rozsáhlá oblast. Posílení francouzských základen by nám ale mělo poskytnout taktickou výhodu jak ve Východní Africe, tak v Jižní Asii." # todo: NEW TRANSLATION
- FRA_french_indochina: "Francouzská Indočína" # todo: NEW TRANSLATION
- FRA_french_indochina_desc: "Francouzská Indočína byla vrcholem naší expanze na Dálném východě. Jednou jsme vlastnili Kambodžu, Vietnam a Laos. Nyní nastal čas znovu upevnit náš vliv a získat zpět sílu v Indočíně." # todo: NEW TRANSLATION
- FRA_new_caledonia_base: "Základny v Nové Kaledonii" # todo: NEW TRANSLATION
- FRA_new_caledonia_base_desc: "Nová Kaledonie není nejprestižnějším územím, ale můžeme ji využít pro lepší postavení. Pokud zlepšíme místní základny, mělo by nám to v regionu poskytnout určitou výhodu." # todo: NEW TRANSLATION
- FRA_west_africa: "Západní Afrika" # todo: NEW TRANSLATION
- FRA_west_africa_desc: "Francouzský vliv v Západní Africe zůstává trvalý. Většina zemí, které kdysi byly pod naším národem, používá francouzštinu jako úřední jazyk. Mnohé další ji používají jako druhý jazyk." # todo: NEW TRANSLATION
- FRA_subsahara: "Subsaharská Afrika" # todo: NEW TRANSLATION
- FRA_subsahara_desc: "Subsaharská Afrika byla stejně důležitá díky strategickým zásobám surovin a dalším zdrojům. Měli bychom i nadále postoupit vpřed a zlepšit naši kontrolu v těchto regionech." # todo: NEW TRANSLATION
- FRA_lousiana: "Louisiana" # todo: NEW TRANSLATION
- FRA_lousiana_desc: "Louisiana je jedním z mála míst, kde se zrodila kreolská kultura. Je to směs francouzského vlivu, koření a dalších vlivů, a představuje centrum francouzského zahraničního vlivu." # todo: NEW TRANSLATION
- FRA_the_iberans: "Iberové" # todo: NEW TRANSLATION
- FRA_the_iberans_desc: "Iberové kdysi přísahali Francii věrnost a španělská vládnoucí dynastie má francouzské kořeny. Měli bychom nadále posilovat náš vliv v regionech blízkých domovu." # todo: NEW TRANSLATION
- FRA_mountain_boys: "Horská domobrana" # todo: NEW TRANSLATION
- FRA_mountain_boys_desc: "Švýcarsko je dlouholetým blízkým spojencem a přítelem. Západní části země mluví převážně francouzsky, což z ní činí vynikající místo k zajištění našich hranic proti vlivu ostatních. Konečně bychom měli prosazovat náš vliv a kontrolu i v Rakousku. Horská domobrana neodolá francouzské moci!" # todo: NEW TRANSLATION
- FRA_german_goliath: "Německý Goliáš" # todo: NEW TRANSLATION
- FRA_german_goliath_desc: "Němci nás porazili ve 2. světové válce. Teď věří, že oni by měli rozhodovat o dění v Evropě. Německého Goliáše je třeba zastavit." # todo: NEW TRANSLATION
- FRA_russian_bear: "Ruský medvěd" # todo: NEW TRANSLATION
- FRA_russian_bear_desc: "Ruský medvěd je symbolem naší porážky z Napoleonské éry. Nyní je čas získat naši slávu zpět a připomenout Rusům pojem kapitulace!" # todo: NEW TRANSLATION
- FRA_francosphere: "Francosféra" # todo: NEW TRANSLATION
- FRA_francosphere_desc: "Francosféra je jedna z největších politických sfér na světě. Zahrnuje přibližně 35–45 % světa, které zažilo francouzský zásah a vliv. Měli bychom i nadále posilovat oblasti s největším vlivem, abychom udrželi naši kontrolu." # todo: NEW TRANSLATION
- FRA_africa_fr: "Sféra: Afrika" # todo: NEW TRANSLATION
- FRA_africa_fr_desc: "Afrika byla jedním z pilířů francouzského koloniálního impéria. Jednou jsme ovládali zhruba polovinu kontinentu. Je důležité udržet náš nátlak v bývalých koloniích, abychom udrželi francosféru v konkurenceschopnosti." # todo: NEW TRANSLATION
- FRA_the_middle_east: "Sféra: Blízký východ" # todo: NEW TRANSLATION
- FRA_the_middle_east_desc: "Ačkoliv jsme nekontrolovali mnoho kromě protektorátů Sýrie a Libanonu, je důležité udržovat vztahy s těmito zeměmi." # todo: NEW TRANSLATION
- FRA_asia: "Sféra: Asie" # todo: NEW TRANSLATION
- FRA_asia_desc: "Po druhé světové válce naše ambice na Dálném východě upadly. Oblast, nad kterou jsme kdysi vládli, je Indočína. Vietnam, Laos a Kambodža byly kdysi spravovány francouzskými kolonálními guvernéry. Nastal čas znovu prosadit náš vliv v regionu a rozšířit francouzský vliv mimo Afriku a Evropu." # todo: NEW TRANSLATION
- FRA_north_africa_sphere: "Maghreb" # todo: NEW TRANSLATION
- FRA_north_africa_sphere_desc: "V Africe byly prvními a nejdůležitějšími oblastmi, které jsme ovládali, země Maghrebu. Byly to státy jen krátkou plavbou přes Středozemní moře. Byly snadno dostupné k posílení kolonií v případě útoku. Nyní sdílíme mnoho věcí, včetně podobného vybavení, vojenských standardů, typů vlády a jazyka. Francouzský vliv v Maghrebu přetrvává a měl by tak zůstat." # todo: NEW TRANSLATION
- FRA_senegal: "Senegal" # todo: NEW TRANSLATION
- FRA_senegal_desc: "Senegal leží na jednom z nejstrategičtějších míst bývalého území Françafrique. Jeho pozice v Západní Africe z něj činí obzvlášť důležitého partnera. Měli bychom projednat další spolupráci s jejich vládou." # todo: NEW TRANSLATION
- FRA_lebanon: "Libanon" # todo: NEW TRANSLATION
- FRA_lebanon_desc: "Libanon se stal nestabilním kvůli vzestupu radikálního islámu a stát je rozdělený, část země ovládá Hizballáh. Tuto příležitost musíme využít k obnovení francouzského vlivu na Blízkém východě." # todo: NEW TRANSLATION
- FRA_vietnam: "Vietnam" # todo: NEW TRANSLATION
- FRA_vietnam_desc: "Ačkoliv je Vietnam nyní komunistickou zemí, náš vliv tam stále částečně přetrvává. Větší vliv mají sousední státy a Čína. To ale neznamená, že jim nemůžeme nabídnout francouzské vlivy — bagety a francouzskou hudbu — a přilákat je!" # todo: NEW TRANSLATION
- FRA_laos_and_cambodia: "Laos a Kambodža" # todo: NEW TRANSLATION
- FRA_laos_and_cambodia_desc: "Laos a Kambodža jsou v podobné situaci jako Vietnam. Obracejí se spíše k Indii a Číně pro vedení. To bychom měli změnit." # todo: NEW TRANSLATION
- FRA_ivory_coast: "Pobřeží slonoviny" # todo: NEW TRANSLATION
- FRA_ivory_coast_desc: "Pobřeží slonoviny (Côte d'Ivoire) bylo vždy loajálním spojencem. Měli bychom usilovat o udržení tohoto přátelství mezi obyvatelstvem." # todo: NEW TRANSLATION
- FRA_madagascar: "Madagaskar" # todo: NEW TRANSLATION
- FRA_madagascar_desc: "Madagaskar nebyl naší nejvýznamnější kolonií, ale přesto zůstával v našich úvahách jako území, které bychom měli znovu získat. Disponuje zdroji, s nimiž můžeme obchodovat s vládou země." # todo: NEW TRANSLATION
- FRA_syria: "Sýrie" # todo: NEW TRANSLATION
- FRA_syria_desc: "Sýrie je nestabilní, a doufejme, že můžeme usilovat o obnovu stability režimu. Assad dotáhl zemi na pokraj; je jen otázkou času. Možná budeme muset zvážit víc než jen politické postoje." # todo: NEW TRANSLATION
- FRA_mauritius: "Mauricius" # todo: NEW TRANSLATION
- FRA_mauritius_desc: "Mauricius by byl vhodný pro jednu či dvě námořní základny." # todo: NEW TRANSLATION
- FRA_francafrique: "Françafrique" # todo: NEW TRANSLATION
- FRA_francafrique_desc: "Měli bychom znovu zřídit úřady Françafrique. Pomohlo by nám to lépe udržovat vztahy." # todo: NEW TRANSLATION
- FRA_indochine_francaise: "Indochine Française" # todo: NEW TRANSLATION
- FRA_indochine_francaise_desc: "Nyní, když jsme prosadili náš vliv v většině zemí Indočíny, měli bychom usilovat o jeho další obnovení!" # todo: NEW TRANSLATION
- FRA_faction_the_paris_accord: "Pařížská dohoda" # todo: NEW TRANSLATION
- FRA_house_of_bonaparte_crowned: "Bonaparte korunován!" # todo: NEW TRANSLATION
- FRA_a_peaceful_rise_flag: "Mírová zahraniční politika" # todo: NEW TRANSLATION
- FRA_an_aggresive_expansionism_flag: "Agresivní zahraniční politika" # todo: NEW TRANSLATION
- FRA_francosphere_additional_decisions: "Odemkne další §YFrancosféry§! Rozhodnutí." # todo: NEW TRANSLATION
- France_news.97.t: "Francie podporuje Egalité." # todo: NEW TRANSLATION
- France_news.97.d: "Ve snaze o novou vnitřní i vnější loajalitu vlasti oznámil francouzský prezident [FRA.GetLeader] posun doleva v ekonomické a zahraniční politice. Zvýrazněním Egalité nad dvěma dalšími francouzskými mottami slíbil úřad, že brzy bude dosažena univerzální rovnost všech francouzských občanů." # todo: NEW TRANSLATION
- France_news.97.o1: "Ať žije Francie!" # todo: NEW TRANSLATION
- France_news.97.o2: "To je dobře." # todo: NEW TRANSLATION
- France_news.97.o3: "Zajímavé." # todo: NEW TRANSLATION
- France_news.98.t: "Francie podporuje Fraternité." # todo: NEW TRANSLATION
- France_news.98.d: "Francie je nespokojena s nedávnými 'bezcitnými a zvrhlými' politikami prosazovanými ve světě. Francouzský prezident [FRA.GetLeader] přijal jasný autoritářský směr v politice a rétorice.\n\n[FRA.GetLeader] slibuje, že to povede k bratrství mezi bratry a sestrami pod francouzskou vlajkou — mezinárodní pozorovatelé jsou však skeptičtí. Slovy jednoho irského novináře: 'Demokracie by neměla potřebovat diktátora, aby byla demokratická.'" # todo: NEW TRANSLATION
- France_news.98.o1: "Ať žije Francie!" # todo: NEW TRANSLATION
- France_news.98.o2: "Hm." # todo: NEW TRANSLATION
- France_news.98.o3: "Posun k pravici" # todo: NEW TRANSLATION
- France_news.99.t1: "Návrat krále" # todo: NEW TRANSLATION
- France_news.99.t2: "Návrat císaře" # todo: NEW TRANSLATION
- France_news.99.d1: "Královský dům Bourbonů se vrátil do královského sídla ve Versailles, kdysi vybudovaného jejich předkem Ludvíkem XIV., aby znovu převzal vládu nad Francií.\n\nKrál [FRA.GetLeader] slíbil novou a velkou éru pro Francii i svět. \"Právoplatní vládci Francie a ochránci západní Evropy se vrátili na své místo,\" zakončil svou řeč — která byla okamžitě kritizována jako jingoistická a přezíravá ostatními evropskými vůdci a francouzskými republikány." # todo: NEW TRANSLATION
- France_news.99.d2: "Sebezvaný 'Císařský dům' Bonapartů, potomci sámokorunovaného císaře Napoleona I. Bonaparte (1769–1821), se vrátili do Versailles. Zatímco Napoleon (a jeho potomci) byli ve Francii vždy populární, v zahraničí byli méně oblíbení — jak mezi šlechtou, tak mezi prostými lidmi.\n\nNedávná jingoistická rétorika [FRA.GetLeader], který nedávno nastoupil jako císař Francouzů, byla zpochybněna vůdci Německa, Británie, Itálie a Ruska. Noví vládci Francie mají málo přátel.\n\nSpolu s novým způsobem vlády Francie odhalila i novou vlajku: stejná jako ta stará, jen s červenou u žerdi — odkaz na Francouzskou revoluci, kdy podobná vlajka vlála krátce před prvním bonapartským impériem." # todo: NEW TRANSLATION
- France_news.99.o1: "Ať žije král!" # todo: NEW TRANSLATION
- France_news.99.o2: "Ať žije císař!" # todo: NEW TRANSLATION
- France_news.99.o3: "No nic." # todo: NEW TRANSLATION
- France_news.100.t: "Francouzská invaze do Monaka a Andorry" # todo: NEW TRANSLATION
- France_news.100.d: "Francouzské jednotky dnes ráno vstoupily do dvou drobných sousedních zemí. Knížectví Andorra a Monako se stala nejmladšími oběťmi francouzské vojenské agrese.\n\nVzhledem k tomu, že mají omezené vlastní vojenské síly, jsou Andorra a Monako na milost a nemilost Francii, na které se dříve spoléhaly pro obranu." # todo: NEW TRANSLATION
- France_news.100.o1: "Sláva Francii!" # todo: NEW TRANSLATION
- France_news.100.o2: "Tak to je." # todo: NEW TRANSLATION
- France_news.100.o3: "Dobře." # todo: NEW TRANSLATION
- France_news.100.o4: "Nepřijatelné!" # todo: NEW TRANSLATION
- France_news.100.o5: "Koho to zajímá?" # todo: NEW TRANSLATION
- France_news.101.t: "Francie požaduje své 'přirozené hranice'" # todo: NEW TRANSLATION
- France_news.101.d: "Pro ekonomický osud Francie a její vojenskou ochranu je řeka Rýn nezbytnou východní hranicí. Budeme si ji muset znovu přivlastnit, případně i silou.\n\n[FRA.GetLeader] vyvolal značné kontroverze tím, že v podstatě vyhlásil nadcházející válku z důvodu pouhé francouzské vojenské agrese." # todo: NEW TRANSLATION
- France_news.101.o1: "Ať je Francie slavná!" # todo: NEW TRANSLATION
- France_news.101.o2: "Ti hlupáci." # todo: NEW TRANSLATION
- France_news.3.t: "Pařížská konference" # todo: NEW TRANSLATION
- France_news.3.d: "Francie dnes v Paříži uspořádala konferenci se všemi členy Evropské unie. Francouzští vůdci prosazují sjednocení EU pod francouzským vedením." # todo: NEW TRANSLATION
- France_news.3.a: "Uvidíme, kam to povede" # todo: NEW TRANSLATION
- france_md.0.t: "Pozvánka do Pařížské dohody" # todo: NEW TRANSLATION
- france_md.0.d: "Francouzská vláda nás naléhavě oslovila se žádostí o vojenské závazky a záruky, které by se rovnaly našemu vstupu do jejich aliance." # todo: NEW TRANSLATION
- france_md.0.o1: "Souhlasím. Francouzi jsou silní." # todo: NEW TRANSLATION
- france_md.0.o2: "Ne. Příliš se vzdávají." # todo: NEW TRANSLATION
- france_md.1.t: "Investice do eura" # todo: NEW TRANSLATION
- france_md.1.d: "Francouzi k nám dnes přišli se zajímavým návrhem. Tvrdí, že počátky skutečné ekonomické spolupráce začínají přijetím eura evropskými státy. Použití společné měny umožní našim občanům cestovat za hranice bez starostí o směnu měn. Podle francouzských diplomatů by také zavedení eura mělo pomoci prohloubit ekonomické vazby s našimi evropskými sousedy. Smlouva, kterou nám předložili, je žádostí, aby Francie převzala počáteční investice do naší země." # todo: NEW TRANSLATION
- france_md.1.a: "Podepsat dohody" # todo: NEW TRANSLATION
- france_md.1.b: "Nikdy!" # todo: NEW TRANSLATION
- france_md.2.t: "[From.GetName] přijímá naše investice!" # todo: NEW TRANSLATION
- france_md.2.d: "Dobrá zpráva! [From.GetName] přijal naše dohody! Rozhodli se, že těsnější ekonomické vazby s Francií jsou správným krokem." # todo: NEW TRANSLATION
- france_md.2.a: "Skvělé rozhodnutí." # todo: NEW TRANSLATION
- france_md.3.t: "[From.GetName] odmítá" # todo: NEW TRANSLATION
- france_md.3.d: "Rozhodli, že naše investice nejsou v jejich nejlepším zájmu. Je zajímavé, že odmítli něco, co by prospělo oběma našim velkým zemím!" # todo: NEW TRANSLATION
- france_md.3.a: "Zklamání." # todo: NEW TRANSLATION
- france_md.4.t: "Projekty dálniční infrastruktury – Východní Evropa" # todo: NEW TRANSLATION
- france_md.4.d: "Infrastruktura ve východní Evropě v posledních letech upadla. Někteří francouzští dodavatelé hledají zakázky, a tak se na nás obracejí s nabídkou zlepšení některých našich dálnic. Nabídli, že zaplatí výstavbu, pokud obdrží výnosy z daní, jimiž bude projekt financován." # todo: NEW TRANSLATION
- france_md.4.a: "Samozřejmě! Bezplatná infrastruktura!" # todo: NEW TRANSLATION
- france_md.4.b: "Ne těm Francouzům" # todo: NEW TRANSLATION
- france_md.5.t: "Pařížská konference" # todo: NEW TRANSLATION
- france_md.5.d: "Francie svolala dnes v Paříži konferenci se všemi významnými představiteli EU, aby diskutovali budoucnost Unie. Zajímavé je, že hlavním tématem konference byla idea neobvyklá. Naši francouzští hosté navrhli možnost sjednocení unie a vytyčili svůj návrh, aby byli jejím vůdcem. Rámec byl připraven a nyní čeká na podpisy, aby návrh prošel parlamenty a mohl být realizován. Jednou z hlavních myšlenek, které vedou k rozvoji Evropské unie, je — Jedna sjednocená Evropa." # todo: NEW TRANSLATION
- france_md.5.a: "Francouzi budou mít naši podporu" # todo: NEW TRANSLATION
- france_md.5.b: "Rozhodně ne!" # todo: NEW TRANSLATION
- france_md.6.t: "[From.GetName] podporuje sjednocení!" # todo: NEW TRANSLATION
- france_md.6.d: "[From.GetName] vrátil dohody, které obdržel během konference. Skvělá zpráva — rozhodli se podpořit naše veliké úsilí a usilovat o novou Evropu!" # todo: NEW TRANSLATION
- france_md.6.a: "Dobře." # todo: NEW TRANSLATION
- france_md.7.t: "[From.GetName] opouští unii!" # todo: NEW TRANSLATION
- france_md.7.d: "[From.GetName] zničil naši velkou legislativu a poškodil naši důvěryhodnost. Delegáti také začali připravovat a citovat legislativu podle článku 50 a opouštět naši velkou unii." # todo: NEW TRANSLATION
- france_md.7.a: "Dělají chybu" # todo: NEW TRANSLATION
- france_md.8.t: "Otázka monarchy" # todo: NEW TRANSLATION
- france_md.8.d: "Francouzský lid byl v posledních letech zesměšňován. Byli jsme poníženi a neustále napadáni mnoha lidmi. Napoléon kdysi ukázal světu, že s Francouzi se nedá pohrdat. Stoupal přes mnohé, včetně Němců a Angličanů. Stále žije potomek tohoto velkého vůdce. Jean Christophe, princ Napoléon, je nyní hlavou bonapartské císařské rodiny. Mohl by vést Francii ke slávě?" # todo: NEW TRANSLATION
- france_md.8.a: "Obnovit císaře!" # todo: NEW TRANSLATION
- france_md.8.b: "Národní fronta nás povede!" # todo: NEW TRANSLATION
- france_md.9.t: "Restaurace Bonapartů" # todo: NEW TRANSLATION
- france_md.9.d: "[FRA.GetLeader] se vrátil do Versailles. Přivítal sám sebe doma u svého pravého poslání. [FRA.GetLeader] byl korunován novým císařem Francie. Obnovení trůnu vyvolalo obavy mezi mnoha vládami v Evropě. Císař a francouzský lid si zvolili svou cestu. Vive la France!" # todo: NEW TRANSLATION
- france_md.9.a: "Ať žije princ Napoléon" # todo: NEW TRANSLATION
- france_md.10.t: "Cesta pro novou Francii" # todo: NEW TRANSLATION
- france_md.10.d1: "Francouzské impérium prošlo v průběhu své existence mnoha událostmi. Můžeme vystopovat naše dědictví napříč značnou částí této země a také až k dávnému Karlu Velikému. Poradci [FRA.GetLeader] přišli s jednou z posledních politik, které musíme přijmout, než můžeme impérium skutečně posunout dál než kdy dříve.\n\n §GTato volba je trvalá a nelze ji změnit, mnoho efektů bude založeno na vašem rozhodnutí§!\n." # todo: NEW TRANSLATION
- france_md.10.d2: "Nyní, když Francouzská komuna začala upevňovat svou kontrolu nad vládou, je čas začít myslet na revoluci v zahraničí. Komunismus je lepší cesta pro všechny a náš vůdce [FRA.GetLeader] nás dovede k pravému socialismu. Tady i v zahraničí!\n\n §GTato volba je trvalá a nelze ji změnit, mnoho efektů bude založeno na vašem rozhodnutí§!\n." # todo: NEW TRANSLATION
- france_md.10.a: "Pokojný vzestup" # todo: NEW TRANSLATION
- france_md.10.b: "Uvrhnout svět na kolena" # todo: NEW TRANSLATION
- france_md.11.t: "Spolupráce CNES – NASA" # todo: NEW TRANSLATION
- france_md.11.d: "Vedoucí CNES k nám dnes přišli projednat možnost rozšířené spolupráce mezi NASA a CNES. Tvrdí, že je z vesmíru mnoho co se lze naučit, a vzájemná podpora dalšího velkého vesmírného programu by si výrazně pomohla. Navrhovaná dohoda říká, že každá strana by předem investovala 10,0 miliardy dolarů na prohloubení vědeckých vazeb." # todo: NEW TRANSLATION
- france_md.11.a: "Důstojná dohoda" # todo: NEW TRANSLATION
- france_md.11.b: "Ne." # todo: NEW TRANSLATION
- france_md.12.t: "Inkaso příjmů z vesmíru" # todo: NEW TRANSLATION
- france_md.12.d: "Vesmír nám letos přinesl zisky. Naše příjmy z vesmírných projektů se trochu stabilizovaly a nyní je čas tyto prostředky vybrat.\n §RRealizací této události budou všechny příjmy vybrány.§!\n." # todo: NEW TRANSLATION
- france_md.12.a: "Vybrat příjmy." # todo: NEW TRANSLATION
- FRA_french_space_decision_category: "Francouzský vesmírný program" # todo: NEW TRANSLATION
- FRA_french_space_decision_category_desc: "Vesmír: poslední hranice. Musíme tuto hranici začít intenzivně dobývat, pokud chceme zůstat světovou velmocí, ale lze toho dosáhnout jen za vysokou cenu. Protože si nemůžeme být jisti skutečnými ekonomickými přínosy rozsáhlého vesmírného programu, musí francouzský lid zůstat přesvědčen, že jde o smysluplný podnik!\n§R(jestliže naše nadšení pro vesmírný program klesne pod 35, vesmírné operace budou ukončeny!)§!\n\nNaše současné nadšení pro vesmírný program: [?FRA.FRA_peoples_support|+50.0] \nNaše současné příjmy z vesmírného programu: [?FRA.FRA_space_income_var|+0.0]" # todo: NEW TRANSLATION
- FRA_run_support_campaigns_short: "Spustit krátkou kampaň veřejné podpory" # todo: NEW TRANSLATION
- FRA_run_support_campaigns_short_desc: "Pokud naši nejlepší vědci teprve začínají odkrývat vědecká tajemství vesmíru, lid musí být v tomto ohledu velmi zmatený. Krátká kampaň na sociálních sítích by nám měla získat trochu podpory!" # todo: NEW TRANSLATION
- FRA_run_support_campaigns_long: "Spustit dlouhou kampaň veřejné podpory" # todo: NEW TRANSLATION
- FRA_run_support_campaigns_long_desc: "Pokud naši nejlepší vědci teprve začínají odhalovat vědecké poklady vesmíru, lidstvo je v tom zcela zmatené. Podrobná vzdělávací kampaň by měla zázračně zvýšit podporu, kterou od lidí dostaneme!" # todo: NEW TRANSLATION
- FRA_rebalance_the_cnes_budget: "Vyrovnat rozpočet CNES" # todo: NEW TRANSLATION
- FRA_rebalance_the_cnes_budget_desc: "Náš vesmírný program CNES měl v minulosti problémy s neefektivním utrácením a menšími případy korupce. Měli bychom poslat státní auditory, aby omezili nadměrné výdaje a získali CNES tolik potřebnou pozitivní reputaci." # todo: NEW TRANSLATION
- FRA_launch_commercial_satellite: "Vypustit komerční družici" # todo: NEW TRANSLATION
- FRA_launch_commercial_satellite_desc: "V době informačního věku se soukromé firmy doslova předhánějí v запускání družic. Umožněním některým z nich startovat z našich zařízení bychom měli získat ekonomický prospěch. Mějme však na paměti, že lidé se mohou začít nudit komerčně orientovaným programem!" # todo: NEW TRANSLATION
- FRA_prep_international_space_station: "Připravit start k ISS" # todo: NEW TRANSLATION
- FRA_prep_international_space_station_desc: "I když jde o globální úspěch a iniciativu, můžeme se připravit na vyslání vlastních zásobovacích raket na ISS a také poslat vlastní personál." # todo: NEW TRANSLATION
- FRA_french_iss_launch: "Francouzský start k ISS" # todo: NEW TRANSLATION
- FRA_french_iss_launch_desc: "Po měsících plánování a příprav je naše zásobovací mise připravena k startu. Tři… Dva… Jedna… Start!" # todo: NEW TRANSLATION
- FRA_collect_income_mission: "Vybrat příjmy" # todo: NEW TRANSLATION
- FRA_collect_income_mission_desc: "Každý rok bychom měli vybrat, co nám dluží soukromé společnosti." # todo: NEW TRANSLATION
- FRA_peoples_support_campaigns_short_TT: "Naše podpora vesmírného programu §Gvzroste§! O §Y2.5§!\n" # todo: NEW TRANSLATION
- FRA_peoples_support_campaigns_long_TT: "Naše podpora vesmírného programu §Gvzroste§! O §Y5§!\n" # todo: NEW TRANSLATION
- FRA_rebalance_the_cnes_budget_TT: "Naše nadšení pro vesmírný program §Grises§! se §Yzvýší o 5§!, díky efektivnímu hospodaření s veřejnými prostředky. Přerozdělení rozpočtu CNES nás bude stát §R$1.0 billion.§!\n" # todo: NEW TRANSLATION
- FRA_french_space_TT: "§REfekt tohoto zaměření bude odhalen, až přijde ten správný čas…§!" # todo: NEW TRANSLATION
- FRA_launch_commercial_satellite_TT: "Některé místní společnosti se spojily, aby vypustily nový satelit. \nNaše nadšení pro vesmírný program bude §Rponěkud sníženo§!.\n§TToto bude mít pozitivní dopad na naše dlouhodobé příjmy!§!\n" # todo: NEW TRANSLATION
- FRA_international_space_nasa_TT: "§TTato dohoda vyžaduje $10.0 billion od Francie i USA§!" # todo: NEW TRANSLATION
- FRA_international_space_nasa_focus_TT: "§GPokud [USA.GetNameWithFlag] přijme:§!\n" # todo: NEW TRANSLATION
- FRA_income_TT: "Vybrání příjmů vám vždy způsobí ztrátu popularity." # todo: NEW TRANSLATION
- fra_has_enough_space_support_tt: "Máme dostatečné §Ynadšení pro vesmírný program§! k provedení této operace." # todo: NEW TRANSLATION
- FRA_francosphere_decision_category: "Francosphéra" # todo: NEW TRANSLATION
- FRA_francosphere_decision_category_desc: "'Francosphéra' je jednou z největších sfér vlivu na světě. Jak název napovídá, vede ji země Francie a projev její kultury, jazyka a vlivu po celém světě. Soutěží především s britskou 'Anglosférou' a čínskou 'Sinosférou'. Hlavní zaměření francouzské zahraniční politiky se většinou soustředilo na bývalé francouzské kolonie, například v Africe, Asii a dokonce na Blízkém východě. Je důležité udržovat vazby s našimi bývalými koloniemi a usilovat o obnovení našich spojenců, abychom si udrželi schopnost konkurovat na globální scéně.\n\n§YRozhodnutí Francosphéry se týkají čistě vlivu. Mohou pomoci vrátit některé odpadlé bývalé kolonie zpět do sféry.§!" # todo: NEW TRANSLATION
- FRA_decision_align_algeria: "Ovlivnit Alžírsko" # todo: NEW TRANSLATION
- FRA_decision_align_morroco: "Ovlivnit Maroko" # todo: NEW TRANSLATION
- FRA_decision_align_tunisia: "Ovlivnit Tunisko" # todo: NEW TRANSLATION
- FRA_decision_align_senegal: "Ovlivnit Senegal" # todo: NEW TRANSLATION
- FRA_decision_align_ivory_coast: "Ovlivnit Pobřeží Slonoviny" # todo: NEW TRANSLATION
- FRA_decision_align_madagascar: "Ovlivnit Madagaskar" # todo: NEW TRANSLATION
- FRA_decision_align_lebanon: "Ovlivnit Libanon" # todo: NEW TRANSLATION
- FRA_decision_align_syria: "Ovlivnit Sýrii" # todo: NEW TRANSLATION
- FRA_decision_align_indochina: "Ovlivnit Indočínu" # todo: NEW TRANSLATION
- France_news.1.t: "Včera u Londýna velká nehoda: vykolejení vlaku" # todo: NEW TRANSLATION
- France_news.1.d: "Včera v 11:34 se u Londýna vykolejil vlak sítě Network Rail. Zahynulo 87 lidí a 164 bylo zraněno. Naše vláda žádá, aby ve 12:00 byla dodržena minuta ticha na památku obětí." # todo: NEW TRANSLATION
- France_news.1.o1: "Chudáci" # todo: NEW TRANSLATION
- France_news.2.t: "Francouzské bombardování" # todo: NEW TRANSLATION
- France_news.2.d: "Vláda Spojeného království dnes oznámila, že vykolejení u Londýna bylo dílem francouzských sabotérů. Komando dvou mužů nastoupilo do vlaku a umístilo výbušnou nálož na záchod, což způsobilo vykolejení." # todo: NEW TRANSLATION
- France_news.2.o1: "Odsoudit Francii" # todo: NEW TRANSLATION
- FRA_idea_the_francosphere: "Francosphéra" # todo: NEW TRANSLATION
- FRA_idea_the_francosphere_desc: "Francosphéra je politické a globální společenství frankofonních národů a lidí. Je to mechanismus, který pomáhá Francii uplatňovat svůj vliv nad bývalými koloniemi, ale zároveň zůstává formou spolupráce mezi francouzsky mluvícími zeměmi." # todo: NEW TRANSLATION
- FRA_idea_french_red_army: "Francouzská Rudá armáda" # todo: NEW TRANSLATION
- FRA_idea_strong_guy: "Silák" # todo: NEW TRANSLATION
- FRA_idea_communist_revolution1: "Francouzská revoluce!" # todo: NEW TRANSLATION
- FRA_idea_communist_revolution2: "Plameny revoluce" # todo: NEW TRANSLATION
- FRA_military_buildup_program: "Program posílení ozbrojených sil" # todo: NEW TRANSLATION
- FRA_administrative_reforms_1: "Administrativní reformy" # todo: NEW TRANSLATION
- FRA_administrative_reforms_2: "Administrativní reformy" # todo: NEW TRANSLATION
- FRA_air_force_officer_school: "Škola důstojníků letectva" # todo: NEW TRANSLATION
- FRA_anti_leftist_education_program: "Vzdělávací programy proti levici" # todo: NEW TRANSLATION
- FRA_idea_infrastructure_projects: "Projekty infrastruktury" # todo: NEW TRANSLATION
- FRA_border_ministry: "Ministerstvo hraniční bezpečnosti" # todo: NEW TRANSLATION
- FRA_civilian_buildup_program: "Program posílení civilní sféry" # todo: NEW TRANSLATION
- FRA_class_equality_reform: "Reformy rovnoprávnosti tříd" # todo: NEW TRANSLATION
- FRA_coastal_fort_idea: "Pobřežní opevnění" # todo: NEW TRANSLATION
- FRA_economic_interventionism: "Ekonomický intervencionismus" # todo: NEW TRANSLATION
- FRA_idea_french_armored_production: "Francouzské obrněné vozidla" # todo: NEW TRANSLATION
- FRA_elan: "Elán!" # todo: NEW TRANSLATION
- FRA_elan_desc: "Francouzské armády jsou vždy lepší než ty vaše. Ani to nezkoušejte." # todo: NEW TRANSLATION
- FRA_idea_napoleon_dream: "Napoleonův sen" # todo: NEW TRANSLATION
- FRA_idea_napoleon_dream_desc: "Napoleon usiloval o přinesení moci a slávy francouzskému lidu. Musíme ctít tuto ideu a vrátit Francii její moc!" # todo: NEW TRANSLATION
- FRA_idea_napoleon_guard: "Nová Napoleonova garda" # todo: NEW TRANSLATION
- FRA_idea_new_empire: "Nové francouzské impérium" # todo: NEW TRANSLATION
- FRA_imperial_honor: "Imperiální čest" # todo: NEW TRANSLATION
- FRA_racial_society: "Rasová společnost" # todo: NEW TRANSLATION
- FRA_centralizations_of_research: "Centralizace výzkumu" # todo: NEW TRANSLATION
- FRA_european_brigades_idea: "Evropské brigády" # todo: NEW TRANSLATION
- FRA_fraternity_movement_reformed: "Reformy hnutí Bratrství" # todo: NEW TRANSLATION
- FRA_gulags: "Francouzské gulagy" # todo: NEW TRANSLATION
- FRA_increased_border_controls_1: "Zvýšené hraniční kontroly" # todo: NEW TRANSLATION
- FRA_increased_border_controls_2: "Výrazně zvýšené hraniční kontroly" # todo: NEW TRANSLATION
- FRA_keepers_of_democracy: "Ochránci demokracie" # todo: NEW TRANSLATION
- FRA_land_fort_idea: "Pozemní opevnění" # todo: NEW TRANSLATION
- FRA_persecution_of_enemies_of_communism: "Perzekuce nepřátel" # todo: NEW TRANSLATION
- FRA_persecution_of_enemies_of_communism_desc: "Komunistické orgány ve Francii se rozhodly pronásledovat všechny ostatní politické proudy s nemilosrdným politickým a násilným nátlakem." # todo: NEW TRANSLATION
- FRA_popular_ministry: "Ministerstvo ochrany lidové vůle" # todo: NEW TRANSLATION
- FRA_political_shifts_idea: "Vnitřní politické změny" # todo: NEW TRANSLATION
- FRA_prison_workforce_mobilized: "Mobilizace vězeňské pracovní síly" # todo: NEW TRANSLATION
- FRA_national_fellowship: "Národní společenství" # todo: NEW TRANSLATION
- FRA_red_militias_idea: "Červené milice" # todo: NEW TRANSLATION
- FRA_european_research_project: "Evropský výzkumný projekt" # todo: NEW TRANSLATION
- FRA_red_guards_idea: "Červené gardy" # todo: NEW TRANSLATION
- FRA_imperial_merchants: "Imperiální obchodníci" # todo: NEW TRANSLATION
- FRA_european_officer_school: "Evropská důstojnická škola" # todo: NEW TRANSLATION
- FRA_french_militarism: "Francouzský militarismus" # todo: NEW TRANSLATION
- FRA_idea_fra_usa_collab: "Spolupráce Francie a USA ve výzkumu a vývoji" # todo: NEW TRANSLATION
- FRA_redistribution_program: "Vládní programy přerozdělení bohatství" # todo: NEW TRANSLATION
- FRA_reformed_officer_school: "Reformovaná důstojnická škola" # todo: NEW TRANSLATION
- FRA_restoration_society: "Spolky obnovy" # todo: NEW TRANSLATION
- FRA_taxation_reform_idea: "Daňové reformy" # todo: NEW TRANSLATION
- FRA_state_investments_in_sa: "Investice SA" # todo: NEW TRANSLATION
- FRA_idea_central_decentral: "Byrokratická reforma" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_army: "Vojenská reforma – armáda" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_navy: "Vojenská reforma – námořnictvo" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_air_force: "Vojenská reforma – letectvo" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_army_and_navy: "Vojenská reforma – armáda a námořnictvo" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_army_and_air_force: "Vojenská reforma – armáda a letectvo" # todo: NEW TRANSLATION
- FRA_idea_military_improvment_air_force_and_navy: "Vojenská reforma – letectvo a námořnictvo" # todo: NEW TRANSLATION
- FRA_idea_the_french_military: "Reformovaná armáda" # todo: NEW TRANSLATION
- FRA_idea_the_french_military_desc: "Po letech zanedbávání armády jsme se konečně pustili do reformy našich zastaralých sil. Nyní můžeme důrazněji prosazovat, že Francie je země, se kterou si nelze zahrávat, a zároveň země, kterou stojí za to mít za spojence!" # todo: NEW TRANSLATION
- FRA_idea_fifth_power: "Pátá moc" # todo: NEW TRANSLATION
- FRA_idea_french_nato_restructures: "Restrukturalizace Francie a NATO" # todo: NEW TRANSLATION
- FRA_idea_vive_la_france: "Ať žije Francie!" # todo: NEW TRANSLATION
- FRA_idea_space_agency_1: "CNES - 1" # todo: NEW TRANSLATION
- FRA_idea_space_agency_2: "CNES - 2" # todo: NEW TRANSLATION
- FRA_idea_space_agency_3: "CNES - 3" # todo: NEW TRANSLATION
- FRA_idea_space_agency_4: "CNES - 4" # todo: NEW TRANSLATION
- FRA_idea_reformed_cnes: "Reformovaný CNES" # todo: NEW TRANSLATION
- FRA_idea_cnes_failing: "Nedostatky rozpočtu CNES" # todo: NEW TRANSLATION
- FRA_idea_prep_the_launch: "Příprava startu" # todo: NEW TRANSLATION
- FRA_idea_space_research: "Vesmírný výzkum" # todo: NEW TRANSLATION
- FRA_idea_expanding_r_and_d: "Rozšiřování našeho výzkumu a vývoje" # todo: NEW TRANSLATION
- FRA_idea_expanding_r_and_d1: "Rozšiřování našeho výzkumu a vývoje" # todo: NEW TRANSLATION
- FRA_idea_nasa_partnership: "Partnerství Francie s NASA" # todo: NEW TRANSLATION
+  france_focus: "Francouzský strom zaměření" # todo: NEW TRANSLATION
+  FRA_state_of_french_politics: "Stav francouzské politiky" # todo: NEW TRANSLATION
+  FRA_state_of_french_politics_desc: "Země Francie se nachází na jedné z nejzajímavějších - a nejnestabilnějších pozic na světě. Komunistické strany ve Francii zaznamenaly v volbách bezprecedentní úspěch. Národní fronta je také nastupující stranou, která reprezentuje rostoucí nacionalistickou rétoriku mezi lidmi." # todo: NEW TRANSLATION
+  FRA_french_parliament: "Francouzský parlament" # todo: NEW TRANSLATION
+  FRA_french_parliament_desc: "Francouzský parlament je v současném stavu dvoukomorový: Senát a Národní shromáždění. Dvoukomorový systém umožňuje vládě mít verzi systému kontrol a rovnováhy, zatímco zajišťuje adekvátní zastoupení pro všechny obyvatele." # todo: NEW TRANSLATION
+  FRA_the_fifth_power: "Pátá moc" # todo: NEW TRANSLATION
+  FRA_the_fifth_power_desc: "Nyní jsme pátou nejsilnější ekonomickou mocností na světě. Tento úspěch lze vidět a chválit široce. Francie je však mnohem víc než jen páté místo. Pojďme vyrazit vpřed a nikdy nežijme ve stínu ostatních!" # todo: NEW TRANSLATION
+  FRA_liberty: "Svoboda" # todo: NEW TRANSLATION
+  FRA_liberty_desc: "'Svoboda,' znamenající svobodu, se zaměřuje na cenění osobních práv a svobod nad vše ostatní. Budeme nadále pokračovat na cestě, kterou nám naši předkové nastavili!" # todo: NEW TRANSLATION
+  FRA_equality: "Rovnost" # todo: NEW TRANSLATION
+  FRA_equality_desc: "'Rovnost' znamená rovnost a vychází ze základního principu, že všichni si zaslouží stejné práva. Nikdo si nezaslouží být lepším než jiný. Budeme se držet této filozofie, abychom posílili naši zemi a osvobodili náš lid!" # todo: NEW TRANSLATION
+  FRA_fraternity: "Bratrství" # todo: NEW TRANSLATION
+  FRA_fraternity_desc: "'Bratrství', znamenající bratrství, je koncept vzájemného přátelství a sounáležitosti. Abychom posílili Francii, musíme začít prosazovat Bratrství, když pracujeme na našem společném cíli!" # todo: NEW TRANSLATION
+  FRA_stricter_policing: "Přísnější policie" # todo: NEW TRANSLATION
+  FRA_stricter_policing_desc: "Lidé mají vždy svá práva. Avšak nastávají chvíle, kdy je prosazují nadměrně a omezují schopnosti naší policie." # todo: NEW TRANSLATION
+  FRA_euro_investments: "Evropské investice" # todo: NEW TRANSLATION
+  FRA_euro_investments_desc: "Naše současná pozice v eurozóně nám umožnila získat určité zahraniční investice v rámci Evropské unie. Navíc můžeme využít náš velký soukromý sektor k podpoře dalšího rozvoje doma i v zahraničí." # todo: NEW TRANSLATION
+  FRA_the_national_assembly: "Národní shromáždění" # todo: NEW TRANSLATION
+  FRA_the_national_assembly_desc: "Vyšší vládu ve Francii tvoří dvě komory: Národní shromáždění a Senát. Většina francouzské reprezentace je v dolní komoře, tedy v Národním shromáždění. Musíme získat jejich podporu, aby byla přijata budoucí legislativa." # todo: NEW TRANSLATION
+  FRA_global_economics: "Globální ekonomika" # todo: NEW TRANSLATION
+  FRA_global_economics_desc: "Svět je rozsáhlé místo. Každá země přináší něco na stůl. Spojené státy se svými inovacemi, Čína se svým rozsáhlým výrobním průmyslem, Švýcarsko se svými bankéři, nebo dokonce Rusko se svými zásobami zemního plynu. Francouzský lid se musí posunout vpřed a začít dominovat na trzích." # todo: NEW TRANSLATION
+  FRA_french_nato_restructures: "Francouzsko-NATO restrukturalizace" # todo: NEW TRANSLATION
+  FRA_french_nato_restructures_desc: "Jsme jedním ze zakládajících členů NATO. Je důležité, abychom lépe sladili naši vojenskou strukturu s tou NATO, aby bylo možné provádět operace plynuleji." # todo: NEW TRANSLATION
+  FRA_competitive_education: "Konkurenční vzdělávání" # todo: NEW TRANSLATION
+  FRA_competitive_education_desc: "V našem novém světě už nestačí jen naše ekonomická síla, která pohání růst. Síla vzdělání je nepřekonatelná." # todo: NEW TRANSLATION
+  FRA_french_political_reformation: "Francouzská politická reformace" # todo: NEW TRANSLATION
+  FRA_french_political_reformation_desc: "Ačkoli jsme jednou z největších zemí na světě, náš politický systém není imunní vůči korupci a neefektivnosti. Měli bychom to změnit." # todo: NEW TRANSLATION
+  FRA_french_autonomy: "Francouzská autonomie" # todo: NEW TRANSLATION
+  FRA_french_autonomy_desc: "'There is nothing more important than independence to a Frenchmen' - Ted52." # todo: NEW TRANSLATION
+  FRA_strength_in_the_eu: "Síla v EU" # todo: NEW TRANSLATION
+  FRA_strength_in_the_eu_desc: "Evropská unie je úspěchem pro celou Evropu. Sjednocení lidí v pevné vládě, kde každá země má svůj hlas, ať už velká nebo malá, je výjimečné a úžasné. Schopnost spolupracovat nás posune vpřed po mnoho let." # todo: NEW TRANSLATION
+  FRA_european_investments2: "Východní evropské investice" # todo: NEW TRANSLATION
+  FRA_european_investments2_desc: "Východní Evropa je pro investice zralá. Je to solidní příležitost pro získání finančních odměn a zároveň posílení našich evropských spoluobčanů." # todo: NEW TRANSLATION
+  FRA_vive_la_france: "Ať žije Francie!" # todo: NEW TRANSLATION
+  FRA_vive_la_france_desc: "\"Ať žije Francie\" byl výraz používaný k vyjádření francouzského patriotismu. Zhruba to znamená either 'Ať žije Francie' nebo 'Hurá pro Francii'. Každým způsobem je to způsob vyjádření velkého nacionalismu v naší ještě větší zemi!" # todo: NEW TRANSLATION
+  FRA_the_will_of_the_people: "Vůle lidu" # todo: NEW TRANSLATION
+  FRA_the_will_of_the_people_desc: "Francouzský lid si prošel mnohým. Angličtí imperialisté během období Stoleté války, komunisté, kteří ohrožovali Francouzskou republiku, pak nacisté ve druhé světové válce. Přes všechno byla Francouzská vůle lidu stále silnější!" # todo: NEW TRANSLATION
+  FRA_european_expanisonism: "La République en Marche" # todo: NEW TRANSLATION
+  FRA_european_expanisonism_desc: "Objevuje se nová politická síla, která podporuje §Y[EUU.GetFlag] Evropskou unii§!: La République en Marche" # todo: NEW TRANSLATION
+  FRA_a_united_union: "Konzervativní evropský přístup" # todo: NEW TRANSLATION
+  FRA_a_united_union_desc: "Konzervativní evropský přístup: Evrospká integrace je dlouhý proces." # todo: NEW TRANSLATION
+  FRA_cooperation_in_union: "Sorbonnská řeč" # todo: NEW TRANSLATION
+  FRA_cooperation_in_union_desc: "Prezdient Macron pronesl inspirující projev o §Y[EUU.GetFlag] Evropské unii§!." # todo: NEW TRANSLATION
+  FRA_invitations_to_the_eu: "Aachenská smlouva" # todo: NEW TRANSLATION
+  FRA_invitations_to_the_eu_desc: "Při 55. výročí Élysée smlouvy, §Y[FRA.GetNameWithFlag]§! a §Y[GER.GetNameWithFlag]§! potvrdí svůj závazek a podepíší takzvanou Aachen smlouvu, formálně Smlouvu o francouzsko-německé spolupráci a integraci." # todo: NEW TRANSLATION
+  FRA_european_persuasion: "Přilákat evropské investory" # todo: NEW TRANSLATION
+  FRA_european_persuasion_desc: "Musíme přilákat investory z §Y[EUU.GetFlag] Evropské unie§!." # todo: NEW TRANSLATION
+  FRA_french_political_dominance: "Francouzská politická dominance" # todo: NEW TRANSLATION
+  FRA_french_political_dominance_desc: "Francie je jednou z největších zemí v Evropské unii. I když bychom chtěli zůstat autonomní, musíme usilovat o dominanci politické scény EU." # todo: NEW TRANSLATION
+  FRA_preparing_the_union: "Podpora jihu" # todo: NEW TRANSLATION
+  FRA_preparing_the_union_desc: "Musíme podpořit naše jiho a středomořské sousedy v §Y[EUU.GetFlag] Evropské unii§!." # todo: NEW TRANSLATION
+  FRA_a_international_language: "Mezinárodní jazyk" # todo: NEW TRANSLATION
+  FRA_a_international_language_desc: "Francouzština je jedním z jazyků, které se zdají být všude. Je pátým nejrozšířenějším jazykem na světě." # todo: NEW TRANSLATION
+  FRA_the_new_seat: "Nové sídlo" # todo: NEW TRANSLATION
+  FRA_the_new_seat_desc: "Země, která drží sídlo Evropského parlamentu, je skutečnou mocností, s níž je třeba počítat. Má sílu a bezpochyby největší vliv v Evropské unii." # todo: NEW TRANSLATION
+  FRA_uniting_the_union: "Příležitosti jednotného trhu EU v Balkáně" # todo: NEW TRANSLATION
+  FRA_uniting_the_union_desc: "S přistoupením nových členů k §Y[EUU.GetFlag] Evropské unii§! z Balkánů existují skvělé investiční příležitosti díky Evropskému jednotnému trhu." # todo: NEW TRANSLATION
+  FRA_means_of_production: "Prostředky výroby" # todo: NEW TRANSLATION
+  FRA_means_of_production_desc: "Prostředky výroby měly být řízeny dělníky. My jsme dělníci a musíme zabrat prostředky výroby od buržoazie! Prostředky výroby musí být vráceny dělníkům rychle a bezodkladně!" # todo: NEW TRANSLATION
+  FRA_honor_the_communes: "Uctít komuny" # todo: NEW TRANSLATION
+  FRA_honor_the_communes_desc: "Na počátku roku 1871 někteří z prvních socialistických revolucionářů obsadili části Paříže v ozbrojeném konfliktu s Francouzskou republikou. Radikální národní gardy si vynutila držet Paříž před pravidelnou armádou ve franco-pruské válce. Měli bychom ctít tyto muže a ženy více než některé, které jsme dosud uctívali." # todo: NEW TRANSLATION
+  FRA_a_new_dawn: "Nový úsvit" # todo: NEW TRANSLATION
+  FRA_a_new_dawn_desc: "Svět se stal odpudivým a chamtivým místem. Kdyby měl každý stejný podíl a stejná práva, byl by to nový úsvit pro společnost." # todo: NEW TRANSLATION
+  FRA_equality_en_masse: "Rovnost masově" # todo: NEW TRANSLATION
+  FRA_equality_en_masse_desc: "Rovnost je nezbytná. Radikální socialismus musí být dosažen, aby posunul společnost vpřed, a vyhlášení rovných příležitostí zajistí mnohem lepší společnost." # todo: NEW TRANSLATION
+  FRA_marxist_ideology: "Marxistická ideologie" # todo: NEW TRANSLATION
+  FRA_marxist_ideology_desc: "Marxismus má historii, která se liší od jakékoliv jiné ideologie. Parti Communiste Français prokázala, že marxismus je znovu životaschopnou formou vládnutí. Osvoboďte dělníky!" # todo: NEW TRANSLATION
+  FRA_socialism_in_france: "Socialismus ve Francii" # todo: NEW TRANSLATION
+  FRA_socialism_in_france_desc: "Převážně je Francie kolébkou revoluce. Francouzi neradi, když jsou jejich práva pošlapávána, a ti, kteří to dělali. Socialismus je o tom, aby práva nebyla pošlapávána!" # todo: NEW TRANSLATION
+  FRA_reduction_of_press: "Potlačování tisku" # todo: NEW TRANSLATION
+  FRA_reduction_of_press_desc: "Právo na svobodný tisk se získává, ne vyžaduje. Názory těch na pravici musí být nadále potlačovány, protože jen destabilizují naši velkou zemi!" # todo: NEW TRANSLATION
+  FRA_the_communist_party: "Komunistická strana" # todo: NEW TRANSLATION
+  FRA_the_communist_party_desc: "„Parti Communiste Français“ má nový pochod. Prosadili se nejprve mezi lidem a teď jsou jedním s vládou. Vive la France!" # todo: NEW TRANSLATION
+  FRA_a_new_international: "Nový mezinárodní" # todo: NEW TRANSLATION
+  FRA_a_new_international_desc: "Trotsky a jejich mezinárodní chlapi věděli, co je nahoře. Pojďme vybudovat nový mezinárodní spolek ve jménu komunismu doma i v zahraničí!" # todo: NEW TRANSLATION
+  FRA_preparing_the_revolution: "Příprava revoluce" # todo: NEW TRANSLATION
+  FRA_preparing_the_revolution_desc: "Svět je připraven na revoluci. Zůstaňme chvíli klidní a začněme rozpouštět plameny." # todo: NEW TRANSLATION
+  FRA_new_popular_army: "Nová lidová armáda" # todo: NEW TRANSLATION
+  FRA_new_popular_army_desc: "Naše armáda vyžaduje politickou indoktrinaci. Vzdělávání, které dokáže lépe prosazovat, že soudruh je téměř stejně důležitý jako sám sebe." # todo: NEW TRANSLATION
+  FRA_securing_our_place: "Zajištění našeho postavení" # todo: NEW TRANSLATION
+  FRA_securing_our_place_desc: "Vláda je kvůli nedávnému uchopení moci poněkud nestabilní. Měli bychom navýšit rozpočty a rozmístit propagandu po městech a vesnicích, čímž posílíme naši základnu." # todo: NEW TRANSLATION
+  FRA_igniting_the_flames: "Zapálení plamenů" # todo: NEW TRANSLATION
+  FRA_igniting_the_flames_desc: "Plameny revoluce se vznítily. Rozšiřte proudy revoluce daleko a široko!" # todo: NEW TRANSLATION
+  FRA_leave_europe: "Referendum o Frexitu" # todo: NEW TRANSLATION
+  FRA_leave_europe_desc: "Evropská unie je jednou z věcí, které sice fungují, ale nepřináší nám žádný skutečný prospěch, kromě toho, že je nadřazenou macechou. Nechte lidi rozhodnout! Uspořádejte referendum o Frexitu!" # todo: NEW TRANSLATION
+  FRA_renounce_nato: "Zřeknout se NATO" # todo: NEW TRANSLATION
+  FRA_renounce_nato_desc: "NATO není ničím víc než lež, která se vydává za zájem o demokracii. Američané a další Evropané tlačí svou představu demokracie do cizích zemí ve jménu svobody. Musíme tuto temnotu porazit, abychom znovu byli velcí!" # todo: NEW TRANSLATION
+  FRA_freedom_from_the_west: "Svoboda od Západu" # todo: NEW TRANSLATION
+  FRA_freedom_from_the_west_desc: "V posledních letech Západ převážně vnucuje svou ideologii do zahraničí a vyžaduje, aby se Francouzi řídili stejným směrem. Musíme se těchto utlačovatelů zbavit, abychom si vybojovali vlastní osud!" # todo: NEW TRANSLATION
+  FRA_the_paris_accord: "Pařížská dohoda" # todo: NEW TRANSLATION
+  FRA_the_paris_accord_desc: "Abychom čelili vlivu NATO a EU v Evropě. Je čas vybudovat naši alianci. Pařížská dohoda ukáže těm, kdo se k nám přiklánějí, že se stanou silnými." # todo: NEW TRANSLATION
+  FRA_euroscepticsm: "Euroskepticismus" # todo: NEW TRANSLATION
+  FRA_euroscepticsm_desc: "Evropská unie nám již příliš dlouho vnucuje své otravné ideologie. Prosazování silnější Evropské unie sníží naši autonomii." # todo: NEW TRANSLATION
+  FRA_electoral_shutdown: "Uzavření voleb" # todo: NEW TRANSLATION
+  FRA_electoral_shutdown_desc: "Volby jsou hloupou politikou. Uzavřete je. Nesmíme dovolit, aby náš lid byl ovlivněn lichými slovy. Trocha manipulace by mohla dostat správné lidi k moci." # todo: NEW TRANSLATION
+  FRA_heavier_policing: "Národní gendarmerie" # todo: NEW TRANSLATION
+  FRA_heavier_policing_desc: "Vojenská policie je momentálně dobrá. Můžeme ji však zlepšit tím, že ji formujeme do pseudo jednotek, abychom potlačili nesouhlas a šířili naše ideologie." # todo: NEW TRANSLATION
+  FRA_self_determination: "Sebeurčení" # todo: NEW TRANSLATION
+  FRA_self_determination_desc: "Jedinou zemí na světě, která má význam, je Francie. Více není třeba." # todo: NEW TRANSLATION
+  FRA_neo_nationalists: "Neo-Nacionalisté" # todo: NEW TRANSLATION
+  FRA_neo_nationalists_desc: "Nacionalismus, i když není novým pojmem, se dnes objevuje v titulcích francouzských médií a tlačí na sílu vlády." # todo: NEW TRANSLATION
+  FRA_censorship_in_education: "Cenzura ve vzdělávání" # todo: NEW TRANSLATION
+  FRA_censorship_in_education_desc: "Děti nepotřebují číst knihy a podobné texty. Brožury jsou mnohem lepší." # todo: NEW TRANSLATION
+  FRA_strong_guy: "Přísná ruka" # todo: NEW TRANSLATION
+  FRA_strong_guy_desc: "Země potřebuje pevnou ruku a tvrdou pěst. Připomeňme lidem, kdo je u moci." # todo: NEW TRANSLATION
+  FRA_the_national_front: "Národní Fronta" # todo: NEW TRANSLATION
+  FRA_the_national_front_desc: "Národní Fronta se stala nositelem zajímavých jevů. Nyní je to nejoblíbenější vládní stranou. Ukázala nám, že jednou provždy obnoví francouzskou slávu, spolu s několika novými členy." # todo: NEW TRANSLATION
+  FRA_napoleon_dream: "Napoleonův sen" # todo: NEW TRANSLATION
+  FRA_napoleon_dream_desc: "Napoleon měl správný nápad. Uplatnit nároky na Evropu a ukázat sílu francouzského lidu a francouzských ozbrojených sil. Naše nadřazené taktiky a nadřazený chléb to ukážou." # todo: NEW TRANSLATION
+  FRA_european_betrayal: "Evropská zrada" # todo: NEW TRANSLATION
+  FRA_european_betrayal_desc: "Evropa nám nic jiného než zradila do zad. Je načase, abychom jí oplatili." # todo: NEW TRANSLATION
+  FRA_new_napoleon_guard: "Nová Napoleonova stráž" # todo: NEW TRANSLATION
+  FRA_new_napoleon_guard_desc: "Napoleonova císařská garda byla jednotkou přímo spravovanou samotným Napoleonem. Byla to elitní síla používaná takticky k vítězství císaře, stále a znovu. Je čas, abychom znovu zřídili takovou jednotku." # todo: NEW TRANSLATION
+  FRA_nationalism_in_europe: "Nacionalismus v Evropě" # todo: NEW TRANSLATION
+  FRA_nationalism_in_europe_desc: "Evropské nacionalisté hledají podporu a usilují o ni. Není jen naší povinností je sladit, ale i svrhnout vlády, které je potlačují!" # todo: NEW TRANSLATION
+  FRA_a_new_empire: "Nové impérium" # todo: NEW TRANSLATION
+  FRA_a_new_empire_desc: "Francouzské impérium povstane znovu! Už nebudeme posměchem Evropy. Naše armáda a ekonomika se zvětšily. Nyní je čas napravit to, co Napoleon tak dávno nezvládl." # todo: NEW TRANSLATION
+  FRA_economic_policy: "Ekonomická politika" # todo: NEW TRANSLATION
+  FRA_economic_policy_desc: "Naše ekonomika je na světě až pátá. Možná bychom mohli být proaktivní a ukázat, jaká by mohla být dobrá ekonomická politika." # todo: NEW TRANSLATION
+  FRA_free_market: "Volný trh" # todo: NEW TRANSLATION
+  FRA_free_market_desc: "Světové trhy by měly zůstat, aby se o nich rozhodovalo samy o sobě, a ne regulovány. Volný trh je lepší než regulovaný trh!" # todo: NEW TRANSLATION
+  FRA_total_sa: "Total SA" # todo: NEW TRANSLATION
+  FRA_total_sa_desc: "Total SA je jednou z největších ropných společností na světě. Můžeme využít jejich aktiv k rozšíření našich ropných odvětví pro potřeby Republiky." # todo: NEW TRANSLATION
+  FRA_french_economic_intervention: "Ekonomické zásahy" # todo: NEW TRANSLATION
+  FRA_french_economic_intervention_desc: "Nejlepší způsob, jak působit na ekonomiku, je do ní pravidelně zasahovat. Příliš mnoho zásahů však způsobuje problémy. Nakonec je to na vládě, aby rozhodla, co je správné. Neviditelná ruka trhu Francii neublíží a my ji nebudeme vyzývat." # todo: NEW TRANSLATION
+  FRA_reduction_in_taxes: "Snížení daní" # todo: NEW TRANSLATION
+  FRA_reduction_in_taxes_desc: "Dane jsou šílené! Snižme je. Doufejme, že to přiláká nové investice a podpoří soukromý sektor." # todo: NEW TRANSLATION
+  FRA_deregulation: "Deregulace" # todo: NEW TRANSLATION
+  FRA_deregulation_desc: "Deregulace. Prvním krokem k vybudování ekonomiky je deregula ce. Uvolnění výstavby v jinak omezených oblastech by mohlo být tím pravým trikem." # todo: NEW TRANSLATION
+  FRA_state_stock_in_sa: "Státní zásoby v SA" # todo: NEW TRANSLATION
+  FRA_state_stock_in_sa_desc: "Total SA odvedla skvělou práci v posledních zakázkách. Měly by být částečně investovány do zvýšení, nejen našich zisků, ale i naší nezávislosti na zahraničním hospodářství." # todo: NEW TRANSLATION
+  FRA_paris_employment_projects: "Pařížské projekty zaměstnanosti" # todo: NEW TRANSLATION
+  FRA_paris_employment_projects_desc: "Paříž v minulosti zažila období vysoké nezaměstnanosti. Dejte jim něco na práci." # todo: NEW TRANSLATION
+  FRA_nationalization_of_steel: "Národní znárodnění oceli" # todo: NEW TRANSLATION
+  FRA_nationalization_of_steel_desc: "Znàrodnění oceli by mělo zlepšit naši průmyslovou kapacitu." # todo: NEW TRANSLATION
+  FRA_private_contracting: "Soukromé zakázky" # todo: NEW TRANSLATION
+  FRA_private_contracting_desc: "Uzavírání smluv s místními firmami by mohlo pomoci urychlit stavební projekty. Nicméně bude to vyčerpávající, protože nebudeme určovat cenu." # todo: NEW TRANSLATION
+  FRA_tapping_resources: "Vytěžování zdrojů" # todo: NEW TRANSLATION
+  FRA_tapping_resources_desc: "Po celé Francii se nacházejí zdroje. Měli bychom prozkoumat využití našich přírodních zdrojů a snížit naši závislost." # todo: NEW TRANSLATION
+  FRA_offshore_oilrigs: "Ropné plošiny na moři" # todo: NEW TRANSLATION
+  FRA_offshore_oilrigs_desc: "Kourou má ropní zásoby těsně za pobřežím, které by šlo vytěžit pro naši potřebu. Ropa je černé zlato, a my se musíme zbohatnout!" # todo: NEW TRANSLATION
+  FRA_state_run_construction: "Státem řízená výstavba" # todo: NEW TRANSLATION
+  FRA_state_run_construction_desc: "Stát určuje cenu, datum zahájení a počet zaměstnanců. Jediný problém je, že to může být neefektivní, pokud projekt není dostatečně financován, nebo pokud je nastaven na příliš dlouhou dobu a zaměstnanci stojí nečinně." # todo: NEW TRANSLATION
+  FRA_infrastructure_projects: "Infrastrukturní projekty" # todo: NEW TRANSLATION
+  FRA_infrastructure_projects_desc: "Místní infrastruktura měla v minulosti některé problémy. Zlepšeme systém." # todo: NEW TRANSLATION
+  FRA_decentralization: "Decentralizace" # todo: NEW TRANSLATION
+  FRA_decentralization_desc: "Decentralizace vlády přinese mnoho výhod. Státy budou nezávislejší, podobně jako Spojené státy. Může nám to potenciálně přinést více daňových příjmů snížením centralizovaných ekonomických opatření." # todo: NEW TRANSLATION
+  FRA_centralization: "Centralizace" # todo: NEW TRANSLATION
+  FRA_centralization_desc: "Centralizace vlády nás posune k větší kontrole nad nezávislými proměnnými na každém místě a ovlivní každý aspekt života." # todo: NEW TRANSLATION
+  FRA_french_healthcare: "Francouzské zdravotnictví" # todo: NEW TRANSLATION
+  FRA_french_healthcare_desc: "Francouzské zdravotnictví patří k nejlépe vybudovaným systémům zdravotní péče na světě. Je jedním z mála, kteří skutečně poskytují univerzální zdravotní péči." # todo: NEW TRANSLATION
+  FRA_french_arms_industries: "Francouzské zbrojní průmysly" # todo: NEW TRANSLATION
+  FRA_french_arms_industries_desc: "Francouzské zbrojní průmysly zůstávají jedněmi z nejziskovějších firem na světě. Ať už jde o Nexter, Dassault či Thales Group. Vždy stojí za investici nebo vládní smlouvu." # todo: NEW TRANSLATION
+  FRA_research_and_dev_projects: "Projekty výzkumu a vývoje" # todo: NEW TRANSLATION
+  FRA_research_and_dev_projects_desc: "Státem řízený výzkum a vývoj umožňují vyšší standardy vědecké dokonalosti." # todo: NEW TRANSLATION
+  FRA_reformed_universal_healthcare: "Reformované univerzální zdravotnictví" # todo: NEW TRANSLATION
+  FRA_reformed_universal_healthcare_desc: "Přes to, že máme některé z nejlepších zdravotních zákonů v zemi, vždy budou mít své nedostatky." # todo: NEW TRANSLATION
+  FRA_nexter: "Nexter" # todo: NEW TRANSLATION
+  FRA_nexter_desc: "Nexter je franouzská zbrojní společnost ve státním vlastnictví, která se specializuje na vývoj francouzských zbraní a vozidel." # todo: NEW TRANSLATION
+  FRA_dassault: "Dassault" # todo: NEW TRANSLATION
+  FRA_dassault_desc: "Základní funkcí Dassaultu je letecká společnost. Jedním z jejich nejvýznamnějších výtvorů byl Mirage." # todo: NEW TRANSLATION
+  FRA_thales_group: "Thales Group" # todo: NEW TRANSLATION
+  FRA_thales_group_desc: "Ačkoliv Thales Group je především elektronická společnost. Odvedli skvělou práci na většině našich nejmodernějších lodí." # todo: NEW TRANSLATION
+  FRA_usa_fra_collaboration: "USA–francouzská spolupráce" # todo: NEW TRANSLATION
+  FRA_usa_fra_collaboration_desc: "Spolupráce se Spojenými státy není jen prospěšná, ale je i zřejmou volbou." # todo: NEW TRANSLATION
+  FRA_the_french_agriculture: "Francouzské zemědělství" # todo: NEW TRANSLATION
+  FRA_the_french_agriculture_desc: "Ve světě, kde šest miliard lidí usiluje o dostatek jídla, je zemědělství sektorem s jasnou budoucností. Máme to štěstí, že máme tak kvalitní půdu, a měli bychom prozkoumat její různorodé využití, abychom potvrdili naši potravinovou soběstačnost." # todo: NEW TRANSLATION
+  FRA_the_vineyard_industries: "Vinařské průmysly" # todo: NEW TRANSLATION
+  FRA_the_vineyard_industries_desc: "Francouzský vinařský průmysl má mezinárodní reputaci a významně přispívá k naší měkké moci jako znak dobrého vkusu a štěstí." # todo: NEW TRANSLATION
+  FRA_the_dairy_industry: "Mléčný průmysl" # todo: NEW TRANSLATION
+  FRA_the_dairy_industry_desc: "Kromě produkce kvalitního masa mohou naše stáda také vyprodukovat velké množství mléka, které se v poslední době dostalo do široké škály výrobků." # todo: NEW TRANSLATION
+  FRA_wheat_industry: "Průmysl pšenice" # todo: NEW TRANSLATION
+  FRA_wheat_industry_desc: "Pšenice je jedním z nejdůležitějších zdrojů v potravinově závislém světě, a proto máme štěstí, že zde dobře roste." # todo: NEW TRANSLATION
+  FRA_mechanized_agriculture: "Mechanizované zemědělství" # todo: NEW TRANSLATION
+  FRA_mechanized_agriculture_desc: "Na počátku tohoto nového milénia musíme posílit naši schopnost efektivně využívat naše půdy a vývoj těžkých vozidel nám s tím může pomoci." # todo: NEW TRANSLATION
+  FRA_packaging_industries: "Průmysl balení" # todo: NEW TRANSLATION
+  FRA_packaging_industries_desc: "Průmysl balení je důležitou součástí našeho projektu potravinové nezávislosti a zajišťuje, že naše výrobky jsou baleny do pevných, ekologických a francouzsky vyráběných obalů." # todo: NEW TRANSLATION
+  FRA_agriculture_industry: "Zemědělský průmysl" # todo: NEW TRANSLATION
+  FRA_agriculture_industry_desc: "Úspěšně jsme zajistili potravinovou soběstačnost naší země v rozvíjejícím se světě." # todo: NEW TRANSLATION
+  FRA_improved_railways: "Vylepšené železnice" # todo: NEW TRANSLATION
+  FRA_improved_railways_desc: "Železnice je efektivní prostředek propojení metropolí a menších měst a měli bychom tuto oblast rozšířit vývojem s ní souvisejících technologií." # todo: NEW TRANSLATION
+  FRA_focus_on_rails: "Zaměření na železnici" # todo: NEW TRANSLATION
+  FRA_focus_on_rails_desc: "Nyní, když jsme vylepšili naše komunikační kanály, můžeme přidat více vozidel, která je budou používat." # todo: NEW TRANSLATION
+  FRA_high_speed_rail_lines: "Vysokorychlostní železniční tratě" # todo: NEW TRANSLATION
+  FRA_high_speed_rail_lines_desc: "S rozvojem a masovou výstavbou vysokorychlostních tratí jsme nyní schopni propojit naši zemi jak po vnitrozemí, tak tam, kde existují železnice v Evropě." # todo: NEW TRANSLATION
+  FRA_luxury_goods: "Luxusní zboží" # todo: NEW TRANSLATION
+  FRA_luxury_goods_desc: "Průmysl luxusního zboží je doménou soukromých francouzských firem, jako jsou Louis Vuitton, Chanel a Hermès, které jsou známé po celém světě. Možná investicí do tohoto sektoru bychom mohli těžit z jeho dopadů na naši ekonomiku." # todo: NEW TRANSLATION
+  FRA_tourism_industry: "Průmysl cestovního ruchu" # todo: NEW TRANSLATION
+  FRA_tourism_industry_desc: "Od roku 1990 je Francie světovou jedničkou v turistice, jako destinace, což již značně prospívá naší ekonomice a naší „měkké síle“, ale masová přítomnost turistů je problémem ve velkých městech. Možná bychom měli na tom pracovat." # todo: NEW TRANSLATION
+  FRA_the_gorgeous_coasts: "Okouzlující pobřeží" # todo: NEW TRANSLATION
+  FRA_the_gorgeous_coasts_desc: "Francie je velká pobřežní země s přístupem ke třem různým mořím a s impozantními krajinami kolem nich. Měli bychom tyto ráje zpřístupnit, aby turisté proudili mimo města." # todo: NEW TRANSLATION
+  FRA_the_spaces_between: "Prostory mezi" # todo: NEW TRANSLATION
+  FRA_the_spaces_between_desc: "Naše země je velmi krásná, ale velmi prázdná. Existuje mnoho vnitrozemských oblastí s obrovským historickým významem a identitou pro naši zemi a možná rozvojem těchto míst bychom mohli získat prospěch." # todo: NEW TRANSLATION
+  FRA_beaches_of_france: "Pláže Francie" # todo: NEW TRANSLATION
+  FRA_beaches_of_france_desc: "Podařilo se nám přilákat nové turisty a rozšířit je po naší krásné zemi v udržitelném rytmu. Tento sektor, který neustále zaměstnává lidi, bude naší slávou a naší budoucností." # todo: NEW TRANSLATION
+  FRA_energy_sector: "Energetický sektor" # todo: NEW TRANSLATION
+  FRA_energy_sector_desc: "Naše země dlouhodobě buduje svou energetickou nezávislost, která se primárně opírá o intenzivní využívání jaderné energie. Již dlouho je nezávislá na ostatních národech a budoucnost naší velké země spočívá v využívání jaderné energie. Investice a výzkum v oblasti jaderných reaktorů a nahrazení starých reaktorů účinnějšími zajistí, že Francie bude i nadále držet krok s těmi, kteří si ji chtějí zpochytnout." # todo: NEW TRANSLATION
+  FRA_renewable_investments: "Investice do obnovitelných zdrojů" # todo: NEW TRANSLATION
+  FRA_renewable_investments_desc: "Naše země je protkaná několika významnými řekami, což je zdroj energie, který vydrží tak dlouho, jak bude na Zemi voda. Můžeme začít stavět hráze, abychom využili výhod vodních toků naší země." # todo: NEW TRANSLATION
+  FRA_solar_investments: "Solární investice" # todo: NEW TRANSLATION
+  FRA_solar_investments_desc: "V některých částech Francie svítí slunce jasně, a znovu je to nevyčerpatelný, i když nákladný, zdroj energie. Abychom zajistili naši budoucí energetickou autonomii, musíme diverzifikovat." # todo: NEW TRANSLATION
+  FRA_wind_investments: "Investice do větrné energie" # todo: NEW TRANSLATION
+  FRA_wind_investments_desc: "Pro doplnění naší řady obnovitelných energií by bylo zajímavé pořídit větrné turbíny, protože vítr fouká navždy." # todo: NEW TRANSLATION
+  FRA_the_northern_reactors: "Severní reaktory" # todo: NEW TRANSLATION
+  FRA_the_northern_reactors_desc: "Ačkoli již jsme velkými uživateli jaderné energie, musíme pracovat na konsolidaci tohoto sektoru, udržovat reaktory aktuální a zlepšovat jejich komponenty. Můžeme začít výstavbou dvou plně modernizovaných reaktorů." # todo: NEW TRANSLATION
+  FRA_improved_nuclear_waste_management: "Vylepšené nakládání s jaderným odpadem" # todo: NEW TRANSLATION
+  FRA_improved_nuclear_waste_management_desc: "Osud jaderného odpadu vrhá na tuto energii budoucnosti ponurý stín, proto musíme zajistit, že bude nakládáno tak, aby se vyhnulo budoucím katastrofám." # todo: NEW TRANSLATION
+  FRA_expanded_enrichment_facilities: "Rozšířené obohacovací zařízení" # todo: NEW TRANSLATION
+  FRA_expanded_enrichment_facilities_desc: "Proces jaderného obohacování vyžaduje velké množství struktur, pokud chceme zajistit naši energetickou soběstačnost." # todo: NEW TRANSLATION
+  FRA_the_new_energy_dawn: "Nový energetický úsvit" # todo: NEW TRANSLATION
+  FRA_the_new_energy_dawn_desc: "Úspěšně jsme zajistili naši budoucnost ve světě závislém na energii a nyní jsme opět v pozici prodávat naši energii našim spojencům." # todo: NEW TRANSLATION
+  FRA_french_armed_forces: "Francouzské ozbrojené síly" # todo: NEW TRANSLATION
+  FRA_french_armed_forces_desc: "Po většinu francouzské historie byly Francouzské ozbrojené síly zdrojem nesmírné hrdosti naší země. Armády, které pochodovaly proti Angličanům, aby obhájily naše právo na francouzského krále, nebo muži, kteří sloužili pod Napoleonem. V každém případě je vojenství jednou z našich předností, která nás odlišuje od ostatních." # todo: NEW TRANSLATION
+  FRA_the_french_army: "Armée de Terre" # todo: NEW TRANSLATION
+  FRA_the_french_army_desc: "'Armée de Terre', neboli Francouzská armáda, je jednou ze tří klíčových větví naší struktury ozbrojených sil. Úspěchy naší armády jsou po celém světě chváleny. Vojenské síly by měly být nadále ctěny a rozšiřovány, aby naše země lépe postupovala vpřed." # todo: NEW TRANSLATION
+  FRA_the_french_air_force: "Armée de l'Air" # todo: NEW TRANSLATION
+  FRA_the_french_air_force_desc: "Naše letectvo je jedním z nejstarších na světě. První oddíl francouzské letecké síly byl založen v roce 1909 jako křídlo francouzské armády. Nyní jde o samostatný sbor a vyvážíme jeden z nejlepších leteckých prostředků na světě." # todo: NEW TRANSLATION
+  FRA_french_navy: "Marine Nationale" # todo: NEW TRANSLATION
+  FRA_french_navy_desc: "Francouzské námořnictvo pomáhalo prosazovat naše ambice a touhy na globální úrovni. Pomohlo založit jednu z největších koloniálních říší, kterou svět kdy viděl, mezi Španělskem a Anglií. Investice do tohoto nám umožní dále působit v zahraničí." # todo: NEW TRANSLATION
+  FRA_amx_leclerc: "AMX Leclerc" # todo: NEW TRANSLATION
+  FRA_amx_leclerc_desc: "AMX Leclerc a jeho nástupci jsou MBT třídy francouzské armády. Jsou robustní a všestranní jako většina moderních tanků. Další investice do jejich vývoje mohou posílit náš obrněný sbor." # todo: NEW TRANSLATION
+  FRA_network_centric_warfare: "Síťově řízená válka" # todo: NEW TRANSLATION
+  FRA_network_centric_warfare_desc: "Podobně jako Američané a další evropské velmoci bychom měli investovat do technicky vyspělejších metod války, abychom se oprostili od používání lidí a začali se spoléhat na technologie. Změna bude nákladná, ale nakonec zachrání více francouzských životů." # todo: NEW TRANSLATION
+  FRA_land_air_coordination: "Koordinace pozemních a vzdušných sil" # todo: NEW TRANSLATION
+  FRA_land_air_coordination_desc: "Koordinace mezi pozemními a vzdušnými silami je klíčová pro každou společnou operační jednotku. Bez pozemních sil nemůžeme posouvat frontu; bez vzdušných sil nemůžeme očekávat účinnou palebnou podporu. Proto bychom měli usilovat o lepší koordinaci mezi vzdušnou válkou a pozemní válkou." # todo: NEW TRANSLATION
+  FRA_the_mirage: "The Mirage" # todo: NEW TRANSLATION
+  FRA_the_mirage_desc: "„The Mirage“ se stalo jedním z ikonických stíhačů pro Francouzské letectvo. Je ve službě v devíti dalších zemích světa a mnohé z nich je dováží." # todo: NEW TRANSLATION
+  FRA_maritime_fighters: "Námořní stíhače" # todo: NEW TRANSLATION
+  FRA_maritime_fighters_desc: "Vylepšení našich letectva i námořnictva budou vyžadovat účinnější námořní bojové stíhače." # todo: NEW TRANSLATION
+  FRA_lafayette_class: "Frégate Légère Furtive" # todo: NEW TRANSLATION
+  FRA_lafayette_class_desc: "Třída Frégate Légère Furtive byla poprvé navržena v pozdních 80. letech k nahrazení stárnoucích torpédoborců. Tato plavidla jsou lehká, víceúčelová a vhodná pro obranné role ve francouzské flotile." # todo: NEW TRANSLATION
+  FRA_de_gaulle_class: "De Gaulle Class" # todo: NEW TRANSLATION
+  FRA_de_gaulle_class_desc: "Letadlová loď třídy De Gaulle je desátou letadlovou lodí určenou pro službu ve francouzském námořnictvu. Je také jedinou letadlovou lodí poháněnou jadernou energií mimo Spojené státy námořnictvo, což z ní činí impozantní a silnou letadlovou loď." # todo: NEW TRANSLATION
+  FRA_amx_10: "AMX-10" # todo: NEW TRANSLATION
+  FRA_amx_10_desc: "AMX-10 je lehký průzkumný tank pro francouzskou armádu. AMX se může pochlubit působivou rychlostí 85 km/h na ideálním terénu. Není třeba dodávat, AMX se pohybuje rychle." # todo: NEW TRANSLATION
+  FRA_vbci: "VBCI" # todo: NEW TRANSLATION
+  FRA_vbci_desc: "VBCI měl nahradit stárnoucí AMX-10P; byl vyvinut a plánován k uvedení do služby do roku 2008 v pozdních 2000. VBCI má mnoho vylepšení, včetně vyšší rychlosti než AMX, s maximální rychlostí 100 km/h. Avšak VBCI obětuje velká děla ve prospěch lehčí výzbroje a vyšších rychlostí." # todo: NEW TRANSLATION
+  FRA_forward_air_bases: "Přední letecké základny" # todo: NEW TRANSLATION
+  FRA_forward_air_bases_desc: "Abychom byli připraveni na jakýkoli výsledek, musíme posílit naše přední letecké základny, abychom zajistili správně načasované ofenzivní nebo defensivní plány." # todo: NEW TRANSLATION
+  FRA_mirage_2000d: "Mirage 2000D" # todo: NEW TRANSLATION
+  FRA_mirage_2000d_desc: "Mirage 2000D je běžný útočný plán, který nám věrně sloužil od svého vzniku. Usilování o budoucí a lepší plány bude jen ctít odkaz Mirage." # todo: NEW TRANSLATION
+  FRA_carrier_fighters: "Rafale Marine" # todo: NEW TRANSLATION
+  FRA_carrier_fighters_desc: "Rafale Marine je carrier verzí běžného stíhače Rafale. Má podobnou konstrukci jako jeho pevninská varianta. Celkově je tento stíhač obrovskou silou v boji o moře." # todo: NEW TRANSLATION
+  FRA_med_naval_bases: "Středozemní námořní základny" # todo: NEW TRANSLATION
+  FRA_med_naval_bases_desc: "Korsika je hlavním územím pro vylepšenou námořní základnu. Je odlehlá od pevniny a zároveň relativně dobře bránitelná." # todo: NEW TRANSLATION
+  FRA_triomphant_class: "Třída Triomphant" # todo: NEW TRANSLATION
+  FRA_triomphant_class_desc: "Ponorky třídy Triomphant měly být náhradou a nyní tvoří základ oceánského křídla jaderného odstrašování." # todo: NEW TRANSLATION
+  FRA_ifv_investment: "Investice do obrněných vozidel pěšího útvaru (IFV)" # todo: NEW TRANSLATION
+  FRA_ifv_investment_desc: "Investice do lepších obrněných vozidel pěšího útvaru (IFV) a dalších lehkých obrněných vozidel by nám mělo pomoci posílit naši armádu a ekonomiku!" # todo: NEW TRANSLATION
+  FRA_national_arms_exports: "Národní vývoz zbraní" # todo: NEW TRANSLATION
+  FRA_national_arms_exports_desc: "Francie se stala významným hráčem v obranním průmyslu a měli bychom tuto cestu nadále rozvíjet." # todo: NEW TRANSLATION
+  FRA_the_space_program: "Vesmírný program" # todo: NEW TRANSLATION
+  FRA_the_space_program_desc: "Vesmír je nová fronta, a nedávno jsme prokázali, že se z vesmíru můžeme učit spoustu skvělých věcí! Stojí za to obnovit důvěru ve náš vesmírný program." # todo: NEW TRANSLATION
+  FRA_floreal_class: "Třída Floreal" # todo: NEW TRANSLATION
+  FRA_floreal_class_desc: "Třída Floreal představuje většinu lehkých fregat ve francouzské flotile. Třída Floreal a její následníci jsou aktivní lodě určené pro víceúčelový boj, zahrnující boj proti plavidlům, námořně-pevninskou podporu, protivzdušnou obranu a středně silný protiponorkový boj." # todo: NEW TRANSLATION
+  FRA_laredoubtable_class: "La Redoubtable Class" # todo: NEW TRANSLATION
+  FRA_laredoubtable_class_desc: "Ponorky třídy La Redoutable patří k některým ze starších ponorek ve službě francouzského námořnictva. Není však možno je podceňovat, protože hrají klíčovou roli v jaderném odstrašování Francie na moři." # todo: NEW TRANSLATION
+  FRA_honour_and_fidelity: "Čest a věrnost" # todo: NEW TRANSLATION
+  FRA_honour_and_fidelity_desc: "Moto Francouzské legie ladí s naší zemí. Lidé jsou spojeni v mateřské zemi, jsme naplněni ctí a statečností a naši odvážní lidé jsou disciplinovaní." # todo: NEW TRANSLATION
+  FRA_cnes_budgeting: "Rozpočet CNES" # todo: NEW TRANSLATION
+  FRA_cnes_budgeting_desc: "CNES je hlavní součástí francouzského letectví a kosmické techniky. Měli bychom umožnit financování CNES, abychom mohli nadále posouvat hranice a zůstat konkurenceschopní v této nové frontě." # todo: NEW TRANSLATION
+  FRA_international_space_research: "Mezinárodní vesmírná iniciativa" # todo: NEW TRANSLATION
+  FRA_international_space_research_desc: "Měli bychom spolupracovat s dalšími zeměmi, například se Spojenými státy, abychom zahájili posun vpřed v této frontě!" # todo: NEW TRANSLATION
+  FRA_kourou_launch_pad: "Kourou startovací plocha" # todo: NEW TRANSLATION
+  FRA_kourou_launch_pad_desc: "Kourou v Francouzské Guyaně je strategickým místem pro starty kosmických lodí a zároveň přímým územím vlastněným námi. Můžeme také uzavírat dohody s jinými kosmickými agenturami o jejich využívání." # todo: NEW TRANSLATION
+  FRA_honour_homeland_valour_discipline: "Čest, Vlast, Odvaha, Disciplína" # todo: NEW TRANSLATION
+  FRA_honour_homeland_valour_discipline_desc: "Moto francouzského námořnictva vyjadřuje víc než jen to, co znamená být v ozbrojených silách. Lidé jsou spojeni s mateřskou zemí, jsme naplněni ctí a odvahou a naši stateční lidé jsou disciplinovaní." # todo: NEW TRANSLATION
+  FRA_french_space: "Francouzský vesmír" # todo: NEW TRANSLATION
+  FRA_french_space_desc: "Naše dominance ve vesmíru, která bude pokračovat, je klíčová pro budoucnost zdrojů a výnosů, jež lze získat na obloze nad námi." # todo: NEW TRANSLATION
+  FRA_peaceful_rise: "Pokojný vzestup" # todo: NEW TRANSLATION
+  FRA_peaceful_rise_desc: "Lidé ve Francii se rozhodli. Nebudeme postupovat starými způsoby. Naše myšlenky budeme šířit pokojně do zahraničí." # todo: NEW TRANSLATION
+  FRA_aggressive_expansionism: "Agresivní expanze" # todo: NEW TRANSLATION
+  FRA_aggressive_expansionism_desc: "Musíme se připravit na svět a konflikt, který brzy vypukne." # todo: NEW TRANSLATION
+  FRA_stage_caribbean: "Stage: Caribbean" # todo: NEW TRANSLATION
+  FRA_stage_caribbean_desc: "Ačkoliv jsme nikdy neměli silnou přítomnost v Karibiku, území, které si stále udržujeme a které se snažíme získat, bude o to cennější." # todo: NEW TRANSLATION
+  FRA_stage_africa: "Stage: Africa" # todo: NEW TRANSLATION
+  FRA_stage_africa_desc: "V určitém okamžiku byl kontinent Afrika zhruba 45 % pod naší kontrolou. Měli bychom vrátit část kontroly do francouzské sféry." # todo: NEW TRANSLATION
+  FRA_stage_americas: "Stage: Americas" # todo: NEW TRANSLATION
+  FRA_stage_americas_desc: "Ameriky byly zvláště důležité v našem raném koloniálním impériu. Louisiana a Quebec byly pilíři našeho impéria." # todo: NEW TRANSLATION
+  FRA_stage_europe: "Stage: Europe" # todo: NEW TRANSLATION
+  FRA_stage_europe_desc: "Evropa byla vždy zajímavá pro francouzskou politiku. Dříve jsme dobyli většinu kontinentu. Dříve jsme vládli nad velkou částí pevninské Evropy. Francouzská nadvláda nad těmito zeměmi bude znovu realizována." # todo: NEW TRANSLATION
+  FRA_stage_asia: "Stage: Asia" # todo: NEW TRANSLATION
+  FRA_stage_asia_desc: "Asie byla vždy pro nás náročná na investice. Vlastnili jsme porty v Indii, Indočíně a na mnoha menších ostrovech v Pacifiku. Přesto jsou lidé a zdroje zde připravené k získání o to atraktivnější." # todo: NEW TRANSLATION
+  FRA_stage_oceania: "Stage: Oceania" # todo: NEW TRANSLATION
+  FRA_stage_oceania_desc: "Francouzský vliv v Oceánii je vzácný a roztroušený." # todo: NEW TRANSLATION
+  FRA_the_dominican: "Dominikánská republika & Haiti" # todo: NEW TRANSLATION
+  FRA_the_dominican_desc: "Ostrov, na kterém obě země leží, má strategický i vysoce strategický význam. Může nás posunout do Louisiany, nebo do karibských států." # todo: NEW TRANSLATION
+  FRA_island_bases: "Ostrovní základny" # todo: NEW TRANSLATION
+  FRA_island_bases_desc: "Ostrovy v jižovýchodní Karibiku, které drží Francie, jsou také užitečné pro zajištění operací v Americe." # todo: NEW TRANSLATION
+  FRA_north_africa: "Severní Afrika" # todo: NEW TRANSLATION
+  FRA_north_africa_desc: "Maghreb byl kdysi pod vládou Francie. Maroko, Alžírsko a Tunisko složily přísahu věrnosti Francouzskému císařství!" # todo: NEW TRANSLATION
+  FRA_the_horn: "Roh Afriky" # todo: NEW TRANSLATION
+  FRA_the_horn_desc: "Roh Afriky byl poněkud opomíjen ve prospěch jiných regionů. Návrat Djibouti do našich kolonií zlepší naše projekční možnosti." # todo: NEW TRANSLATION
+  FRA_quebec: "Québec" # todo: NEW TRANSLATION
+  FRA_quebec_desc: "Québec byl jedním z největších úspěchů v Novém světě. Představoval novou formu kolonialismu, která zahrnovala spolupráci s domorodci a ne násilné zabavování jejich zemí. Domorodé obyvatelstvo bylo pro kolonisty příliš cenné, než aby bylo ztraceno." # todo: NEW TRANSLATION
+  FRA_piedmont: "Piemont" # todo: NEW TRANSLATION
+  FRA_piedmont_desc: "Piemont není nutně francouzský. Avšak tato oblast leží na druhé straně franko-italské hranice. Království Sardinie-Piemont bylo kdysi klientským státem pod Napoleonem. Je možné obnovit tuto spolupráci." # todo: NEW TRANSLATION
+  FRA_the_benelux: "The Benelux" # todo: NEW TRANSLATION
+  FRA_the_benelux_desc: "Nízké země či Benelux byly vždy místem konfliktu pro Evropu. Pád burgundského krále, rasový rozpor v Belgii mezi Flamandy a Valonií. Je to i sídlo EU. Proto je pro nás strategické zde prosadit a získat zpět jistý podíl kontroly." # todo: NEW TRANSLATION
+  FRA_indian_ocean_bases: "Indian Ocean Bases" # todo: NEW TRANSLATION
+  FRA_indian_ocean_bases_desc: "Indický oceán je obrovský. Zvýšení počtu francouzských základen by nám mělo poskytnout taktickou výhodu východní Afriky i jižní Asie." # todo: NEW TRANSLATION
+  FRA_french_indochina: "French Indochina" # todo: NEW TRANSLATION
+  FRA_french_indochina_desc: "French Indochina byla vrcholem naší východní expanze. Dříve jsme vlastnili Kambodžu, Vietnam a Laos. Nyní je čas znovu vybudovat vliv a získat sílu v Indočíně." # todo: NEW TRANSLATION
+  FRA_new_caledonia_base: "New Caledonia Bases" # todo: NEW TRANSLATION
+  FRA_new_caledonia_base_desc: "Nová Kaledonie není nejprestižnějším místem k vlastnictví. Můžeme ji však využít pro lepší pozici. Zlepšením místních základen bychom mohli získat určitou výhodu v regionu." # todo: NEW TRANSLATION
+  FRA_west_africa: "Západní Afrika" # todo: NEW TRANSLATION
+  FRA_west_africa_desc: "Francouzský vliv v Západní Africe zůstává nadmíru průkazný. Většina zemí, které bývaly našimi koloniemi, používá francouzštinu jako oficiální jazyk. Mnoho dalších po světě ji používá jako druhý jazyk." # todo: NEW TRANSLATION
+  FRA_subsahara: "Subsaharská Afrika" # todo: NEW TRANSLATION
+  FRA_subsahara_desc: "Subsaharská Afrika byla důležitá pro svá strategická zásoby surovin a další zdroje. Měli bychom pokračovat v postupu a zlepšovat naši kontrolu nad regionem." # todo: NEW TRANSLATION
+  FRA_lousiana: "Louisiana" # todo: NEW TRANSLATION
+  FRA_lousiana_desc: "Louisiana je jedním z mála míst, kde se zrodila kreolská kultura. Je to směs francouzštiny a koření a něčeho dalšího hezkého, ale je to centrum francouzského zahraničního vlivu." # todo: NEW TRANSLATION
+  FRA_the_iberans: "Iberové" # todo: NEW TRANSLATION
+  FRA_the_iberans_desc: "Iberové kdysi složili věrnost Francii a španělská dynastie je Francouzská. Měli bychom nadále rozšiřovat náš vliv, abychom posílili regiony blízko domova." # todo: NEW TRANSLATION
+  FRA_mountain_boys: "Horská družina" # todo: NEW TRANSLATION
+  FRA_mountain_boys_desc: "Švýcarsko je naším dlouholetým spojencem a přítelem. Západní část země mluví převážně francouzsky, což je skvělé místo pro zabezpečení našich hranic před vlivem ostatních. Dále bychom měli rozšířit vliv a kontrolu i do Rakouska. Horská družina nás nebude odolávat Francouzské moci!" # todo: NEW TRANSLATION
+  FRA_german_goliath: "Německý Goliáš" # todo: NEW TRANSLATION
+  FRA_german_goliath_desc: "Němci nás porazili ve 2. světové válce. Nyní si myslí, že oni jsou ti, kdo mají určovat, co se děje v Evropě. Německý Goliáš musí být zastaven." # todo: NEW TRANSLATION
+  FRA_russian_bear: "Ruský medvěd" # todo: NEW TRANSLATION
+  FRA_russian_bear_desc: "Ruský medvěd byl symbolem naší porážky od Napoleonské éry. Je čas znovu získat slávu pro Francii a navrátit Rusům myšlenku kapitulace!" # todo: NEW TRANSLATION
+  FRA_francosphere: "Francosféra" # todo: NEW TRANSLATION
+  FRA_francosphere_desc: "Francie již od konce druhé světové války praktikovala metodu neokoloniálního vlivu. Ačkoliv nepřímo neokupuje území dalších národů, Francie bývala loutkou, která tahala za provázky ve svůj prospěch. S počátkem jednadvacátého století je mnoho zemí připraveno snížit svou závislost na Paříži jako zdroji vedení. Proto je nyní čas, aby Francie jednala podle toho." # todo: NEW TRANSLATION
+  FRA_the_levant_problem: "Problém Levantu" # todo: NEW TRANSLATION
+  FRA_the_levant_problem_desc: "Levant je často přehlíženou částí Francosféry. Krajina kdysi poskytovala cenné obilí, ovoce a olej Francouzskému impériu." # todo: NEW TRANSLATION
+  FRA_antagonize_syria: "Antagonizovat Sýrii" # todo: NEW TRANSLATION
+  FRA_antagonize_syria_desc: "Sýrie pod vládou al‑Asasů učinila příliš mnoho špatných rozhodnutí. Měli bychom destabilizovat režim a pomoci směrovat Sýrii k naší ideologii a sesadit diktátory." # todo: NEW TRANSLATION
+  FRA_supporting_armenia: "Podpora Arménie" # todo: NEW TRANSLATION
+  FRA_supporting_armenia_desc: "Arménie je nováčkem ve francofonní sféře, ale i tak je to strategický spojenec. Boje této země nám hodně připomínají naše vlastní a musíme Arménii v jejích bojích v Kárabachu podpořit." # todo: NEW TRANSLATION
+  FRA_anti_assad_regime_message: "Zpráva proti režimu Asada" # todo: NEW TRANSLATION
+  FRA_anti_assad_regime_message_desc: "Ačkoliv jsme vůči Sýrii byli obecně antagonističtí, nastal čas být zcela otevření a už se nevyhýbáme tomu, co skutečně myslíme. Sýrie pod Asadovou vládou zhoršuje situaci a musíme nadále vyjadřovat svůj odpor vůči al-Asadům." # todo: NEW TRANSLATION
+  FRA_escalation_from_the_damascus_spring: "Eskalace Damaského jara" # todo: NEW TRANSLATION
+  FRA_escalation_from_the_damascus_spring_desc: "Damaské jaro se rozhořelo v plné síle. Nyní je klíčové, abychom nadále podporovali pro-demokratické proudy v Sýrii a po celém Středním východě." # todo: NEW TRANSLATION
+  FRA_collaboration_with_the_fsa: "Spolupráce se syrskými rebely" # todo: NEW TRANSLATION
+  FRA_collaboration_with_the_fsa_desc: "Rebelové budou potřebovat značné množství zdrojů, aby mohli čelit al-Asadovým. Měli bychom prozkoumat naše možnosti a to, co můžeme této skupině poskytnout, která povede Sýrii vpřed." # todo: NEW TRANSLATION
+  FRA_oil_and_gas_investments: "Investice do ropy a zemního plynu" # todo: NEW TRANSLATION
+  FRA_oil_and_gas_investments_desc: "Levánt má zvlášť značné zásoby ropy a zemního plynu. Bude navždy výhodné investovat prostředky a personál do ropných a plynových odvětví v regionu." # todo: NEW TRANSLATION
+  FRA_reminder_of_the_taif_agreement: "Připomenutí Taífské dohody" # todo: NEW TRANSLATION
+  FRA_reminder_of_the_taif_agreement_desc: "Taífská dohoda, oficiálně známá jako Národní dohoda o smíření, byla dosažena k poskytnutí rámcové dohody, která znamená konec Libanonské občanské války a nastolení normality a konce občanské války. Musíme Libanon a Blízký východ připomenout Taífskou dohodu a hledat způsoby, jak ukončit Hizballáh." # todo: NEW TRANSLATION
+  FRA_root_out_hezbollah: "Vykořenit Hizballáh" # todo: NEW TRANSLATION
+  FRA_root_out_hezbollah_desc: "Hizballáh je přímým útokem na Libanon a Taífskou dohodu a mír v regionu. Vykořenit Hizballáh je jedním z prvních kroků k pomoci nastolit mír na Blízkém Východě." # todo: NEW TRANSLATION
+  FRA_agriculture_works_in_the_levant: "Zemědělství na Levantu" # todo: NEW TRANSLATION
+  FRA_agriculture_works_in_the_levant_desc: "Vyplatí se usilovat o různé druhy zemědělských investic po Levantu. Na rozdíl od většiny zahraničních představ o regionu je oblast připravena na potenciál. Mnoho plodin lze pěstovat na bujných pobřežích Levantu nebo v říčních údolích Sýrie. Měli bychom prozkoumat naše investice v regionu a pomoci využít zemědělský potenciál Levantu." # todo: NEW TRANSLATION
+  FRA_francafrique: "Françafrique" # todo: NEW TRANSLATION
+  FRA_francafrique_desc: "Afrika bývala jedním ze sloupů našeho bývalého koloniálního impéria. Národ bývalé Françafrique musí nadále následovat naše vedení do nového století. Měli bychom zkoumat nejlepší způsob, jak jim pomoci a udržet náš vliv v regionu." # todo: NEW TRANSLATION
+  FRA_francophone_solidarity: "Francofonní solidarita" # todo: NEW TRANSLATION
+  FRA_francophone_solidarity_desc: "Tato iniciativa měla za cíl prosazovat francouzsky mluvenou kulturu a francouzské hodnoty mezi frankofonními národy. Iniciativa zahrnovala větší přístup ke vzdělání pro země s nižšími příjmy a ekonomickou podporu pro rozvíjející se země, s nadějí, že získají a rozvinou svůj vliv, který si udržely od doby dekolonizace. Zejména v afrických zemích Francie aktivně podporovala partnerství mezi africkými národy, která udržovala její vliv a generovala výnosy." # todo: NEW TRANSLATION
+  FRA_continue_cold_war_mentality: "Pokračovat v mentalitě studené války" # todo: NEW TRANSLATION
+  FRA_continue_cold_war_mentality_desc: "Mnozí z veřejnosti i globální scény kolem nás začínají překračovat meze mezinárodní moci. Musíme udržet náš status vedoucí světové velmoci za každou cenu. Návrat k starému pohledu nebude populární v mezinárodní komunitě, ale kroky musí být učiněny; horko časem vychladne." # todo: NEW TRANSLATION
+  FRA_NEPAD_development: "Rozvoj NEPAD" # todo: NEW TRANSLATION
+  FRA_NEPAD_development_desc: "Nové partnerství pro Africký rozvoj (NEPAD) je ekonomický rozvojový program vypracovaný Africkou unií ve spolupráci s partnery z Evropské unie, Číny, Japonska a dalších členů G8. Zvláště nás zajímá rozvoj NEPAD a zaujali jsme klíčové postavení jako hlavní finanční a politický podporovatel ze strany Evropské unie. Měli bychom hledat způsoby, jak rozšířit rozvoj a zvýšit financování a podporu pro tento program, aby pomohl celé Africe." # todo: NEW TRANSLATION
+  FRA_CFA_Reforms: "CFA Reforms" # todo: NEW TRANSLATION
+  FRA_CFA_Reforms_desc: "Řešení CFA je jednou z našich největších starostí. S postupem času vliv klesá, jsme nuceni k reformám, abychom udrželi neokoloniální impérium naživu. Některé reformy směřují k větší autonomii v bankovním systému. Snazší použití měnových prostředků a výměnných kontrol." # todo: NEW TRANSLATION
+  FRA_introduce_the_eco: "Zavést ECO" # todo: NEW TRANSLATION
+  FRA_introduce_the_eco_desc: "Musíme odpojit CFA Franc od naší moci a odstranit závislost bývalých kolonií na nás. ECO je navrhovaná nová měna, která by měla umožnit západoafrickým národům určitou míru ekonomické autonomie a spolupráce mezi novými národy, kteří ji přijali. Měli bychom je podpořit v jejich snaze vytvořit novou společnou měnu a případně přesvědčit všechny bývalé francouzské africké státy, aby ji používaly." # todo: NEW TRANSLATION
+  FRA_unrestricted_subjugation: "Neomezené podmanění" # todo: NEW TRANSLATION
+  FRA_unrestricted_subjugation_desc: "Naše činy dosud spočívaly jen na vykořisťování a těžbě. Nyní bychom měli zvážit náš postoj k tomuto postoji a případně přehodnotit náš diplomatický postoj a vstoupit do nové fáze vlády a kontroly. Tato volba nebude populární, ale je učiněna jen v zájmu národa a jeho globálního postavení." # todo: NEW TRANSLATION
+  FRA_intervention_in_africa: "Françafrique Interventionism" # todo: NEW TRANSLATION
+  FRA_intervention_in_africa_desc: "Naše bývalé koloniální državy potřebují pomoc. Nyní je čas následovat další politiku intervencí v regionu a poskytovat vojenskou pomoc tam, kde je potřeba." # todo: NEW TRANSLATION
+  FRA_sahel_region: "Sahel Region" # todo: NEW TRANSLATION
+  FRA_sahel_region_desc: "Region Sahelu představuje perspektivu pro těžbu a získávání nerostných surovin, a frontu pro francouzskou geopolitiku a korporátní zájmy. Nyní, s rostoucím extrémismem v novém tisíciletí, musíme podniknout kroky k zajištění bezpečnosti našeho domova. V regionu Sahel se začíná vyvíjet hrozba, která ohrožuje francouzská aktiva v regionu. Musíme převzít iniciativu a zajistit ochranu a potlačit tuto hrozbu za jakoukoli cenu." # todo: NEW TRANSLATION
+  FRA_afrique_centrale: "Afrique Centrale" # todo: NEW TRANSLATION
+  FRA_afrique_centrale_desc: "Srdce a duše Afriky, pokryté nesčetnými přírodními krásami a ohromným množstvím zdrojů a potenciálu. Tato oblast dosud nebyla plně využita." # todo: NEW TRANSLATION
+  FRA_CAR_intervention: "Opération Sangaris" # todo: NEW TRANSLATION
+  FRA_CAR_intervention_desc: "Opération Sangaris byl název navrhované operace a intervence v občanské válce Centrální Africké republiky." # todo: NEW TRANSLATION
+  FRA_operation_artemis: "Opération Artemis" # todo: NEW TRANSLATION
+  FRA_operation_artemis_desc: "S Druhou konžskou válkou v plném proudu vedla Francie a další evropské země autonomní intervenci ve východní části země po stažení ugandských sil. Označilo to zásadní zlom v zahraniční politice Evropské unie a ve vojenských společných operacích." # todo: NEW TRANSLATION
+  FRA_resources_prospects: "Zdroje a perspektivy" # todo: NEW TRANSLATION
+  FRA_resources_prospects_desc: "Přirozeně bohaté regiony subsaharské Afriky jsou plné nerostných surovin a s Francií již navázána řada spolupráce, která na tento potenciál využívá výhody. S rostoucí poptávkou po těchto zdrojích musíme podniknout iniciativu a investovat do našich zahraničních aktiv, abychom získali pevnou pozici a tu si udrželi." # todo: NEW TRANSLATION
+  FRA_oef_hoa: "OEF - Roh Afrika" # todo: NEW TRANSLATION
+  FRA_oef_hoa_desc: "Občanská válka v Somálsku trvá už příliš dlouho. Musíme zasáhnout ve prospěch somálské vlády, abychom jí pomohli znovu získat zemi sužovanou válkou a podpořit somálskou vládu v jejích snahách o stabilizaci země." # todo: NEW TRANSLATION
+  FRA_operation_licorne: "Opération Licorne" # todo: NEW TRANSLATION
+  FRA_operation_licorne_desc: "Opération Licorne je označení pro francouzské mírové síly nasazené do Pobřeží slonoviny v reakci na občanskou válku mezi Forces Nouvelles de Côte d'Ivoire a Forces Armées de Côte d'Ivoire." # todo: NEW TRANSLATION
+  FRA_the_second_ivory_coast_civil_war: "The Second Ivorian Civil War" # todo: NEW TRANSLATION
+  FRA_the_second_ivory_coast_civil_war_desc: "Druhá občanská válka na Pobřeží slonoviny byla druhým ozbrojeným konfliktem vyvolaným stoupenci Laurenta Gbagba a prezidenta-volba Alassane Ouattary. Konflikt mezi nimi vygradoval do plnohodnotného konfliktu. Měli bychom zasáhnout, abychom pomohli stabilizovat situaci dříve, než se z ní stane nekontrolovatelný konflikt." # todo: NEW TRANSLATION
+  FRA_Industrial_expansion: "Průmyslová Expanzie" # todo: NEW TRANSLATION
+  FRA_Industrial_expansion_desc: "Naše bývalé koloniální země zoufale potřebují ekonomické oživení. Převážně agrární společnosti by uvítaly malý impuls do svých ekonomik vložením investičních prostředků do regionu." # todo: NEW TRANSLATION
+  FRA_educational_development: "Vzdělávací rozvoj" # todo: NEW TRANSLATION
+  FRA_educational_development_desc: "Poskytování prostředků na vzdělání v našich bývalých koloniích pomůže jejich obyvatelstvu stát se vzdělanějšími a tím pádem zvýšit jejich produktivitu." # todo: NEW TRANSLATION
+  FRA_operation_serval: "Opération Serval" # todo: NEW TRANSLATION
+  FRA_operation_serval_desc: "Opération Serval je označení pro sérii francouzských a malijských intervencí během Mali občanské války jako první fáze konfliktu proti islámským extremistům v regionu." # todo: NEW TRANSLATION
+  FRA_French_pillar_of_counterterrorism: "Pilíř boje proti terorismu" # todo: NEW TRANSLATION
+  FRA_French_pillar_of_counterterrorism_desc: "Naše protiteroristické a protiextremistické síly jsou světově proslulé a stali jsme se pilířem a tváří boje proti terorismu po celém světě." # todo: NEW TRANSLATION
+  FRA_french_pillar_of_counterterrorism_tt: "Odesílání §YZahraničních poradců§! do zemí pro §Yústely boje proti terorismu§! naši poradci zdvojnásobí bonus poskytovaný §Yporadované zemi§!." # todo: NEW TRANSLATION
+  FRA_the_french_foreign_legion: "Francouzská cizinecká legie" # todo: NEW TRANSLATION
+  FRA_the_french_foreign_legion_desc: "Francouzská cizinecká legie je elitní útvar francouzské armády, který zahrnuje řadu specializací. Zřízena roku 1831 tehdejším králem Ludvíkem Filipem, měla poskytnout zahraničním rekrutům místo mezi francouzskými silami. Legie je tedy mnohonárodnostní a multikulturní bojová síla, která je po světě proslulá pro disciplínu a duch soudržnosti." # todo: NEW TRANSLATION
+  FRA_sahel_support_initiative: "Iniciativa podpory Sahelu" # todo: NEW TRANSLATION
+  FRA_sahel_support_initiative_desc: "Vojenské síly Sahelu bývají často nedostatečně vyzbrojené. Bylo by možné přerozdělit některé zdroje jejich směrem, a to buď finančně, nebo vojensky, aby se posílila naše pozice v Africe." # todo: NEW TRANSLATION
+  FRA_sahel_officer_training: "Důstojnické školení Sahelu" # todo: NEW TRANSLATION
+  FRA_sahel_officer_training_desc: "Ozbrojené síly národů Sahelu by potřebovaly další trénink, aby se z nich stala efektivnější bojová síla. Měli bychom zvažovat investice do ozbrojených sil našich spojenců v regionu a zlepšit úroveň jejich důstojníků." # todo: NEW TRANSLATION
+  FRA_takuba_task_force: "Takuba úderná skupina" # todo: NEW TRANSLATION
+  FRA_takuba_task_force_desc: "Takuba úderná skupina byla dalším souborem společných operací mezi francouzskými, malijskými, unijními a americkými silami, aby se pokračovalo ve střetu s islamistickými extremisty během Malijské občanské války. Je to strategický cíl, abychom znovu zahájili naši intervenci v Mali a zajistili stabilitu v regionu." # todo: NEW TRANSLATION
+  FRA_haitian_coup: "Haitský puč" # todo: NEW TRANSLATION
+  FRA_haitian_coup_desc: "Jean-Bertrand Aristide zůstává trnem v oku naší země. Požadavek na odškodnění je ohavný. Může být v našem zájmu hledat Haiti nové řízení, jakousi novou správu." # todo: NEW TRANSLATION
+  FRA_repeal_the_ordiance: "Zrušit nařízení" # todo: NEW TRANSLATION
+  FRA_repeal_the_ordiance_desc: "Nařízení Crro Charles X z roku 1825 by mělo být zrušeno, aby se normalizovaly haitsko-francouzské vztahy. Nařízení z roku 1825 je příčinou a důvodem plateb za haitskou nezávislost, které probíhaly téměř tři čtvrtě století. Je čas toto staré legislativní dílo zrušit jako jeden z našich prvních kroků ke smíření." # todo: NEW TRANSLATION
+  FRA_senegalese_civil_war: "Senegalská občanská válka" # todo: NEW TRANSLATION
+  FRA_senegalese_civil_war_desc: "Senegalská občanská válka vypukla jako lokalizovaný konflikt s nedávnými volbami. Senegal je důležitý jako pobřežní země pro dopravu materiálu z vnitrozemí a severu do Francie. Zásah v regionu je nezbytný pro pokračování našich ambicí v Africe." # todo: NEW TRANSLATION
+  FRA_returning_to_indochina: "Návrat do Indočíny" # todo: NEW TRANSLATION
+  FRA_returning_to_indochina_desc: "Indočína bývala vrcholem francouzských rozsáhlých východních kolonií až do vietnamských bojů za nezávislost. Je načase se vrátit do Indočíny, možná ne jako kolonizátoři, ale tentokrát jako přátelé. Naše zájmy v regionu, s rostoucí Čínou, ji označují za oblast nejvyšší důležitosti." # todo: NEW TRANSLATION
+  FRA_former_indian_colonial: "Záležitosti Indického oceánu" # todo: NEW TRANSLATION
+  FRA_former_indian_colonial_desc: "Francouzská držba v Indickém oceánu a francouzsky mluvící země v Indickém oceánu jsou strategicky důležité pro potírání a countering nežádoucího zahraničního vlivu. Je načase se připravit na návrat do těchto strategicky důležitých regionů a přinést s sebou investice a další strategické zlepšení." # todo: NEW TRANSLATION
+  France_news.97.t: "France Endorses Egalité." # todo: NEW TRANSLATION
+  France_news.97.d1: "Hledající novou vnitřní i vnější věrnost mateřské zemi, francouzský prezident [FRA.GetLeader] oznámil levicový posun v ekonomické a zahraniční politice. Zdůraznění Egalité nad dvěma dalšími francouzskými hesly, univerzální rovnost všech francouzských občanů bude brzy dosažena - podle vlády." # todo: NEW TRANSLATION
+  France_news.97.d2: "Hledající novou vnitřní i vnější věrnost mateřské zemi, francouzský prezident [FRA.GetLeader] oznámil levicový posun v ekonomické a zahraniční politice. Zdůraznění Egalité nad dvěma dalšími francouzskými hesly, univerzální rovnost všech francouzských občanů bude brzy dosažena - podle vlády. Francouzská vláda a naše země sdílejí podobný pohled na svět. Komunisté a levicoví z celého světa se spojí v naší věci, aby přivedli dělníky nad jejich pouta." # todo: NEW TRANSLATION
+  France_news.97.o1: "Vive la France!" # todo: NEW TRANSLATION
+  France_news.97.o2: "Dobré pro ně." # todo: NEW TRANSLATION
+  France_news.97.o3: "Zajímavé" # todo: NEW TRANSLATION
+  France_news.98.t: "France Endorses Fraternité." # todo: NEW TRANSLATION
+  France_news.98.d: "Francie nebyla spokojena s politickými postoji na světě v poslední době, které byly bezcitné a degenerované. Francouzský prezident [FRA.GetLeader] učinil jasnou novou autoritářskou linii v politikách a rétorice.\n\n[FRA.GetLeader] slibuje, že to povede k bratrství mezi bratry a sestrami pod francouzskou vlajkou - ale mezinárodní pozorovatelé jsou skeptičtí. Slovy irského novináře: 'Demokracie by neměla potřebovat diktátora, aby byla více demokratická.'" # todo: NEW TRANSLATION
+  France_news.98.o1: "Ať žije Francie!" # todo: NEW TRANSLATION
+  France_news.98.o2: "Tak." # todo: NEW TRANSLATION
+  France_news.98.o3: "Posun k pravici" # todo: NEW TRANSLATION
+  France_news.99.t1: "Návrat krále" # todo: NEW TRANSLATION
+  France_news.99.t2: "Návrat císaře" # todo: NEW TRANSLATION
+  France_news.99.d1: "Královský dům Bourboků se vrátil do královského sídla ve Versailles, které kdysi postavil jejich předek Ludvík XIV., aby znovu převzal vládu nad Francií.\n\nKrál [FRA.GetLeader] slíbil nový a velkolepý věk pro Francii a svět. \"Pravoplatní vládci Francie a ochránci západní Evropy se vrátili na své oprávněné místo.\" byla závěrečná věta jeho projevů - která byla okamžitě kritizována jinými evropskými vůdci a francouzskými republikány." # todo: NEW TRANSLATION
+  France_news.99.d2: "Samozvaný 'Imperiální dům' Bonapartů, potomci samo-korunovaného císaře Napoleona I. Bonaparta (1769-1821), se vrátili do Versailles. Zatímco Napoleon (a jeho potomci) bývali ve Francii vždy populární, v zahraničí byli méně oblíbení - jak u zahraničních šlechticů, tak u zahraničních obyčejných lidí.\n\nNedávná jingoistická rétorika [FRA.GetLeader], který nedávno nastoupil jako císař Francouzů, byla vůdci Německa, Británie, Itálie a Ruska zpochybněna. Noví vládci Francie mají málo přátel.\n\nSpolečně s novým vládním systémem Francie odhalila novou vlajku: stejná jako stará, ale vyvěšena s červeným pruhem u stožáru – návrat k Francouzské revoluci, kdy byla podobná vlajka vyvěšena krátce před prvním Bonapartovým císařstvím." # todo: NEW TRANSLATION
+  France_news.99.o1: "Long live the King!" # todo: NEW TRANSLATION
+  France_news.99.o2: "Long live the Emperor!" # todo: NEW TRANSLATION
+  France_news.99.o3: "Oh well." # todo: NEW TRANSLATION
+  France_news.100.t: "French Invasion of Monaco and Andorra" # todo: NEW TRANSLATION
+  France_news.100.d: "Francouzské jednotky vstoupily dnes ráno do dvou malých zemí na hranicích Francie. Knížectví Andorra a Monako se staly nejmladšími oběťmi francouzské vojenské agrese.\n\nBez významných vojenských sil po svém boku se Andorra a Monako ocitly na milost Francie, na kterou se dříve spoléhaly pro obranu." # todo: NEW TRANSLATION
+  France_news.100.o1: "Sláva Francii!" # todo: NEW TRANSLATION
+  France_news.100.o2: "Tak to je tedy vše." # todo: NEW TRANSLATION
+  France_news.100.o3: "Dobré" # todo: NEW TRANSLATION
+  France_news.100.o4: "Nepřijatelné!" # todo: NEW TRANSLATION
+  France_news.100.o5: "Koho to zajímá?" # todo: NEW TRANSLATION
+  France_news.101.t: "France Demands its 'Natural Borders'" # todo: NEW TRANSLATION
+  France_news.101.d: "Pro ekonomický osud Francie a její vojenskou ochranu je Rýn nezbytnou východní hranicí. Budeme ji muset obnovit, silou, pokud bude třeba.\n\n[FRA.GetLeader] vyvolal značnou kontroverzi tím, že v podstatě vyhlásil nadcházející válku bez zjevného důvodu, jen kvůli francouzské vojenské agresi." # todo: NEW TRANSLATION
+  France_news.101.o1: "Bude Francie slavná!" # todo: NEW TRANSLATION
+  France_news.101.o2: "Tihle hlupáci." # todo: NEW TRANSLATION
+  france_md.0.t: "Invitation to the Paris Accord" # todo: NEW TRANSLATION
+  france_md.0.d: "Francouzská vláda nás kontaktovala s naléhavou žádostí učinit vojenské závazky a záruky, které by odpovídaly našemu vstupu do jejich aliance." # todo: NEW TRANSLATION
+  france_md.0.o1: "Souhlasím. Francouzi jsou silní." # todo: NEW TRANSLATION
+  france_md.0.o2: "Ne. Vzdávají se příliš." # todo: NEW TRANSLATION
+  france_md.1.t: "Euro Investments" # todo: NEW TRANSLATION
+  france_md.1.d: "Francouzi přišli dnes k nám s zajímavou nabídkou. Zahájili rané fáze správné hospodářské spolupráce, která začala přijímáním eura evropskými zeměmi. Společná měna umožňuje našim občanům cestovat za hranice bez starostí s výměnou měn nebo konverzí. Také podle francouzských diplomatů by zavedení eura mělo pomoci posílit hospodářské vazby s našimi evropskými sousedy. Dohoda, kterou nám v tuto chvíli předkládají, je žádostí, aby Francouzi předložili investiční účet v naší velké zemi." # todo: NEW TRANSLATION
+  france_md.1.a: "Podepište dohody" # todo: NEW TRANSLATION
+  france_md.1.b: "Nikdy" # todo: NEW TRANSLATION
+  france_md.2.t: "[From.GetName] Accepts Our Investments!" # todo: NEW TRANSLATION
+  france_md.2.d: "Dobrá zpráva! [From.GetName] přijal naše dohody! Rozhodli se, že užší hospodářské vazby s Francií jsou tou správnou cestou." # todo: NEW TRANSLATION
+  france_md.2.a: "Skvělá volba." # todo: NEW TRANSLATION
+  france_md.3.t: "[From.GetName] Refuses" # todo: NEW TRANSLATION
+  france_md.3.d: "Rozhodli se, že naše investice nejsou v jejich nejlepším zájmu. Zajímavé, odmítli by něco, co by prospělo oběma našim velkým národům!" # todo: NEW TRANSLATION
+  france_md.3.a: "Zklamání." # todo: NEW TRANSLATION
+  france_md.4.t: "Highway Infrastructure Projects - Eastern Europe." # todo: NEW TRANSLATION
+  france_md.4.d: "Východoevropská infrastruktura se v posledních letech dostala do určitého rozvratu. Někteří Francouzi dodavatelé hledají práci, a proto se na nás obracejí, aby se zlepšily některé dálnice v zemi. Nabídli zaplatit výstavbu, pokud obdrží výnosy z jakékoliv formy daně, která bude použita k její úhradě." # todo: NEW TRANSLATION
+  france_md.4.a: "Samozřejmě! Infrastruktura zdarma!" # todo: NEW TRANSLATION
+  france_md.4.b: "Ne, Francouzi" # todo: NEW TRANSLATION
+  france_md.5.t: "The Paris Convention" # todo: NEW TRANSLATION
+  france_md.5.d: "Francie uspořádala dnes v Paříži konferenci se všemi významnými lídry a členy EU, aby jednali o budoucnosti EU. Zajímavé je, že primární funkcí konference bylo diskutovat něco neobvyklého. Naši francouzští hostitelé se rozhodli prozkoumat možnost sjednocení Unie. Uvedli svůj návrh na vedení této unie. Také byl nastaven rámec a nyní čeká na signatáře, kteří prosadí legislativu v parlamentu a nakonec ji realizují. Jeden důvod pro rozvoj Evropské unie – jednotná Evropa." # todo: NEW TRANSLATION
+  france_md.5.a: "Francouzi budou mít naši podporu" # todo: NEW TRANSLATION
+  france_md.5.b: "Absolutně ne!" # todo: NEW TRANSLATION
+  france_md.6.t: "[From.GetName] podporuje sjednocení!" # todo: NEW TRANSLATION
+  france_md.6.d: "[From.GetName] vrátil smlouvy, které obdržel během konvence. Ve skvělé zprávě se rozhodl podpořit náš velký podnik a usilovat o novou Evropu!" # todo: NEW TRANSLATION
+  france_md.6.a: "Dobře" # todo: NEW TRANSLATION
+  france_md.7.t: "[From.GetName] opouští Unii!" # todo: NEW TRANSLATION
+  france_md.7.d: "[From.GetName] zničil naši skvělou legislativu a znehodnotil naši důvěryhodnost. Delegáti rovněž začali navrhovat a citovat legislativu, aby prosadili článek 50 a opustili naši velkou unii." # todo: NEW TRANSLATION
+  france_md.7.a: "Dělají chybu" # todo: NEW TRANSLATION
+  france_md.8.t: "Otázka monarchie" # todo: NEW TRANSLATION
+  france_md.8.d: "Francouzský lid byl v posledních letech oklamán. Byli jsme ponížováni a neustále napadáni mnoha lidmi. Napoléon jednou ukázal světu, že Francouzi jsou k pohrání. Rozšlápl svou botu nad mnohé, včetně Němců a Angličanů. Stále žije živý potomek tohoto kdysi velkého vůdce. Jean Christophe, princ Napoléon, je nyní hlavou Bonapartovské císařské rodiny. Může vést Francii ke slávě?" # todo: NEW TRANSLATION
+  france_md.8.a: "Obnovit císaře!" # todo: NEW TRANSLATION
+  france_md.8.b: "Národní fronta nás povede!" # todo: NEW TRANSLATION
+  france_md.9.t: "Obnovení Bonapartů" # todo: NEW TRANSLATION
+  france_md.9.d: "[FRA.GetLeader] se vrátil do Versailles. Sám se uvítal zpět do svého pravého poslání. [FRA.GetLeader] byl korunován novým císařem Francie. Obnovení trůnu vyvolalo obavy u mnoha vlád v Evropě. Císař a francouzský lid si zvolili svou cestu. Ať žije Francie!" # todo: NEW TRANSLATION
+  france_md.9.a: "Ať žije, princ Napoléon" # todo: NEW TRANSLATION
+  france_md.10.t: "Cesta k nové Francii" # todo: NEW TRANSLATION
+  france_md.10.d1: "Francouzské impérium prošlo v životě mnoha věcmi. Můžeme vysledovat naši linii skrz velkou část země zde ve Francii a také skrz pozdního Karla Velikého. Rady [FRA.GetLeader] přišly s jednou z politik, které musíme prosadit dříve, než skutečně posuneme impérium dál, než kdy dřív.\n\n §G Tato volba je trvalá a nelze ji změnit, a mnoho dopadů bude záviset na vašem rozhodnutí§!\n." # todo: NEW TRANSLATION
+  france_md.10.d2: "Teď, když Francouzská obec (komuna) začala upevňovat kontrolu nad vládou. Je načase začít uvažovat o revoluci v zahraničí. Komunismus je lepší ukázat všem a náš vůdce [FRA.GetLeader] nás povede k pravému socialismu. Tady i v zahraničí!\n\n §G Tato volba je trvalá a nelze ji změnit, a mnoho dopadů bude záviset na vašem rozhodnutí§!\n." # todo: NEW TRANSLATION
+  france_md.10.a: "Pokojný vzestup" # todo: NEW TRANSLATION
+  france_md.10.b: "Srazit svět na kolena" # todo: NEW TRANSLATION
+  france_md.11.t: "Spolupráce CNES a NASA" # todo: NEW TRANSLATION
+  france_md.11.d: "Vedoucí CNES dnes k nám přišli, aby projednali možnost rozšířené spolupráce mezi NASA a CNES. Tvrdí, že z vesmíru lze hodně naučit a že podpora dalšího velkého vesmírného programu by si navzájem významně pomohla. Dohoda uvádí, že bychom si každý zaplatili dopředu 10 miliard dolarů, abychom vybudovali větší vědecké vazby." # todo: NEW TRANSLATION
+  france_md.11.a: "Důležitá dohoda" # todo: NEW TRANSLATION
+  france_md.11.b: "Ne" # todo: NEW TRANSLATION
+  france_md.100.t: "Podpora Arménie" # todo: NEW TRANSLATION
+  france_md.100.d: "Arménie a jejich boj nám připomíná nás samé. Jejich boj proti Ázerbájdžánu v Artsachu nám připomíná nás samé. Podpora jejich snah není jen žádoucí, ale také nutná pro naše zájmy v regionu. Můžeme poskytnout materiální, finanční nebo politickou podporu v jejich konfliktu. Jak bychom měli pomoci našim přátelům v Jerevanu?" # todo: NEW TRANSLATION
+  france_md.100.a: "Podpořit Arménii politicky" # todo: NEW TRANSLATION
+  france_md.100.b: "Podpořit Arménii finančně" # todo: NEW TRANSLATION
+  france_md.100.c: "Podpořit Arménii vojensky" # todo: NEW TRANSLATION
+  france_md.101.t: "Francie nás podporuje!" # todo: NEW TRANSLATION
+  france_md.101.d: "Francie se rozhodla nám poskytnout podporu v naší probíhající snaze etablovat se. Konflikty s Ázerbájdžánem i turecké problémy nám nadále působí potíže, ale nyní máme v Evropě spojence." # todo: NEW TRANSLATION
+  france_md.101.a: "Další krok směrem..." # todo: NEW TRANSLATION
+  france_md.102.t: "První občanská válka v Pobřeží Slonoviny" # todo: NEW TRANSLATION
+  france_md.102.d: "První občanská válka v Pobřeží Slonoviny začala naplno. Konflikt zuří a nezdá se, že by měl utichnout. Dříve chválené „perlčí účinky Françafrique“ se proměnily v bojišt' mezi oponenty. Stabilita regionu je křehká a země se rozpadá. Která strana nejlépe odpovídá našim aktuálním zájmům?" # todo: NEW TRANSLATION
+  france_md.102.a: "Podpořit Laurenta Gbagba" # todo: NEW TRANSLATION
+  france_md.102.b: "Podpořit Guillaume Soro" # todo: NEW TRANSLATION
+  france_md.102.c: "Podpořit Třetí frakci" # todo: NEW TRANSLATION
+  france_md.103.t: "Druhá občanská válka v Pobřeží Slonoviny" # todo: NEW TRANSLATION
+  france_md.103.d: "Druhá občanská válka v Pobřeží Slonoviny se v plné síle odehrává mezi FNC a vládou [CDI.GetName]. Konflikt zřejmě začal prezidentskými volbami, ve kterých Gbagbo odmítl odstoupit a umožnil Ouattara získat moc ve férových volbách. Která strana nejlépe odpovídá našemu současnému zájmu?" # todo: NEW TRANSLATION
+  france_md.103.a: "Podpořit Laurenta Gbagba" # todo: NEW TRANSLATION
+  france_md.103.b: "Podpořit Alassane Ouattaru" # todo: NEW TRANSLATION
+  france_md.104.t: "Operace Artemis" # todo: NEW TRANSLATION
+  france_md.104.d: "Operace Artemis, formálně známá jako Evropská unijní mírová síla Demokratické republiky Kongo (EUFOR), je navržený plán pro mírové jednotky a intervenční síly, které by byly nasazeny do Demokratické lidové republiky Kongo. Mnoho politiků v naší vládě požaduje, aby Francie vedla vojenské akce EU. Máme výběr mezi účastníky, koho chceme podpořit. Rwanda a [RWA.GetLader] by mohli být silným spojencem, ale jejich frakce sídlí převážně na východě a nepřejí si kontrolu nad celou zemí. [UGA.GetLeader] a [RCD.GetName] jsou další volbou, ale jsou většinou na severu země. Vždy můžeme podpořit Kinshasu, která by byla nejvhodnější, protože právě teď vládne. Koho podpoříme ve Velké africké válce?" # todo: NEW TRANSLATION
+  france_md.104.a: "Podpořit Demokratickou republiky Kongo" # todo: NEW TRANSLATION
+  france_md.104.b: "Podpořit Ugandu" # todo: NEW TRANSLATION
+  france_md.104.c: "Podpořit Rwanda" # todo: NEW TRANSLATION
+  france_md.105.t: "Senegalská občanská válka" # todo: NEW TRANSLATION
+  france_md.105.d: "Senegalská občanská občanská válka, která se rozšířila do mnohem podrobnějšího a širšího konfliktu, překvapila všechny zúčastněné. Kombinace problému Casamance a obvinění z manipulace voleb destabilizovaly další africkou zemi. Naše možnosti se značně liší podle našich cílů. Můžeme podpořit [SEN.GetLeader] a jejich vládu, rebelní frakce nebo lidi Casamance. Jakákoli volba pomůže Senegalu vybudovat novou budoucnost v regionu." # todo: NEW TRANSLATION
+  france_md.105.a: "Podpořit Senegal" # todo: NEW TRANSLATION
+  france_md.105.b: "Podpořit rebely" # todo: NEW TRANSLATION
+  france_md.105.c: "Podpořit Casamance" # todo: NEW TRANSLATION
+  france_md.106.t: "Opération Sangaris" # todo: NEW TRANSLATION
+  france_md.106.d: "Národní shromáždění a armáda naší země navrhly novou intervenci v Středoafrické republice v reakci na jejich nový konflikt. Návrh operace je znám jako Opération Sangaris, která se zaměří na posílení našich sil ve prospěch jedné z frakcí v občanské válce. Koho v konfliktu podpoříme?" # todo: NEW TRANSLATION
+  france_md.106.a: "Podpořit Středoafrickou republiku" # todo: NEW TRANSLATION
+  france_md.106.b: "Podpořit UFDR" # todo: NEW TRANSLATION
+  france_md.106.c: "Podpořit Seleka" # todo: NEW TRANSLATION
+  france_md.106.d1: "Podpořit Logone" # todo: NEW TRANSLATION
+  france_md.106.e: "Podpořit Anti-Balaka" # todo: NEW TRANSLATION
+  france_md.107.t: "Operace Serval" # todo: NEW TRANSLATION
+  france_md.107.d: "Operace Serval byla navržena Národnímu shromáždění jako reakce na Tuaregskou vzpouru v Mali. Serval je momentálně orientován na nasazení francouzských sil na podporu vlády [MAL.GetName] a [MAL.GetLeader]. Máme možnost změnit naši zahraniční politiku a podpořit věc Tuaregů, pokud si to přejeme. Na kterou stranu konfliktu bychom měli intervenovat?" # todo: NEW TRANSLATION
+  france_md.107.a: "Podpořit malijskou vládu" # todo: NEW TRANSLATION
+  france_md.107.b: "Podpořit Tuaregy" # todo: NEW TRANSLATION
+  france_md.108.t: "Úderná skupina Takuba" # todo: NEW TRANSLATION
+  france_md.108.d: "Islámské povstalecké síly začaly bojovat proti vládě [MAL.GetAdjective] a proti silám Tuaregů. Operace Serval probíhá již delší dobu, ale můžeme začlenit dodatečnou podporu pro frakci, kterou jsme dříve podporovali, nebo můžeme učinit radikální změnu a podpořit nového dárce v Mali. Kterou frakci budeme v budoucnu podporovat?" # todo: NEW TRANSLATION
+  france_md.108.a: "Podpořit malijskou vládu" # todo: NEW TRANSLATION
+  france_md.108.b: "Podpořit Tuaregy" # todo: NEW TRANSLATION
+  france_md.108.c: "Podpořit Ansar Dine" # todo: NEW TRANSLATION
+  france_md.109.t: "Haitský převrat" # todo: NEW TRANSLATION
+  france_md.109.d: "Vládu haitské vlády momentálně není naše strana nakloněna. Nastolený precedens vládnoucí strany není pro naši zahraniční politiku prospěšný. Vyvolání převratu a podpora opozice je jedním z našich nejlepších řešení, jak zajistit, že zbytek kolonií nezačne požadovat reparace za koloniální prohřešky." # todo: NEW TRANSLATION
+  france_md.109.a: "Vyvolat převrat" # todo: NEW TRANSLATION
+  france_md.109.b: "Podpořit povstalce" # todo: NEW TRANSLATION
+  france_md.350.t: "Francie nás vyhání z Libanonu!" # todo: NEW TRANSLATION
+  france_md.350.d: "Francie se podařilo vměšovat do naší politiky po několika kampaních vlivu proti nám. Využili svůj vliv, aby nás donutili odejít z Libanonu! Můžeme na tuto urážku navázat a vrátit se do LEB" # todo: NEW TRANSLATION
+  france_md.350.a: "Zrada! Za to zaplatíš!" # todo: NEW TRANSLATION
+  france_md.350.b: "Vynutit nárok" # todo: NEW TRANSLATION
+  france_md.355.t: "Francie vyvolává ve společnosti pocit vzpoury" # todo: NEW TRANSLATION
+  france_md.355.d: "Zatraceně Francouzi se nám podařilo obrátit obyvatelstvo proti nám! Teď chtějí práva a volby, to už jsme viděli! Pospěšte si a znovu získejte kontrolu nad situací dřív, než to přejde do průšvihu!" # todo: NEW TRANSLATION
+  france_md.355.a: "To mě teď bolí..." # todo: NEW TRANSLATION
+  france_md.360.t: "Investice do ropy a plynu ve střední Sýrii" # todo: NEW TRANSLATION
+  france_md.360.d: "Francie chce investovat do ropy a plynu, které se nacházejí pod zemí. Měli bychom jim to umožnit, nebo ne?" # todo: NEW TRANSLATION
+  france_md.360.a: "Děkujeme za tuto iniciativu" # todo: NEW TRANSLATION
+  france_md.360.b: "Na to teď nepotřebujeme" # todo: NEW TRANSLATION
+  france_md.400.t: "Investice do infrastruktury v severním Libanonu" # todo: NEW TRANSLATION
+  france_md.400.d: "Francie chce investovat do infrastruktury v severním Libanonu, aby zlepšila životní podmínky." # todo: NEW TRANSLATION
+  france_md.400.a: "Děkujeme za tuto iniciativu" # todo: NEW TRANSLATION
+  france_md.400.b: "Na to teď nepotřebujeme" # todo: NEW TRANSLATION
+  france_md.401.t: "Investice do infrastruktury v jižním Libanonu" # todo: NEW TRANSLATION
+  france_md.401.d: "Francie chce investovat do infrastruktury v jižním Libanonu, aby zlepšila životní podmínky." # todo: NEW TRANSLATION
+  france_md.401.a: "Děkujeme za tuto iniciativu" # todo: NEW TRANSLATION
+  france_md.401.b: "Na to teď nepotřebujeme" # todo: NEW TRANSLATION
+  france_md.402.t: "Investice do libanonského průmyslu" # todo: NEW TRANSLATION
+  france_md.402.d: "Francie chce investovat do libanonského průmyslu, aby snížila nezaměstnanost v zemi." # todo: NEW TRANSLATION
+  france_md.402.a: "Děkujeme za tuto iniciativu" # todo: NEW TRANSLATION
+  france_md.402.b: "Na to teď nepotřebujeme" # todo: NEW TRANSLATION
+  france_md.403.t: "Vyslat humanitární pomoc" # todo: NEW TRANSLATION
+  france_md.403.d: "Francie plánuje poslat humanitární pomoc Libanonu, aby zmírnila jeho tíživou situaci." # todo: NEW TRANSLATION
+  france_md.403.a: "Děkujeme za tuto iniciativu" # todo: NEW TRANSLATION
+  france_md.403.b: "Na to teď nepotřebujeme" # todo: NEW TRANSLATION
+  france_md.500.t: "Útoky Lumio" # todo: NEW TRANSLATION
+  france_md.500.d: "Malá obec v Lumio byla zasažena Korsickou národní osvobozovací frontou. Útok nezpůsobil žádné oběti, ale způsobil značné škody na malé vojenské infrastruktuře v obci a zranil několik gendarmerů." # todo: NEW TRANSLATION
+  france_md.500.a: "Nešťastné" # todo: NEW TRANSLATION
+  france_md.501.t: "Útoky na hotely v Marseille" # todo: NEW TRANSLATION
+  france_md.501.d: "Řetězec menších bombových útoků byl proveden v Marseille. Korsická Národní osvobozovací fronta si za útoky vzala odpovědnost. Několik lidí bylo hospitalizováno a zraněno kvůli těmto incidentům, ale vypadá to, že nemají v úmyslu zahájit další bombové útoky na jiné hotely." # todo: NEW TRANSLATION
+  france_md.501.a: "Nešťastné" # todo: NEW TRANSLATION
+  france_md.504.t: "Bombardování McDonald's" # todo: NEW TRANSLATION
+  france_md.504.d: "Malé množství bretonských nacionalistů se rozhodlo odpálit místní McDonald's v Quévertu, Bretani. Výbuch zabil jednu osobu v McDonald's. Probíhající vyšetřování dosud nepřineslo mnoho důkazů, zda jde o širší spiknutí, ale jedná se o tragickou událost." # todo: NEW TRANSLATION
+  france_md.504.a: "Nešťastné" # todo: NEW TRANSLATION
+  FRA_french_space_decision_category: "Francouzský vesmírný program a CNES" # todo: NEW TRANSLATION
+  FRA_french_space_decision_category_desc: "Vesmír: Finální hranice. Musíme tuto hranici začít dobývat naplno, pokud chceme zůstat Velkou mocí v očích světa, ale dosažení toho vyžaduje velké náklady. Protože nemůžeme být jisti skutečnými ekonomickými přínosy rozsáhlého vesmírného programu, musí být Francouzský lid přesvědčen, že jde o hodnotný podnik!\n§RPokud klesne naše nadšení pro vesmírný program pod 35, vesmírné operace se zastaví!§§! Dále, každý týden naše §YNadšení pro vesmírný program§! bude klesat o §Y0.1§! kvůli obecné nezájmu o §YCNES§!\n\nNaše nadšení pro vesmírný program je aktuálně: [?FRA.FRA_peoples_support|+50.0] \nTýdenní příjem z §YOperací vesmírného programu a akcí§!: $[?FRA.FRA_space_income_var|+3]" # todo: NEW TRANSLATION
+  FRA_run_support_campaigns_short: "Spustit krátkou veřejnou podporovací kampaň" # todo: NEW TRANSLATION
+  FRA_run_support_campaigns_short_desc: "Jestliže naši špičkoví vědci teprve začínají odhalovat vědecké zázraky ukryté ve vesmíru, lidé jsou z celé záležitosti nesmírně zmatení. Krátká kampaň na sociálních médiích by nám měla zajistit nějakou podporu!" # todo: NEW TRANSLATION
+  FRA_run_support_campaigns_long: "Spustit dlouhou veřejnou podporovací kampaň" # todo: NEW TRANSLATION
+  FRA_run_support_campaigns_long_desc: "Jestliže naši špičkoví vědci teprve začínají odhalovat vědecké zázraky ukryté ve vesmíru, lidé jsou z celé záležitosti nesmírně zmatení. Podrobná vzdělávací kampaň by pro nás mohla znamenat obrovskou podporu mezi obyvatelstvem!" # todo: NEW TRANSLATION
+  FRA_balance_the_cnes_budget: "Přerozdělit rozpočet CNES" # todo: NEW TRANSLATION
+  FRA_balance_the_cnes_budget_desc: "Náš vesmírný program CNES měl v minulosti problémy s neefektivním utrácením a drobnou korupcí. Měli bychom poslat státní auditory, aby omezili nadměrné výdaje a získali CNES potřebnou pozitivní reputaci." # todo: NEW TRANSLATION
+  FRA_launch_commercial_satellite: "Spustit komerční satelit" # todo: NEW TRANSLATION
+  FRA_launch_commercial_satellite_desc: "Teď, když éra informací je v plném proudu, soukromé společnosti se doslova přehrnou, aby vypustily satelity. Povolíme-li některým z těchto firem start z našich zařízení, můžeme získat slušné ekonomické výhody. Buďte však opatrní; lidé se mohou unavit z našeho programu zaměřeného na komerci!" # todo: NEW TRANSLATION
+  FRA_prep_international_space_station: "Připravit start ISS" # todo: NEW TRANSLATION
+  FRA_prep_international_space_station_desc: "Zatímco jde o celosvětové prvenství a iniciativu, můžeme se připravit k odeslání našich zásobovacích raket na ISS, spolu s naším personálem." # todo: NEW TRANSLATION
+  FRA_french_iss_launch: "Francouzský start ISS" # todo: NEW TRANSLATION
+  FRA_french_iss_launch_desc: "Po měsících plánování a příprav je mise zásobovacího shuttle připravena k startu. Tři… Dva… Jeden… Start!" # todo: NEW TRANSLATION
+  FRA_invest_LEB_decision_category: "Francouzsko-libanonské investice" # todo: NEW TRANSLATION
+  FRA_invest_LEB_decision_category_desc: "Libanonci bývali kdysi naším koloniálním územím a proto je nezbytné vrátit se do regionu a investovat do velké země [LEB.GetNameWithFlag]." # todo: NEW TRANSLATION
+  FRA_LEB_invest_infrastructure_south: "Investovat do jižního Libanonu" # todo: NEW TRANSLATION
+  FRA_LEB_invest_infrastructure_south_desc: "Ekonomický rozvoj jižního Libanonu může pomoci zabránit radikalizaci v regionu. Čím více ekonomických příležitostí pro region, tím lépe pro všechny zúčastněné strany." # todo: NEW TRANSLATION
+  FRA_LEB_invest_infrastructure_north: "Investovat do severního Libanonu" # todo: NEW TRANSLATION
+  FRA_LEB_invest_infrastructure_north_desc: "Hospodářské srdce Libanonu bylo vždy soustředěno kolem Bejrútu a okolních oblastí. Rozšíření a investice do severní části země povedou k vynikajícím výsledkům." # todo: NEW TRANSLATION
+  FRA_LEB_invest_civilian_factory: "Investovat do libanonského civilního průmyslu" # todo: NEW TRANSLATION
+  FRA_LEB_invest_civilian_factory_desc: "Libanonci by uvítali dodatečné investice do jejich civilního průmyslu. Rozvoj těchto odvětví by mohl dále pomoci hospodářskému rozvoji Libanonu a učinit jej soběstačnějším na světové scéně." # todo: NEW TRANSLATION
+  FRA_LEB_financial_help: "Poskytnout Libanonu finanční pomoc" # todo: NEW TRANSLATION
+  FRA_LEB_financial_help_desc: "Měli bychom Libanonu poskytnout finanční pomoc, abychom vyrovnali část jeho rozpočtových nedostatků." # todo: NEW TRANSLATION
+  FRA_french_africa_decision_category: "Françafrique/Africké rozhodnutí" # todo: NEW TRANSLATION
+  FRA_french_africa_decision_category_desc: "Afrika a Françafrique mohou pro nás často znamenat totéž. Kontinent v Africe potřebuje naši pomoc a naši péči, a proto bychom měli pokračovat v tom, aby Afrika zůstala středem naší zahraniční politiky a našich zájmů." # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_education_decision: "Investice do NEPAD vzdělávacích programů" # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_education_decision_desc: "NEPAD vzdělávací programy by uvítaly dodatečné financování a podporu. Zaplatíme zvýšené financování, ale africké země uvidí úspory v nákladech na vzdělávání." # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_healthcare_decision: "Investice do NEPAD zdravotnických programů" # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_healthcare_decision_desc: "NEPAD zdravotnické programy by uvítaly dodatečné financování a podporu. Zaplatíme zvýšené financování, ale africké země uvidí snížení nákladů na zdravotní péči." # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_social_care_decision: "Investice do NEPAD programů sociální péče" # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_social_care_decision_desc: "Programy sociální péče NEPAD by uvítaly dodatečné financování a podporu. Zaplatíme navýšené financování, ale africké země budou čelit nižším výdajům na sociální péči." # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_economic_program_decision: "Investice do NEPAD ekonomických programů" # todo: NEW TRANSLATION
+  FRA_invest_in_NEPAD_economic_program_decision_desc: "Ekonomické programy NEPAD bychom mohli podpořit dodatečným financováním. Zaplatíme navýšené financování, ale africké země zaznamenají vyšší produktivitu a rychlejší rozvoj." # todo: NEW TRANSLATION
+  FRA_extend_the_NEPAD_program_decision: "Prodloužit program NEPAD" # todo: NEW TRANSLATION
+  FRA_extend_the_NEPAD_program_decision_desc: "Program je třeba prodloužit. Můžeme do programu vložit dodatečné financování, aby program pokračoval." # todo: NEW TRANSLATION
+  FRA_space_enthusiasm_effect_tt: "Změní naše §YNadšení pro vesmírný program§! o [?temp_change|1+] (Aktuálně: [?FRA.FRA_peoples_support|1Y])" # todo: NEW TRANSLATION
+  FRA_space_income_effect_tt: "Změní náš §YTýdenní příjem z vesmírného programu§! o [?temp_change|3+] (Aktuální týdenní příjem: $[?FRA.FRA_space_income_var|+3])" # todo: NEW TRANSLATION
+  FRA_the_space_program_income_TT: "Příjem z našeho §Yvesmírného programu§!: $[?FRA.FRA_space_income_var|3+]" # todo: NEW TRANSLATION
+  FRA_nepad_health_cost_modifier_effect_tt: "Změní $AFRICA_idea_nepad_modifier$ $health_cost_multiplier_modifier$ o [?temp_change|-%] (Aktuálně: [?global.africa_nepad_health_cost_modifier|-%])" # todo: NEW TRANSLATION
+  FRA_nepad_social_cost_modifier_effect_tt: "Změní $AFRICA_idea_nepad_modifier$ $social_cost_multiplier_modifier$ o [?temp_change|-%] (Aktuálně: [?global.africa_nepad_social_care_modifier|-%])" # todo: NEW TRANSLATION
+  FRA_nepad_education_cost_modifier_effect_tt: "Změní $AFRICA_idea_nepad_modifier$ $education_cost_multiplier_modifier$ o [?temp_change|-%] (Aktuálně: [?global.africa_nepad_education_modifier|-%])" # todo: NEW TRANSLATION
+  FRA_nepad_buildings_construction_modifier_effect_tt: "Změní $AFRICA_idea_nepad_modifier$ $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$ o [?temp_change|+%] (Aktuálně: [?global.africa_nepad_building_construction_modifier|+%])" # todo: NEW TRANSLATION
+  FRA_nepad_cost_increase_cost_effect_tt: "Změní týdenní náklady o [?temp_change|-3] (Aktuální: $[?FRA.FRA_nepad_sponsor_weekly_cost|-3]b)" # todo: NEW TRANSLATION
+  FRA_nepad_program_counter_currently_tt: "NEPAD program je momentálně probíhající (Aktuální dny: [?AFRICA_nepad_focus_FRA:days_left|Y0])" # todo: NEW TRANSLATION
+  FRA_leave_eu_tt: "Šance na odchod vzrostou, pokud nacionalisté mají více než 25 % popularity." # todo: NEW TRANSLATION
+  FRA_french_space_TT: "§RÚčinek tohoto zaměření se objeví, až bude ten správný čas…§!" # todo: NEW TRANSLATION
+  FRA_international_space_nasa_TT: "§GTento obchod vyžaduje $10.0 miliard od Francie i USA§!" # todo: NEW TRANSLATION
+  FRA_international_space_nasa_focus_TT: "§GPokud [USA.GetNameWithFlag] přijme:§!\n" # todo: NEW TRANSLATION
+  FRA_income_TT: "Získávání příjmů vždy povede ke ztrátě popularity." # todo: NEW TRANSLATION
+  fra_has_enough_space_support_tt: "Máme dostatečné §YNadšení pro vesmírný program§! k provedení této operace." # todo: NEW TRANSLATION
+  FRA_cfa_franc_influence_gain_TT: "Když je ovlivněn §Y[FRA.GetNameWithFlag]§!, $foreign_influence_defense_modifier$ je snížen o §Y10%§!\n" # todo: NEW TRANSLATION
+  FRA_cfa_franc_custodian_idea_TT: "Další příjem: $$[?additional_income_FRA_cfa_franc_custodian|+]\n" # todo: NEW TRANSLATION
+  FRA_idea_Light_for_Europe_income_TT: "Další příjem: $$§G2.00§!" # todo: NEW TRANSLATION
+  FRA_euro_investments_accept_TT: "§BPřijetí tohoto umožní růst vlivu Francie§!\n" # todo: NEW TRANSLATION
+  FRA_euro_investments_cost_TT: "§YPřijali to.§! Následující efekty nastaly:\n" # todo: NEW TRANSLATION
+  FRA_euro_investments_cost_2_TT: "§YPřijali to.§! Následující efekty nastaly:\n" # todo: NEW TRANSLATION
+  FRA_expansion_tooltip_TT: "Tyto zaměření neodhalí své skutečné efekty, dokud nedokončíte komunistické nebo nacionalistické stromy zaměření.§!\n" # todo: NEW TRANSLATION
+  FRA_french_canadian_TT1: "§YSpokojenost francouzsko-kanadského obyvatelstva je zvýšena díky Francii, která pomáhá kanadské vládě.§!\n" # todo: NEW TRANSLATION
+  FRA_french_canadian_TT2: "§YSpokojenost francouzsko-kanadského obyvatelstva klesá kvůli Francii, která podporuje Quebečany.§!\n" # todo: NEW TRANSLATION
+  FRA_idea_development_investment_tt: "Upravuje $investment_cost_modifier$ a $investment_duration_modifier$ o §G5%§! pro investice od §C[FRA.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  FRA_preparing_launch: "Příprava startu francouzské ISS" # todo: NEW TRANSLATION
+  FRA_idea_the_francosphere: "Francosféra" # todo: NEW TRANSLATION
+  FRA_idea_the_francosphere_desc: "Francosféra je politická a globální komunita francouzsky mluvících národů a lidí. Je to mechanismus, jak Francii pomoci prosadit svůj vliv nad bývalými koloniemi, avšak zůstává jako kooperace mezi francouzsky mluvícími národy." # todo: NEW TRANSLATION
+  FRA_idea_french_red_army: "Francouzská rudá armáda" # todo: NEW TRANSLATION
+  FRA_idea_french_red_army_desc: "Revoluce se zrodila v mělké kolébce blízko vlivu oceánu. Nová Rudá armáda byla založena, s mládeží i staršími, kteří chtějí bránit rovnost a svobodu pro naši velkou zemi." # todo: NEW TRANSLATION
+  FRA_idea_strong_guy: "Silný muž" # todo: NEW TRANSLATION
+  FRA_idea_strong_guy_desc: "Zřejmé je, že Evropa potřebuje nového vůdce. Francie převezme tuto roli jako nový silný muž Evropy, jak budeme tlačit evropské země ke svým ideálům a vést je do budoucnosti." # todo: NEW TRANSLATION
+  FRA_idea_communist_revolution1: "Plameny revoluce" # todo: NEW TRANSLATION
+  FRA_idea_communist_revolution1_desc: "Plameny revoluce hoří čím dál jasněji, jak se kola času otáčejí. Musíme rozdmýchat tyto plameny tím, že budeme revoluci usilovat doma i v zahraničí." # todo: NEW TRANSLATION
+  FRA_idea_communist_revolution2: "Velké plameny revoluce" # todo: NEW TRANSLATION
+  FRA_idea_communist_revolution2_desc: "Revoluce se chystá smést svět pro budoucnost lidstva." # todo: NEW TRANSLATION
+  FRA_idea_administrative_reforms: "Správní reformy" # todo: NEW TRANSLATION
+  FRA_idea_administrative_reforms_desc: "Byrokratický stroj Francie prošel sérií důležitých reforem, které snižují některé náklady a rozšiřují schopnost vlády prosazovat a uvádět do praxe řadu nových politik." # todo: NEW TRANSLATION
+  FRA_idea_infrastructure_projects: "Infrastrukturní projekty" # todo: NEW TRANSLATION
+  FRA_idea_infrastructure_projects_desc: "Vláda odhalila sérii projektů zaměřených na zlepšení a rozšíření infrastruktury naší země. Tyto projekty a dotace nám pomohou opět růst silnější a hlavně lepší než dříve." # todo: NEW TRANSLATION
+  FRA_idea_private_contracting_companies: "Soukromé smluvní firmy" # todo: NEW TRANSLATION
+  FRA_idea_private_contracting_companies_desc: "Vláda [FRA.GetAdjective] uzavřela sérii nových smluv se soukromými firmami, aby pracovaly na výstavbě různých nových budov v zemi. Produktivita firem podpoří náš civilní sektor a zvýší průmyslový rozvoj." # todo: NEW TRANSLATION
+  FRA_idea_class_equality_reform: "Reformy rovnosti tříd" # todo: NEW TRANSLATION
+  FRA_idea_class_equality_reform_desc: "Národ zoufale potřebuje reformu a je čas normalizovat třídy. Bohatství bude redistribuováno. Každému podle jeho potřeb a každému podle jeho přání se stalo mottem lidu, jak reformy nabývají účinku." # todo: NEW TRANSLATION
+  FRA_idea_economic_interventionism: "Ekonomický intervencionismus" # todo: NEW TRANSLATION
+  FRA_idea_economic_interventionism_desc: "Ekonomika je vrtkavá a vyžaduje zásah vlády, aby byla ekonomika skutečně stabilní navždy. Intervencionismus se ukáže být prospěšný a čím více se do ekonomiky zapojíme, tím stabilnější nakonec bude." # todo: NEW TRANSLATION
+  FRA_idea_french_armored_production: "Francouzské pancéřované vozy" # todo: NEW TRANSLATION
+  FRA_idea_french_armored_production_desc: "Francouzská obrněná vozidla patří mezi nejlepší bojová vozidla na světě. Musíme nadále udržovat naši výhodu a pokračovat v produkci obrněných vozidel, abychom čelili vzestupu nových globálních hrozeb." # todo: NEW TRANSLATION
+  FRA_idea_napoleon_dream: "Napoleonův sen" # todo: NEW TRANSLATION
+  FRA_idea_napoleon_dream_desc: "Napoleon usiloval o moc a slávu pro francouzský lid. Musíme tuto myšlenku ctít a vrátit Francii k moci!" # todo: NEW TRANSLATION
+  FRA_idea_napoleon_guard: "Nová napoleonova stráž" # todo: NEW TRANSLATION
+  FRA_idea_napoleon_guard_desc: "Nová Napoleonova stráž je hovorový název pro stráž našeho velkého vůdce. Chrání dalšího Napoleona a očekáváme jen to nejlepší z mužů a žen, kteří chrání nejdůležitější postavu naší země v tuto chvíli. Stráž bude také reformována do nové elitní jednotky, která bude ideálním vzorem pro zbytek naší armády." # todo: NEW TRANSLATION
+  FRA_idea_new_empire: "Nové francouzské impérium" # todo: NEW TRANSLATION
+  FRA_idea_new_empire_desc: "Dny staré jsou dávno pryč a návrat k myšlence našeho impéria není prospěšný. Je čas vyhlásit nové Francouzské impérium pro lid země a pro generace budoucnosti. Francie znovu ovládne svět a my ji povedeme do nové budoucnosti!" # todo: NEW TRANSLATION
+  FRA_fraternity_movement_reformed: "Hnutí bratrství reformované" # todo: NEW TRANSLATION
+  FRA_fraternity_movement_reformed_desc: "Hnutí bratrství představuje bratrství a etický vztah mezi lidmi a vládou. Reformováním hnutí, aby se více soustředilo na lidi, by měl být náš postup vpřed." # todo: NEW TRANSLATION
+  FRA_increased_border_controls: "Zvýšená kontrola hranic" # todo: NEW TRANSLATION
+  FRA_increased_border_controls_desc: "Hranice Francie musí být zabezpečené. Jen ti, které povolíme, by měli mít možnost vstoupit na naše území." # todo: NEW TRANSLATION
+  FRA_popular_ministry_idea: "Ministerstvo pro ochranu lidové vůle" # todo: NEW TRANSLATION
+  FRA_popular_ministry_idea_desc: "Ministerstvo pro ochranu lidové vůle je ministerstvo vytvořené k zajištění toho, že lidé budou vždy správní." # todo: NEW TRANSLATION
+  FRA_idea_fra_usa_collab: "Americko-francouzská spolupráce v oblasti výzkumu a vývoje" # todo: NEW TRANSLATION
+  FRA_idea_fra_usa_collab_desc: "Americko-francouzská spolupráce za účelem zlepšení výzkumu nebude jen výnosná, ale může být velmi prospěšná pro posunutí našich dvou zemí do budoucnosti." # todo: NEW TRANSLATION
+  FRA_restoration_society_idea: "Společnosti pro obnovu" # todo: NEW TRANSLATION
+  FRA_restoration_society_idea_desc: "Společnosti pro obnovu ve Francii musí být reformovány, aby se sláva naší velké země vrátila. Sen o Napoleonovi musí žít skrze nás; lid se stane zosobněním našeho kdysi velkého impéria." # todo: NEW TRANSLATION
+  FRA_taxation_reform_idea: "Daňové reformy" # todo: NEW TRANSLATION
+  FRA_taxation_reform_idea_desc: "Uzavření několika úniků a zmírnění daňové zátěže pracující třídy pomůže podpořit hospodářský růst v zemi a zároveň povzbudí bohaté." # todo: NEW TRANSLATION
+  FRA_state_investments_in_sa: "Investice SA" # todo: NEW TRANSLATION
+  FRA_state_investments_in_sa_desc: "Total SA, dnes označovaný TotalEnergies, je název francouzské mezinárodní energetické společnosti, která byla založena v roce 1924. Francouzská vláda se rozhodla provést sérii státně vedených investic a nákupů podílů ve společnosti. Nákup podílů umožní, aby francouzský stát měl na společnosti zájem a pomůže minimalizovat korupci a zajistit ceny dostupné pro francouzské občany." # todo: NEW TRANSLATION
+  FRA_idea_central_decentral: "Byrokratická Reforma" # todo: NEW TRANSLATION
+  FRA_idea_central_decentral_desc: "Vláda naší země se rozhodla podstoupit řadu byrokratických reforem, aby se znovu etablovala a upravila různé procesy v našem vládním orgánu. Reformy se postupně projevují den ze dne a musíme pokračovat v těchto změnách zákonů, dokud nebudou plně využity." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army: "Vojenská reforma - armáda" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army_desc: "První z mnoha reforem začala armáda jako priorita. Zvolili jsme armádu jako nejdůležitější, protože může chránit hranice naší země i hranice našich spojenců." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_navy: "Vojenská reforma - námořnictvo" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_navy_desc: "První z mnoha reforem začalo námořnictvo jako priorita. Naše námořnictvo je důležité pro udržení klíčových zásobovacích spojení, projekci vojenské síly a zajištění našich zámořských území." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_air_force: "Vojenská reforma - letectvo" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_air_force_desc: "První z mnoha reforem začalo letectvo jako priorita. Letecké síly byly vybrány pro svou schopnost chránit naši zemi ze vzduchu a poskytovat efektivní podporu námořním a pozemním silám." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army_and_navy: "Vojenská reforma - armáda a námořnictvo" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army_and_navy_desc: "Náš další soubor reforem se zaměřuje na armádu a námořnictvo. Armáda a námořnictvo musí být společně lépe reformovány pro lepší koordinaci napříč složkami a efektivní obranu lodí a ještě efektivnější využívání námořních prostředků ve spolupráci s pozemními silami." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army_and_air_force: "Vojenská reforma - armáda a letectvo" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_army_and_air_force_desc: "Integrovaný výcvik spojení různých armádních složek a letectva a zlepšení mezi armádou a letectvem patří k nejzásadnějším. Propojení obou odvětví může a zajistí naše vítězství v nadcházejících konfliktech." # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_air_force_and_navy: "Vojenská reforma - letectvo a námořnictvo" # todo: NEW TRANSLATION
+  FRA_idea_military_improvement_air_force_and_navy_desc: "Letectvo a námořnictvo jsou téměř nerozlučná dvojice. Vylepšení zaměřená na tyto dvě odvětví nám umožní chránit naše zájmy i zájmy našich přátel, spojenců a naší civilní populace zde v Evropě i po celém světě." # todo: NEW TRANSLATION
+  FRA_idea_the_french_military: "Reformovaná armáda" # todo: NEW TRANSLATION
+  FRA_idea_the_french_military_desc: "Po letech, kdy armáda upadala, jsme se konečně odhodlali reformovat naši stárnoucí armádu. Nyní můžeme dále zdůraznit, že Francie je země, se kterou stojí za to spolupracovat, a že ji nelze podceňovat." # todo: NEW TRANSLATION
+  FRA_idea_fifth_power: "Pátá mocnost" # todo: NEW TRANSLATION
+  FRA_idea_fifth_power_desc: "Francie bývá často jednou z posledních a opomíjených velmocí na globální scéně. Jsme ve skutečnosti pátou nejsilnější velmocí a je naší povinností připomenout světu sílu, kterou francouzský lid má. Nebudeme zapomenuti a znovu se prosadíme jako země síly, prosperity a ctností v nadcházejícím století." # todo: NEW TRANSLATION
+  FRA_idea_french_nato_restructures: "Francouzsko-NATO vojenské restrukturalizace" # todo: NEW TRANSLATION
+  FRA_idea_french_nato_restructures_desc: "Naše armáda prošla nedávno sérií restrukturalizací, aby byla více kompatibilní s širší aliancí NATO. Zajišťuje plynulejší operace, spolupráci a společnou koordinaci mezi našimi silami a ostatními spojeneckými členy NATO." # todo: NEW TRANSLATION
+  FRA_idea_vive_la_france: "Vive la France!" # todo: NEW TRANSLATION
+  FRA_idea_vive_la_france_desc: "Francie bude nejsilnější zemí na Zemi. Ať žije Francie! Vive la France!" # todo: NEW TRANSLATION
+  FRA_idea_space_agency_name: "CNES" # todo: NEW TRANSLATION
+  FRA_idea_space_agency_name_desc: "Centre national d'études spatiales (CNES) je názvem francouzské národní vesmírné agentury. Byla založena v roce 1961 tehdejším prezidentem Charlesem de Gaulleem, což ji činí třetí nejstarší vesmírnou agenturou na světě po NASA a kosmickém programu Sovětského svazu a jeho nástupci Roskosmos. Nedávné změny v rozpočtu a další politické změny vedly k reformování CNES do současné podoby." # todo: NEW TRANSLATION
+  FRA_idea_reformed_cnes: "Reformované CNES" # todo: NEW TRANSLATION
+  FRA_idea_reformed_cnes_desc: "Centre national d'études spatiales (CNES) je název francouzské národní vesmírné agentury. Byla založena v roce 1961 tehdejším prezidentem Charlesem de Gaulleem, což ji činí třetí nejstarší vesmírnou agenturou na světě po NASA a kosmickém programu Sovětského svazu a jeho nástupci Roskosmos. Nedávné rozpočtové posuny a jiné politické změny vedly k reformování CNES do současné podoby." # todo: NEW TRANSLATION
+  FRA_idea_cnes_failing: "Nedostatky rozpočtu CNES" # todo: NEW TRANSLATION
+  FRA_idea_cnes_failing_desc: "CNES měl v uplynulém roce několik rozpočtových nedostatků, což vyvolalo značný odpor vůči odvětví, jelikož Evropská unie navrhuje vlastní vesmírnou agenturu." # todo: NEW TRANSLATION
+  FRA_idea_prep_the_launch: "Příprava startu" # todo: NEW TRANSLATION
+  FRA_idea_prep_the_launch_desc: "CNES se aktuálně připravuje na vypuštění kosmického nosiče. Bude to trvat nějaký čas, než bude připraven ke startu." # todo: NEW TRANSLATION
+  FRA_idea_space_research: "Vesmírný výzkum" # todo: NEW TRANSLATION
+  FRA_idea_space_research_desc: "Výzkum vesmíru je jedním z nejprospěšnějších způsobů, jak lépe porozumět světu kolem nás. Zaměření našeho výzkumu ve vesmíru nám může zajistit, že budeme o krok napřed před našimi soupeři a konkurencí." # todo: NEW TRANSLATION
+  FRA_idea_expanding_r_and_d: "Rozšiřování výzkumu a vývoje" # todo: NEW TRANSLATION
+  FRA_idea_expanding_r_and_d_desc: "Vláda investuje do výzkumu a vývoje a to patří mezi její klíčové cíle. Poskytněme našim výzkumníkům veškeré financování, které potřebují, teď hned!" # todo: NEW TRANSLATION
+  FRA_idea_nasa_partnership: "Partnerství CNES-NASA" # todo: NEW TRANSLATION
+  FRA_idea_nasa_partnership_desc: "Partnerství mezi americkou vesmírnou agenturou NASA a naší CNES není jen o zisku, ale o vzájemném zájmu. Rozšiřování a jednání s naším spojencem může zlepšit vědecký výzkum napříč oborem a pomoci rozšířit obě agentury do nových oblastí." # todo: NEW TRANSLATION
+  FRA_idea_Energy_in_France: "Energetika ve Francii" # todo: NEW TRANSLATION
+  FRA_idea_Energy_in_France_desc: "Energetický sektor Francie byl dlouho nezávislý na ostatních státech, do značné míry díky velkému počtu jaderných reaktorů v zemi. Dalším rozšířením našich jaderných reaktorů a nahrazením je modernějšími protějšky vznikne nová a silnější Francie." # todo: NEW TRANSLATION
+  FRA_idea_Light_for_Europe: "Světlo Evropy" # todo: NEW TRANSLATION
+  FRA_idea_Light_for_Europe_desc: "Nedávná vylepšení naší obnovitelné energetické infrastruktury již přinášejí dividendy. Výkon obnovitelných zdrojů obecně je vyšší než kdy dříve a dodaná energie se stala zisková pro prodej do celé Evropy, čímž se naplní kapsy vlády k využití pro lidi Francie." # todo: NEW TRANSLATION
+  FRA_Impact_of_tourism: "Dopad cestovního ruchu" # todo: NEW TRANSLATION
+  FRA_Impact_of_tourism_desc: "Turistika je jedním z nejvýnosnějších odvětví naší velké země díky živé kultuře a historickým památkám. Není to však bez důsledků. Místní obyvatelé a turisté se často neshodují, protože turisté mohou necitlivě zacházet s kulturními místy. Dopad turistiky se projevuje dalekosáhlými dopady na místní obyvatelstvo a ekonomické výhody jsou rovněž cítit s rozsáhlými razancemi, které činí tyto regiony ekonomicky životaschopnými nebo bohatšími než dříve." # todo: NEW TRANSLATION
+  FRA_Balanced_and_profitable_tourism: "Vyvážený a ziskový cestovní ruch" # todo: NEW TRANSLATION
+  FRA_Balanced_and_profitable_tourism_desc: "Turismus, který je vyvážený jak pro turisty, tak pro místní obyvatele a zároveň ekonomicky ziskový pro všechny zúčastněné, je jedním z velkých pilířů každé země." # todo: NEW TRANSLATION
+  FRA_A_new_transport_revolution: "Dopravní revoluce" # todo: NEW TRANSLATION
+  FRA_A_new_transport_revolution_desc: "Doprava se neustále mění v rámci revoluce po desetiletí. Nezůstaneme pozadu v této nové dopravní revoluci; zaměříme se na rychlejší veřejnou dopravu, lepší infrastrukturu a efektivnější vozidla pro dobro Francie." # todo: NEW TRANSLATION
+  FRA_idea_French_Agriculture: "Francouzské zemědělství" # todo: NEW TRANSLATION
+  FRA_idea_French_Agriculture_desc: "Francouzské zemědělství patří k nejznámějším na světě. Některé naše produkty směřují do vín, sýrů, mléka a dalších, které se vyváží do celé Evropy." # todo: NEW TRANSLATION
+  FRA_food_autonomy: "Potravinová autonomie" # todo: NEW TRANSLATION
+  FRA_food_autonomy_desc: "Prosperita národa je spojena se schopností zůstat potravinově soběstačným. Usilování o vlastní potravinovou autonomii není jen ekonomicky chytré, ale i nezbytné pro ochranu naší role na globální scéně." # todo: NEW TRANSLATION
+  FRA_cfa_franc_custodian: "Správce CFA franku" # todo: NEW TRANSLATION
+  FRA_cfa_franc_custodian_desc: "Vytvořili jsme CFA Franc, abychom chránili naše kolonie před devalvací franku po druhé světové válce. I když frank již nepoužíváme, nadále jsme správcem měny západoafrických zemí. Tyto země u nás drží polovinu svých pokladních rezerv a díky tomu můžeme na jejich aktivech monopolizovat." # todo: NEW TRANSLATION
+  the_eco: "Eco" # todo: NEW TRANSLATION
+  the_eco_desc: "ECO byla navrhovaná měna v Západní Africe mezi státy ECOWAS a západoafrickou měnovou zónou. Držitelé franku CFA ve frankofonních zemích rovněž usilovali o podporu nové měny. Umožňuje měnové sjednocení regionu, což dovoluje další a snazší obchod se zbožím a poskytuje jednotné platební médium, za které se mohou státy postavit." # todo: NEW TRANSLATION
+  FRA_idea_the_french_pillar_of_counterterroism: "Pilíř boje proti terorismu" # todo: NEW TRANSLATION
+  FRA_idea_the_french_pillar_of_counterterroism_desc: "Terorismus sílí a je na nás, lidech Francie, abychom příliv zastavili a ochránili sebe, Evropu i všechny, kdo by mohli být poškozeni. Budoucnost Francie tváří v tvář nárůstu extremismu nebude vybojována jen slovy, ale silou našich rukou, když budeme čelit rostoucím hrozbám pro naši zemi." # todo: NEW TRANSLATION
+  FRA_idea_the_french_foreign_legion: "Francouzská cizinecká legie" # todo: NEW TRANSLATION
+  FRA_idea_the_french_foreign_legion_desc: "Cizinecká legie Francie je elitní sbor francouzské armády, který zahrnuje několik specializací, jako je pěchota, kavalerie, ženisté nebo výsadkové jednotky. Cizinecká legie je jedinečná bojová síla, protože umožňuje vstup všem cizím státním příslušníkům a je vysoce vycvičená." # todo: NEW TRANSLATION
+  FRA_idea_Grand_ambitions: "Velké ambice v Africe" # todo: NEW TRANSLATION
+  FRA_idea_Grand_ambitions_desc: "Afrika je zralá k získání a musíme postoupit vpřed a vyhlásit naše nové velké ambice. Je nesmírně důležité, abychom nadále upevňovali naši pozici v Africe, abychom se zajistili pro přítomnost i pro budoucnost všech Francouzů." # todo: NEW TRANSLATION
+  FRA_idea_development_investment: "Investice do rozvoje" # todo: NEW TRANSLATION
+  FRA_idea_development_investment_desc: "[FRA.GetNameWithFlag] nám poskytuje ekonomickou pomoc, která nám pomáhá rozvíjet naši zemi." # todo: NEW TRANSLATION
+  FRA_idea_means_of_production: "Výrobní prostředky" # todo: NEW TRANSLATION
+  FRA_idea_means_of_production_desc: "Výrobní prostředky byly a mají být kontrolovány dělnickou třídou. Jsme dělníci a musíme uchopit prostředky od těch, kteří je chtějí vzít nám. Naše budoucnost by měla být v našich vlastních rukou, ne v rukou buržoazie." # todo: NEW TRANSLATION
+  AFRICA_idea_nepad_modifier: "Program rozvoje NEPAD" # todo: NEW TRANSLATION
+  AFRICA_idea_nepad_modifier_desc: "Nové partnerství pro rozvoj Afriky (zkráceně NEPAD) je program hospodářského rozvoje vyvinutý Africkou unií ve spolupráci s Evropskou unií, Čínou, Japonskem a dalšími členy G8. Zvlášť nás zajímá rozvoj NEPAD a stali jsme se hlavním finančním a politickým podporovatelem tohoto programu z Evropské unie. Měli bychom usilovat o rozšíření rozvoje a zvýšení financování a podpory programu, aby pomohl celé Africe.\n\n[FRA.GetNameWithFlag] je primárním sponzorem tohoto programu." # todo: NEW TRANSLATION
+  AFRICA_idea_nepad_modifier_tt: "Když je ovlivněn §Y[FRA.GetNameWithFlag]§!, $foreign_influence_defense_modifier$ se sníží o §Y10%§!\n" # todo: NEW TRANSLATION
+  FRA_idea_nepad_modifier: "Sponzor rozvojového programu NEPAD" # todo: NEW TRANSLATION
+  FRA_idea_nepad_modifier_desc: "Nové partnerství pro rozvoj Afriky (zkráceně NEPAD) je program hospodářského rozvoje vyvinutý Africkou unií ve spolupráci s Evropskou unií, Čínou, Japonskem a dalšími členy G8. Zvlášť nás zajímá rozvoj NEPAD a stali jsme se hlavním finančním a politickým podporovatelem tohoto programu z Evropské unie. Měli bychom usilovat o rozšíření rozvoje a zvýšení financování a podpory programu, aby pomohl celé Africe.\n\n[FRA.GetNameWithFlag] je primárním sponzorem tohoto programu a jako takový získáme další výhody, například zvýšený zahraniční vliv v zemích, které z programu aktuálně profitují.\n" # todo: NEW TRANSLATION
+  FRA_idea_nepad_modifier_cost_tt: "Naše sponzorství rozvoje AU NEPAD stojí $[?FRA.FRA_nepad_sponsor_weekly_cost|-3]b týdně." # todo: NEW TRANSLATION
+  FRA_unrestricted_subjugation_idea: "Neomezené podrobení" # todo: NEW TRANSLATION
+  FRA_unrestricted_subjugation_idea_desc: "Kolonie, které jsme vlastnili, nám přinesly neuvěřitelné bohatství a obrovský respekt na světové scéně. Musíme se v některých ohledech vrátit ke starším způsobům a znovu se prosadit vůči jiným národům a chránit to, co by nám mělo právoplatně patřit. Podrobení může nastat různými způsoby, například vojenskou silou, diplomatickým nátlakem a mnoha dalšími. Překážky, které nám v tom brání, musí být odstraněny." # todo: NEW TRANSLATION
+  FRA_SYR_anti_assad_regime_message_idea: "Propaganda proti Asadovu režimu" # todo: NEW TRANSLATION
+  FRA_SYR_anti_assad_regime_message_idea_desc: "[FRA.GetNameWithFlag] začal vysílat a poskytovat propagandu proti syrské vládě. Zprávy začaly podkopávat vládu a nadále radikalizují mládež proti naší vládnoucí třídě. Také ukazují, že vláda je náchylná k zahraničnímu vlivu." # todo: NEW TRANSLATION
+  FRA_educational_development_idea: "Rozvoj vzdělávání" # todo: NEW TRANSLATION
+  FRA_educational_development_idea_desc: "[FRA.GetNameWithFlag] pomáhá s vzdělávacími programy v naší zemi. Vzdělávací rozvoj snižuje část nákladů a zároveň nám umožňuje modernizovat a zlepšit současnou úroveň vzdělávání." # todo: NEW TRANSLATION
+  FRA_resource_prospects_idea: "Průzkum surovin" # todo: NEW TRANSLATION
+  FRA_resource_prospects_idea_desc: "[FRA.GetNameWithFlag] v současnosti pomáhá při průzkumu surovin v naší zemi, aby potenciálně poskytl ekonomice více možností pro rozvoj." # todo: NEW TRANSLATION
+  FRA_SYR_escalation_from_the_damascus_spring_idea: "Escalace z Damašského jara" # todo: NEW TRANSLATION
+  FRA_SYR_escalation_from_the_damascus_spring_idea_desc: "[FRA.GetNameWithFlag] nadále šíří propagandu o tom, že bychom měli být demokratickou zemí. Tyto snahy nadále podkopávají našeho vůdce [SYR.GetLeader], zatímco se snažíme stabilizovat zemi." # todo: NEW TRANSLATION
+  FRA_faction_the_paris_accord: "Pařížská dohoda" # todo: NEW TRANSLATION
+  FRA_house_of_bonaparte_crowned: "Bonaparte je korunován!" # todo: NEW TRANSLATION
+  FRA_a_peaceful_rise_flag: "Mírová zahraniční politika" # todo: NEW TRANSLATION
+  FRA_an_aggressive_expansionism_flag: "Agresivní zahraniční politika" # todo: NEW TRANSLATION
+  FRA_aze_supports_our_enemy: "Podporuje Arménii" # todo: NEW TRANSLATION
+  FRA_antagonize_syria_opinion: "Provokuje nás!" # todo: NEW TRANSLATION
+  FRA_haiti_demands_reparations_opinion: "Požadovány reparace" # todo: NEW TRANSLATION
+  FRA_repealed_the_ordinance_opinion: "Nařízení zrušeno" # todo: NEW TRANSLATION
+  FRA_francophone_solidarity_opinion: "Frankofonní solidarita" # todo: NEW TRANSLATION
+  FRA_supported_nepad_development_opinion: "Podpořil rozvoj NEPAD" # todo: NEW TRANSLATION

@@ -1,174 +1,205 @@
 ﻿l_english:
- emotional: "Emocionální" # todo: NEW TRANSLATION
- emotional_desc: "Snadno podléhá emocionálním argumentům spíše než racionálním faktům." # todo: NEW TRANSLATION
- rational: "Racionální" # todo: NEW TRANSLATION
- rational_desc: "Je vypočítavý jedinec, který se nenechá ovlivnit emotivními výzvami." # todo: NEW TRANSLATION
- cautious: "Opatrný" # todo: NEW TRANSLATION
- cautious_desc: "Je opatrný při rozhodování." # todo: NEW TRANSLATION
- communist_sympathizer: "Komunistický sympatizant" # todo: NEW TRANSLATION
- communist_sympathizer_desc: "Ačkoli navenek vypadají jinak, někteří říkají jedno, ale věří v něco jiného." # todo: NEW TRANSLATION
- rash: "Unáhlený" # todo: NEW TRANSLATION
- rash_desc: "Má tendenci činit rychlá, impulzivní rozhodnutí." # todo: NEW TRANSLATION
- ruthless: "Nemilosrdný" # todo: NEW TRANSLATION
- ruthless_desc: "" # todo: NEW TRANSLATION
- greedy: "Chamtivý" # todo: NEW TRANSLATION
- greedy_desc: "Je chamtivý a nikdy mu nic nestačí." # todo: NEW TRANSLATION
- humble: "Skromný" # todo: NEW TRANSLATION
- humble_desc: "Je skromný, opak chamtivosti." # todo: NEW TRANSLATION
- honest: "Čestný" # todo: NEW TRANSLATION
- honest_desc: "Je považován za čestného v očích mezinárodního společenství." # todo: NEW TRANSLATION
- deceitful: "Nečestný" # todo: NEW TRANSLATION
- deceitful_desc: "Je považován za nespolehlivou osobu v očích mezinárodního společenství." # todo: NEW TRANSLATION
- war_criminal: "Válečný zločinec" # todo: NEW TRANSLATION
- war_criminal_desc: "Je hledán tribunálem Mezinárodního trestního soudu pro zločiny proti lidskosti." # todo: NEW TRANSLATION
- army_general: "Armádní generál" # todo: NEW TRANSLATION
- internationally_decorated_commander: "Mezinárodně dekorovaný velitel" # todo: NEW TRANSLATION
- technocrat: "Technokrat" # todo: NEW TRANSLATION
- zealous: "Horlivý" # todo: NEW TRANSLATION
- zealous_desc: "Je náboženský fanatik." # todo: NEW TRANSLATION
- stubborn: "Tvrdohlavý" # todo: NEW TRANSLATION
- stubborn_desc: "Ať už k lepšímu či horšímu, je tato osoba známá tím, že se nikdy nevzdává." # todo: NEW TRANSLATION
- agricultural_resource_economist: "Ekonom zemědělských zdrojů" # todo: NEW TRANSLATION
- ecological_economist: "Ekologický ekonom" # todo: NEW TRANSLATION
- sly: "Lstivý" # todo: NEW TRANSLATION
- sly_desc: "Je znám používáním nekonvenčních a nenápadných metod, jak prosadit své." # todo: NEW TRANSLATION
- narcissist: "Narcis" # todo: NEW TRANSLATION
- narcissist_desc: "Narcisté jsou známi tím, že se starají hlavně o sebe a o svůj osobní obraz." # todo: NEW TRANSLATION
- tech_savy: "Technicky zdatný" # todo: NEW TRANSLATION
- tech_savy_desc: "Je na špici v oblasti znalostí nových technologií." # todo: NEW TRANSLATION
- polished: "Uhlazený" # todo: NEW TRANSLATION
- polished_desc: "Jsou bezchybní v tom, jak se prezentují na politické scéně." # todo: NEW TRANSLATION
- likeable: "Sympatický" # todo: NEW TRANSLATION
- likeable_desc: "Je snadno srozumitelný obyčejným lidem tím, že se nestydí za drobné vady, které ho dělají lidským." # todo: NEW TRANSLATION
- inexperienced: "Nezkušený" # todo: NEW TRANSLATION
- inexperienced_desc: "Má malé nebo žádné politické dovednosti." # todo: NEW TRANSLATION
- capable: "Schopný" # todo: NEW TRANSLATION
- capable_desc: "Prokázal schopnou úroveň politických dovedností." # todo: NEW TRANSLATION
- political_dancer: "Mistr manévrů" # todo: NEW TRANSLATION
- political_dancer_desc: "Má velké zkušenosti a prokázal mistrné porozumění politickému manévrování." # todo: NEW TRANSLATION
- geopolitical_thinker: "Geopolitický myslitel" # todo: NEW TRANSLATION
- geopolitical_thinker_desc: "Díky vnímání mezinárodní politiky jako cynické hry založené na národních zájmech je tato osoba schopna plně využít své znalosti historie a geografie." # todo: NEW TRANSLATION
- interventionist: "Intervencionista" # todo: NEW TRANSLATION
- interventionist_desc: "Je nakloněn použití vojenské síly k rozšíření vlivu své země a potírání hrozeb národní bezpečnosti." # todo: NEW TRANSLATION
- alzheimer: "Alzheimerova choroba" # todo: NEW TRANSLATION
- alzheimer_desc: "Nemoc způsobující postupný úpadek paměti a kognitivních schopností. Zhoršuje jejich vládnutí." # todo: NEW TRANSLATION
- incapable: "Neschopný" # todo: NEW TRANSLATION
- incapable_desc: "Kvůli nemoci je tato osoba neschopná účinně vládnout. Skutečná moc je tudíž vykonávána v zákulisí." # todo: NEW TRANSLATION
- drunkard: "Opilec" # todo: NEW TRANSLATION
- drunkard_desc: "Tato osoba je alkoholik a často zdroj národního zahanbení při veřejných vystoupeních." # todo: NEW TRANSLATION
- pro_china: "Pro-čínský" # todo: NEW TRANSLATION
- pro_china_desc: "Je úzce spojen s čínskými zájmy nebo je jejich zjevnou loutkou." # todo: NEW TRANSLATION
- pro_russia: "Pro-ruský" # todo: NEW TRANSLATION
- pro_russia_desc: "Je úzce spojen s ruskými zájmy nebo je jejich zjevnou loutkou." # todo: NEW TRANSLATION
- pro_american: "Proamerický" # todo: NEW TRANSLATION
- pro_american_desc: "Je úzce spojen s americkými zájmy nebo je jejich zjevnou loutkou." # todo: NEW TRANSLATION
- pro_brotherhood: "Pro-Muslimské bratrstvo" # todo: NEW TRANSLATION
- pro_brotherhood_desc: "Je členem Muslimského bratrstva, nebo je jejich zájmům velmi nakloněn." # todo: NEW TRANSLATION
- pro_iranian: "Proíránský" # todo: NEW TRANSLATION
- pro_iranian_desc: "Je úzce spojen se zájmy Islámské republiky Íránu nebo je jejich zjevnou loutkou." # todo: NEW TRANSLATION
- pro_isis: "Pro-ISIS" # todo: NEW TRANSLATION
- pro_isis_desc: "Je aktivním nebo tajným stoupencem teroristické skupiny ISIS." # todo: NEW TRANSLATION
- pro_israel: "Proizraelský" # todo: NEW TRANSLATION
- pro_israel_desc: "Podporuje Izrael." # todo: NEW TRANSLATION
- pro_independence_taiwan: "Podporuje nezávislost Tchaj-wanu" # todo: NEW TRANSLATION
- military_genius: "Vojenský génius" # todo: NEW TRANSLATION
- military_genius_desc: "Skutečný mistr v organizaci vojenských sil." # todo: NEW TRANSLATION
- legendary_guerrilla_leader: "Legendární vůdce partyzánů" # todo: NEW TRANSLATION
- legendary_guerrilla_leader_desc: "Opakovaný svrhovač vlád." # todo: NEW TRANSLATION
- pro_al_qaeda: "Pro al-Káidu" # todo: NEW TRANSLATION
- pro_al_qaeda_desc: "Je aktivním nebo tajným stoupencem teroristické sítě al-Káida." # todo: NEW TRANSLATION
- pro_saudi: "Pro-saúdský" # todo: NEW TRANSLATION
- pro_saudi_desc: "Je úzce spojen se zájmy Saúdů, nebo je jejich zjevnou loutkou." # todo: NEW TRANSLATION
- anti_zionist: "Antisionista" # todo: NEW TRANSLATION
- supports_us: "Podporuje nás" # todo: NEW TRANSLATION
- businessman: "Pozadí: Podnikatel" # todo: NEW TRANSLATION
- businessman_desc: "Má zkušenosti z podnikání a pevné znalosti ekonomie." # todo: NEW TRANSLATION
- lawyer: "Pozadí: Právník" # todo: NEW TRANSLATION
- lawyer_desc: "Má právnické vzdělání a dobré porozumění právním rámcům." # todo: NEW TRANSLATION
- engineer: "Pozadí: Inženýr" # todo: NEW TRANSLATION
- engineer_desc: "Vzdělán jako inženýr, tato osoba má pevný základ pro pochopení složitých systémů vládnutí." # todo: NEW TRANSLATION
- scientist: "Pozadí: Vědec" # todo: NEW TRANSLATION
- scientist_desc: "Vzdělán jako vědec, tato osoba má pevný základ pro pochopení složitých systémů vládnutí." # todo: NEW TRANSLATION
- doctor: "Pozadí: Lékař" # todo: NEW TRANSLATION
- doctor_desc: "Vzdělán jako lékař, tato osoba má vynikající praktické zkušenosti." # todo: NEW TRANSLATION
- spy: "Pozadí: Důstojník zpravodajských služeb" # todo: NEW TRANSLATION
- writer: "Pozadí: Spisovatel" # todo: NEW TRANSLATION
- writer_desc: "Jako spisovatel nebo novinář má tato osoba dobré pochopení fungování společnosti." # todo: NEW TRANSLATION
- economist: "Pozadí: Ekonom" # todo: NEW TRANSLATION
- military_career: "Pozadí: Vojenská kariéra" # todo: NEW TRANSLATION
- military_career_desc: "Dlouholetá vojenská minulost dělá z této osoby odborníka na vojenské záležitosti." # todo: NEW TRANSLATION
- guerrilla_leader: "Pozadí: Partyzánský vůdce" # todo: NEW TRANSLATION
- guerrilla_leader_desc: "Po vybojování si pozice moci je tato osoba obvykle charismatická a schopná v otázkách vojenských." # todo: NEW TRANSLATION
- king: "Pozadí: Královská rodina" # todo: NEW TRANSLATION
- king_desc: "Jako člen královské rodiny byl zvlášť připravován na moc, může však postrádat zkušenosti z civilního života." # todo: NEW TRANSLATION
- cleric: "Pozadí: Duchovní" # todo: NEW TRANSLATION
- cleric_desc: "S náboženským vzděláním má tato osoba silný vliv na náboženské masy v zemi." # todo: NEW TRANSLATION
- career_politician: "Pozadí: Kariérní politik" # todo: NEW TRANSLATION
- career_politician_desc: "Tato osoba udělala z řízení státu a kandidování své povolání, a proto jí může chybět zkušenost z reálného života." # todo: NEW TRANSLATION
- sayyid: "Sayyid" # todo: NEW TRANSLATION
- sayyid_desc: "Je uznáván jako potomek proroka Mohameda a má díky tomu větší autoritu." # todo: NEW TRANSLATION
- qureshi: "Qureshi" # todo: NEW TRANSLATION
- qureshi_desc: "Má větší autoritu jako člen Qureshi, kmene proroka Mohameda. Většina sunnitských muslimů věří, že jen Qureshi může být povýšen do titulu chalífy." # todo: NEW TRANSLATION
- islamophobe: "Islámofob" # todo: NEW TRANSLATION
- islamophobe_desc: "Nenávidí islám a muslimy obecně." # todo: NEW TRANSLATION
- IRGC_Member: "Člen Revolučních gard" # todo: NEW TRANSLATION
- western_conservatism: "Ideologie: Konzervativní" # todo: NEW TRANSLATION
- western_liberalism: "Ideologie: Liberální" # todo: NEW TRANSLATION
- western_socialism: "Ideologie: Sociálně demokratická" # todo: NEW TRANSLATION
- western_Western_Autocracy: "Ideologie: Prozápadní autokrat" # todo: NEW TRANSLATION
- western_technocrat: "Technokrat" # todo: NEW TRANSLATION
- western_technocrat_desc: "§WSnižuje úrokovou sazbu o§! §G3%§!" # todo: NEW TRANSLATION
- emerging_Communist-State: "Ideologie: Komunistická" # todo: NEW TRANSLATION
- emerging_Conservative: "Ideologie: Reakcionářská" # todo: NEW TRANSLATION
- emerging_Autocracy: "Ideologie: Paternalistický autokrat" # todo: NEW TRANSLATION
- emerging_Vilayat_e_Faqih: "Ideologie: Tvrdý šíitský revolucionář" # todo: NEW TRANSLATION
- emerging_Mod_Vilayat_e_Faqih: "Ideologie: Reformní šíitský revolucionář" # todo: NEW TRANSLATION
- emerging_anarchist_communism: "Ideologie: Levicový radikál" # todo: NEW TRANSLATION
- salafist_Kingdom: "Ideologie: Pro-establishment salafismus" # todo: NEW TRANSLATION
- salafist_Caliphate: "Ideologie: Salafistický džihádismus" # todo: NEW TRANSLATION
- neutrality_Neutral_conservatism: "Ideologie: Konzervativní" # todo: NEW TRANSLATION
- neutrality_oligarchism: "Ideologie: Oligarchický" # todo: NEW TRANSLATION
- neutrality_neutral_Social: "Ideologie: Sociálně demokratický" # todo: NEW TRANSLATION
- neutrality_Neutral_Libertarian: "Ideologie: Libertariánský" # todo: NEW TRANSLATION
- neutrality_Neutral_Autocracy: "Ideologie: Nezařazený autokrat" # todo: NEW TRANSLATION
- neutrality_Neutral_Communism: "Ideologie: Komunistická" # todo: NEW TRANSLATION
- neutrality_Neutral_Muslim_Brotherhood: "Ideologie: Mírný islamismus" # todo: NEW TRANSLATION
- neutrality_Neutral_green: "Ideologie: Zelená" # todo: NEW TRANSLATION
- nationalist_Nat_Autocracy: "Ideologie: Vojenská junta" # todo: NEW TRANSLATION
- nationalist_Nat_Fascism: "Ideologie: Fašistická" # todo: NEW TRANSLATION
- nationalist_Nat_Populism: "Ideologie: Nacionalistický populismus" # todo: NEW TRANSLATION
- nationalist_Monarchist: "Ideologie: Monarchistická" # todo: NEW TRANSLATION
- polish_president: "Prezident Polska" # todo: NEW TRANSLATION
- afghanistan_lion_of_panjshir: "Lev Panjšíru" # todo: NEW TRANSLATION
- emperor_of_japan: "Císař Japonska" # todo: NEW TRANSLATION
- former_armor_commander: "Bývalý velitel obrněných jednotek" # todo: NEW TRANSLATION
- former_naval_commander: "Bývalý námořní velitel" # todo: NEW TRANSLATION
- father_of_the_nation: "Otec národa" # todo: NEW TRANSLATION
- opposes_muslim_brotherhood: "Je proti Muslimskému bratrstvu" # todo: NEW TRANSLATION
- corruptible: "Korumpovatelný" # todo: NEW TRANSLATION
- samdech_akka_moha: "Samdech Akka Moha" # todo: NEW TRANSLATION
- ex_khmer_rouge_solider: "Bývalý voják Rudých Khmerů" # todo: NEW TRANSLATION
- established_parliament_member: "Zkušený poslanec" # todo: NEW TRANSLATION
- pro_western_clique: "Prozápadní klika" # todo: NEW TRANSLATION
- emerging_clique: "Vznikající klika" # todo: NEW TRANSLATION
- neutrality_clique: "Nezařazená klika" # todo: NEW TRANSLATION
- Eternal_Leader: "Věčný vůdce" # todo: NEW TRANSLATION
- Eternal_Leader_D: "§W--------------\nKim Čong-il je naším Věčným vůdcem, generalissimem KLDR, Věčným generálním tajemníkem Korejské strany práce, Věčným předsedou Národní obranné komise, Věčným vůdcem Korejské strany práce.§!" # todo: NEW TRANSLATION
- experienced_banker: "Zkušený bankéř" # todo: NEW TRANSLATION
- defender_of_democracy: "Obhájce demokracie" # todo: NEW TRANSLATION
- actor_politician: "Herec" # todo: NEW TRANSLATION
- Pro_Western: "Prozápadní" # todo: NEW TRANSLATION
- Fighter: "Bojovník" # todo: NEW TRANSLATION
- Reformer: "Reformátor" # todo: NEW TRANSLATION
- fighting_with_at_least_18_units: "Právě velí více než 17 jednotkám\n" # todo: NEW TRANSLATION
- last_dictator_of_europe: "Poslední diktátor Evropy" # todo: NEW TRANSLATION
- anti_russian: "Rusofob" # todo: NEW TRANSLATION
- anti_russian_desc: "Zenon Poznyak vždy a všude viděl stopu KGB. Je zapáleným odpůrcem Ruska a jeho existence." # todo: NEW TRANSLATION
- patriot_of_belarus: "Patriot Běloruska" # todo: NEW TRANSLATION
- hater_opposition: "Nenávistník opozice" # todo: NEW TRANSLATION
- hater_opposition_desc: "Soudruh Belokoněv je vášnivý odpůrce opozice. Jeho výroky, že je nutné odstraňovat opozici po desítkách, budí hrůzu v liberální části naší země." # todo: NEW TRANSLATION
- leader_of_wagner: "Vůdce Wagneru" # todo: NEW TRANSLATION
- leader_of_wagner_nazi: "Vůdce Wagneru" # todo: NEW TRANSLATION
- certified_nationalist: "Ověřený nacionalista" # todo: NEW TRANSLATION
- anti_west: "Nenávistník Západu" # todo: NEW TRANSLATION
- anti_west_desc: "Nenávist k Západu má v krvi." # todo: NEW TRANSLATION
+  emotional: "emoční" # todo: NEW TRANSLATION
+  emotional_desc: "Je snadno ovlivnitelný emocionálními argumenty spíše než racionálními fakty." # todo: NEW TRANSLATION
+  rational: "Racionální" # todo: NEW TRANSLATION
+  rational_desc: "Je vypočítavý jedinec, který se nikdy nenechá ovlivnit emocionálními apelacemi." # todo: NEW TRANSLATION
+  cautious: "Ostražitý" # todo: NEW TRANSLATION
+  cautious_desc: "Je opatrný při rozhodování." # todo: NEW TRANSLATION
+  communist_sympathizer: "Komunistický sympatizant" # todo: NEW TRANSLATION
+  communist_sympathizer_desc: "Navzdory navenek zjevnému, někteří jen říkají jedno a věří v jiné." # todo: NEW TRANSLATION
+  rash: "Ukvapený" # todo: NEW TRANSLATION
+  rash_desc: "Rád dělá rychlá, impulzivní rozhodnutí." # todo: NEW TRANSLATION
+  ruthless: "Nemilosrdný" # todo: NEW TRANSLATION
+  ruthless_desc: "" # todo: NEW TRANSLATION
+  greedy: "Lakomý" # todo: NEW TRANSLATION
+  greedy_desc: "Je lakomý a nikdy nemá dost ničeho." # todo: NEW TRANSLATION
+  humble_desc: "Je skromný, opak lakomství." # todo: NEW TRANSLATION
+  honest: "Poctivý" # todo: NEW TRANSLATION
+  honest_desc: "Je poctivý v očích mezinárodního společenství." # todo: NEW TRANSLATION
+  deceitful: "Podvodný" # todo: NEW TRANSLATION
+  deceitful_desc: "Je nespolehlivou osobou v očích mezinárodního společenství." # todo: NEW TRANSLATION
+  war_criminal: "Válečný zločinec" # todo: NEW TRANSLATION
+  war_criminal_desc: "Je hledán tribunálem ICC za zločiny proti lidskosti." # todo: NEW TRANSLATION
+  army_general: "Armádní generál" # todo: NEW TRANSLATION
+  internationally_decorated_commander: "Mezinárodně vyznamenaný velitel" # todo: NEW TRANSLATION
+  technocrat: "Technokrat" # todo: NEW TRANSLATION
+  zealous: "Nábožensky fanatik" # todo: NEW TRANSLATION
+  zealous_desc: "Je náboženský fanatik." # todo: NEW TRANSLATION
+  stubborn: "Tvrdohlavý" # todo: NEW TRANSLATION
+  stubborn_desc: "Ať už k lepšímu či horšímu, je známý tím, že nikdy nevzdává." # todo: NEW TRANSLATION
+  agricultural_resource_economist: "Ekonom zemědělských zdrojů" # todo: NEW TRANSLATION
+  ecological_economist: "Ekonom ekologický" # todo: NEW TRANSLATION
+  railroad_enthusiast: "Milovník železnic" # todo: NEW TRANSLATION
+  railroad_enthusiast_desc: "Má vášeň pro železnice a to, jak fungují." # todo: NEW TRANSLATION
+  logistical_tunnel_vision: "Logistické tunelové vidění" # todo: NEW TRANSLATION
+  logistical_tunnel_vision_desc: "Plánování a rozhodování se soustřeďuje téměř výhradně na logistiku při provádění těchto záležitostí." # todo: NEW TRANSLATION
+  dumbass_trait: "Nedokáže pochopit ekonomii" # todo: NEW TRANSLATION
+  sly: "Mazaný" # todo: NEW TRANSLATION
+  sly_desc: "Je známý tím, že používá nekonvenční a jemné metody k prosazení svých záměrů." # todo: NEW TRANSLATION
+  narcissist: "Narcista" # todo: NEW TRANSLATION
+  narcissist_desc: "Narcisté se obvykle starají především o sebe a o to, jak je vnímají ostatní." # todo: NEW TRANSLATION
+  tech_savy: "Technicky zdatný" # todo: NEW TRANSLATION
+  tech_savy_desc: "Je na špici poznání v oblasti nové technologie." # todo: NEW TRANSLATION
+  polished: "Uhlazený" # todo: NEW TRANSLATION
+  polished_desc: "Je uhlazený a bezchybný ve svém vystupování na politické scéně." # todo: NEW TRANSLATION
+  likeable: "Sympatický" # todo: NEW TRANSLATION
+  likeable_desc: "Dokáže se snadno ztotožnit s obyčejnými lidmi a nestydí se za drobné nedostatky, které ho činí lidským." # todo: NEW TRANSLATION
+  inexperienced: "Nezkušený" # todo: NEW TRANSLATION
+  inexperienced_desc: "Má málo či žádné politické dovednosti." # todo: NEW TRANSLATION
+  capable: "Schopný" # todo: NEW TRANSLATION
+  capable_desc: "Prokázal schopnou úroveň politických dovedností." # todo: NEW TRANSLATION
+  political_dancer: "Mistr manévrů" # todo: NEW TRANSLATION
+  political_dancer_desc: "Má bohaté zkušenosti a prokázal mistrné pochopení politického manévrování." # todo: NEW TRANSLATION
+  geopolitical_thinker: "Geopolitický myslitel" # todo: NEW TRANSLATION
+  geopolitical_thinker_desc: "Díky chápání mezinárodní politiky jako cynické hry založené na národních zájmech je schopen plně využít své znalosti historie a geografie." # todo: NEW TRANSLATION
+  supreme_leader_of_iran: "Nejvyšší vůdce Íránu" # todo: NEW TRANSLATION
+  interventionist: "Intervenční" # todo: NEW TRANSLATION
+  interventionist_desc: "Má sklony k použití vojenské síly k rozšíření vlivu své země a potlačení hrozeb pro národní bezpečnost." # todo: NEW TRANSLATION
+  alzheimer: "Alzheimerova choroba" # todo: NEW TRANSLATION
+  alzheimer_desc: "Onemocnění způsobující postupný úbytek paměti a kognitivních schopností. Ztěžuje jejich vládu." # todo: NEW TRANSLATION
+  incapable: "Neschopný" # todo: NEW TRANSLATION
+  incapable_desc: "Kvůli nemoci je neschopný vládnout efektivně. Reálná moc je tedy držena v zákulisí." # todo: NEW TRANSLATION
+  drunkard: "Opilec" # todo: NEW TRANSLATION
+  drunkard_desc: "Tato osoba je alkoholik a často bývá zdrojem národní ostudy při veřejných vystoupeních." # todo: NEW TRANSLATION
+  pro_china: "Pro-čínský" # todo: NEW TRANSLATION
+  pro_china_desc: "Je úzce spojený s čínskými zájmy, nebo přímo jejich loutkou." # todo: NEW TRANSLATION
+  pro_russia: "Pro-ruský" # todo: NEW TRANSLATION
+  pro_russia_desc: "Je úzce spojený s ruskými zájmy, nebo jejich loutkou." # todo: NEW TRANSLATION
+  pro_brotherhood: "Pro Muslimské bratrstvo" # todo: NEW TRANSLATION
+  pro_brotherhood_desc: "Je členem Muslimského bratrstva, nebo velmi sympatizuje s jejich zájmy." # todo: NEW TRANSLATION
+  pro_iranian: "Pro-íránský" # todo: NEW TRANSLATION
+  pro_iranian_desc: "Je úzce spojený s zájmy Islámské republiky Írán, nebo je jejich loutkou." # todo: NEW TRANSLATION
+  pro_isis: "Pro ISIS" # todo: NEW TRANSLATION
+  pro_isis_desc: "Je aktivním nebo utajeným podporovatelem teroristické organizace ISIS." # todo: NEW TRANSLATION
+  pro_israel: "Pro-Izrael" # todo: NEW TRANSLATION
+  pro_israel_desc: "Podporuje Izrael" # todo: NEW TRANSLATION
+  pro_east_africa: "Pro Východní Afriku" # todo: NEW TRANSLATION
+  pro_independence_taiwan: "Podporuje nezávislost Tchaj-wanu." # todo: NEW TRANSLATION
+  military_genius: "Válečný génius" # todo: NEW TRANSLATION
+  military_genius_desc: "Skutečný mistr v organizaci vojenských sil" # todo: NEW TRANSLATION
+  legendary_guerrilla_leader: "Legendární vůdce partyzánů" # todo: NEW TRANSLATION
+  legendary_guerrilla_leader_desc: "Opakovaně svrhuje vlády" # todo: NEW TRANSLATION
+  pro_al_qaeda: "Pro al-Qaeda" # todo: NEW TRANSLATION
+  pro_al_qaeda_desc: "Je aktivním nebo utajeným podporovatelem teroristické sítě al-Qaeda." # todo: NEW TRANSLATION
+  pro_saudi: "Pro-Saudi" # todo: NEW TRANSLATION
+  pro_saudi_desc: "Je úzce spojený s zájmy Saudů, nebo jejich loutkou." # todo: NEW TRANSLATION
+  pro_taliban: "Pro-Taliban" # todo: NEW TRANSLATION
+  pro_taliban_desc: "Je aktivním nebo utajeným podporovatelem Talibanů." # todo: NEW TRANSLATION
+  anti_zionist: "Antizionistický" # todo: NEW TRANSLATION
+  supports_us: "Podporuje nás" # todo: NEW TRANSLATION
+  businessman: "Pozadí: Podnikatel" # todo: NEW TRANSLATION
+  businessman_desc: "Má zkušenosti z kariéry v podnikání a solidní porozumění ekonomice." # todo: NEW TRANSLATION
+  lawyer: "Pozadí: Právník" # todo: NEW TRANSLATION
+  lawyer_desc: "Má zázemí jako právník, s pevným porozuměním právním rámcům." # todo: NEW TRANSLATION
+  ex_engineer: "Pozadí: Bývalý inženýr" # todo: NEW TRANSLATION
+  ex_engineer_desc: "Tato osoba má zkušenosti jako inženýr a je velice obeznámena s projekty inženýrského designu." # todo: NEW TRANSLATION
+  diplomat: "Pozadí: Diplomat" # todo: NEW TRANSLATION
+  diplomat_desc: "Dříve působil jako diplomat a je zručný v mezinárodních záležitostech." # todo: NEW TRANSLATION
+  engineer: "Pozadí: Inženýr" # todo: NEW TRANSLATION
+  engineer_desc: "Vzdělán jako inženýr, má solidní základ pro pochopení složitých systémů řízení." # todo: NEW TRANSLATION
+  farmer: "Pozadí: Zemědělec" # todo: NEW TRANSLATION
+  farmer_desc: "Jako bývalý zemědělec je obeznámen s celým zemědělským chodem." # todo: NEW TRANSLATION
+  aviation_engineer: "Pozadí: Letecký inženýr" # todo: NEW TRANSLATION
+  aviation_engineer_desc: "Jako letecký inženýr má jedinečný vhled do celého leteckého systému." # todo: NEW TRANSLATION
+  scientist: "Pozadí: Vědec" # todo: NEW TRANSLATION
+  scientist_desc: "Vzdělán jako vědec, má solidní základ pro pochopení složitých systémů řízení." # todo: NEW TRANSLATION
+  scientist_engineer: "Pozadí: Vědec-inženýr" # todo: NEW TRANSLATION
+  scientist_engineer_desc: "Vzdělán jako vědec-inženýr, má solidní základ pro pochopení složitých systémů řízení." # todo: NEW TRANSLATION
+  doctor: "Pozadí: Doktor" # todo: NEW TRANSLATION
+  doctor_desc: "Vzdělán jako lékař, má významné praktické zkušenosti." # todo: NEW TRANSLATION
+  spy: "Pozadí: Zpravodajský důstojník" # todo: NEW TRANSLATION
+  spy_desc: "Dříve byl zpravodajským důstojníkem, nic jiného o něm není známo." # todo: NEW TRANSLATION
+  writer: "Pozadí: Spisovatel" # todo: NEW TRANSLATION
+  writer_desc: "Jako spisovatel či novinář má solidní pochopení toho, jak společnost funguje." # todo: NEW TRANSLATION
+  economist: "Pozadí: Ekonom" # todo: NEW TRANSLATION
+  economist_desc: "Jako ekonom má jedinečný vhled do fungování trhu a kontroly kapitálu." # todo: NEW TRANSLATION
+  military_career: "Pozadí: Vojenská" # todo: NEW TRANSLATION
+  military_career_desc: "Dlouhá vojenská kariéra z něj dělá experta na vojenské záležitosti." # todo: NEW TRANSLATION
+  guerrilla_leader: "Pozadí: Guerilla Leader" # todo: NEW TRANSLATION
+  guerrilla_leader_desc: "Po boji se dostal na pozici moci, a proto je charizmatický a schopný v vojenských záležitostech." # todo: NEW TRANSLATION
+  king: "Pozadí: Královská rodina" # todo: NEW TRANSLATION
+  king_desc: "Jako královský člen byl zvláště vychováván pro moc, i když mu může chybět zkušenost z civilního života." # todo: NEW TRANSLATION
+  cleric: "Pozadí: Církevník" # todo: NEW TRANSLATION
+  cleric_desc: "S náboženským vzděláním má tento člověk silný apel na náboženské vrstvy v zemi." # todo: NEW TRANSLATION
+  career_politician: "Pozadí: Kariérní politik" # todo: NEW TRANSLATION
+  career_politician_desc: "Tato osoba si politiku a kandidování zvolila za povolání, a proto postrádá zkušenosti z reálného života." # todo: NEW TRANSLATION
+  taliban_militant: "Pozadí: Taliban Militant" # todo: NEW TRANSLATION
+  taliban_militant_desc: "Tato osoba byla dříve militant spojený s Talibanem nebo pod jeho velením." # todo: NEW TRANSLATION
+  teacher: "Pozadí: Učitel" # todo: NEW TRANSLATION
+  athlete: "Pozadí: Atlet" # todo: NEW TRANSLATION
+  sayyid: "Sayyid" # todo: NEW TRANSLATION
+  sayyid_desc: "Je uznávaný jako potomok islamského proroka Muhammada a má díky tomu zvláštní autoritu." # todo: NEW TRANSLATION
+  qureshi: "Qureshi" # todo: NEW TRANSLATION
+  qureshi_desc: "Má extra autoritu jako člen Qureshi, kmene proroka Muhammada. Většina sunnitských muslimů věří, že jen Qureshi může být povýšen na titul Kalíf." # todo: NEW TRANSLATION
+  islamophobe: "Islámofob" # todo: NEW TRANSLATION
+  islamophobe_desc: " Nenávidí islám a muslimy obecně." # todo: NEW TRANSLATION
+  substance_abuser: "Závislý na návykových látkách" # todo: NEW TRANSLATION
+  substance_abuser_desc: "Jeho závislost na drogách je vážným problémem pro jeho duševní zdraví." # todo: NEW TRANSLATION
+  playboy_lifestyle: "Život playboye" # todo: NEW TRANSLATION
+  playboy_lifestyle_desc: "Měl poměr s více krásnými ženami, než jsem kdy viděl." # todo: NEW TRANSLATION
+  IRGC_Member: "Člen Revolučních gard" # todo: NEW TRANSLATION
+  IRGC_Member_desc: "Člen Revolučních gard, věrný Faqíhově ochraně" # todo: NEW TRANSLATION
+  western_conservatism: "Ideologie: Konzervativní" # todo: NEW TRANSLATION
+  western_liberalism: "Ideologie: Liberální" # todo: NEW TRANSLATION
+  western_socialism: "Ideologie: Sociální demokrat" # todo: NEW TRANSLATION
+  western_Western_Autocracy: "Ideologie: Pro-západní autokracie" # todo: NEW TRANSLATION
+  western_technocrat: "Technokrat" # todo: NEW TRANSLATION
+  western_technocrat_desc: "§WSnižuje úrokovou sazbu o§! §G3%§!" # todo: NEW TRANSLATION
+  emerging_Communist-State: "Ideologie: Komunistická" # todo: NEW TRANSLATION
+  emerging_Conservative: "Ideologie: Reakcionářská" # todo: NEW TRANSLATION
+  emerging_Autocracy: "Ideologie: Patriarchální autokracie" # todo: NEW TRANSLATION
+  emerging_Vilayat_e_Faqih: "Ideologie: Přísná šíitská revoluční" # todo: NEW TRANSLATION
+  emerging_Mod_Vilayat_e_Faqih: "Ideologie: Reformistická šíitská revoluční" # todo: NEW TRANSLATION
+  emerging_anarchist_communism: "Ideologie: Levicově radikální" # todo: NEW TRANSLATION
+  salafist_Kingdom: "Ideologie: Pro-establishment Salafismus" # todo: NEW TRANSLATION
+  salafist_Caliphate: "Ideologie: Salafi Jihádismus" # todo: NEW TRANSLATION
+  neutrality_Neutral_conservatism: "Ideologie: Konzervativní" # todo: NEW TRANSLATION
+  neutrality_oligarchism: "Ideologie: Oligarchický" # todo: NEW TRANSLATION
+  neutrality_neutral_Social: "Ideologie: Sociálně demokratický" # todo: NEW TRANSLATION
+  neutrality_Neutral_Libertarian: "Ideologie: Libertarián" # todo: NEW TRANSLATION
+  neutrality_Neutral_Autocracy: "Ideologie: Nezařazený autokrat" # todo: NEW TRANSLATION
+  neutrality_Neutral_Communism: "Ideologie: Komunistická" # todo: NEW TRANSLATION
+  neutrality_Neutral_Muslim_Brotherhood: "Ideologie: Umírněný islamista" # todo: NEW TRANSLATION
+  neutrality_Neutral_green: "Ideologie: Zelená" # todo: NEW TRANSLATION
+  nationalist_Nat_Autocracy: "Ideologie: Vojenská junta" # todo: NEW TRANSLATION
+  nationalist_Nat_Fascism: "Ideologie: Fašistická" # todo: NEW TRANSLATION
+  nationalist_Nat_Populism: "Ideologie: Nacionalistický populista" # todo: NEW TRANSLATION
+  nationalist_Monarchist: "Ideologie: Monarchista" # todo: NEW TRANSLATION
+  polish_president: "Prezident Polska" # todo: NEW TRANSLATION
+  assassination_survivor: "Přeživší atentátu" # todo: NEW TRANSLATION
+  afghanistan_lion_of_panjshir: "Lev Panjšíru" # todo: NEW TRANSLATION
+  emperor_of_japan: "Císař Japonska" # todo: NEW TRANSLATION
+  former_armor_commander: "Bývalý velitel obrněných jednotek" # todo: NEW TRANSLATION
+  former_naval_commander: "Bývalý velitel námořnictva" # todo: NEW TRANSLATION
+  father_of_the_nation: "Otec národa" # todo: NEW TRANSLATION
+  opposes_muslim_brotherhood: "Odmítá Muslimské bratrstvo" # todo: NEW TRANSLATION
+  corruptible: "Korumpovatelný" # todo: NEW TRANSLATION
+  samdech_akka_moha: "Samdech Akka Moha" # todo: NEW TRANSLATION
+  ex_khmer_rouge_solider: "Bývalý voják Khmer Rouge" # todo: NEW TRANSLATION
+  established_parliament_member: "Zvolený člen parlamentu" # todo: NEW TRANSLATION
+  pro_western_clique: "Pro-západní klika" # todo: NEW TRANSLATION
+  emerging_clique: "Rostoucí klika" # todo: NEW TRANSLATION
+  neutrality_clique: "Nezařazená klika" # todo: NEW TRANSLATION
+  Eternal_Leader: "Věčný vůdce" # todo: NEW TRANSLATION
+  Eternal_Leader_D: "§W--------------\nKim Jong-il je naším Věčným vůdcem, Generálissimo DPRK, Věčný generální tajemník Dělnické strany Koreje, Věčný předseda Národní obranné komise, Věčný vůdce Dělnické Strany Koreje.§!" # todo: NEW TRANSLATION
+  experienced_banker: "Zkušený bankéř" # todo: NEW TRANSLATION
+  defender_of_democracy: "Obránce demokracie" # todo: NEW TRANSLATION
+  musician: "Hudebník" # todo: NEW TRANSLATION
+  actor_politician: "Herec" # todo: NEW TRANSLATION
+  Pro_Western: "Pro-západní" # todo: NEW TRANSLATION
+  Fighter: "Bojovník" # todo: NEW TRANSLATION
+  Reformer: "Reformátor" # todo: NEW TRANSLATION
+  fervent_anti_migrant: "Horlivý anti-migrant" # todo: NEW TRANSLATION
+  fighting_with_at_least_18_units: "Aktuálně velí více než 17 jednotkám\n" # todo: NEW TRANSLATION
+  environmentalist: "Ekolog" # todo: NEW TRANSLATION
+  last_dictator_of_europe: "Poslední diktátor Evropy" # todo: NEW TRANSLATION
+  anti_russian: "Rusofob" # todo: NEW TRANSLATION
+  anti_russian_desc: "Zenon Poznyak vždy a všude viděl stopy KGB. Je zapáleným odpůrcem Ruska a jeho existence" # todo: NEW TRANSLATION
+  patriot_of_belarus: "Vlastenec Běloruska" # todo: NEW TRANSLATION
+  hater_opposition: "Nenáviděč opozice" # todo: NEW TRANSLATION
+  hater_opposition_desc: "Kolega Belokonev je horlivým odpůrcem opozice. Jeho prohlášení, že je nutné opozici likvidovat po desítkách, vyvolává hrůzu v liberální části naší země" # todo: NEW TRANSLATION
+  leader_of_wagner: "Vůdce Wagnera" # todo: NEW TRANSLATION
+  leader_of_wagner_nazi: "Vůdce Wagnera" # todo: NEW TRANSLATION
+  certified_nationalist: "Certifikovaný nacionalista" # todo: NEW TRANSLATION
+  anti_west: "Nenáviděč Západu" # todo: NEW TRANSLATION
+  anti_west_desc: "Nenávist k Západu mu teče v krvi" # todo: NEW TRANSLATION

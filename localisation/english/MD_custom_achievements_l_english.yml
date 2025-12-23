@@ -1,172 +1,294 @@
 ﻿l_english:
- MILLENIUM_DAWN_CUSTOM_ACHIEVEMENTS: "Millennium Dawn: A Modern Day Mod" # todo: NEW TRANSLATION
- MD_custom_achievements_2777392649: "Millennium Dawn Achievements" # todo: NEW TRANSLATION
- MD_custom_ribbons_2777392649: "Millennium Dawn Ribbons" # todo: NEW TRANSLATION
- started_millennium_dawn_NAME: "Moderní krok" # todo: NEW TRANSLATION
- started_millennium_dawn_DESC: "Děkujeme, že hrajete Millennium Dawn! Zůstaňte s námi!" # todo: NEW TRANSLATION
- conquer_taiwan_as_china_NAME: "Dobýt Tchaj‑wan" # todo: NEW TRANSLATION
- conquer_taiwan_as_china_DESC: "Dobýt Tchaj‑wan jako Čínská lidová republika. Ostrov bude opět náš." # todo: NEW TRANSLATION
- annex_mongolia_as_china_NAME: "Anektovat Mongolsko" # todo: NEW TRANSLATION
- annex_mongolia_as_china_DESC: "Anektovat Mongolsko jako Čínská lidová republika. Prérie bude opět naše." # todo: NEW TRANSLATION
- control_south_sea_as_china_NAME: "Jihočínské moře" # todo: NEW TRANSLATION
- control_south_sea_as_china_DESC: "Ovládněte všechny ostrovy Jihočínského moře jako Čínská lidová republika. Devítipásová čára zvítězí." # todo: NEW TRANSLATION
- reclaim_ambazonia_NAME: "Získat zpět Ambazonii" # todo: NEW TRANSLATION
- reclaim_ambazonia_DESC: "Získat zpět Ambazonii od Kamerunu. Postkoloniální spor, který nikdy nebyl vyřešen." # todo: NEW TRANSLATION
- take_back_sahrawi_NAME: "Vrátit Sahrawi" # todo: NEW TRANSLATION
- take_back_sahrawi_DESC: "Vrátit naši odtrženou republiku Sahrawi." # todo: NEW TRANSLATION
- take_back_western_sahara_NAME: "Získat zpět Západní Saharu" # todo: NEW TRANSLATION
- take_back_western_sahara_DESC: "Získat zpět Západní Saharu od Maročanů." # todo: NEW TRANSLATION
- take_back_the_breakaways_NAME: "Vrátit Abcházii a Jižní Osetii" # todo: NEW TRANSLATION
- take_back_the_breakaways_DESC: "Republika Abcházie by se měla vrátit ke Gruzii." # todo: NEW TRANSLATION
- end_the_angolan_civil_war_NAME: "Ukončit angolskou občanskou válku" # todo: NEW TRANSLATION
- end_the_angolan_civil_war_DESC: "Ukončete angolskou občanskou válku jako jedna ze stran." # todo: NEW TRANSLATION
- end_the_somali_civil_war_NAME: "Ukončit somálskou občanskou válku" # todo: NEW TRANSLATION
- end_the_somali_civil_war_DESC: "Jako Somálská federální vláda nebo Somálské národní společenství ukončete somálskou občanskou válku." # todo: NEW TRANSLATION
- armenian_rule34_NAME: "Arménské Pravidlo 34" # todo: NEW TRANSLATION
- armenian_rule34_DESC: "Vyhlaste Pravidlo 34 jako Kocharyan." # todo: NEW TRANSLATION
- armenian_christ_statue_NAME: "Ještě jedna socha Krista" # todo: NEW TRANSLATION
- armenian_christ_statue_DESC: "Postavte sochu Krista jako Tsarukyan." # todo: NEW TRANSLATION
- armenian_polish_hungarian_commonwealth_NAME: "Polsko‑uherské společenství Arménie" # todo: NEW TRANSLATION
- armenian_polish_hungarian_commonwealth_DESC: "Dostaňte polsko‑uherského pretendenta na arménský trůn." # todo: NEW TRANSLATION
- armenian_shadow_of_khoj_unthinkable_NAME: "Armáda S.S." # todo: NEW TRANSLATION
- armenian_shadow_of_khoj_unthinkable_DESC: "Dobýt Ázerbájdžán jako Serzh Sargsyan." # todo: NEW TRANSLATION
- armenian_everybody_dies_i_will_live_NAME: "Nesnáším antikrista" # todo: NEW TRANSLATION
- armenian_everybody_dies_i_will_live_DESC: "Hrajte jako skutečně neutrální Arménie a anektujte Artsakh, Západní Arménii a Ázerbájdžán." # todo: NEW TRANSLATION
- usa_manifest_destiny_NAME: "Manifest osudu" # todo: NEW TRANSLATION
- usa_manifest_destiny_DESC: "Zeza zářících moří vystupuje světlo demokracie, a na jeho čele bdí orel hrdě nad svým osudem." # todo: NEW TRANSLATION
- usa_novel_campaigner_NAME: "Nový kandidát" # todo: NEW TRANSLATION
- usa_novel_campaigner_DESC: "Z trosek politického ringu vyvstává nová hvězda." # todo: NEW TRANSLATION
- GER_capture_poland_again_NAME: "Ach ne, zase..." # todo: NEW TRANSLATION
- GER_capture_poland_again_DESC: "Vzali jsme si delší dovolenou a natolik si užili pierogi a kotlet, že se zase stěhujeme zpět..." # todo: NEW TRANSLATION
- usa_the_purple_plutocrat_NAME: "Fialový plutokrat" # todo: NEW TRANSLATION
- usa_the_purple_plutocrat_DESC: "Establishment je hrdý na vaši oddanou práci. Na dalších 4 roky a dál." # todo: NEW TRANSLATION
- usa_republican_service_cross_NAME: "Republikánský služební kříž" # todo: NEW TRANSLATION
- usa_republican_service_cross_DESC: "Grand Old Party vás odměňuje za službu při hledání pravé cesty amerických hodnot a za opětovné učinění Ameriky velkou." # todo: NEW TRANSLATION
- usa_democratic_service_award_NAME: "Cena demokratické služby" # todo: NEW TRANSLATION
- usa_democratic_service_award_DESC: "Strana demokracie vám děkuje za léta služby, za hledání pravé cesty amerických hodnot a za učinění Ameriky národem pro ty, kteří ji skutečně potřebují." # todo: NEW TRANSLATION
- usa_liberty_warrior_NAME: "Řád svobody" # todo: NEW TRANSLATION
- usa_liberty_warrior_DESC: "Slunce svítí a svoboda zní – začíná nová éra." # todo: NEW TRANSLATION
- usa_green_grenadier_NAME: "Zelený granátník" # todo: NEW TRANSLATION
- usa_green_grenadier_DESC: "Strana matky přírody vládne nové éře." # todo: NEW TRANSLATION
- usa_roosevelt_runner_NAME: "Rooseveltova růže" # todo: NEW TRANSLATION
- usa_roosevelt_runner_DESC: "Za zasloužilou službu ve prospěch snů Teddyho, Franklina a dalších progresivních vůdců, kteří chránili naši zemi v minulosti, přítomnosti a budoucích nadějích." # todo: NEW TRANSLATION
- usa_perot_meritorious_service_award_NAME: "Perotova cena za záslužnou službu" # todo: NEW TRANSLATION
- usa_perot_meritorious_service_award_DESC: "Za oddanou službu směřující k uskutečnění budoucnosti, při které by se náš zakladatel Ross Perot jistě usmál." # todo: NEW TRANSLATION
- fij_innovation_station_NAME: "Stanice inovací" # todo: NEW TRANSLATION
- fij_innovation_station_DESC: "Technologické inovace sjednotily náš druh, nyní hledáme nové výšiny za gravitační pole planety. Jděte si zahrát Stellaris a pokračujte v dobrodružství vašeho Spojeného technátu Země do galaxie." # todo: NEW TRANSLATION
- ger_capture_poland_again_NAME: "Ach ne, zase..." # todo: NEW TRANSLATION
- ger_capture_poland_again_DESC: "Vzali jsme si delší dovolenou a natolik si užili pierogi a kotlet, že se zase stěhujeme zpět..." # todo: NEW TRANSLATION
- take_the_riau_islands_NAME: "Obsadit Riau" # todo: NEW TRANSLATION
- take_the_riau_islands_DESC: "Obsadit strategické ostrovy Riau od Indonésie." # todo: NEW TRANSLATION
- the_federation_of_malaya_NAME: "Federace Malajska" # todo: NEW TRANSLATION
- the_federation_of_malaya_DESC: "Malajsie je subjektem Singapuru." # todo: NEW TRANSLATION
- the_financial_center_of_asia_NAME: "Finanční centrum Asie" # todo: NEW TRANSLATION
- the_financial_center_of_asia_DESC: "Mějte ve vaší zemi postaveno alespoň 15 §Y$offices$§!." # todo: NEW TRANSLATION
- the_financial_center_of_asia_tt: "Má alespoň 15 §Y$offices$§!" # todo: NEW TRANSLATION
- end_the_first_sudanese_war_NAME: "Ukončete druhou súdánskou občanskou válku" # todo: NEW TRANSLATION
- end_the_first_sudanese_war_DESC: "Ukončete druhou súdánskou občanskou válku jako Súdán nebo Jižní Súdán." # todo: NEW TRANSLATION
- end_the_nepalese_civil_war_NAME: "Ukončit nepálskou občanskou válku" # todo: NEW TRANSLATION
- end_the_nepalese_civil_war_DESC: "Ukončete nepálskou občanskou válku jako Nepal nebo Maoistický Nepál." # todo: NEW TRANSLATION
- rise_of_the_maltesers_NAME: "Vzestup Malťanů" # todo: NEW TRANSLATION
- rise_of_the_maltesers_DESC: "Jako Malta sjednoťte Evropskou unii." # todo: NEW TRANSLATION
- bosnian_artillery_is_guided_by_god_NAME: "Bosenská dělostřelba je vedená Bohem" # todo: NEW TRANSLATION
- bosnian_artillery_is_guided_by_god_DESC: "Jako Bosna ovládněte nebo udělejte loutkou držitele svatých měst Mekky a Vatikánu." # todo: NEW TRANSLATION
- China_new_begonia_leaf_NAME: "Nový list begonie" # todo: NEW TRANSLATION
- China_new_begonia_leaf_DESC: "Jako Čína získejte zpět Vnější Mongolsko, Tchaj‑wan a oblast Jihočínského moře. Občanská válka je konečně u konce." # todo: NEW TRANSLATION
- China_full_house_of_sar_NAME: "Plný dům S.A.R." # todo: NEW TRANSLATION
- China_full_house_of_sar_DESC: "Jako Čína mějte všechny možné S.A.R. současně. Jaká přeplněná rodina." # todo: NEW TRANSLATION
- China_roc_mainland_restore_NAME: "Projekt národní slávy" # todo: NEW TRANSLATION
- China_roc_mainland_restore_DESC: "Jako Republika Čína obnovte pevninu, Vnější Mongolsko a oblast Jihočínského moře a všechny ostatní nárokované státy pod naší kontrolou. Nezapomeňte na zkušenosti v Ju." # todo: NEW TRANSLATION
- Sword_of_the_Balkans_NAME: "Meč Balkánu" # todo: NEW TRANSLATION
- Sword_of_the_Balkans_DESC: "Jako Srpska se staňte regionální mocností a mějte více než 24 divizí." # todo: NEW TRANSLATION
- unite_yugoslavia_NAME: "Dvojugoslávie" # todo: NEW TRANSLATION
- unite_yugoslavia_DESC: "Jako kterýkoli z bývalých národů Jugoslávie sjednoťte všechny a vytvořte Jugoslávii." # todo: NEW TRANSLATION
- armenian_banditocracy_NAME: "Salafistické soprány" # todo: NEW TRANSLATION
- armenian_banditocracy_DESC: "Erik'ya ibn al‑Marhosi je marxisticko‑kleptokratický salafistický křesťanský fundamentalista, který nyní vládne Arménii." # todo: NEW TRANSLATION
- armenian_empire_redo_NAME: "Arménské impérium" # todo: NEW TRANSLATION
- armenian_empire_redo_DESC: "Arménie konečně dosáhla svých absolutních hranic; Tigranes Veliký by byl hrdý." # todo: NEW TRANSLATION
- armenian_reverse_pashinyan_NAME: "UNO reverse Pashinyan" # todo: NEW TRANSLATION
- armenian_reverse_pashinyan_DESC: "Na rozdíl od skutečného protějšku váš Pašinjan sjednotil Artsakh s Arménií a zůstal stálicí své vlastenectví." # todo: NEW TRANSLATION
- armenian_zsfsr_unification_NAME: "Demirchyanův mokrý sen" # todo: NEW TRANSLATION
- armenian_zsfsr_unification_DESC: "Transkavkazie je konečně sjednocena pod sovětskou nadvládou arménských komunistů. Sláva rudému říjnu!" # todo: NEW TRANSLATION
- armenian_hyperborea_NAME: "Varazdat Armataptugh" # todo: NEW TRANSLATION
- armenian_hyperborea_DESC: "Ve jménu bohů je v Arménii obnovena pravá cesta života." # todo: NEW TRANSLATION
- armenian_western_arm_NAME: "Stín Sevres" # todo: NEW TRANSLATION
- armenian_western_arm_DESC: "Jako Arménie znovu získáte státy Van a severovýchodní Anatolie." # todo: NEW TRANSLATION
- serbia_je_kosovo_NAME: "Srbsko je Kosovo" # todo: NEW TRANSLATION
- serbia_je_kosovo_DESC: "Jako Kosovo buď ovládněte Střední Srbsko a Východní Srbsko, nebo mějte Srbsko jako subjekt." # todo: NEW TRANSLATION
- gang_is_back_together_NAME: "Gang je zase pohromadě" # todo: NEW TRANSLATION
- gang_is_back_together_DESC: "Jako nacionalistické Německo buďte ve frakci s Japonskem a Itálií, přičemž obě jsou nacionalistické." # todo: NEW TRANSLATION
- ukraine_uno_reverse_NAME: "Ukrajinské Uno Reverse" # todo: NEW TRANSLATION
- ukraine_uno_reverse_DESC: "Jako Ukrajina, aniž byste byli ve frakci, přineste Rusku kapitulaci během války." # todo: NEW TRANSLATION
- the_only_survivor_NAME: "Jediný přeživší" # todo: NEW TRANSLATION
- the_only_survivor_DESC: "Jako kterákoli země, která není Spojené státy ani Čína, staňte se supervelmocí a buďte jedinou supervelmocí." # todo: NEW TRANSLATION
- quite_literally_the_eu_NAME: "Doslova EU" # todo: NEW TRANSLATION
- quite_literally_the_eu_DESC: "Každá evropská země je členem Evropské unie." # todo: NEW TRANSLATION
- who_was_in_paris_NAME: "Kdo byl v Paříži?" # todo: NEW TRANSLATION
- who_was_in_paris_DESC: "Jako Niger ovládněte Île‑de‑France." # todo: NEW TRANSLATION
- the_head_of_the_tigers_NAME: "Hlava tygrů" # todo: NEW TRANSLATION
- the_head_of_the_tigers_DESC: "Jako západně orientovaný Singapur mějte Hongkong, Jižní Koreu a Tchaj‑wan jako subjekty před rokem 2004." # todo: NEW TRANSLATION
- a_new_singaporean_empire_NAME: "Nové singapurské impérium" # todo: NEW TRANSLATION
- a_new_singaporean_empire_DESC: "Jako vojenská junta v Singapuru ovládněte Peking, Dillí, Tokio a Jakarta." # todo: NEW TRANSLATION
- rise_of_singapore_NAME: "Vzestup Singapuru" # todo: NEW TRANSLATION
- rise_of_singapore_DESC: "Jako Singapur se staňte supervelmocí." # todo: NEW TRANSLATION
- pirates_of_singapore_NAME: "Pirátský král Singapuru" # todo: NEW TRANSLATION
- pirates_of_singapore_DESC: "Jako Oligarchové vlastněte státy Jamajka, Bahamy, Sud‑Haiti, Jeju a Bari." # todo: NEW TRANSLATION
- democracy_is_overrated_NAME: "Demokracie je přeceňovaná" # todo: NEW TRANSLATION
- democracy_is_overrated_DESC: "Jako západní autokratické Španělsko přiveďte fašisty do své koalice poté, co dokončíte $SPR_the_new_elections$." # todo: NEW TRANSLATION
- the_glory_of_the_spanish_empire_NAME: "Sláva Španělského impéria" # todo: NEW TRANSLATION
- the_glory_of_the_spanish_empire_DESC: "Jako monarchisté ve Španělsku vlastněte a ovládejte státy Mexico, Cundinamarca, Miranada, Coastal Peru, Central Chile, Pampas a Southern Luzon před rokem 2010." # todo: NEW TRANSLATION
- form_maphilindo_NAME: "Zformujte Maphilindo" # todo: NEW TRANSLATION
- form_maphilindo_DESC: "Vytvořte sjednocený stát Maphilindo jako Singapur, Indonésie, Brunej, Filipíny, Malajsie nebo Aceh." # todo: NEW TRANSLATION
- form_north_american_union_NAME: "Vytvořte Spojené státy Severní Ameriky" # todo: NEW TRANSLATION
- form_north_american_union_DESC: "Vytvořte Spojené státy Severní Ameriky jako Mexiko, Kanada nebo Spojené státy." # todo: NEW TRANSLATION
- form_the_benelux_NAME: "Vytvořte Benelux" # todo: NEW TRANSLATION
- form_the_benelux_DESC: "Vytvořte Benelux jako Nizozemsko, Lucembursko nebo Belgie." # todo: NEW TRANSLATION
- form_the_maghreb_union_NAME: "Vytvořte Maghrebskou unii" # todo: NEW TRANSLATION
- form_the_maghreb_union_DESC: "Vytvořte Maghrebskou unii jako Alžírsko, Libye, Mauritánie, Maroko, Sahrawi nebo Tunisko." # todo: NEW TRANSLATION
- form_the_west_indies_federation_NAME: "Vytvořte Federaci Západní Indie" # todo: NEW TRANSLATION
- form_the_west_indies_federation_DESC: "Vytvořte Federaci Západní Indie jako Dominika, Svatý Kryštof, Svatý Vincenc, Grenada, Barbados, Trinidad a Tobago nebo Jamajka." # todo: NEW TRANSLATION
- form_austria_hungary_NAME: "Obnovte Rakousko‑Uherské impérium" # todo: NEW TRANSLATION
- form_austria_hungary_DESC: "Vytvořte Rakousko‑Uherské impérium jako Rakousko, Maďarsko, Slovinsko, Česko, Slovensko nebo Chorvatsko." # todo: NEW TRANSLATION
- form_the_peruvian_bolivian_confederation_NAME: "Vytvořte Peruánsko‑Bolívijskou konfederaci" # todo: NEW TRANSLATION
- form_the_peruvian_bolivian_confederation_DESC: "Vytvořte Peruánsko‑Bolívijskou konfederaci jako Peru nebo Bolívie." # todo: NEW TRANSLATION
- form_canzuk_NAME: "Vytvořte CANZUK" # todo: NEW TRANSLATION
- form_canzuk_DESC: "Vytvořte CANZUK jako Austrálie, Kanada, Nový Zéland nebo Spojené království." # todo: NEW TRANSLATION
- form_antillean_confederation_NAME: "Vytvořte Antilskou konfederaci" # todo: NEW TRANSLATION
- form_antillean_confederation_DESC: "Vytvořte Antilskou konfederaci jako Dominikánská republika, Haiti, Portoriko nebo Kuba." # todo: NEW TRANSLATION
- form_rio_de_la_plata_NAME: "Vytvořte Rio de la Plata" # todo: NEW TRANSLATION
- form_rio_de_la_plata_DESC: "Vytvořte Rio de la Plata jako Paraguay, Bolívie, Chile, Uruguay nebo Argentina." # todo: NEW TRANSLATION
- form_north_sea_empire_NAME: "Vytvořte Impérium Severního moře" # todo: NEW TRANSLATION
- form_north_sea_empire_DESC: "Vytvořte Impérium Severního moře jako Spojené království, Švédsko, Dánsko nebo Norsko." # todo: NEW TRANSLATION
- form_the_visegrad_union_NAME: "Vytvořte Visegrádskou skupinu" # todo: NEW TRANSLATION
- form_the_visegrad_union_DESC: "Vytvořte Visegrádskou skupinu jako Polsko, Česko, Slovensko nebo Maďarsko." # todo: NEW TRANSLATION
- form_the_andean_federation_NAME: "Vytvořte Andskou federaci" # todo: NEW TRANSLATION
- form_the_andean_federation_DESC: "Vytvořte Andskou federaci jako Kolumbie, Peru nebo Bolívie." # todo: NEW TRANSLATION
- form_indochina_NAME: "Vytvořte Indočínu" # todo: NEW TRANSLATION
- form_indochina_DESC: "Vytvořte Indočínu jako Vietnam, Kambodžu nebo Laos." # todo: NEW TRANSLATION
- form_the_united_turkic_territories_NAME: "Vytvořte sjednocená turkická území" # todo: NEW TRANSLATION
- form_the_united_turkic_territories_DESC: "Vytvořte sjednocená turkická území jako Kazachstán, Uzbekistán, Turkmenistán, Tádžikistán nebo Kyrgyzstán." # todo: NEW TRANSLATION
- form_the_union_of_south_american_nations_NAME: "Vytvořte Unii jihoamerických států" # todo: NEW TRANSLATION
- form_the_union_of_south_american_nations_DESC: "Vytvořte Unii jihoamerických států jako Brazílie, Venezuela, Argentina, Peru, Ekvádor, Guyana, Kolumbie, Chile, Trinidad a Tobago nebo Francouzská Guyana." # todo: NEW TRANSLATION
- form_australasia_NAME: "Vytvořte Australasii" # todo: NEW TRANSLATION
- form_australasia_DESC: "Vytvořte Australasii jako Austrálie nebo Nový Zéland." # todo: NEW TRANSLATION
- form_iberia_NAME: "Vytvořte Iberii" # todo: NEW TRANSLATION
- form_iberia_DESC: "Vytvořte Iberii jako Španělsko nebo Portugalsko." # todo: NEW TRANSLATION
- form_gran_colombia_NAME: "Vytvořte Velkou Kolumbii" # todo: NEW TRANSLATION
- form_gran_colombia_DESC: "Vytvořte Velkou Kolumbii jako Kolumbie, Venezuela nebo Ekvádor." # todo: NEW TRANSLATION
- form_central_america_NAME: "Vytvořte Střední Ameriku" # todo: NEW TRANSLATION
- form_central_america_DESC: "Vytvořte Střední Ameriku jako Belize, Guatemala, Salvador, Honduras, Nikaragua, Kostarika nebo Panama." # todo: NEW TRANSLATION
- form_the_baltic_states_NAME: "Vytvořte Pobaltské státy" # todo: NEW TRANSLATION
- form_the_baltic_states_DESC: "Vytvořte Pobaltské státy jako Estonsko, Lotyšsko nebo Litva." # todo: NEW TRANSLATION
- unite_the_nordic_people_NAME: "Vytvořte Skandinávii" # todo: NEW TRANSLATION
- unite_the_nordic_people_DESC: "Vytvořte Skandinávii jako Švédsko, Dánsko, Norsko nebo Finsko." # todo: NEW TRANSLATION
- eu_achievement_tt: "Je současnou nebo potenciální @EUU §YEvropskou unií§! zemí" # todo: NEW TRANSLATION
- ace_western_autocracy_are_in_power_tt: "§Y$generic.Western_Autocracy$§! jsou u moci." # todo: NEW TRANSLATION
- ace_neutral_oligarchs_are_in_power_tt: "§Y$generic.oligarchism$§! jsou u moci." # todo: NEW TRANSLATION
- ace_neutral_communism_are_in_power_tt: "§YOligarchs§! jsou u moci." # todo: NEW TRANSLATION
- ace_fascists_are_in_power_tt: "§Y$generic.Nat_Fascism$§! jsou u moci." # todo: NEW TRANSLATION
- ace_military_junta_are_in_power_tt: "§Y$generic.Nat_Autocracy$§! jsou u moci." # todo: NEW TRANSLATION
- ace_monarchist_are_in_power_tt: "§Y$generic.Monarchist$§! jsou u moci." # todo: NEW TRANSLATION
- ace_military_junta_are_in_power_or_coalition_tt: "§Y$generic.Nat_Autocracy$§! jsou ve vládnoucí koalici." # todo: NEW TRANSLATION
- ace_fascists_are_in_power_or_coalition_tt: "§Y$generic.Nat_Fascism$§! jsou ve vládnoucí koalici." # todo: NEW TRANSLATION
+  MILLENIUM_DAWN_CUSTOM_ACHIEVEMENTS: "Millennium Dawn: Moderní mod dneška" # todo: NEW TRANSLATION
+  MD_custom_achievements_2777392649: "Millennium Dawn Úspěchy" # todo: NEW TRANSLATION
+  MD_custom_ribbons_2777392649: "Millennium Dawn Pruhy" # todo: NEW TRANSLATION
+  started_millennium_dawn_NAME: "Moderní krok" # todo: NEW TRANSLATION
+  started_millennium_dawn_DESC: "Děkujeme za hru Millennium Dawn! Zůstaňte s námi!" # todo: NEW TRANSLATION
+  conquer_taiwan_as_china_NAME: "Dobyť Tchaj-wan" # todo: NEW TRANSLATION
+  conquer_taiwan_as_china_DESC: "Dobyť Tchaj-wan jako Čínská lidová republika. Na obloze nejsou dvě slunce." # todo: NEW TRANSLATION
+  annex_mongolia_as_china_NAME: "Anexe Mongolska" # todo: NEW TRANSLATION
+  annex_mongolia_as_china_DESC: "Anexe Mongolska jako Čínská lidová republika. Stepy jsou znovu sjednoceny pod naší vlajkou." # todo: NEW TRANSLATION
+  control_south_sea_as_china_NAME: "Jižní moře Číny" # todo: NEW TRANSLATION
+  control_south_sea_as_china_DESC: "Ovládejte všechna ostrovy Jihočínského moře jako Čínská lidová republika. Devítidílná čára zvítězí." # todo: NEW TRANSLATION
+  reclaim_ambazonia_NAME: "Ambazonie" # todo: NEW TRANSLATION
+  reclaim_ambazonia_DESC: "Získejte Ambazoniu zpět z Kamerunu. Postkoloniální spor, který nebyl nikdy vyřešen." # todo: NEW TRANSLATION
+  take_back_eritrea_NAME: "Získejte Eritreu zpět" # todo: NEW TRANSLATION
+  take_back_eritrea_DESC: "Vzpět si vezměte naši odtrženou Eritreu." # todo: NEW TRANSLATION
+  take_back_sahrawi_NAME: "Zajmout Sahrawi" # todo: NEW TRANSLATION
+  take_back_sahrawi_DESC: "Získejte zpět naši odtrženou Sahrawi." # todo: NEW TRANSLATION
+  take_back_western_sahara_NAME: "Získejte Západní Saharu zpět" # todo: NEW TRANSLATION
+  take_back_western_sahara_DESC: "Získejte Západní Saharu zpět od Maročanů" # todo: NEW TRANSLATION
+  take_back_the_breakaways_NAME: "Návrat Abcházie a Jižní Osetie" # todo: NEW TRANSLATION
+  take_back_the_breakaways_DESC: "Abcházie a Jižní Osetie by se měly vrátit do Gruzie." # todo: NEW TRANSLATION
+  end_the_angolan_civil_war_NAME: "Ukončete angolskou občanskou válku" # todo: NEW TRANSLATION
+  end_the_angolan_civil_war_DESC: "Ukončete angolskou občanskou válku jako jedna z frakcí." # todo: NEW TRANSLATION
+  end_the_somali_civil_war_NAME: "Ukončete somálskou občanskou válku" # todo: NEW TRANSLATION
+  end_the_somali_civil_war_DESC: "Buďte Somali Federální vládou, nebo Somálská Národní aliance, ukončete somálskou občanskou válku." # todo: NEW TRANSLATION
+  armenian_rule34_NAME: "Arménské Pravidlo 34" # todo: NEW TRANSLATION
+  armenian_rule34_DESC: "Zaveďte Pravidlo 34 podle Kocharyana." # todo: NEW TRANSLATION
+  armenian_christ_statue_NAME: "Další socha Krista" # todo: NEW TRANSLATION
+  armenian_christ_statue_DESC: "Postavte sochu Krista jako Tsarukyan." # todo: NEW TRANSLATION
+  armenian_polish_hungarian_commonwealth_NAME: "Polsko-uherské společenství Arménie" # todo: NEW TRANSLATION
+  armenian_polish_hungarian_commonwealth_DESC: "Přiveďte polsko-uherského pretendera na arménský trůn." # todo: NEW TRANSLATION
+  armenian_shadow_of_khoj_unthinkable_NAME: "Armáda S.S." # todo: NEW TRANSLATION
+  armenian_shadow_of_khoj_unthinkable_DESC: "Dobyjte Ázerbájdžán jako Serž Sargsyan." # todo: NEW TRANSLATION
+  armenian_everybody_dies_i_will_live_NAME: "Nenávidím Antikrista" # todo: NEW TRANSLATION
+  armenian_everybody_dies_i_will_live_DESC: "Hrajte za Arménii, která je skutečně neutrální, a anektujte Artsakh, Západní Arménii a Ázerbájdžán." # todo: NEW TRANSLATION
+  usa_manifest_destiny_NAME: "Manifest Destiny" # todo: NEW TRANSLATION
+  usa_manifest_destiny_DESC: "Z dálek zářivých moří ukazuje světlo demokracie, a nad ním bdí orel hrdě nad svým osudem." # todo: NEW TRANSLATION
+  usa_novel_campaigner_NAME: "Nový kandidát kampaně" # todo: NEW TRANSLATION
+  usa_novel_campaigner_DESC: "Z odpadků politické arény vzniká nová hvězda." # todo: NEW TRANSLATION
+  GER_capture_poland_again_NAME: "Ahh Not Again...." # todo: NEW TRANSLATION
+  GER_capture_poland_again_DESC: "Vzal(a) jsem si delší dovolenou a užíval(a) pierogi a kotlety, teď se znovu vracíme dovnitř....znovu...." # todo: NEW TRANSLATION
+  usa_the_purple_plutocrat_NAME: "Fialový plutokrat" # todo: NEW TRANSLATION
+  usa_the_purple_plutocrat_DESC: "Společnost je hrdá na tvou oddanou práci. Na dalších 4 roky a dál." # todo: NEW TRANSLATION
+  usa_republican_service_cross_NAME: "Řád republikánské služby" # todo: NEW TRANSLATION
+  usa_republican_service_cross_DESC: "Velká stará strana ti děkuje za službu v hledání pravé cesty amerických hodnot a za to, že Amerika znovu bude skvělá." # todo: NEW TRANSLATION
+  usa_democratic_service_award_NAME: "Demokratické ocenění za službu" # todo: NEW TRANSLATION
+  usa_democratic_service_award_DESC: "Strana demokracie ti sama děkuje za roky služby, za hledání skutečné cesty amerických hodnot a za to, že učiníš Ameriku národem pro ty, kteří ji skutečně potřebují." # todo: NEW TRANSLATION
+  usa_liberty_warrior_NAME: "Řád svobody" # todo: NEW TRANSLATION
+  usa_liberty_warrior_DESC: "Slunce září a svoboda zvoní, začíná nová éra." # todo: NEW TRANSLATION
+  usa_green_grenadier_NAME: "Zelený granátník" # todo: NEW TRANSLATION
+  usa_green_grenadier_DESC: "Strana Matky Země vládne nové éře." # todo: NEW TRANSLATION
+  usa_roosevelt_runner_NAME: "Rooseveltova růže" # todo: NEW TRANSLATION
+  usa_roosevelt_runner_DESC: "Za oddanou službu naplňující sny Teda, Franklin a dalších progresivních vůdců, kteří chránili naši zemi v minulosti, současnosti a budoucnosti." # todo: NEW TRANSLATION
+  usa_perot_meritorious_service_award_NAME: "Perotovo vyznamenání za záslužnou službu" # todo: NEW TRANSLATION
+  usa_perot_meritorious_service_award_DESC: "Za oddanou službu, která buduje skutečnou budoucnost, na kterou by se náš zakladatel Ross Perot jistě usmál." # todo: NEW TRANSLATION
+  fij_innovation_station_NAME: "Inovační stanice" # todo: NEW TRANSLATION
+  fij_innovation_station_DESC: "Technologická inovace sjednotila náš druh, nyní hledáme nové výšky i mimo gravitaci naší planety. Jděte nyní zahrát Stellaris a pokračujte ve svém dobrodružství po galaxii." # todo: NEW TRANSLATION
+  ger_capture_poland_again_NAME: "Ahh Not Again...." # todo: NEW TRANSLATION
+  ger_capture_poland_again_DESC: "Vzal(a) jsem si delší dovolenou a užíval(a) pierogi a kotlety, teď se znovu vracíme dovnitř....znovu...." # todo: NEW TRANSLATION
+  take_the_riau_islands_NAME: "Zajmout Riau ostrovy" # todo: NEW TRANSLATION
+  take_the_riau_islands_DESC: "Ovládněte strategické ostrovy Riau od Indonésie." # todo: NEW TRANSLATION
+  the_federation_of_malaya_NAME: "Federace Malaje" # todo: NEW TRANSLATION
+  the_federation_of_malaya_DESC: "Malajsie je podřízena Singapuru." # todo: NEW TRANSLATION
+  the_financial_center_of_asia_NAME: "Finanční centrum Asie" # todo: NEW TRANSLATION
+  the_financial_center_of_asia_DESC: "Mějte ve své zemi alespoň 15 §Y$offices$§! postavených." # todo: NEW TRANSLATION
+  the_financial_center_of_asia_tt: "Má alespoň 15 §Y$offices$§!" # todo: NEW TRANSLATION
+  end_the_first_sudanese_war_NAME: "Ukončete druhou sudánskou občanskou válku" # todo: NEW TRANSLATION
+  end_the_first_sudanese_war_DESC: "Ukončete druhou sudánskou občanskou válku jako Sudán nebo Jižní Súdán." # todo: NEW TRANSLATION
+  end_the_nepalese_civil_war_NAME: "Ukončete nepálskou občanskou válku" # todo: NEW TRANSLATION
+  end_the_nepalese_civil_war_DESC: "Ukončete nepálskou občanskou válku buď jako Nepál, nebo Maoistický Nepál." # todo: NEW TRANSLATION
+  libya_order_of_republic_NAME: "Řád Libyjské republiky" # todo: NEW TRANSLATION
+  libya_order_of_republic_DESC: "Ocenění pro hlavy státu; Prokážeš svou službu Libyi hrou až do roku 2020.\n\n\"Na celém světě neexistuje žádný stát s demokracií kromě Libye.\"\n\n- Muammar Gaddafi" # todo: NEW TRANSLATION
+  libya_order_of_jihad_NAME: "Libyjský řád Džihádu" # todo: NEW TRANSLATION
+  libya_order_of_jihad_DESC: "Ocenění za zásluhy o blahobyt Libye; Mějte HDP na obyvatele vyšší než 50k jako Libye.\n\n\"If Libya recovers, the skyscrapers in the United Arab Emirates will turn into pigeon nests.\"\n\n- Khaled al-Mishri" # todo: NEW TRANSLATION
+  libya_order_of_grand_conqueror_NAME: "Libyjský Řád Velkého dobyvatele" # todo: NEW TRANSLATION
+  libya_order_of_grand_conqueror_DESC: "Ocenění pro navštěvující dignitáry; Spojte se se supervelmocí nebo velmocí.\n\n\"Jsem jenom zajíman o Libyi, pokud si uchováme ropu. Pokud ropu nepřijmeme, nezajímám se.\"\n\n- Donald Trump" # todo: NEW TRANSLATION
+  libya_medal_of_merit_NAME: "Libyjský Řád vojenských zásluh" # todo: NEW TRANSLATION
+  libya_medal_of_merit_DESC: "Ocenění za vojenské dovednosti; Opačte historii a vyhrajte válku proti Egyptu a Čadu.\n\n\"Nebudeme se znovu vzdávat; nejsme ženy; budeme se dál prát.\"\n\n- Muammar Gaddafi" # todo: NEW TRANSLATION
+  botswana_naledi_ya_botswana_NAME: "Naledi Ya Botswana" # todo: NEW TRANSLATION
+  botswana_naledi_ya_botswana_DESC: "Oceněno za výrazné služby; Snižte šíření AIDS na nejnižší úroveň.\n\n\"Botswana má ohromnou budoucnost, pokud zvládne potlačit HIV scenérii.\"\n\n- Colin Salmon" # todo: NEW TRANSLATION
+  botswana_conduct_valour_cross_NAME: "Botswana Défense Force Conduct Valour Cross" # todo: NEW TRANSLATION
+  botswana_conduct_valour_cross_DESC: "Oceněno za výrazné chrabrosti v akci proti nepřáteli; Buďte ve válce s protipoháním zemí pětkrát silnější než vy.\n\n\"Fatshe leno la rona (Požehnaná je tato ušlechtilá země).\"\n\n- Národní hymna Botswany" # todo: NEW TRANSLATION
+  botswana_medal_for_meritorious_service_NAME: "Botswana Police Medal for Meritorious Service" # todo: NEW TRANSLATION
+  botswana_medal_for_meritorious_service_DESC: "Oceněno za mimořádnou službu; Vyřešte zimbabwskou uprchlickou krizi.\n\n\"Nesnášel jsem Roberta Mugabe. Je jedním z nejhorších lidí, se kterými jsem se kdy potkal.\"\n\n- Bob Hawke" # todo: NEW TRANSLATION
+  botswana_teachers_silver_jubilee_medal_NAME: "Botswana Teachers Silver Jubilee Medal" # todo: NEW TRANSLATION
+  botswana_teachers_silver_jubilee_medal_DESC: "Oceněno za učitele 25 let záslužné služby; Zvyšte gramotnost na 90 %.\n\n\"Gaabo molato wa sekolo (There is no end to learning).\"\n\n- Přísloví z Botswany" # todo: NEW TRANSLATION
+  czech_conquered_kaliningrad_medal_NAME: "Kraj Královecký" # todo: NEW TRANSLATION
+  czech_conquered_kaliningrad_medal_DESC: "Jako Česká republika, dobývejte Kaliningrad" # todo: NEW TRANSLATION
+  netherlands_new_dutch_economy_NAME: "Nieuw Amsterdam Znovu Vzniká" # todo: NEW TRANSLATION
+  netherlands_new_dutch_economy_DESC: "Ovládejte New York a zajistěte, aby jeho ekonomický výkon přesáhl výkon rodné Nizozemsko." # todo: NEW TRANSLATION
+  netherlands_masters_of_the_water_NAME: "Mistři vod" # todo: NEW TRANSLATION
+  netherlands_masters_of_the_water_DESC: "“Z skromných přístavů k oceánské dominanci, moře pamatuje na své holandské pány.”" # todo: NEW TRANSLATION
+  rise_of_the_maltesers_NAME: "Vzestup malťanů" # todo: NEW TRANSLATION
+  rise_of_the_maltesers_DESC: "Jako Malta sjednoťte Evropskou unii." # todo: NEW TRANSLATION
+  bosnian_artillery_is_guided_by_god_NAME: "Bosenské dělostřelectvo je vedené Bohem" # todo: NEW TRANSLATION
+  bosnian_artillery_is_guided_by_god_DESC: "Jako Bosna ovládejte vlastníka posvátných měst Mekky a Vatikánu." # todo: NEW TRANSLATION
+  China_new_begonia_leaf_NAME: "Nový list begónie" # todo: NEW TRANSLATION
+  China_new_begonia_leaf_DESC: "Jako Čína obnovte vnější Mongolsko, Tchaj-wan a region Jihočínského moře. Občanská válka je konečně u konce." # todo: NEW TRANSLATION
+  China_full_house_of_sar_NAME: "Plná S.A.R. domácnost" # todo: NEW TRANSLATION
+  China_full_house_of_sar_DESC: "Jako Čína máte současně všechna S.A.R. Na takovou rodinu." # todo: NEW TRANSLATION
+  China_roc_mainland_restore_NAME: "Projekt Národní slávy" # todo: NEW TRANSLATION
+  China_roc_mainland_restore_DESC: "Jako Čínská republika obnovte pevninu, vnější Mongolsko a region Jihočínského moře a všechna ostatní nárokovaná území pod naši kontrolu. Nezapomeňte na zkušenosti v Ju." # todo: NEW TRANSLATION
+  Sword_of_the_Balkans_NAME: "Meč Balkánů" # todo: NEW TRANSLATION
+  Sword_of_the_Balkans_DESC: "Jako Srpska se staňte regionální velmocí a mějte více než 24 divizí" # todo: NEW TRANSLATION
+  unite_yugoslavia_NAME: "Dvoj Jugoslávie" # todo: NEW TRANSLATION
+  unite_yugoslavia_DESC: "Jako kterákoli z bývalých zemí Jugoslávie spojte je všechny a vytvořte Jugoslávii." # todo: NEW TRANSLATION
+  armenian_banditocracy_NAME: "Salafistická Sopranos" # todo: NEW TRANSLATION
+  armenian_banditocracy_DESC: "Erik'ya ibn al-Marhosi je marxistický kleptokratický salafistický křesťanský fundamentalista, který nyní vládne Arménii." # todo: NEW TRANSLATION
+  armenian_empire_redo_NAME: "Arménské impérium" # todo: NEW TRANSLATION
+  armenian_empire_redo_DESC: "Arménie konečně dosáhla svých absolutních hranic; Tigranes Veliký by byl pyšný." # todo: NEW TRANSLATION
+  armenian_reverse_pashinyan_NAME: "UNO reverse Pashinyan" # todo: NEW TRANSLATION
+  armenian_reverse_pashinyan_DESC: "Na rozdíl od skutečného protějšku, tvůj Pashinyan sjednotil Artsakh s Arménií a stál pevně ve svém vlastenectví." # todo: NEW TRANSLATION
+  armenian_zsfsr_unification_NAME: "Demirchyanův mokrý sen" # todo: NEW TRANSLATION
+  armenian_zsfsr_unification_DESC: "Transkaukazie je konečně sjednocena pod sovětským režimem Arménskými komunisty. Sláva rudému říjnu!" # todo: NEW TRANSLATION
+  armenian_hyperborea_NAME: "Varazdat Armataptugh" # todo: NEW TRANSLATION
+  armenian_hyperborea_DESC: "Ve jménu Bohů je v Arménii obnoven pravý způsob života." # todo: NEW TRANSLATION
+  armenian_western_arm_NAME: "Stín Sevres" # todo: NEW TRANSLATION
+  armenian_western_arm_DESC: "Jak Arménie znovu získává státy Van a severovýchodní Anatólie." # todo: NEW TRANSLATION
+  serbia_je_kosovo_NAME: "Srbsko je Kosovo" # todo: NEW TRANSLATION
+  serbia_je_kosovo_DESC: "Jako Kosovo vlastněte buď střední Srbsko a východní Srbsko, nebo mějte Srbsko jako subjekt." # todo: NEW TRANSLATION
+  gang_is_back_together_NAME: "Gang je opět pohromadě" # todo: NEW TRANSLATION
+  gang_is_back_together_DESC: "Jako Národní Německo buďte ve frakci s Japonskem a Itálií a obě země buďte národnostní." # todo: NEW TRANSLATION
+  ukraine_uno_reverse_NAME: "Ukrajina UNO Reverse" # todo: NEW TRANSLATION
+  ukraine_uno_reverse_DESC: "Jako Ukrajina, bez členství ve frakci, kapitulujte Rusku během války." # todo: NEW TRANSLATION
+  the_only_survivor_NAME: "Jediný přeživší" # todo: NEW TRANSLATION
+  the_only_survivor_DESC: "Jako jakákoliv země, která není Spojené státy ani Čína, staňte se supervelmocí a buďte jedinou supervelmocí." # todo: NEW TRANSLATION
+  quite_literally_the_eu_NAME: "Přesně doslova EU" # todo: NEW TRANSLATION
+  quite_literally_the_eu_DESC: "Každá evropská země je členem Evropské unie." # todo: NEW TRANSLATION
+  who_was_in_paris_NAME: "Kdo byl v Paříži?" # todo: NEW TRANSLATION
+  who_was_in_paris_DESC: "Jako Niger ovládejte Île-de-France" # todo: NEW TRANSLATION
+  the_head_of_the_tigers_NAME: "Hlava Tygřů" # todo: NEW TRANSLATION
+  the_head_of_the_tigers_DESC: "Jako Západně zaměřený Singapur mějte Hong Kong, Macau, Jižní Koreu a Tchaj-wan jako poddané před rokem 2004." # todo: NEW TRANSLATION
+  a_new_singaporean_empire_NAME: "Nová singapurská říše" # todo: NEW TRANSLATION
+  a_new_singaporean_empire_DESC: "Jako vojenská junta v Singapuru ovládejte Peking, Dillí, Tokio a Jakartu." # todo: NEW TRANSLATION
+  rise_of_singapore_NAME: "Vzestup Singapuru" # todo: NEW TRANSLATION
+  rise_of_singapore_DESC: "Jako Singapur se staňte supervelmocí." # todo: NEW TRANSLATION
+  pirates_of_singapore_NAME: "Pirát král Singapuru" # todo: NEW TRANSLATION
+  pirates_of_singapore_DESC: "Jako oligarchové vlastní státy Jamajka, Bahamy, Sud-Haiti, Jeju a Bari." # todo: NEW TRANSLATION
+  democracy_is_overrated_NAME: "Demokracie je nadhodnocená" # todo: NEW TRANSLATION
+  democracy_is_overrated_DESC: "Jako Západní autokratické Španělsko přidejte fašisty do vaší koalice poté, co dokončíte $SPR_the_new_elections$." # todo: NEW TRANSLATION
+  the_glory_of_the_spanish_empire_NAME: "Sláva španělského impéria" # todo: NEW TRANSLATION
+  the_glory_of_the_spanish_empire_DESC: "Jako monarchisté ve Španělsku vlastněte a ovládejte státy Mexiko, Cundinamarca, Miranada, Pobřežní Peru, Střední Chile, Pampas a Jih Luzonu před rokem 2010." # todo: NEW TRANSLATION
+  form_maphilindo_NAME: "Form Maphilindo" # todo: NEW TRANSLATION
+  form_maphilindo_DESC: "Vytvořte sjednocený stát Maphilindo jako Singapur, Indonésie, Brunej, Filipíny, Malajsie nebo Aceh." # todo: NEW TRANSLATION
+  form_north_american_union_NAME: "Formujte Spojené státy severní Ameriky" # todo: NEW TRANSLATION
+  form_north_american_union_DESC: "Vytvoř Spojené státy severní Ameriky jako Mexiko, Kanada nebo Spojené státy." # todo: NEW TRANSLATION
+  form_the_benelux_NAME: "Form Benelux" # todo: NEW TRANSLATION
+  form_the_benelux_DESC: "Vytvoř Benelux jako Nizozemsko, Lucembursko nebo Belgie." # todo: NEW TRANSLATION
+  form_the_maghreb_union_NAME: "Form Maghreb Unie" # todo: NEW TRANSLATION
+  form_the_maghreb_union_DESC: "Vytvoř Maghreb Unii jako Algerie, Libye, Mauritánie, Maroko, Sahrawi, nebo Tunisko." # todo: NEW TRANSLATION
+  form_the_west_indies_federation_NAME: "Form West Indies Federation" # todo: NEW TRANSLATION
+  form_the_west_indies_federation_DESC: "Form West Indies Federation jako Dominika, St. Kitts, St. Vincent, Grenada, Barbados, Trinidad a Tobago nebo Jamajka." # todo: NEW TRANSLATION
+  form_austria_hungary_NAME: "Zreformujte Rakousko-Uherské impérium" # todo: NEW TRANSLATION
+  form_austria_hungary_DESC: "Vytvoř Rakousko-Uherské impérium jako Rakousko, Maďarsko, Slovinsko, Česko, Slovensko nebo Chorvatsko." # todo: NEW TRANSLATION
+  form_the_peruvian_bolivian_confederation_NAME: "Vytvoř Peruánsko-Bolivskou konfederaci" # todo: NEW TRANSLATION
+  form_the_peruvian_bolivian_confederation_DESC: "Vytvoř Peruánsko-Bolivskou konfederaci buď jako Peru, nebo Bolívie." # todo: NEW TRANSLATION
+  form_canzuk_NAME: "Vytvoř CANZUK" # todo: NEW TRANSLATION
+  form_canzuk_DESC: "Vytvoř CANZUK jako Austrálie, Kanada, Nový Zéland nebo Spojené království." # todo: NEW TRANSLATION
+  form_antillean_confederation_NAME: "Vytvoř Antilskou konfederaci" # todo: NEW TRANSLATION
+  form_antillean_confederation_DESC: "Vytvoř Antilskou konfederaci jako Dominikánská republika, Haiti, Portoriko, nebo Kuba." # todo: NEW TRANSLATION
+  form_rio_de_la_plata_NAME: "Form Rio de la Plata" # todo: NEW TRANSLATION
+  form_rio_de_la_plata_DESC: "Vytvoř Rio de la Plata jako Paraguay, Bolívie, Chile, Uruguay nebo Argentina." # todo: NEW TRANSLATION
+  form_north_sea_empire_NAME: "Formuj Impérium Severního moře" # todo: NEW TRANSLATION
+  form_north_sea_empire_DESC: "Vytvoř Impérium Severního moře jako Spojené království, Švédsko, Dánsko nebo Norsko." # todo: NEW TRANSLATION
+  form_the_visegrad_union_NAME: "Formuj Visegrádskou unii" # todo: NEW TRANSLATION
+  form_the_visegrad_union_DESC: "Vytvoř Visegrádskou unii jako Polsko, Česko, Slovensko nebo Maďarsko." # todo: NEW TRANSLATION
+  form_the_andean_federation_NAME: "Formuj Andskou federaci" # todo: NEW TRANSLATION
+  form_the_andean_federation_DESC: "Vytvoř Andskou federaci jako Kolumbie, Peru nebo Bolívie." # todo: NEW TRANSLATION
+  form_indochina_NAME: "Vytvoř Indočínu" # todo: NEW TRANSLATION
+  form_indochina_DESC: "Vytvoř Indočínu jako Vietnam, Kambodža nebo Laos." # todo: NEW TRANSLATION
+  form_the_united_turkic_territories_NAME: "Vytvořte sjednocená turkická území" # todo: NEW TRANSLATION
+  form_the_united_turkic_territories_DESC: "Vytvoř Spojené turecké území jako Kazachstán, Uzbekistán, Turkmenistán, Tádžikistán nebo Kyrgyzstán." # todo: NEW TRANSLATION
+  form_the_union_of_south_american_nations_NAME: "Formuj Unii jihoamerických národů" # todo: NEW TRANSLATION
+  form_the_union_of_south_american_nations_DESC: "Vytvoř Unii jihoamerických národů jako Brazílie, Venezuela, Argentina, Peru, Ekvádor, Guyana, Kolumbie, Chile, Trinidad a Tobago nebo Francouzská Guyana." # todo: NEW TRANSLATION
+  form_australasia_NAME: "Vytvoř Australázii" # todo: NEW TRANSLATION
+  form_australasia_DESC: "Vytvoř Australázii jako Austrálie či Nový Zéland." # todo: NEW TRANSLATION
+  form_iberia_NAME: "Form Iberie" # todo: NEW TRANSLATION
+  form_iberia_DESC: "Vytvoř Iberii jako Španělsko nebo Portugalsko" # todo: NEW TRANSLATION
+  form_gran_colombia_NAME: "Gran Colombia" # todo: NEW TRANSLATION
+  form_gran_colombia_DESC: "Vytvoř Gran Colombia jako Kolumbie, Venezuela nebo Ekvádor." # todo: NEW TRANSLATION
+  form_central_america_NAME: "Form Central America" # todo: NEW TRANSLATION
+  form_central_america_DESC: "Vytvoř Střední Ameriku jako Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, nebo Panama." # todo: NEW TRANSLATION
+  form_the_baltic_states_NAME: "Form the Baltic States" # todo: NEW TRANSLATION
+  form_the_baltic_states_DESC: "Vytvoř Pobaltské státy jako Estonsko, Lotyšsko, nebo Litva." # todo: NEW TRANSLATION
+  unite_the_nordic_people_NAME: "Form Scandinavia" # todo: NEW TRANSLATION
+  unite_the_nordic_people_DESC: "Form Scandinavia jako Švédsko, Dánsko, Norsko, nebo Finsko." # todo: NEW TRANSLATION
+  africa_paradis_NAME: "Afrika Raj" # todo: NEW TRANSLATION
+  africa_paradis_DESC: "Jako africká země vytvořte Spojené státy Afriky a mějte HDP vyšší než jakákoliv evropská země." # todo: NEW TRANSLATION
+  africa_paradis_usa_tt: "Zformovány Spojené státy Afriky" # todo: NEW TRANSLATION
+  africa_paradis_gdp_tt: "Náš HDP je vyšší než kterýkoli evropský stát" # todo: NEW TRANSLATION
+  pan_african_highway_NAME: "Pan-africká dálnice" # todo: NEW TRANSLATION
+  pan_african_highway_DESC: "Jako africká země mějte železniční propojení z Káhiry do Kapského města." # todo: NEW TRANSLATION
+  afri_net_NAME: "Afri-Net" # todo: NEW TRANSLATION
+  afri_net_DESC: "Jako africká země zajistěte, aby každý africký stát měl alespoň 3 a více Network Infrastructure." # todo: NEW TRANSLATION
+  afri_net_tt: "Každý africký stát musí mít alespoň úroveň Network Infrastructure 3 a více." # todo: NEW TRANSLATION
+  achievement_diamonds_are_a_girls_best_friend_NAME: "Diamonds Are A Ruler's Best Friend" # todo: NEW TRANSLATION
+  achievement_diamonds_are_a_girls_best_friend_DESC: "Vytěžit více než 500 Vzácných kovů." # todo: NEW TRANSLATION
+  chiraq_NAME: "Chiraq" # todo: NEW TRANSLATION
+  chiraq_DESC: "Jako Irák ovládněte Illinois (Chiraq)" # todo: NEW TRANSLATION
+  u_ar_great_NAME: "U AR Great" # todo: NEW TRANSLATION
+  u_ar_great_DESC: "Sjednoťte buď Spojenou arabskou republiku nebo Federaci arabských republik" # todo: NEW TRANSLATION
+  lawrence_of_arabia_NAME: "Lawrence z Arábie" # todo: NEW TRANSLATION
+  lawrence_of_arabia_DESC: "Jako Spojené království pošlete dobrovolníky do Spojené arabské republiky nebo Federace arabských republik" # todo: NEW TRANSLATION
+  technically_everyone_is_an_arab_NAME: "Ve skutečnosti je kdokoli mimo Ameriku technicky A-rab" # todo: NEW TRANSLATION
+  technically_everyone_is_an_arab_DESC: "Jako Spojená arabská republika nebo Federace arabských republik buďte jedinou zemí vedle Spojených států, která existuje" # todo: NEW TRANSLATION
+  are_you_sure_thats_enough_NAME: "Jste si jistí, že to stačí?" # todo: NEW TRANSLATION
+  are_you_sure_thats_enough_DESC: "Ovládněte alespoň 90 % arabského HDP dříve než sjednotíte Araby" # todo: NEW TRANSLATION
+  i_hate_arabs_NAME: "Ale pro úplnou otevřenost, musím říci, že nesnáším A-raby" # todo: NEW TRANSLATION
+  i_hate_arabs_DESC: "Porazte Spojenou arabskou republiku nebo Federaci arabských republik ve válce" # todo: NEW TRANSLATION
+  its_all_francafrique_to_me_NAME: "Tohle je pro mě všechno Françafrique" # todo: NEW TRANSLATION
+  its_all_francafrique_to_me_DESC: "Jako Francie máte celou Afriku pod kontrolou" # todo: NEW TRANSLATION
+  the_return_to_charlesfort_st_louis_NAME: "Návrat do Charlesfort a Fort Saint Louis" # todo: NEW TRANSLATION
+  the_return_to_charlesfort_st_louis_DESC: "Jako Bourbonistická Francie monarchisté okupujte Jižní Kaguľu? a Texas" # todo: NEW TRANSLATION
+  truly_better_than_napoleon_NAME: "Opravdu lepší než Napoleon" # todo: NEW TRANSLATION
+  truly_better_than_napoleon_DESC: "Před rokem 2010 mějte Londýn, Moskvu, Stockholms, Istanbul, Řím, Madrid, Káhiru a Tunisko pod vaší kontrolou" # todo: NEW TRANSLATION
+  ils_sont_le_fleau_des_gens_occupes_NAME: "Ils sont le fléau des gens occupes" # todo: NEW TRANSLATION
+  ils_sont_le_fleau_des_gens_occupes_DESC: "Jako Francie se stanete jedinou supervelmocí" # todo: NEW TRANSLATION
+  he_who_has_iron_has_bread_NAME: "Kdo má železo, má chleba." # todo: NEW TRANSLATION
+  he_who_has_iron_has_bread_DESC: "Jako Komunistická Francie mějte maximum výdajů na všechna zákony kromě Policie a Vojenské — a všechny existující země v Evropě také buďte komunistické a podřízené Francii." # todo: NEW TRANSLATION
+  libya_good_gaddafi_NAME: "Gaddafi? Spíš Gooddafi" # todo: NEW TRANSLATION
+  libya_good_gaddafi_DESC: "Jako Gaddáfí vládněte demokratické Libyi." # todo: NEW TRANSLATION
+  libya_bad_gaddafi_NAME: "Gaddafi? Spíš Baddafi" # todo: NEW TRANSLATION
+  libya_bad_gaddafi_DESC: "Jako Gaddáfí rozeběhni Libyi." # todo: NEW TRANSLATION
+  libya_no_gods_or_kings_NAME: "Žádní bohové ani králové. Jen člověk" # todo: NEW TRANSLATION
+  libya_no_gods_or_kings_DESC: "Jako Muammar Gaddáfí vyberte si něco jiného. Zvolte nemožné. Zvolte nára." # todo: NEW TRANSLATION
+  libya_no_gods_or_kings_tt: "Muammar Gaddafi has rejected the §Ythree answers§!" # todo: NEW TRANSLATION
+  libya_f_is_for_family_NAME: "F je pro rodinu" # todo: NEW TRANSLATION
+  libya_f_is_for_family_DESC: "Jako Muammar Gaddáfí, nechte všechna vaše děti buď mrtvá nebo vyhnaná." # todo: NEW TRANSLATION
+  libya_f_is_for_family_muhammad_muammar_gaddafi_tt: "Muhammad Muammar Gaddafi je mrtvý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_saif_al_islam_gaddafi_tt: "Saif al-Islam Gaddafi je mrtvý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_al_saadi_gaddafi_tt: "Al-Saadi Gaddafi je mrtvý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_mutassim_gaddafi_tt: "Mutassim Gaddafi je mrtvý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_hannibal_gaddafi_tt: "Hannibal Gaddafi je mrtvý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_ayesha_gaddafi_tt: "Ayesha Gaddafi je mrtvá nebo vyhnaná" # todo: NEW TRANSLATION
+  libya_f_is_for_family_saif_al_arab_gaddafi_tt: "Saif al-Arab Gaddafi je mrtý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_f_is_for_family_khamis_gaddafi_tt: "Khamis Gaddafi je mrtý nebo vyhnaný" # todo: NEW TRANSLATION
+  libya_t_posing_NAME: "T-Posing" # todo: NEW TRANSLATION
+  libya_t_posing_DESC: "Jako Libye, mějte Tibesti a Tuareg State jako poddané zatímco vlastní všechny jejich jádra." # todo: NEW TRANSLATION
+  libya_t_posing_TIE_tt: "[TIE.GetNameWithFlag] owns all their core states" # todo: NEW TRANSLATION
+  libya_t_posing_TUA_tt: "[TUA.GetNameWithFlag] owns all their core states" # todo: NEW TRANSLATION
+  achievement_botswana_BOTswana_NAME: "BOTswana" # todo: NEW TRANSLATION
+  achievement_botswana_BOTswana_DESC: "Jako Botswana, zkoumejte $human_imitation_ai$." # todo: NEW TRANSLATION
+  achievement_botswana_captain_planet_NAME: "Captain Planet Is Done With Your Shit" # todo: NEW TRANSLATION
+  achievement_botswana_captain_planet_DESC: "Jako Botswana, mějte v zemi nula pytláků a snižte Kalahari desertifikaci na co nejnižší možnou úroveň." # todo: NEW TRANSLATION
+  achievement_czech_one_man_army_NAME: "One Man Army" # todo: NEW TRANSLATION
+  achievement_czech_one_man_army_DESC: "Vytrénujte Petra Pavla na alespoň §Y75%§! ve všech §YTraining Card§! ve stejnou dobu" # todo: NEW TRANSLATION
+  achievement_czech_one_man_army_TT: "Liaison Officer, Special Forces, Desert Training, Defensive Style, Offensive Style and Planning Expert reached at least §Y75%§!" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_NAME: "CzechosloGRANDia" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_DESC: "Jako Československo ovládejte všechna česká, slovenská a bývalá území Rakouska-Uherska, region Slezska a Zakarpatské území" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_1_TT: "§YCzechoslovakia§! existuje a ovládá všechna původní §YCzech Republic§! a §YSlovakia§! území" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_2_TT: "Ovládá §Y[115.GetName]§!, §Y[626.GetName]§! a §Y[1098.GetName]§!" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_3_TT: "Ovládá §Y[701.GetName]§!" # todo: NEW TRANSLATION
+  achievement_czech_czechoslograndia_4_TT: "Ovládá všechna původní §Y[HUN.GetName]§!, §Y[AUS.GetName]§!, §Y[BOS.GetName]§!, §Y[SLV.GetName]§! a §Y[CRO.GetName]§!, §YNorthern Yugoslovian§! území stejně jako §Y[285.GetName]§!, §Y[909.GetName]§!, §Y[910.GetName]§! a §Y[151.GetName]§!" # todo: NEW TRANSLATION
+  achievement_czech_monopoly_NAME: "České Monopoly" # todo: NEW TRANSLATION
+  achievement_czech_monopoly_DESC: "Mějte více §YŠkoda Factories§! a §YŠkoda Research Slots§! než §YIndustrial Complexes§! a §YResearch Slots§! kdykoliv, zatímco máte alespoň 5 §YIndustrial Complexes§!" # todo: NEW TRANSLATION
+  achievement_czech_monopoly_1_TT: "Více §YŠkoda Factories§! než §YIndustrial Complexes§! při tom alespoň 5 §YIndustrial Complexes§!" # todo: NEW TRANSLATION
+  achievement_czech_monopoly_2_TT: "Více §YŠkoda Research Slots§! než §YResearch Slots§!" # todo: NEW TRANSLATION
+  achievement_there_are_two_of_them_NAME: "Jsou jich dva?!." # todo: NEW TRANSLATION
+  achievement_there_are_two_of_them_DESC: "Mějte investice Amazon do Amazonie." # todo: NEW TRANSLATION
+  achievement_the_rainforest_reborn_NAME: "Znovuzrození deštného pralesa" # todo: NEW TRANSLATION
+  achievement_the_rainforest_reborn_DESC: "Celková plocha amazonských deštných pralesů (divokých a chráněných) přesahuje 3000 akrů" # todo: NEW TRANSLATION
+  achievement_the_rainforest_reborn_tt: "Celková plocha Amazonijského deštného pralesa přesahuje 3000 akrů" # todo: NEW TRANSLATION
+  achievement_the_new_communist_south_america_NAME: "Nová komunistická Jižní Amerika" # todo: NEW TRANSLATION
+  achievement_the_new_communist_south_america_DESC: "Jako Brazílie vedená Lula nechte svou Alignment Strany pracujících dosáhnout 100 a všechny jihoamerické země mají vládnoucí stranu §Y$generic.anarchist_communism$§!." # todo: NEW TRANSLATION
+  achievement_the_new_communist_south_america_tt: "Alignment Strany pracujících je 100\n\nVšechny §YExistující jihoamerické země§! mají §Y$generic.anarchist_communism$§! jako vládnoucí stranu." # todo: NEW TRANSLATION
+  achievement_the_new_agricultural_baron_NAME: "Nový zemědělský baron" # todo: NEW TRANSLATION
+  achievement_the_new_agricultural_baron_DESC: "Jako Brazílie mějte 150 §YCommercialized Agricultural Districts§! a buďte Velmocí nebo Supervelmocí" # todo: NEW TRANSLATION
+  achievement_the_new_agricultural_baron_tt: "[BRA.GetNameWithFlag] má alespoň 150 §YCommercialized Agricultural Districts§#!" # todo: NEW TRANSLATION
+  achievement_who_needs_them_silly_trees_anyways_NAME: "K čemu ty hloupé stromy, no?" # todo: NEW TRANSLATION
+  achievement_who_needs_them_silly_trees_anyways_DESC: "Jako Brazílie si udržujte kontrolu nad všemi státy Amazonie a každý stát Amazonie má úroveň 5 §YInfrastructure§!, mějte úroveň 5 §YNetwork Infrastructure§!, a 25 §YOffices Sectors§!, §YCivilian Industries§!, §YCommercialized Agricultural District§! nebo §YMilitary Factories§!." # todo: NEW TRANSLATION
+  achievement_who_needs_them_silly_trees_anyways_tt: "Všechny §YAmazon States§! jsou vlastněny a řízeny [BRA.GetNameWithFlag]\n\nVšechny §YAmazon States§! mají úroveň 5 §YInfrastruktura§!, mají úroveň 5 §YSíťová infrastruktura§!, a 25 §YSektory kanceláří§!, §YCivilní průmysly§!, §YKomercializovaná zemědělská oblast§! nebo §YVojenské továrny§!.\n" # todo: NEW TRANSLATION
+  achievement_legacy_of_michiel_de_ruyter_NAME: "Dědictví Michiela de Ruytera" # todo: NEW TRANSLATION
+  achievement_legacy_of_michiel_de_ruyter_DESC: "Jako Nizozemsko překonáte světové velmoci v produkci letadlových lodí a staňte se jedním ze tří největších zahraničních vlivů" # todo: NEW TRANSLATION
+  achievement_the_dutch_empire_once_again_NAME: "Nizozemské impérium, znovu" # todo: NEW TRANSLATION
+  achievement_the_dutch_empire_once_again_DESC: "Jako Nizozemsko znovu získejte kontrolu nad všemi bývalými nizozemskými koloniálními územími a znovu se etablujte jako globální velmoc." # todo: NEW TRANSLATION
+  make_america_libertarian_again_NAME: "Udělejme Ameriku libertariánskou znovu" # todo: NEW TRANSLATION
+  make_america_libertarian_again_DESC: "Jako libertariánská Amerika nemáte daně a přesto dosahujete kladného příjmu." # todo: NEW TRANSLATION
+  make_america_libertarian_again_tt: "Zatímco USA nemají §Ydaně z obyvatelstva§! a §YKorporátní daně§!, mají kladný příjem." # todo: NEW TRANSLATION
+  waa_shington_state_NAME: "Waa-shington State" # todo: NEW TRANSLATION
+  waa_shington_state_DESC: "Jako stát Wa vlastněte stát Washington." # todo: NEW TRANSLATION
+  eu_achievement_tt: "Je aktuální nebo potenciální národ @EUU §YEuropean Union§!." # todo: NEW TRANSLATION
+  africa_achievement_tt: "Je africkou zemí." # todo: NEW TRANSLATION
+  ace_western_autocracy_are_in_power_tt: "§Y$generic.Western_Autocracy$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_communist_state_are_in_power_tt: "§Y$generic.Communist-State$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_neutral_oligarchs_are_in_power_tt: "§Y$generic.oligarchism$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_neutral_libertarian_are_in_power_tt: "§Y$generic.Neutral_Libertarian$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_neutral_communism_are_in_power_tt: "§YOligarchs§! jsou u moci." # todo: NEW TRANSLATION
+  ace_fascists_are_in_power_tt: "§Y$generic.Nat_Fascism$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_military_junta_are_in_power_tt: "§Y$generic.Nat_Autocracy$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_monarchist_are_in_power_tt: "§Y$generic.Monarchist$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_anarchist_communism_are_in_power_tt: "§Y$generic.anarchist_communism$§! jsou u moci." # todo: NEW TRANSLATION
+  ace_military_junta_are_in_power_or_coalition_tt: "§Y$generic.Nat_Autocracy$§! jsou ve vládnoucí koalici." # todo: NEW TRANSLATION
+  ace_fascists_are_in_power_or_coalition_tt: "§Y$generic.Nat_Fascism$§! jsou ve vládnoucí koalici." # todo: NEW TRANSLATION

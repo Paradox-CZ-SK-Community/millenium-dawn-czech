@@ -1,106 +1,536 @@
 ﻿l_english:
- terrain_chicago_illinois: "Chicago, Spojené státy" # todo: NEW TRANSLATION
- terrain_berlin: "Berlín, Německo" # todo: NEW TRANSLATION
- terrain_aleppo_citadel_syria: "Aleppo, Sýrie" # todo: NEW TRANSLATION
- terrain_jerusalem: "Jeruzalém, sporné" # todo: NEW TRANSLATION
- terrain_mecca: "Mekka, Saúdská Arábie" # todo: NEW TRANSLATION
- terrain_paris: "Paříž, Francie" # todo: NEW TRANSLATION
- terrain_rio_de_janiero: "Rio de Janeiro, Brazílie" # todo: NEW TRANSLATION
- terrain_lisbon: "Lisboa, Portugalsko" # todo: NEW TRANSLATION
- terrain_london: "Londýn, Anglie" # todo: NEW TRANSLATION
- terrain_moscow: "Moskva, Rusko" # todo: NEW TRANSLATION
- terrain_hong_kong: "Hongkong" # todo: NEW TRANSLATION
- terrain_singapore: "Singapur" # todo: NEW TRANSLATION
- terrain_shanghai: "Šanghaj, Čína" # todo: NEW TRANSLATION
- terrain_fuzhou: "Fuzhou, Čína" # todo: NEW TRANSLATION
- terrain_beijing: "Peking, Čína" # todo: NEW TRANSLATION
- terrain_athens: "Atény, Řecko" # todo: NEW TRANSLATION
- terrain_istanbul: "Istanbul, Turecko" # todo: NEW TRANSLATION
- terrain_buenos_aires: "Buenos Aires, Argentina" # todo: NEW TRANSLATION
- terrain_cordoba: "Córdoba, Argentina" # todo: NEW TRANSLATION
- terrain_brussels: "Brusel, Belgie" # todo: NEW TRANSLATION
- terrain_belmopan: "Belmopan, Belize" # todo: NEW TRANSLATION
- terrain_la_paz: "La Paz, Bolívie" # todo: NEW TRANSLATION
- terrain_plovdiv: "Plovdiv, Bulharsko" # todo: NEW TRANSLATION
- terrain_sofia: "Sofie, Bulharsko" # todo: NEW TRANSLATION
- terrain_brasilia: "Brasília, Brazílie" # todo: NEW TRANSLATION
- terrain_fortaleza: "Fortaleza, Brazílie" # todo: NEW TRANSLATION
- terrain_manaus: "Manaus, Brazílie" # todo: NEW TRANSLATION
- terrain_porto_algre: "Porto Alegre, Brazílie" # todo: NEW TRANSLATION
- terrain_recife: "Recife, Brazílie" # todo: NEW TRANSLATION
- terrain_salvador: "Salvador, Brazílie" # todo: NEW TRANSLATION
- terrain_sao_jose_dos_campos: "Sao José dos Campos, Brazílie" # todo: NEW TRANSLATION
- terrain_sao_paulo: "Sao Paulo, Brazílie" # todo: NEW TRANSLATION
- terrain_florence: "Florencie, Itálie" # todo: NEW TRANSLATION
- terrain_venice: "Benátky, Itálie" # todo: NEW TRANSLATION
- terrain_milan: "Milán, Itálie" # todo: NEW TRANSLATION
- terrain_genoa: "Janov, Itálie" # todo: NEW TRANSLATION
- terrain_rome: "Řím, Itálie" # todo: NEW TRANSLATION
- terrain_naples: "Neapol, Itálie" # todo: NEW TRANSLATION
- terrain_vatican: "Vatikán" # todo: NEW TRANSLATION
- terrain_cagilari: "Cagliari, Itálie" # todo: NEW TRANSLATION
- terrain_palermo: "Palermo, Itálie" # todo: NEW TRANSLATION
- terrain_kiev: "Kyjev, Ukrajina" # todo: NEW TRANSLATION
- terrain_chernivtsi: "Černivci, Ukrajina" # todo: NEW TRANSLATION
- terrain_odessa: "Oděsa, Ukrajina" # todo: NEW TRANSLATION
- terrain_ivanofrankvisk: "Ivano-Frankivsk, Ukrajina" # todo: NEW TRANSLATION
- terrain_warsaw: "Varšava, Polsko" # todo: NEW TRANSLATION
- terrain_gdansk: "Gdaňsk, Polsko" # todo: NEW TRANSLATION
- terrain_bialystok: "Białystok, Polsko" # todo: NEW TRANSLATION
- terrain_bydgoszcz: "Bydgoszcz, Polsko" # todo: NEW TRANSLATION
- terrain_czestochowa: "Čenstochová, Polsko" # todo: NEW TRANSLATION
- terrain_katowice: "Katovice, Polsko" # todo: NEW TRANSLATION
- terrain_krakow: "Krakov, Polsko" # todo: NEW TRANSLATION
- terrain_lodz: "Lodž, Polsko" # todo: NEW TRANSLATION
- terrain_lublin: "Lublin, Polsko" # todo: NEW TRANSLATION
- terrain_poznan: "Poznaň, Polsko" # todo: NEW TRANSLATION
- terrain_szczecin: "Štětín, Polsko" # todo: NEW TRANSLATION
- terrain_wroclaw: "Vratislav, Polsko" # todo: NEW TRANSLATION
- terrain_slupsk: "Slupsk, Polsko" # todo: NEW TRANSLATION
- terrain_elblag: "Elbląg, Polsko" # todo: NEW TRANSLATION
- terrain_olsztyn: "Olsztyn, Polsko" # todo: NEW TRANSLATION
- terrain_suwalki: "Suwałki, Polsko" # todo: NEW TRANSLATION
- terrain_torun: "Torun, Polsko" # todo: NEW TRANSLATION
- terrain_plock: "Płock, Polsko" # todo: NEW TRANSLATION
- terrain_wloclawek: "Włocławek, Polsko" # todo: NEW TRANSLATION
- terrain_gorzow: "Gorzów, Polsko" # todo: NEW TRANSLATION
- terrain_siedlce: "Siedlce, Polsko" # todo: NEW TRANSLATION
- terrain_bucharest: "Bukurešť, Rumunsko" # todo: NEW TRANSLATION
- terrain_constanta: "Konstanca, Rumunsko" # todo: NEW TRANSLATION
- terrain_timisoara: "Timișoara, Rumunsko" # todo: NEW TRANSLATION
- terrain_oradea: "Oradea, Rumunsko" # todo: NEW TRANSLATION
- terrain_iasi: "Jasy, Rumunsko" # todo: NEW TRANSLATION
- terrain_arad: "Arad, Rumunsko" # todo: NEW TRANSLATION
- terrain_baia_mare: "Baia Mare, Rumunsko" # todo: NEW TRANSLATION
- terrain_sibiu: "Sibiu, Rumunsko" # todo: NEW TRANSLATION
- terrain_cluj_napoca: "Cluj-Napoca, Rumunsko" # todo: NEW TRANSLATION
- terrain_craiova: "Craiova, Rumunsko" # todo: NEW TRANSLATION
- terrain_galati: "Galați, Rumunsko" # todo: NEW TRANSLATION
- terrain_bacau: "Bacău, Rumunsko" # todo: NEW TRANSLATION
- terrain_brasov: "Brašov, Rumunsko" # todo: NEW TRANSLATION
- terrain_buzau: "Buzău, Rumunsko" # todo: NEW TRANSLATION
- terrain_targu_mures: "Târgu Mureș, Rumunsko" # todo: NEW TRANSLATION
- terrain_braila: "Brăila, Rumunsko" # todo: NEW TRANSLATION
- terrain_botosani: "Botoșani, Rumunsko" # todo: NEW TRANSLATION
- terrain_satu_mare: "Satu Mare, Rumunsko" # todo: NEW TRANSLATION
- terrain_ploiesti: "Ploiești, Rumunsko" # todo: NEW TRANSLATION
- terrain_pitesti: "Pitești, Rumunsko" # todo: NEW TRANSLATION
- terrain_tiraspol: "Tiraspol, Podněstersko" # todo: NEW TRANSLATION
- terrain_komrat: "Komrat, Moldavsko" # todo: NEW TRANSLATION
- terrain_kishinev: "Kišiněv, Moldavsko" # todo: NEW TRANSLATION
- terrain_cahul: "Cahul, Moldavsko" # todo: NEW TRANSLATION
- terrain_balti: "Balti, Moldavsko" # todo: NEW TRANSLATION
- terrain_vilnius: "Vilnius, Litva" # todo: NEW TRANSLATION
- terrain_kaunas: "Kaunas, Litva" # todo: NEW TRANSLATION
- terrain_klaipeda: "Klaipėda, Litva" # todo: NEW TRANSLATION
- terrain_siauliai: "Šiauliai, Litva" # todo: NEW TRANSLATION
- terrain_budapest: "Budapešť, Maďarsko" # todo: NEW TRANSLATION
- terrain_szeged: "Szeged, Maďarsko" # todo: NEW TRANSLATION
- terrain_debrecen: "Debrecen, Maďarsko" # todo: NEW TRANSLATION
- terrain_prague: "Praha, Česká republika" # todo: NEW TRANSLATION
- terrain_ostrava: "Ostrava, Česká republika" # todo: NEW TRANSLATION
- terrain_brno: "Brno, Česká republika" # todo: NEW TRANSLATION
- terrain_bratislava: "Bratislava, Slovensko" # todo: NEW TRANSLATION
- terrain_kosice: "Košice, Slovensko" # todo: NEW TRANSLATION
- terrain_kerbala: "Karbala, Irák" # todo: NEW TRANSLATION
- terrain_fallujah: "Fallúdža, Irák" # todo: NEW TRANSLATION
+  terrain_chicago_illinois: "Chicago, Spojené státy americké" # todo: NEW TRANSLATION
+  terrain_berlin: "Berlín, Německo" # todo: NEW TRANSLATION
+  terrain_aleppo_citadel_syria: "Aleppo, Sýrie" # todo: NEW TRANSLATION
+  terrain_jerusalem: "Jeruzalém, sporné území" # todo: NEW TRANSLATION
+  terrain_mecca: "Mekka, Saúdská Arábie" # todo: NEW TRANSLATION
+  terrain_paris: "Paříž, Francie" # todo: NEW TRANSLATION
+  terrain_rio_de_janiero: "Rio de Janeiro, Brazílie" # todo: NEW TRANSLATION
+  terrain_lisbon: "Lisabon, Portugalsko" # todo: NEW TRANSLATION
+  terrain_london: "Londýn, Spojené království" # todo: NEW TRANSLATION
+  terrain_moscow: "Moskva, Rusko" # todo: NEW TRANSLATION
+  terrain_hong_kong: "Hongkong, Čína" # todo: NEW TRANSLATION
+  terrain_singapore: "Singapur" # todo: NEW TRANSLATION
+  terrain_shanghai: "Šanghaj, Čína" # todo: NEW TRANSLATION
+  terrain_fuzhou: "Fuzhou, Čína" # todo: NEW TRANSLATION
+  terrain_beijing: "Beijing, Čína" # todo: NEW TRANSLATION
+  terrain_athens: "Atény, Řecko" # todo: NEW TRANSLATION
+  terrain_istanbul: "Istanbul, Turecko" # todo: NEW TRANSLATION
+  terrain_buenos_aires: "Buenos Aires, Argentina" # todo: NEW TRANSLATION
+  terrain_cordoba: "Cordoba, Argentina" # todo: NEW TRANSLATION
+  terrain_yerevan: "Jerevan, Arménie" # todo: NEW TRANSLATION
+  terrain_adelaide: "Adelaide, Austrálie" # todo: NEW TRANSLATION
+  terrain_brisbane: "Brisbane, Austrálie" # todo: NEW TRANSLATION
+  terrain_canberra: "Canberra, Austrálie" # todo: NEW TRANSLATION
+  terrain_melbourne: "Melbourne, Austrálie" # todo: NEW TRANSLATION
+  terrain_perth: "Perth, Austrálie" # todo: NEW TRANSLATION
+  terrain_sydney: "Sydney, Austrálie" # todo: NEW TRANSLATION
+  terrain_mt_uluru: "Hora Uluru, Austrálie" # todo: NEW TRANSLATION
+  terrain_vienna: "Vídeň, Rakousko" # todo: NEW TRANSLATION
+  terrain_graz: "Graz, Rakousko" # todo: NEW TRANSLATION
+  terrain_baku: "Baku, Ázerbájdžán" # todo: NEW TRANSLATION
+  terrain_manama: "Manama, Bahraín" # todo: NEW TRANSLATION
+  terrain_nsa_bahrain: "Bahraín" # todo: NEW TRANSLATION
+  terrain_chittagong: "Chittagong, Bangladéš" # todo: NEW TRANSLATION
+  terrain_dhaka: "Dháka, Bangladéš" # todo: NEW TRANSLATION
+  terrain_brussels: "Brusel, Belgie" # todo: NEW TRANSLATION
+  terrain_belmopan: "Belmopan, Belize" # todo: NEW TRANSLATION
+  terrain_la_paz: "La Paz, Bolívie" # todo: NEW TRANSLATION
+  terrain_plovdiv: "Plovdiv, Bulharsko" # todo: NEW TRANSLATION
+  terrain_sofia: "Sofie, Bulharsko" # todo: NEW TRANSLATION
+  terrain_brasilia: "Brasília, Brazílie" # todo: NEW TRANSLATION
+  terrain_fortaleza: "Fortaleza, Brazílie" # todo: NEW TRANSLATION
+  terrain_manaus: "Manaus, Brazílie" # todo: NEW TRANSLATION
+  terrain_porto_algre: "Porto Alegre, Brazílie" # todo: NEW TRANSLATION
+  terrain_recife: "Recife, Brazílie" # todo: NEW TRANSLATION
+  terrain_salvador: "Salvador, Brazílie" # todo: NEW TRANSLATION
+  terrain_sao_jose_dos_campos: "Sao Jose dos Campos, Brazílie" # todo: NEW TRANSLATION
+  terrain_sao_paulo: "Sao Paulo, Brazílie" # todo: NEW TRANSLATION
+  terrain_ouagadougou: "Ouagadougou, Burkina Faso" # todo: NEW TRANSLATION
+  terrain_bujumbura: "Bujumbura, Burundi" # todo: NEW TRANSLATION
+  terrain_douala: "Douala, Kamerun" # todo: NEW TRANSLATION
+  terrain_yaounde: "Yaounde, Kamerun" # todo: NEW TRANSLATION
+  terrain_montreal: "Montreal, Kanada" # todo: NEW TRANSLATION
+  terrain_ottawa: "Ottawa, Kanada" # todo: NEW TRANSLATION
+  terrain_quebec: "Québec, Kanada" # todo: NEW TRANSLATION
+  terrain_toronto: "Toronto, Kanada" # todo: NEW TRANSLATION
+  terrain_vancouver: "Vancouver, Kanada" # todo: NEW TRANSLATION
+  terrain_victoria: "Victoria, Kanada" # todo: NEW TRANSLATION
+  terrain_hamilton: "Hamilton, Kanada" # todo: NEW TRANSLATION
+  terrain_phnom_penh: "Phnom Penh, Kambodža" # todo: NEW TRANSLATION
+  terrain_ndjamena: "Ndjamena, Čad" # todo: NEW TRANSLATION
+  terrain_chongqing: "Chongqing, Čína" # todo: NEW TRANSLATION
+  terrain_hangzhou: "Hangzhou, Čína" # todo: NEW TRANSLATION
+  terrain_harbin: "Harbin, Čína" # todo: NEW TRANSLATION
+  terrain_shenzhen: "Shenzhen, Čína" # todo: NEW TRANSLATION
+  terrain_tianjin: "Tianjin, Čína" # todo: NEW TRANSLATION
+  terrain_xiamen: "Xiamen, Čína" # todo: NEW TRANSLATION
+  terrain_guangzhou: "Guangzhou, Čína" # todo: NEW TRANSLATION
+  terrain_chengdu: "Chengdu, Čína" # todo: NEW TRANSLATION
+  terrain_zhengzhou: "Zhengzhou, Čína" # todo: NEW TRANSLATION
+  terrain_xining: "Xining, Čína" # todo: NEW TRANSLATION
+  terrain_xian: "Xi`an, Čína" # todo: NEW TRANSLATION
+  terrain_wuxi: "Wuxi, Čína" # todo: NEW TRANSLATION
+  terrain_wuhan: "Wuhan, Čína" # todo: NEW TRANSLATION
+  terrain_wenzhou: "Wenzhou, Čína" # todo: NEW TRANSLATION
+  terrain_taiyuan: "Taiyuan, Čína" # todo: NEW TRANSLATION
+  terrain_shijiazhuang: "Shijiazhuang, Čína" # todo: NEW TRANSLATION
+  terrain_shenyang: "Shenyang, Čína" # todo: NEW TRANSLATION
+  terrain_qingdao: "Qingdao, Čína" # todo: NEW TRANSLATION
+  terrain_nanning: "Nanning, Čína" # todo: NEW TRANSLATION
+  terrain_nanchang: "Nanchang, Čína" # todo: NEW TRANSLATION
+  terrain_kunming: "Kunming, Čína" # todo: NEW TRANSLATION
+  terrain_guiyang: "Guiyang, Čína" # todo: NEW TRANSLATION
+  terrain_dalian: "Dalian, Čína" # todo: NEW TRANSLATION
+  terrain_changsha: "Changsha, Čína" # todo: NEW TRANSLATION
+  terrain_urumqi: "Urumqi, Čína" # todo: NEW TRANSLATION
+  terrain_bengbu: "Bengbu, Čína" # todo: NEW TRANSLATION
+  terrain_changde: "Changde, Čína" # todo: NEW TRANSLATION
+  terrain_jinghong: "Jinghong, Čína" # todo: NEW TRANSLATION
+  terrain_panzhiua: "Panzhihua, Čína" # todo: NEW TRANSLATION
+  terrain_lanzhou: "Lanzhou, Čína" # todo: NEW TRANSLATION
+  terrain_taizhou: "Taizhou, Čína" # todo: NEW TRANSLATION
+  terrain_yiwu: "Yiwu, Čína" # todo: NEW TRANSLATION
+  terrain_huaian: "Huaian, Čína" # todo: NEW TRANSLATION
+  terrain_hefei: "Hefei, Čína" # todo: NEW TRANSLATION
+  terrain_xuzhou: "Xuzhou, Čína" # todo: NEW TRANSLATION
+  terrain_jining: "Jining, Čína" # todo: NEW TRANSLATION
+  terrain_xinxiang: "Xinxiang, Čína" # todo: NEW TRANSLATION
+  terrain_handan: "Handan, Čína" # todo: NEW TRANSLATION
+  terrain_luoyang: "Luoyang, Čína" # todo: NEW TRANSLATION
+  terrain_xiaogan: "Xiaogan, Čína" # todo: NEW TRANSLATION
+  terrain_shantou: "Shantou, Čína" # todo: NEW TRANSLATION
+  terrain_zhangpu: "Zhangpu, Čína" # todo: NEW TRANSLATION
+  terrain_ningbo: "Ningbo, Čína" # todo: NEW TRANSLATION
+  terrain_cixi: "Cixi, Čína" # todo: NEW TRANSLATION
+  terrain_shaoxing: "Shaoxing, Čína" # todo: NEW TRANSLATION
+  terrain_yancheng: "Yancheng, Čína" # todo: NEW TRANSLATION
+  terrain_lianyungang: "Lianyungang, Čína" # todo: NEW TRANSLATION
+  terrain_yantai: "Yantai, Čína" # todo: NEW TRANSLATION
+  terrain_rongcheng: "Rongcheng, Čína" # todo: NEW TRANSLATION
+  terrain_dandong: "Dandong, Čína" # todo: NEW TRANSLATION
+  terrain_anshan: "Anshan, Čína" # todo: NEW TRANSLATION
+  terrain_chaoyang: "Chaoyang, Čína" # todo: NEW TRANSLATION
+  terrain_xilinghot: "Xilinghot, Čína" # todo: NEW TRANSLATION
+  terrain_qiqihar: "Qiqihar, Čína" # todo: NEW TRANSLATION
+  terrain_yanji: "Yanji, Čína" # todo: NEW TRANSLATION
+  terrain_changchun: "Changchun, Čína" # todo: NEW TRANSLATION
+  terrain_chifeng: "Chifeng, Čína" # todo: NEW TRANSLATION
+  terrain_hohhot: "Hohhot, Čína" # todo: NEW TRANSLATION
+  terrain_ordos: "Ordos, Čína" # todo: NEW TRANSLATION
+  terrain_meishan: "Meishan, Čína" # todo: NEW TRANSLATION
+  terrain_luzhou: "Luzhou, Čína" # todo: NEW TRANSLATION
+  terrain_lijiang: "Lijiang, Čína" # todo: NEW TRANSLATION
+  terrain_lhasa: "Lhasa, Čína" # todo: NEW TRANSLATION
+  terrain_korla: "Korla, Čína" # todo: NEW TRANSLATION
+  terrain_kashgar: "Kashgar, Čína" # todo: NEW TRANSLATION
+  terrain_xiangyang: "Xiangyang, Čína" # todo: NEW TRANSLATION
+  terrain_wenchang: "Wenchang, Čína" # todo: NEW TRANSLATION
+  terrain_haikou: "Haikou, Čína" # todo: NEW TRANSLATION
+  terrain_quanzhou: "Quanzhou, Čína" # todo: NEW TRANSLATION
+  terrain_shuyang: "Shuyang, Čína" # todo: NEW TRANSLATION
+  terrain_linyi: "Linyi, Čína" # todo: NEW TRANSLATION
+  terrain_tangshan: "Tangshan, Čína" # todo: NEW TRANSLATION
+  terrain_nanjing: "Nanjing, Čína" # todo: NEW TRANSLATION
+  terrain_jinan: "Jinan, Čína" # todo: NEW TRANSLATION
+  terrain_changzhou: "Changzhou, Čína" # todo: NEW TRANSLATION
+  terrain_zibo: "Zibo, Čína" # todo: NEW TRANSLATION
+  terrain_suzhou: "Suzhou, Čína" # todo: NEW TRANSLATION
+  terrain_yangzhou: "Yangzhou, Čína" # todo: NEW TRANSLATION
+  terrain_yinchuan: "Yinchuan, Čína" # todo: NEW TRANSLATION
+  terrain_zhuhai: "Zhuhai, Čína" # todo: NEW TRANSLATION
+  terrain_santiago: "Santiago, Chile" # todo: NEW TRANSLATION
+  terrain_bogota: "Bogotá, Kolumbie" # todo: NEW TRANSLATION
+  terrain_barranquilla: "Barranquilla, Kolumbie" # todo: NEW TRANSLATION
+  terrain_medellin: "Medellín, Kolumbie" # todo: NEW TRANSLATION
+  terrain_brazzaville: "Brazzaville, Kongo" # todo: NEW TRANSLATION
+  terrain_san_jose: "San José, Kostarika" # todo: NEW TRANSLATION
+  terrain_abidjan: "Abidjan, Pobřeží slonoviny" # todo: NEW TRANSLATION
+  terrain_yamoussoukro: "Yamoussoukro, Pobřeží slonoviny" # todo: NEW TRANSLATION
+  terrain_havana: "Havanna, Kuba" # todo: NEW TRANSLATION
+  terrain_zagreb: "Záhřeb, Chorvatsko" # todo: NEW TRANSLATION
+  terrain_prague: "Praha, Česká republika" # todo: NEW TRANSLATION
+  terrain_ostrava: "Ostrava, Česká republika" # todo: NEW TRANSLATION
+  terrain_brno: "Brno, Česká republika" # todo: NEW TRANSLATION
+  terrain_copenhagen: "Kodaň, Dánsko" # todo: NEW TRANSLATION
+  terrain_santo_domingo: "Santo Domingo, Dominikánská republika" # todo: NEW TRANSLATION
+  terrain_kinshasa: "Kinshasa, Demokratická republika Kongo" # todo: NEW TRANSLATION
+  terrain_lubumbashi: "Lubumbashi, Demokratická republika Kongo" # todo: NEW TRANSLATION
+  terrain_kananga: "Kananga, Demokratická republika Kongo" # todo: NEW TRANSLATION
+  terrain_kisangani: "Kisangani, Demokratická republika Kongo" # todo: NEW TRANSLATION
+  terrain_mbuji_mayi: "Mbuji-Mayi, Demokratická republika Kongo" # todo: NEW TRANSLATION
+  terrain_quito: "Quito, Ekvádor" # todo: NEW TRANSLATION
+  terrain_guayaquil: "Guayaquil, Ekvádor" # todo: NEW TRANSLATION
+  terrain_alexandria: "Alexandrie, Egypt" # todo: NEW TRANSLATION
+  terrain_cairo: "Káhira, Egypt" # todo: NEW TRANSLATION
+  terrain_giza: "Gíza, Egypt" # todo: NEW TRANSLATION
+  terrain_san_salvador: "San Salvador, El Salvador" # todo: NEW TRANSLATION
+  terrain_tallinn: "Tallinn, Estonsko" # todo: NEW TRANSLATION
+  terrain_asmara: "Asmara, Eritrea" # todo: NEW TRANSLATION
+  terrain_addis_ababa: "Addis Abeba, Etiopie" # todo: NEW TRANSLATION
+  terrain_helsinki: "Helsinky, Finsko" # todo: NEW TRANSLATION
+  terrain_turku: "Turku, Finsko" # todo: NEW TRANSLATION
+  terrain_lyon: "Lyon, Francie" # todo: NEW TRANSLATION
+  terrain_nantes: "Nantes, Francie" # todo: NEW TRANSLATION
+  terrain_bordeaux: "Bordeaux, Francie" # todo: NEW TRANSLATION
+  terrain_lille: "Lille, Francie" # todo: NEW TRANSLATION
+  terrain_marseille: "Marseille, Francie" # todo: NEW TRANSLATION
+  terrain_nice: "Nice, Francie" # todo: NEW TRANSLATION
+  terrain_rouen: "Rouen, Francie" # todo: NEW TRANSLATION
+  terrain_strasbourg: "Strasbourg, Francie" # todo: NEW TRANSLATION
+  terrain_toulouse: "Toulouse, Francie" # todo: NEW TRANSLATION
+  terrain_versailles: "Versailles, Francie" # todo: NEW TRANSLATION
+  terrain_bremen: "Bremen, Německo" # todo: NEW TRANSLATION
+  terrain_dortmund: "Dortmund, Německo" # todo: NEW TRANSLATION
+  terrain_dresden: "Drážďany, Německo" # todo: NEW TRANSLATION
+  terrain_essen: "Essen, Německo" # todo: NEW TRANSLATION
+  terrain_frankfurt: "Frankfurt, Německo" # todo: NEW TRANSLATION
+  terrain_hamburg: "Hamburg, Německo" # todo: NEW TRANSLATION
+  terrain_hannover: "Hannover, Německo" # todo: NEW TRANSLATION
+  terrain_kiel: "Kiel, Německo" # todo: NEW TRANSLATION
+  terrain_koln: "Koln, Německo" # todo: NEW TRANSLATION
+  terrain_munchen: "Mnichov, Německo" # todo: NEW TRANSLATION
+  terrain_nurnberg: "Norimberk, Německo" # todo: NEW TRANSLATION
+  terrain_rostock: "Rostock, Německo" # todo: NEW TRANSLATION
+  terrain_stuttgart: "Stuttgart, Německo" # todo: NEW TRANSLATION
+  terrain_chemnitz: "Chemnitz, Německo" # todo: NEW TRANSLATION
+  terrain_magdeburg: "Magdeburg, Německo" # todo: NEW TRANSLATION
+  terrain_dusseldorf: "Düsseldorf, Německo" # todo: NEW TRANSLATION
+  terrain_port_au_prince: "Port-au-Prince, Haiti" # todo: NEW TRANSLATION
+  terrain_den_haag: "Haag, Nizozemsko" # todo: NEW TRANSLATION
+  terrain_amsterdam: "Amsterdam, Nizozemsko" # todo: NEW TRANSLATION
+  terrain_rotterdam: "Rotterdam, Nizozemsko" # todo: NEW TRANSLATION
+  terrain_antwerp: "Antverpy, Nizozemsko" # todo: NEW TRANSLATION
+  terrain_breda: "Breda, Nizozemsko" # todo: NEW TRANSLATION
+  terrain_skopje: "Skopje, Severní Makedonie" # todo: NEW TRANSLATION
+  terrain_banjul: "Banjul, Gambie" # todo: NEW TRANSLATION
+  terrain_accra: "Accra, Ghana" # todo: NEW TRANSLATION
+  terrain_iraklion: "Heraklion, Řecko" # todo: NEW TRANSLATION
+  terrain_thessaloniki: "Soluň, Řecko" # todo: NEW TRANSLATION
+  terrain_guatamela_city: "Guatemala City, Guatemala" # todo: NEW TRANSLATION
+  terrain_tbilisi: "Tbilisi, Gruzie" # todo: NEW TRANSLATION
+  terrain_budapest: "Budapešť, Maďarsko" # todo: NEW TRANSLATION
+  terrain_szeged: "Szeged, Maďarsko" # todo: NEW TRANSLATION
+  terrain_debrecen: "Debrecín, Maďarsko" # todo: NEW TRANSLATION
+  terrain_ahvaz: "Ahváz, Írán" # todo: NEW TRANSLATION
+  terrain_isfahan: "Isfahán, Írán" # todo: NEW TRANSLATION
+  terrain_mashhad: "Mášhad, Írán" # todo: NEW TRANSLATION
+  terrain_shiraz: "Šíráz, Írán" # todo: NEW TRANSLATION
+  terrain_tabriz: "Tabríz, Írán" # todo: NEW TRANSLATION
+  terrain_tehran: "Teherán, Írán" # todo: NEW TRANSLATION
+  terrain_baghdad: "Bagdád, Irák" # todo: NEW TRANSLATION
+  terrain_basrah: "Basra, Irák" # todo: NEW TRANSLATION
+  terrain_mosul: "Mosul, Irák" # todo: NEW TRANSLATION
+  terrain_karbala: "Kárbala, Irák" # todo: NEW TRANSLATION
+  terrain_fallujah: "Fallúdža, Irák" # todo: NEW TRANSLATION
+  terrain_dublin: "Dublin, Irsko" # todo: NEW TRANSLATION
+  terrain_haifa: "Haifa, Izrael" # todo: NEW TRANSLATION
+  terrain_tel_aviv: "Tel Aviv, Izrael" # todo: NEW TRANSLATION
+  terrain_florence: "Florencie, Itálie" # todo: NEW TRANSLATION
+  terrain_venice: "Benátky, Itálie" # todo: NEW TRANSLATION
+  terrain_milan: "Milán, Itálie" # todo: NEW TRANSLATION
+  terrain_genoa: "Janov, Itálie" # todo: NEW TRANSLATION
+  terrain_rome: "Řím, Itálie" # todo: NEW TRANSLATION
+  terrain_naples: "Neapol, Itálie" # todo: NEW TRANSLATION
+  terrain_vatican: "Vatikán" # todo: NEW TRANSLATION
+  terrain_palermo: "Palermo, Itálie" # todo: NEW TRANSLATION
+  terrain_cagilari: "Cagliari, Itálie" # todo: NEW TRANSLATION
+  terrain_torino: "Turín, Itálie" # todo: NEW TRANSLATION
+  terrain_bologne: "Bologna, Itálie" # todo: NEW TRANSLATION
+  terrain_taranto: "Taranto, Itálie" # todo: NEW TRANSLATION
+  terrain_trieste: "Terst, Itálie" # todo: NEW TRANSLATION
+  terrain_srinagar: "Srinagar, Indie" # todo: NEW TRANSLATION
+  terrain_ludhiana: "Ludhiana, Indie" # todo: NEW TRANSLATION
+  terrain_delhi: "Dillí, Indie" # todo: NEW TRANSLATION
+  terrain_agra: "Ágra, Indie" # todo: NEW TRANSLATION
+  terrain_ahmedabad: "Ahmedábád, Indie" # todo: NEW TRANSLATION
+  terrain_kanpur: "Kanpur, Indie" # todo: NEW TRANSLATION
+  terrain_patna: "Patna, Indie" # todo: NEW TRANSLATION
+  terrain_mumbai: "Bombaj, Indie" # todo: NEW TRANSLATION
+  terrain_hyderabad: "Hyderábád, Indie" # todo: NEW TRANSLATION
+  terrain_bengaluru: "Bengalur, Indie" # todo: NEW TRANSLATION
+  terrain_kochi: "Kochi, Indie" # todo: NEW TRANSLATION
+  terrain_chennai: "Chennai, Indie" # todo: NEW TRANSLATION
+  terrain_kolkata: "Kolkata, Indie" # todo: NEW TRANSLATION
+  terrain_jakarta: "Jakarta, Indonésie" # todo: NEW TRANSLATION
+  terrain_surabaya: "Surabaya, Indonésie" # todo: NEW TRANSLATION
+  terrain_kingston: "Kingston, Jamajka" # todo: NEW TRANSLATION
+  terrain_fukuoka: "Fukuoka, Japonsko" # todo: NEW TRANSLATION
+  terrain_kyoto: "Kyoto, Japonsko" # todo: NEW TRANSLATION
+  terrain_matsuyama: "Matsuyama, Japonsko" # todo: NEW TRANSLATION
+  terrain_naha: "Naha, Japonsko" # todo: NEW TRANSLATION
+  terrain_osaka: "Osaka, Japonsko" # todo: NEW TRANSLATION
+  terrain_sapporo: "Sapporo, Japonsko" # todo: NEW TRANSLATION
+  terrain_sendai: "Sendai, Japonsko" # todo: NEW TRANSLATION
+  terrain_tokyo: "Tokio, Japonsko" # todo: NEW TRANSLATION
+  terrain_yokohama: "Yokohama, Japonsko" # todo: NEW TRANSLATION
+  terrain_hiroshima: "Hirošima, Japonsko" # todo: NEW TRANSLATION
+  terrain_amman: "Amman, Jordánsko" # todo: NEW TRANSLATION
+  terrain_astana: "Astana, Kazachstán" # todo: NEW TRANSLATION
+  terrain_almaty: "Almaty, Kazachstán" # todo: NEW TRANSLATION
+  terrain_nairobi: "Nairobi, Keňa" # todo: NEW TRANSLATION
+  terrain_erbil: "Erbil, Kurdistán" # todo: NEW TRANSLATION
+  terrain_kuwait_city: "Kuwait City, Kuvajt" # todo: NEW TRANSLATION
+  terrain_bishkek: "Biškek, Kyrgyzstán" # todo: NEW TRANSLATION
+  terrain_riga: "Riga, Lotyšsko" # todo: NEW TRANSLATION
+  terrain_vientiane: "Vientiane, Laos" # todo: NEW TRANSLATION
+  terrain_beirut: "Bejrút, Libanon" # todo: NEW TRANSLATION
+  terrain_benghazi: "Benghází, Libye" # todo: NEW TRANSLATION
+  terrain_tripoli: "Tripoli, Libye" # todo: NEW TRANSLATION
+  terrain_vilnius: "Vilnius, Litva" # todo: NEW TRANSLATION
+  terrain_kaunas: "Kaunas, Litva" # todo: NEW TRANSLATION
+  terrain_klaipeda: "Klaipeda, Litva" # todo: NEW TRANSLATION
+  terrain_siauliai: "Siauliai, Litva" # todo: NEW TRANSLATION
+  terrain_luxembourg_city: "Lucemburk, Lucembursko" # todo: NEW TRANSLATION
+  terrain_macau: "Macau, Čína" # todo: NEW TRANSLATION
+  terrain_antananarivo: "Antananarivo, Madagaskar" # todo: NEW TRANSLATION
+  terrain_kuala_lumpur: "Kuala Lumpur, Malajsie" # todo: NEW TRANSLATION
+  terrain_bamako: "Bamako, Mali" # todo: NEW TRANSLATION
+  terrain_mexico_city: "Mexico City, Mexiko" # todo: NEW TRANSLATION
+  terrain_guadalajara: "Guadalajara, Mexiko" # todo: NEW TRANSLATION
+  terrain_monterrey: "Monterrey, Mexiko" # todo: NEW TRANSLATION
+  terrain_tijuana: "Tijuana, Mexiko" # todo: NEW TRANSLATION
+  terrain_mexicali: "Mexicali, Mexiko" # todo: NEW TRANSLATION
+  terrain_kishinev: "Kišiněv, Moldavsko" # todo: NEW TRANSLATION
+  terrain_komrat: "Komrat, Moldavsko" # todo: NEW TRANSLATION
+  terrain_cahul: "Čahul, Moldavsko" # todo: NEW TRANSLATION
+  terrain_balti: "Balti, Moldavsko" # todo: NEW TRANSLATION
+  terrain_monaco: "Monako" # todo: NEW TRANSLATION
+  terrain_ulan_bator: "Ulan-Bator, Mongolsko" # todo: NEW TRANSLATION
+  terrain_khovd: "Khovd, Mongolsko" # todo: NEW TRANSLATION
+  terrain_erdent: "Erdenet, Mongolsko" # todo: NEW TRANSLATION
+  terrain_darkhan: "Darkhan, Mongolsko" # todo: NEW TRANSLATION
+  terrain_podgorica: "Podgorica, Černá Hora" # todo: NEW TRANSLATION
+  terrain_tangier: "Tangier, Maroko" # todo: NEW TRANSLATION
+  terrain_casablanca: "Casablanca, Maroko" # todo: NEW TRANSLATION
+  terrain_maputo: "Maputo, Mosambik" # todo: NEW TRANSLATION
+  terrain_yangon: "Yangon, Myanmar" # todo: NEW TRANSLATION
+  terrain_windhoek: "Windhoek, Namibie" # todo: NEW TRANSLATION
+  terrain_mt_everest: "Everest, Nepál" # todo: NEW TRANSLATION
+  terrain_auckland: "Auckland, Nový Zéland" # todo: NEW TRANSLATION
+  terrain_wellington: "Wellington, Nový Zéland" # todo: NEW TRANSLATION
+  terrain_managua: "Managua, Nikaragua" # todo: NEW TRANSLATION
+  terrain_abuja: "Abuja, Nigérie" # todo: NEW TRANSLATION
+  terrain_kano: "Kano, Nigérie" # todo: NEW TRANSLATION
+  terrain_lagos: "Lagos, Nigérie" # todo: NEW TRANSLATION
+  terrain_oslo: "Oslo, Norsko" # todo: NEW TRANSLATION
+  terrain_bergen: "Bergen, Norsko" # todo: NEW TRANSLATION
+  terrain_pyongyang: "Pchjongjang, Severní Korea" # todo: NEW TRANSLATION
+  terrain_muscat: "Maskat, Omán" # todo: NEW TRANSLATION
+  terrain_asuncion: "Asuncion, Paraguay" # todo: NEW TRANSLATION
+  terrain_islamabad: "Islamabad, Pákistán" # todo: NEW TRANSLATION
+  terrain_karachi: "Karachi, Pákistán" # todo: NEW TRANSLATION
+  terrain_lahore: "Lahore, Pákistán" # todo: NEW TRANSLATION
+  terrain_peshawar: "Peshawar, Pákistán" # todo: NEW TRANSLATION
+  terrain_gaza: "Gaza, Palestina" # todo: NEW TRANSLATION
+  terrain_panama_city: "Panama City, Panama" # todo: NEW TRANSLATION
+  terrain_lima: "Lima, Peru" # todo: NEW TRANSLATION
+  terrain_manila: "Manila, Filipíny" # todo: NEW TRANSLATION
+  terrain_warsaw: "Varšava, Polsko" # todo: NEW TRANSLATION
+  terrain_gdansk: "Gdaňsk, Polsko" # todo: NEW TRANSLATION
+  terrain_bialystok: "Bialystok, Polsko" # todo: NEW TRANSLATION
+  terrain_bydgoszcz: "Bydgoszcz, Polsko" # todo: NEW TRANSLATION
+  terrain_czestochowa: "Čestochová, Polsko" # todo: NEW TRANSLATION
+  terrain_katowice: "Katowice, Polsko" # todo: NEW TRANSLATION
+  terrain_krakow: "Kraków, Polsko" # todo: NEW TRANSLATION
+  terrain_lodz: "Łódź, Polsko" # todo: NEW TRANSLATION
+  terrain_lublin: "Lublin, Polsko" # todo: NEW TRANSLATION
+  terrain_poznan: "Poznaň, Polsko" # todo: NEW TRANSLATION
+  terrain_szczecin: "Szczecin, Polsko" # todo: NEW TRANSLATION
+  terrain_wroclaw: "Wroclaw, Polsko" # todo: NEW TRANSLATION
+  terrain_slupsk: "Słupsk, Polsko" # todo: NEW TRANSLATION
+  terrain_elblag: "Elbląg, Polsko" # todo: NEW TRANSLATION
+  terrain_olsztyn: "Olsztyn, Polsko" # todo: NEW TRANSLATION
+  terrain_suwalki: "Suwałki, Polsko" # todo: NEW TRANSLATION
+  terrain_torun: "Torún, Polsko" # todo: NEW TRANSLATION
+  terrain_plock: "Płock, Polsko" # todo: NEW TRANSLATION
+  terrain_wloclawek: "Włocławek, Polsko" # todo: NEW TRANSLATION
+  terrain_gorzow: "Gorzów, Polsko" # todo: NEW TRANSLATION
+  terrain_siedlce: "Siedlce, Polsko" # todo: NEW TRANSLATION
+  terrain_algarve: "Algarve, Portugalsko" # todo: NEW TRANSLATION
+  terrain_porto: "Porto, Portugalsko" # todo: NEW TRANSLATION
+  terrain_doha: "Doha, Katar" # todo: NEW TRANSLATION
+  terrain_bucharest: "Bukurešť, Rumunsko" # todo: NEW TRANSLATION
+  terrain_constanta: "Constanta, Rumunsko" # todo: NEW TRANSLATION
+  terrain_timisoara: "Temišvar, Rumunsko" # todo: NEW TRANSLATION
+  terrain_oradea: "Oradea, Rumunsko" # todo: NEW TRANSLATION
+  terrain_iasi: "Iași, Rumunsko" # todo: NEW TRANSLATION
+  terrain_arad: "Arad, Rumunsko" # todo: NEW TRANSLATION
+  terrain_baia_mare: "Baia Mare, Rumunsko" # todo: NEW TRANSLATION
+  terrain_sibiu: "Sibiu, Rumunsko" # todo: NEW TRANSLATION
+  terrain_cluj_napoca: "Kluž-Napoka, Rumunsko" # todo: NEW TRANSLATION
+  terrain_craiova: "Craiova, Rumunsko" # todo: NEW TRANSLATION
+  terrain_galati: "Galați, Rumunsko" # todo: NEW TRANSLATION
+  terrain_bacau: "Bacău, Rumunsko" # todo: NEW TRANSLATION
+  terrain_brasov: "Brașov, Rumunsko" # todo: NEW TRANSLATION
+  terrain_buzau: "Buzău, Rumunsko" # todo: NEW TRANSLATION
+  terrain_targu_mures: "Târgu Mureș, Rumunsko" # todo: NEW TRANSLATION
+  terrain_braila: "Brăila, Rumunsko" # todo: NEW TRANSLATION
+  terrain_botosani: "Botoșani, Rumunsko" # todo: NEW TRANSLATION
+  terrain_satu_mare: "Satu Mare, Rumunsko" # todo: NEW TRANSLATION
+  terrain_ploiesti: "Ploiești, Rumunsko" # todo: NEW TRANSLATION
+  terrain_pitesti: "Pitești, Rumunsko" # todo: NEW TRANSLATION
+  terrain_chelyabinsk: "Čeljabinsk, Rusko" # todo: NEW TRANSLATION
+  terrain_yekaterinburg: "Jekatěrinskburg, Rusko" # todo: NEW TRANSLATION
+  terrain_perm: "Perm, Rusko" # todo: NEW TRANSLATION
+  terrain_irkutsk: "Irkutsk, Rusko" # todo: NEW TRANSLATION
+  terrain_kaliningrad: "Kaliningrad, Rusko" # todo: NEW TRANSLATION
+  terrain_kazan: "Kazan, Rusko" # todo: NEW TRANSLATION
+  terrain_khabarovsk: "Khabarovsk, Rusko" # todo: NEW TRANSLATION
+  terrain_krasnador: "Krasnodar, Rusko" # todo: NEW TRANSLATION
+  terrain_krasnoyarsk: "Krasnojarsk, Rusko" # todo: NEW TRANSLATION
+  terrain_kursk: "Kursk, Rusko" # todo: NEW TRANSLATION
+  terrain_murmansk: "Murmansk, Rusko" # todo: NEW TRANSLATION
+  terrain_nizhny_novgorod: "Nižnij Novgorod, Rusko" # todo: NEW TRANSLATION
+  terrain_novosibirsk: "Novosibirsk, Rusko" # todo: NEW TRANSLATION
+  terrain_orel: "Orel, Rusko" # todo: NEW TRANSLATION
+  terrain_rostov: "Rostov, Rusko" # todo: NEW TRANSLATION
+  terrain_samara: "Samara, Rusko" # todo: NEW TRANSLATION
+  terrain_saratov: "Saratov, Rusko" # todo: NEW TRANSLATION
+  terrain_st_petersburg: "Sankt-Petěrburg, Rusko" # todo: NEW TRANSLATION
+  terrain_tomsk: "Tomsk, Rusko" # todo: NEW TRANSLATION
+  terrain_tver: "Tver, Rusko" # todo: NEW TRANSLATION
+  terrain_vladivostok: "Vladivostok, Rusko" # todo: NEW TRANSLATION
+  terrain_volgograd: "Volgograd, Rusko" # todo: NEW TRANSLATION
+  terrain_voronezh: "Voroněž, Rusko" # todo: NEW TRANSLATION
+  terrain_yaroslavl: "Jaroslavl, Rusko" # todo: NEW TRANSLATION
+  terrain_komsomolsk: "Komsomolsk, Rusko" # todo: NEW TRANSLATION
+  terrain_kigali: "Kigali, Rwanda" # todo: NEW TRANSLATION
+  terrain_dammam: "Dammam, Saúdská Arábie" # todo: NEW TRANSLATION
+  terrain_jeddah: "Jeddah, Saúdská Arábie" # todo: NEW TRANSLATION
+  terrain_riyadh: "Rijád, Saúdská Arábie" # todo: NEW TRANSLATION
+  terrain_dakar: "Dakar, Senegal" # todo: NEW TRANSLATION
+  terrain_nis: "Niš, Srbsko" # todo: NEW TRANSLATION
+  terrain_belgrade: "Bělehrad, Srbsko" # todo: NEW TRANSLATION
+  terrain_novi_sad: "Novi Sad, Srbsko" # todo: NEW TRANSLATION
+  terrain_sarajevo: "Sarajevo, Srbsko" # todo: NEW TRANSLATION
+  terrain_bratislava: "Bratislava, Slovensko" # todo: NEW TRANSLATION
+  terrain_kosice: "Košice, Slovensko" # todo: NEW TRANSLATION
+  terrain_ljubljana: "Ljubljana, Slovinsko" # todo: NEW TRANSLATION
+  terrain_cape_town: "Kapské město, Jihoafrická republika" # todo: NEW TRANSLATION
+  terrain_durban: "Durban, Jihoafrická republika" # todo: NEW TRANSLATION
+  terrain_johannesburg: "Johannesburg, Jihoafrická republika" # todo: NEW TRANSLATION
+  terrain_pretoria: "Pretoria, Jihoafrická republika" # todo: NEW TRANSLATION
+  terrain_juba: "Juba, Jižní Súdán" # todo: NEW TRANSLATION
+  terrain_barcelona: "Barcelona, Španělsko" # todo: NEW TRANSLATION
+  terrain_bilbao: "Bilbao, Španělsko" # todo: NEW TRANSLATION
+  terrain_ceuta: "Ceuta, Španělsko" # todo: NEW TRANSLATION
+  terrain_granada: "Granada, Španělsko" # todo: NEW TRANSLATION
+  terrain_madrid: "Madrid, Španělsko" # todo: NEW TRANSLATION
+  terrain_malaga: "Malaga, Španělsko" # todo: NEW TRANSLATION
+  terrain_melilla: "Melilla, Španělsko" # todo: NEW TRANSLATION
+  terrain_murcia: "Murcia, Španělsko" # todo: NEW TRANSLATION
+  terrain_sevilla: "Sevilla, Španělsko" # todo: NEW TRANSLATION
+  terrain_valencia: "Valencie, Španělsko" # todo: NEW TRANSLATION
+  terrain_zaragoza: "Zaragoza, Španělsko" # todo: NEW TRANSLATION
+  terrain_colombo: "Colombo, Srí Lanka" # todo: NEW TRANSLATION
+  terrain_mogadishu: "Mogadisho, Somálsko" # todo: NEW TRANSLATION
+  terrain_khartoum: "Khartoum, Súdán" # todo: NEW TRANSLATION
+  terrain_malmo: "Malmo, Švédsko" # todo: NEW TRANSLATION
+  terrain_goteborg: "Goteborg, Švédsko" # todo: NEW TRANSLATION
+  terrain_stockholm: "Stockholm, Švédsko" # todo: NEW TRANSLATION
+  terrain_basel: "Basel, Švýcarsko" # todo: NEW TRANSLATION
+  terrain_geneve: "Ženeva, Švýcarsko" # todo: NEW TRANSLATION
+  terrain_zurich: "Curych, Švýcarsko" # todo: NEW TRANSLATION
+  terrain_daraa: "Daraa, Sýrie" # todo: NEW TRANSLATION
+  terrain_damascus: "Damašek, Sýrie" # todo: NEW TRANSLATION
+  terrain_deir_ez_zor: "Deir ez Zór, Sýrie" # todo: NEW TRANSLATION
+  terrain_idlib: "Idlib, Sýrie" # todo: NEW TRANSLATION
+  terrain_homs: "Homs, Sýrie" # todo: NEW TRANSLATION
+  terrain_raqqa: "Raqqa, Sýrie" # todo: NEW TRANSLATION
+  terrain_dar_es_salaam: "Dar es Salaam, Tanzanie" # todo: NEW TRANSLATION
+  terrain_kilimanjaro: "Kilimandžáro, Tanzanie" # todo: NEW TRANSLATION
+  terrain_mwanza: "Mwanza, Tanzanie" # todo: NEW TRANSLATION
+  terrain_bangkok: "Bangkok, Thajsko" # todo: NEW TRANSLATION
+  terrain_taibei: "Taipei, Tchaj-wan" # todo: NEW TRANSLATION
+  terrain_tunis: "Tunis, Tunisko" # todo: NEW TRANSLATION
+  terrain_tiraspol: "Tiraspol, Transnistrie" # todo: NEW TRANSLATION
+  terrain_adana: "Adana, Turecko" # todo: NEW TRANSLATION
+  terrain_ankara: "Ankara, Turecko" # todo: NEW TRANSLATION
+  terrain_antalya: "Antalya, Turecko" # todo: NEW TRANSLATION
+  terrain_bursa: "Bursa, Turecko" # todo: NEW TRANSLATION
+  terrain_diyarbakir: "Diyarbakir, Turecko" # todo: NEW TRANSLATION
+  terrain_izmir: "Izmir, Turecko" # todo: NEW TRANSLATION
+  terrain_izmit: "Izmit, Turecko" # todo: NEW TRANSLATION
+  terrain_kayseri: "Kayseri, Turecko" # todo: NEW TRANSLATION
+  terrain_konya: "Konya, Turecko" # todo: NEW TRANSLATION
+  terrain_trabzon: "Trabzon, Turecko" # todo: NEW TRANSLATION
+  terrain_uskudar: "Üsküdar, Turecko" # todo: NEW TRANSLATION
+  terrain_ashgabat: "Ašgabat, Turkmenistán" # todo: NEW TRANSLATION
+  terrain_abu_dhabi: "Abú Dábí, Spojené arabské emiráty" # todo: NEW TRANSLATION
+  terrain_dubai: "Dubaj, Spojené arabské emiráty" # todo: NEW TRANSLATION
+  terrain_kiev: "Kyjev, Ukrajina" # todo: NEW TRANSLATION
+  terrain_dnipro: "Dnipro, Ukrajina" # todo: NEW TRANSLATION
+  terrain_donestk: "Doněst, Ukrajina" # todo: NEW TRANSLATION
+  terrain_lwow: "Lwow, Ukrajina" # todo: NEW TRANSLATION
+  terrain_sevastpol: "Sevastopol, Ukrajina" # todo: NEW TRANSLATION
+  terrain_chernivtsi: "Černivci, Ukrajina" # todo: NEW TRANSLATION
+  terrain_odessa: "Oděsa, Ukrajina" # todo: NEW TRANSLATION
+  terrain_ivanofrankvisk: "Ivano-Frankivsk, Ukrajina" # todo: NEW TRANSLATION
+  terrain_kampala: "Kampala, Uganda" # todo: NEW TRANSLATION
+  terrain_montevideo: "Montevideo, Uruguay" # todo: NEW TRANSLATION
+  terrain_tashkent: "Taškent, Uzbekistán" # todo: NEW TRANSLATION
+  terrain_samarkand: "Samarkand, Uzbekistán" # todo: NEW TRANSLATION
+  terrain_gibraltar: "Gibraltar, Spojené království" # todo: NEW TRANSLATION
+  terrain_belfast: "Belfast, Spojené království" # todo: NEW TRANSLATION
+  terrain_birmingham: "Birmingham, Spojené království" # todo: NEW TRANSLATION
+  terrain_cambridge: "Cambridge, Spojené království" # todo: NEW TRANSLATION
+  terrain_cardiff: "Cardiff, Spojené království" # todo: NEW TRANSLATION
+  terrain_leeds: "Leeds, Spojené království" # todo: NEW TRANSLATION
+  terrain_liverpool: "Liverpool, Spojené království" # todo: NEW TRANSLATION
+  terrain_manchester: "Manchester, Spojené království" # todo: NEW TRANSLATION
+  terrain_newcastle: "Newcastle, Spojené království" # todo: NEW TRANSLATION
+  terrain_nottingham: "Nottingham, Spojené království" # todo: NEW TRANSLATION
+  terrain_oxford: "Oxford, Spojené království" # todo: NEW TRANSLATION
+  terrain_sheffield: "Sheffield, Spojené království" # todo: NEW TRANSLATION
+  terrain_george_town: "Georgetown, Spojené království" # todo: NEW TRANSLATION
+  terrain_saint_george: "Svatý George, Spojené království" # todo: NEW TRANSLATION
+  terrain_edinburgh: "Edinburgh, Spojené království" # todo: NEW TRANSLATION
+  terrain_glasgow: "Glasgow, Spojené království" # todo: NEW TRANSLATION
+  terrain_atlanta: "Atlanta, USA" # todo: NEW TRANSLATION
+  terrain_austin: "Austin, USA" # todo: NEW TRANSLATION
+  terrain_baltimore: "Baltimore, USA" # todo: NEW TRANSLATION
+  terrain_boston: "Boston, USA" # todo: NEW TRANSLATION
+  terrain_buffalo: "Buffalo, USA" # todo: NEW TRANSLATION
+  terrain_cleveland: "Cleveland, USA" # todo: NEW TRANSLATION
+  terrain_dallas: "Dallas, USA" # todo: NEW TRANSLATION
+  terrain_denver: "Denver, USA" # todo: NEW TRANSLATION
+  terrain_detroit: "Detroit, USA" # todo: NEW TRANSLATION
+  terrain_houston: "Houston, USA" # todo: NEW TRANSLATION
+  terrain_indianapolis: "Indianapolis, USA" # todo: NEW TRANSLATION
+  terrain_kansas_city: "Kansas City, USA" # todo: NEW TRANSLATION
+  terrain_los_angeles: "Los Angeles, USA" # todo: NEW TRANSLATION
+  terrain_miami: "Miami, USA" # todo: NEW TRANSLATION
+  terrain_key_west: "Key West, USA" # todo: NEW TRANSLATION
+  terrain_minneapolis: "Minneapolis, USA" # todo: NEW TRANSLATION
+  terrain_mission_viejo: "Mission Viejo, USA" # todo: NEW TRANSLATION
+  terrain_new_orleans: "New Orleans, USA" # todo: NEW TRANSLATION
+  terrain_new_york: "New York, USA" # todo: NEW TRANSLATION
+  terrain_newark: "Newark, USA" # todo: NEW TRANSLATION
+  terrain_oakland: "Oakland, USA" # todo: NEW TRANSLATION
+  terrain_oklahoma_city: "Oklahoma City, USA" # todo: NEW TRANSLATION
+  terrain_philadelphia: "Philadelphia, USA" # todo: NEW TRANSLATION
+  terrain_phoneix: "Phoenix, USA" # todo: NEW TRANSLATION
+  terrain_pittsburgh: "Pittsburgh, USA" # todo: NEW TRANSLATION
+  terrain_portland: "Portland, USA" # todo: NEW TRANSLATION
+  terrain_riverside: "Riverside, USA" # todo: NEW TRANSLATION
+  terrain_sacramento: "Sacramento, USA" # todo: NEW TRANSLATION
+  terrain_san_antonio: "San Antonio, USA" # todo: NEW TRANSLATION
+  terrain_san_diego: "San Diego, USA" # todo: NEW TRANSLATION
+  terrain_san_francisco: "San Francisco, USA" # todo: NEW TRANSLATION
+  terrain_seattle: "Seattle, USA" # todo: NEW TRANSLATION
+  terrain_st_louis: "St. Louis, USA" # todo: NEW TRANSLATION
+  terrain_tampa: "Tampa, USA" # todo: NEW TRANSLATION
+  terrain_las_vegas: "Las Vegas, USA" # todo: NEW TRANSLATION
+  terrain_washington_dc: "Washington, D.C., USA" # todo: NEW TRANSLATION
+  terrain_san_juan: "San Juan, USA" # todo: NEW TRANSLATION
+  terrain_charlotte_amalie: "Charlotte Amalie, USA" # todo: NEW TRANSLATION
+  terrain_hanoi: "Hanoj, Vietnam" # todo: NEW TRANSLATION
+  terrain_ho_chi_minh: "Ho Či Minh, Vietnam" # todo: NEW TRANSLATION
+  terrain_caracas: "Caracas, Venezuela" # todo: NEW TRANSLATION
+  terrain_maracaibo: "Maracaibo, Venezuela" # todo: NEW TRANSLATION
+  terrain_aden: "Aden, Jemen" # todo: NEW TRANSLATION
+  terrain_sanaa: "Sanaa, Jemen" # todo: NEW TRANSLATION
+  terrain_lusaka: "Lusaka, Zambie" # todo: NEW TRANSLATION
+  terrain_bulawayo: "Bulawayo, Zimbabwe" # todo: NEW TRANSLATION
+  terrain_harare: "Harare, Zimbabwe" # todo: NEW TRANSLATION

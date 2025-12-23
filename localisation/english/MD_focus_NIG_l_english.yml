@@ -1,445 +1,581 @@
 ﻿l_english:
- nigeria_focus: "Nigerijský strom zaměření" # todo: NEW TRANSLATION
- NIG_religious_divide: "Náboženské rozdělení" # todo: NEW TRANSLATION
- NIG_religious_divide_desc: "Nigérii sužují náboženské napětí a násilí. Náš lid je rozdělen mezi křesťanskou a islámskou víru. Musíme najít řešení, jinak můžeme čelit vážným následkům. Rozhodnutí, která učiníme, ovlivní generace, které přijdou." # todo: NEW TRANSLATION
- NIG_nigerian_sects: "Nigerijské sekty" # todo: NEW TRANSLATION
- NIG_nigerian_sects_desc: "Islám v Nigérii sahá svými kořeny až k velké Malijské říši. Islám však v Nigérii není zastoupen pouze sunnity. Pozorovat můžeme rozkol mezi mnoha sektami včetně šíitů, salafismu, kádíů, súfismu a dalších." # todo: NEW TRANSLATION
- NIG_teachings_of_the_quaran: "Učení Koránu" # todo: NEW TRANSLATION
- NIG_teachings_of_the_quaran_desc: "Korán je nadčasová kniha. Byl dán lidstvu, aby ukázal správný způsob života a tvrdou realitu, pokud se nebudeme řídit jeho učením. Mladá generace musí znát jeho učení." # todo: NEW TRANSLATION
- NIG_uniting_the_faiths: "Sjednocení vír" # todo: NEW TRANSLATION
- NIG_uniting_the_faiths_desc: "Různorodost islámu je velká a četná. Často se však tyto proudy neshodnou a nedokážou se mezi sebou domluvit. Víry musí být sjednoceny, aby zachovaly lepší budoucnost Nigérie a islámu v Africe." # todo: NEW TRANSLATION
- NIG_beliefs_of_the_mosque: "Učení mešity" # todo: NEW TRANSLATION
- NIG_beliefs_of_the_mosque_desc: "Mešita je posvátné místo. Učení mešity by mělo být ctěno všemi, kdo projdou jejími svatými síni." # todo: NEW TRANSLATION
- NIG_islamic_preachings: "Islámské kázání" # todo: NEW TRANSLATION
- NIG_islamic_preachings_desc: "Měli bychom začít regulovat islámské kazatele, abychom získali určité znaky stability v zemi." # todo: NEW TRANSLATION
- NIG_secure_tradtionalist_support: "Islámský tradicionalismus" # todo: NEW TRANSLATION
- NIG_secure_tradtionalist_support_desc: "Tradice jsou nutné pro zachování nás, naší země a našeho způsobu života. Je čas usilovat o větší spolupráci s islámskými tradicionalisty, abychom udrželi a rozšířili naši víru v Nigérii." # todo: NEW TRANSLATION
- NIG_continue_sharia_law: "Pokračovat v šaríi" # todo: NEW TRANSLATION
- NIG_continue_sharia_law_desc: "Šaría je systém, kterému se musíme řídit. Úředníci na severu i federální vláda to projednali a rozhodli, že je v našem zájmu v šaríi pokračovat." # todo: NEW TRANSLATION
- NIG_line_the_government: "Obsadit vládu" # todo: NEW TRANSLATION
- NIG_line_the_government_desc: "Někteří úředníci považují vládu za příliš křesťanskou. Je čas obsadit vládu více islámskými kandidáty a poradci." # todo: NEW TRANSLATION
- NIG_contract_boko_haram: "Navázat kontakt s Boko Haram" # todo: NEW TRANSLATION
- NIG_contract_boko_haram_desc: "Tajemná skupina salafistů na severovýchodě začala v regionu působit s cílem prosazovat větší islámskou tradici. Může být užitečné navázat s nimi kontakt." # todo: NEW TRANSLATION
- NIG_convert_the_christians: "Převést křesťany" # todo: NEW TRANSLATION
- NIG_convert_the_christians_desc: "Křesťané musí pochopit, že jejich kniha je omylná. Je čas ukázat a diskutovat, že náš způsob života je cestou k opravdovému blahobytu a spáse." # todo: NEW TRANSLATION
- NIG_justify_radcialism: "Ospravedlnit radikalismus" # todo: NEW TRANSLATION
- NIG_justify_radcialism_desc: "Radikalismus je důležitý pro růst jakéhokoli náboženství. Naši bratři ve víře by měli vždy dostávat naši podporu." # todo: NEW TRANSLATION
- NIG_disarm_the_militias: "Odzbrojit milice" # todo: NEW TRANSLATION
- NIG_disarm_the_militias_desc: "Křesťanské milice vyvolaly menší ozbrojené nepokoje a povstání v jižní části země. Měli bychom rychle mobilizovat a odzbrojit tyto milice." # todo: NEW TRANSLATION
- NIG_a_new_wave_of_extremism: "Nová vlna extremismu" # todo: NEW TRANSLATION
- NIG_a_new_wave_of_extremism_desc: "Jediná forma extremismu, kterou uznáváme, je zavedení nové formy vlády vedené islámským učením a zachováním víry v Korán a jeho učení." # todo: NEW TRANSLATION
- NIG_fifty_fifty: "Padesát na padesát" # todo: NEW TRANSLATION
- NIG_fifty_fifty_desc: "Naše země je rozdělena napůl mezi islám a křesťanství. Výsledek je na ostří nože." # todo: NEW TRANSLATION
- NIG_tolerance: "Tolerance" # todo: NEW TRANSLATION
- NIG_tolerance_desc: "Prohlášení jedné z vír za oficiální náboženství naší země by způsobilo zbytečné napětí. Politicky rozumnější je zakotvit do zákona toleranci obou vír." # todo: NEW TRANSLATION
- NIG_islamic_tolerance: "Islámská tolerance" # todo: NEW TRANSLATION
- NIG_islamic_tolerance_desc: "Islám je důležitý pro severní státy. Měli bychom začít vzdělávat mládež a jižní populace o toleranci těchto přesvědčení." # todo: NEW TRANSLATION
- NIG_christian_faiths: "Křesťanské víry" # todo: NEW TRANSLATION
- NIG_christian_faiths_desc: "Křesťanství je převážně rozšířeno na jihu země. Budeme je pobízet, aby se více seznámili s islámem, v naději, že to pomůže přiblížit víry." # todo: NEW TRANSLATION
- NIG_seperation_of_church_and_state: "Oddělení církve a státu" # todo: NEW TRANSLATION
- NIG_seperation_of_church_and_state_desc: "Církev a stát musí být odděleny, pokud se chceme někdy dočkat skutečné harmonie." # todo: NEW TRANSLATION
- NIG_land_of_harmony: "Země harmonie" # todo: NEW TRANSLATION
- NIG_land_of_harmony_desc: "Víry vykročily na cestu soužití, která je v mnoha místech neslýchaná. Ochraňujeme tuto cennou rovnováhu, aby se náš domov stal skutečnou zemí harmonie." # todo: NEW TRANSLATION
- NIG_christian_theology: "Křesťanská teologie" # todo: NEW TRANSLATION
- NIG_christian_theology_desc: "Křesťanství patří mezi nejrozšířenější náboženství na světě. To platí i zde v Nigérii. Měli bychom podporovat více teologických debat s křesťanskou církví." # todo: NEW TRANSLATION
- NIG_education_from_the_bible: "Vzdělání z Bible" # todo: NEW TRANSLATION
- NIG_education_from_the_bible_desc: "Bible je Boží kniha. Naučí nás mnoho o tom, jak máme žít a jak pokračovat v našich životech." # todo: NEW TRANSLATION
- NIG_christian_missionaries: "Křesťanští misionáři" # todo: NEW TRANSLATION
- NIG_christian_missionaries_desc: "Měli bychom začít vysílat misionáře, aby konvertovali ty, kteří nevyznávají pravou křesťanskou víru." # todo: NEW TRANSLATION
- NIG_rights_of_the_church: "Práva církve" # todo: NEW TRANSLATION
- NIG_rights_of_the_church_desc: "Poctiví křesťané nikdy nenapadají práva naší církve. Ne teď, nikdy." # todo: NEW TRANSLATION
- NIG_investments_in_the_church: "Investice do církve" # todo: NEW TRANSLATION
- NIG_investments_in_the_church_desc: "Místní církve se postupně dostávají do zanedbaného stavu. Měli bychom zvážit zlepšení těchto velmi důležitých institucí." # todo: NEW TRANSLATION
- NIG_end_sharia_law: "Zrušit šárii" # todo: NEW TRANSLATION
- NIG_end_sharia_law_desc: "Šaría na severu je morovou ránou pro zemi. Měli bychom využít naše většiny k tlaku a prosadit ukončení šaríi jednou provždy." # todo: NEW TRANSLATION
- NIG_secure_christian_support: "Zajistit křesťanskou podporu" # todo: NEW TRANSLATION
- NIG_secure_christian_support_desc: "Křesťanská většina na jihu zahrnuje některá z největších měst v naší působnosti. Lidé tam musí podporovat vládu." # todo: NEW TRANSLATION
- NIG_suppresion_of_islam: "Potlačení islámu" # todo: NEW TRANSLATION
- NIG_suppresion_of_islam_desc: "Islámské obyvatelstvo musí být přesvědčeno o chybnosti svých nauk. Začneme uzavíráním místních islámských novin a odříznutím dalších zdrojů podpory." # todo: NEW TRANSLATION
- NIG_enlist_the_militas: "Zapsat milice" # todo: NEW TRANSLATION
- NIG_enlist_the_militas_desc: "Křesťanské milice ve Středním pásmu a na jihu se uchýlily k radikalismu tam, kde Nigérijská armáda a policie selhaly. Křesťanská část země chce, aby byly začleněny jako dobrovolné síly k lepší ochraně svých lidí a vyznavačů." # todo: NEW TRANSLATION
- NIG_christian_cabinet: "Křesťanská vláda" # todo: NEW TRANSLATION
- NIG_christian_cabinet_desc: "Regiony, kde mají křesťané většinu, mají největší průmysl a finanční centra. Proto by měla být naše vláda reorganizována tak, aby posílila vazby s těmito oblastmi." # todo: NEW TRANSLATION
- NIG_end_boko_haram_extremism: "Zlomit Boko Haram" # todo: NEW TRANSLATION
- NIG_end_boko_haram_extremism_desc: "Boko Haram je morová rána této země. Musíme je potlačit, aby se v Nigérii obnovil pořádek." # todo: NEW TRANSLATION
- NIG_embrace_the_chrisitans: "Přijmout křesťany" # todo: NEW TRANSLATION
- NIG_embrace_the_chrisitans_desc: "Musíme přijmout křesťany a odsoudit ty na severu." # todo: NEW TRANSLATION
- NIG_christian_radicals: "Posílit křesťanské radikály" # todo: NEW TRANSLATION
- NIG_christian_radicals_desc: "Může být v našem zájmu posílit více radikálních křesťanů do důležitých pozic ve vládě." # todo: NEW TRANSLATION
- NIG_rise_of_boko_haram: "Vzestup Boko Haram" # todo: NEW TRANSLATION
- NIG_rise_of_boko_haram_desc: "Lidé na severu začali postupně volat a skandovat. Místní islámské vedení začalo mávat praporem Boko Haram. Rostou a povedou nás k velkým věcem!" # todo: NEW TRANSLATION
- NIG_align_to_isis: "Sjednotit se s ISIS" # todo: NEW TRANSLATION
- NIG_align_to_isis_desc: "Může existovat jen jeden chalífát a musí to být Islámský stát v Levantě. Přísaháme věrnost našemu prorokovi na Zemi." # todo: NEW TRANSLATION
- NIG_west_african_caliphate: "Západoafrický chalífát" # todo: NEW TRANSLATION
- NIG_west_african_caliphate_desc: "Chalífa na Blízkém východě je falešný vůdce. Musíme vést náš lid k velikosti v Západní Africe a založit nový chalífát!" # todo: NEW TRANSLATION
- NIG_recognize_the_islamic_state: "Uznat Islámské státy" # todo: NEW TRANSLATION
- NIG_recognize_the_islamic_state_desc: "Islámské státy je třeba uznat, aby získaly mezinárodní podporu od ostatních islamistických států." # todo: NEW TRANSLATION
- NIG_instigate_african_salafism: "Podnítit africký salafismus" # todo: NEW TRANSLATION
- NIG_instigate_african_salafism_desc: "Salafismus je specifická forma islámu, která musí být započítána mezi proudy v Africe." # todo: NEW TRANSLATION
- NIG_support_neighboring_extremists: "Podpora sousedních extremistů" # todo: NEW TRANSLATION
- NIG_support_neighboring_extremists_desc: "Naši sousedé mají velké muslimské populace. Co oni neví, je, že velké množství z nich podporuje naše radikální ideologie." # todo: NEW TRANSLATION
- NIG_arm_other_extremists: "Ozbrojit jiné extremisty" # todo: NEW TRANSLATION
- NIG_arm_other_extremists_desc: "Existují extremistické frakce po celém světě, které chtějí povstat proti svým utlačovatelům. Měli bychom je vyzbrojit a poslat jim naši podporu." # todo: NEW TRANSLATION
- NIG_build_ties_with_extremist_groups: "Budovat vazby s extremistickými skupinami" # todo: NEW TRANSLATION
- NIG_build_ties_with_extremist_groups_desc: "Měli bychom prozkoumat větší vazby s extremistickými frakcemi světa." # todo: NEW TRANSLATION
- NIG_claim_niger: "Požadovat Niger" # todo: NEW TRANSLATION
- NIG_claim_niger_desc: "Niger s námi neustále soupeří o jezero Niger a zdroje okolo našich hranic. Muslimové v regionu podporují naše nároky na chalífát v Západní Africe." # todo: NEW TRANSLATION
- NIG_invade_across_the_western_border: "Vpadnout přes západní hranici" # todo: NEW TRANSLATION
- NIG_invade_across_the_western_border_desc: "Západní hranice je hustě zalesněná a představuje oblast, kterou můžeme rychle využít pro naše zisky." # todo: NEW TRANSLATION
- NIG_impose_sharia_law_across_nigeria: "Uvalit šárii napříč Nigérií" # todo: NEW TRANSLATION
- NIG_impose_sharia_law_across_nigeria_desc: "Šaría je osvědčený právní systém. Musíme ji správně implementovat ve všech státech národa." # todo: NEW TRANSLATION
- NIG_the_new_kid_on_the_block: "Nováček na scéně" # todo: NEW TRANSLATION
- NIG_the_new_kid_on_the_block_desc: "ISIS a ISIL jsou nyní hlavními skupinami, když se mluví o salafistickém extremismu. Nikdo však neočekává toho nováčka na scéně." # todo: NEW TRANSLATION
- NIG_the_islamic_states: "Islámské státy" # todo: NEW TRANSLATION
- NIG_the_islamic_states_desc: "Mělo by být navrženo, abychom začali působit jako jednotka namísto nezávislých států. Jsme Islámské státy." # todo: NEW TRANSLATION
- NIG_invade_central_africa: "Vpadnout do Střední Afriky" # todo: NEW TRANSLATION
- NIG_invade_central_africa_desc: "Střední Afrika je slabá a jejich muslimské populace jsou často využívány nebo surově poškozovány křesťanskými milicemi." # todo: NEW TRANSLATION
- NIG_local_salafism: "Nigerijský salafismus" # todo: NEW TRANSLATION
- NIG_local_salafism_desc: "Náš styl salafismu by měl být jedinečný a neměli bychom se podřizovat jiným formám." # todo: NEW TRANSLATION
- NIG_declare_a_new_caliph: "Vyhlásit chalífát" # todo: NEW TRANSLATION
- NIG_declare_a_new_caliph_desc: "Nastal čas vyhlásit naše království na Zemi. Je čas, aby vstal Západoafrický chalífát!" # todo: NEW TRANSLATION
- NIG_federal_government_of_nigeria: "Federální vláda Nigérie" # todo: NEW TRANSLATION
- NIG_federal_government_of_nigeria_desc: "Vláda Nigérie je relativně silná, avšak proslulá korupcí. Musíme začít snižovat nadbytečnosti a rehabilitovat její obraz doma i v zahraničí." # todo: NEW TRANSLATION
- NIG_constiution_reforms: "Ústavní reformy" # todo: NEW TRANSLATION
- NIG_constiution_reforms_desc: "Ústava potřebuje revize. Měli bychom o tom začít diskutovat." # todo: NEW TRANSLATION
- NIG_the_nigerian_model: "Nigerijský model" # todo: NEW TRANSLATION
- NIG_the_nigerian_model_desc: "Forma vlády Nigérie je zhruba modelována podle systému vlády Spojených států." # todo: NEW TRANSLATION
- NIG_the_pdp: "Lidová demokratická strana" # todo: NEW TRANSLATION
- NIG_the_pdp_desc: "Lidová demokratická strana byla založena v roce 1998. Strana reprezentuje středopravou část politického spektra Nigérie. Zůstává hlavní současnou stranou a nadále roste. PDP také zastává přísný národní konzervatismus a ekonomický liberalismus." # todo: NEW TRANSLATION
- NIG_the_anpp: "[Root.anpp_pdc_name_switch]" # todo: NEW TRANSLATION
- NIG_the_anpp_desc: "[Root.anpp_pdc_desc_switch]" # todo: NEW TRANSLATION
- NIG_anpp_1: "Strana všech nigerijských lidí" # todo: NEW TRANSLATION
- NIG_anpp_1_desc: "ANPP byla založena koncem roku 1998 jako pravicová konzervativní strana. Převážně čerpala podporu z nábožensky islámských regionů na severu. Ideologicky byli sociální konzervativci a neoliberálové. Postupem času se však strana pomalu začala posouvat doleva." # todo: NEW TRANSLATION
- NIG_anpp_2: "All Progressives Congress" # todo: NEW TRANSLATION
- NIG_anpp_2_desc: "All Progressives Congress (založen sloučením ANPP, APGA a dalších stran) reprezentuje středolevou část nigerijského politického spektra. Některé z jejich nejznámějších politik zahrnují progresivní sociální politiku a ekonomický populismus. Strana také převážně čerpá podporu z severozápadu a jihovýchodu země." # todo: NEW TRANSLATION
- NIG_social_conservatism: "Sociální konzervatismus" # todo: NEW TRANSLATION
- NIG_social_conservatism_desc: "Oficiální postoj PDP k sociální politice je konzervativní. Je důležité podporovat řádný tradicionalismus." # todo: NEW TRANSLATION
- NIG_national_health_care_service: "Národní zdravotní pojištění" # todo: NEW TRANSLATION
- NIG_national_health_care_service_desc: "Zdravotní systém v Nigérii zoufale potřebuje reformu. Lidé po celé zemi zůstávají bez pojištění. Naše úmrtnost je vysoká a neukazuje známky zlepšení." # todo: NEW TRANSLATION
- NIG_found_the_ntel: "Založit NTEL" # todo: NEW TRANSLATION
- NIG_found_the_ntel_desc: "Nigerijská telekomunikační společnost (NTEL) vznikla po rozbití monopolu NITEL. Nyní funguje jako reinkarnace bývalého monopolu." # todo: NEW TRANSLATION
- NIG_balanced_budgets: "Vyrovnané rozpočty" # todo: NEW TRANSLATION
- NIG_balanced_budgets_desc: "Rozpočty v Nigérii nutně potřebují audit a přepracování." # todo: NEW TRANSLATION
- NIG_free_market: "Africké volné trhy" # todo: NEW TRANSLATION
- NIG_free_market_desc: "Naše trhy by měly zahájit proces deregulace a otevřeného obchodu. Trh musí určovat ceny, nikoli korporace. Proces deregulace a otevřeného obchodu by měl začít zde v Africe a poté bychom měli zvážit rozšíření do dalších zemí." # todo: NEW TRANSLATION
- NIG_the_way_of_bible: "Cesta Bible" # todo: NEW TRANSLATION
- NIG_the_way_of_bible_desc: "Je důležité žít podle učení Bible. Měli bychom pokračovat v našem směru k tradici." # todo: NEW TRANSLATION
- NIG_christian_tradtionalism: "Křesťanský tradicionalismus" # todo: NEW TRANSLATION
- NIG_christian_tradtionalism_desc: "Je nezbytné zachovat náš tradicionalismus. Tradice nás chrání a drží pohromadě. Nigérie je jednou zemí pod Bohem a tak to má zůstat." # todo: NEW TRANSLATION
- NIG_adminstrative_reforms: "Administrativní reformy" # todo: NEW TRANSLATION
- NIG_adminstrative_reforms_desc: "Naše administrativa zoufale potřebuje reformu. Procesy jsou byrokratické a pomalé. Zjednodušení by výrazně zlepšilo kvalitu správy." # todo: NEW TRANSLATION
- NIG_reform_the_economic_departments: "Reforma ekonomických oddělení" # todo: NEW TRANSLATION
- NIG_reform_the_economic_departments_desc: "Ekonomická oddělení ve vládě jsou extrémně zkorumpovaná a obsahují členy, kteří pravidelně zpronevěřují, lžou a páchají řadu podvodů proti lidem Nigérie. Je čas naplánovat nový Departament ekonomiky." # todo: NEW TRANSLATION
- NIG_found_the_icpc: "Založit ICPC" # todo: NEW TRANSLATION
- NIG_found_the_icpc_desc: "Nezávislá komise pro boj s korupčními praktikami (ICPC) je věnována vyhledávání a eliminaci korupce na všech úrovních vlády. Také usiluje o vzdělávání lidí a získávání veřejné podpory v boji proti korupci. Je důležité investovat do této agentury pro lepší budoucnost lidu i Nigérie." # todo: NEW TRANSLATION
- NIG_cut_the_waste: "Omezit plýtvání" # todo: NEW TRANSLATION
- NIG_cut_the_waste_desc: "Alarmující velká část našich vládních výdajů je skutečně zbytečná. Měli bychom znovu přezkoumat rozpočtová přidělení a snížit financování napříč celou sítí." # todo: NEW TRANSLATION
- NIG_foreign_grants: "Zahraniční granty" # todo: NEW TRANSLATION
- NIG_foreign_grants_desc: "Mezinárodní investice stagnují kvůli místnímu pirátství v mořích, náboženským sporům na severu a emancipačnímu hnutí v deltu Nigeru na jihu. Naši poradci zmiňují, že pokud přivítáme některé zahraniční vyslance, mohli bychom získat granty nebo jiné investice." # todo: NEW TRANSLATION
- NIG_piracy_and_militias: "Piráti a milice" # todo: NEW TRANSLATION
- NIG_piracy_and_militias_desc: "Piráti a náboženské milice řádí ve všech částech země. Naše policejní síly jsou výrazně nedostatečně vybaveny k řešení těchto problémů. [NIG.GetLeader] a vláda dlouze diskutovali o metodách jejich řešení." # todo: NEW TRANSLATION
- NIG_simpify_government_processes: "Zjednodušit vládní procesy" # todo: NEW TRANSLATION
- NIG_simpify_government_processes_desc: "Vládní procesy jsou pomalé a drahé. Můžeme se zaměřit na nejčastěji využívané služby a posílit tím celkovou byrokracii." # todo: NEW TRANSLATION
- NIG_the_togo_triangle: "Trojúhelník 'Togo'" # todo: NEW TRANSLATION
- NIG_the_togo_triangle_desc: "Trojúhelník 'Togo' je nelegální offshore trh s ropou u delty řeky Niger. Je to stigma na našem ziskovém ropném průmyslu a na stále se zlepšující zemi. Trojúhelník musí být řešen, pokud chceme zvýšit objem našich exportů a čelit dalším problémům, které brzdí naši zemi." # todo: NEW TRANSLATION
- NIG_northern_strength: "Síla severu" # todo: NEW TRANSLATION
- NIG_northern_strength_desc: "ANPP (nebo PDC) získává velkou část své podpory ze severních států. Může být v našem zájmu pokračovat v kampani ve prospěch našich největších stoupenců." # todo: NEW TRANSLATION
- NIG_allocation_of_rights: "Přidělení práv" # todo: NEW TRANSLATION
- NIG_allocation_of_rights_desc: "Práva lidí mohou být někdy potlačována velkými a přehnanými vládami. Musíme být vládou pro lidi a vládou vytvořenou lidmi." # todo: NEW TRANSLATION
- NIG_progressive_conservatism: "Progresivní konzervatismus" # todo: NEW TRANSLATION
- NIG_progressive_conservatism_desc: "Navzdory podpoře islámských tradicionalistů na severu zůstává naše sociální politika ve srovnání s opozicí relativně progresivní. Může být užitečné pokračovat v budování podpory v jižních regionech." # todo: NEW TRANSLATION
- NIG_keynesian_economic_policies: "Keynesiánská ekonomická politika" # todo: NEW TRANSLATION
- NIG_keynesian_economic_policies_desc: "Ekonomická politika PDC často koresponduje s Keynesovými teoriemi. Usiluje o vyšší vládní zásahy do tržní ekonomiky a využití těchto politik tak, aby ekonomika pracovala pro lidi." # todo: NEW TRANSLATION
- NIG_nigerian_socialism: "Nigerijský socialismus" # todo: NEW TRANSLATION
- NIG_nigerian_socialism_desc: "I ti nejlevicovější jedinci v Nigérii stále sledují konzervativnější přístup k sociální demokracii. Je čas přestat se vzorovat podle jiných států a rozhodnout se pro sociální politiku, která funguje pro náš lid." # todo: NEW TRANSLATION
- NIG_state_run_markets: "Státem řízené trhy" # todo: NEW TRANSLATION
- NIG_state_run_markets_desc: "V nejhorším případě trh bez kontroly zhavaruje a využije chudé. Je třeba regulace, aby se tomu zabránilo." # todo: NEW TRANSLATION
- NIG_federal_policing: "Federální policie" # todo: NEW TRANSLATION
- NIG_federal_policing_desc: "Policie nemá správné federální složky. Policie je často prováděna místními sbory s volným napojením na federální policejní systém. Bylo by prospěšné vybudovat více federálních útvarů a rozšířit federální policii." # todo: NEW TRANSLATION
- NIG_population_crisis: "Populační krize" # todo: NEW TRANSLATION
- NIG_population_crisis_desc: "Počet obyvatel Nigérie stále exploduje a pokud to bude pokračovat tímto tempem, nevyhnutelně brzo vyčerpá naše zdroje. Měli bychom diskutovat o budoucnosti země a případně zavést přísnější opatření k zajištění naší budoucnosti." # todo: NEW TRANSLATION
- NIG_stabilize_the_regime: "Stabilizovat režim" # todo: NEW TRANSLATION
- NIG_stabilize_the_regime_desc: "Vláda učinila některá nepopulární rozhodnutí. Oslovení lidí a vysvětlení jejich výhod by mohlo režim stabilizovat." # todo: NEW TRANSLATION
- NIG_industrial_regulations: "Průmyslové regulace" # todo: NEW TRANSLATION
- NIG_industrial_regulations_desc: "Otázka průmyslových regulací je prostá: 'Kde je hranice?' Většina našich soukromých podniků funguje dobře a má zisky. Měli bychom deregulovat pro podporu podnikání, nebo zpřísnit pravidla vůči nečestným společnostem?" # todo: NEW TRANSLATION
- NIG_poverty_issues: "Problémy s chudobou" # todo: NEW TRANSLATION
- NIG_poverty_issues_desc: "Nigérie se může pochlubit jedním z nejvyšších ekonomických růstů na světě, v průměru kolem sedmi až osmi procent. Přesto je ale její růst zasažen chudobou. Asi šedesát procent lidí žije v bídě. Stojí za to otevřít dialog s místními vládami a pomoci lidem." # todo: NEW TRANSLATION
- NIG_end_usaid: "Ukončit USAID" # todo: NEW TRANSLATION
- NIG_end_usaid_desc: "Spojené státy nadále drží obrovský vliv na naše záležitosti skrze své programy pomoci. Je čas se osvobodit a jít vlastní cestou." # todo: NEW TRANSLATION
- NIG_petition_to_continue_usaid: "Žádat o pokračování USAID" # todo: NEW TRANSLATION
- NIG_petition_to_continue_usaid_desc: "Pomoc, kterou od USA dostáváme, je nesmírně důležitá. Jak říkají na Západě: 'Udržuje loď nad vodou.'" # todo: NEW TRANSLATION
- NIG_expand_the_safety_net: "Rozšířit sociální síť" # todo: NEW TRANSLATION
- NIG_expand_the_safety_net_desc: "Lidé mají malou nebo žádnou sociální síť, na kterou by se mohli spolehnout, když nemohou pracovat. Západní země mají důchodové systémy a státní zabezpečení. Měli bychom se inspirovat těmito myšlenkami a upravit je tak, aby dávaly smysl našim lidem." # todo: NEW TRANSLATION
- NIG_efficent_government_spending: "Efektivní vládní výdaje" # todo: NEW TRANSLATION
- NIG_efficent_government_spending_desc: "Vládní výdaje by měly být efektivní a neplýtvat. Sloučení některých agentur a jejich modernizace pomůže naší ekonomice." # todo: NEW TRANSLATION
- NIG_anti_debt_agenda: "Agenda proti dluhu" # todo: NEW TRANSLATION
- NIG_anti_debt_agenda_desc: "Dluh Nigérie je převážně veden v zahraničí. Může být užitečné snížit zadlužení, abychom rozšířili vládní podporu a další programy v zemi." # todo: NEW TRANSLATION
- NIG_bankers_of_africa: "Bankéři Afriky" # todo: NEW TRANSLATION
- NIG_bankers_of_africa_desc: "Nigérie je jednou z nejrychleji rostoucích ekonomik světa. Měli bychom začít investovat do našeho bankovního systému a rozšířit finanční sektor do sousedních zemí." # todo: NEW TRANSLATION
- NIG_water_crisis: "Krize vody" # todo: NEW TRANSLATION
- NIG_water_crisis_desc: "Voda je v Nigérii luxus. Farmáři a chovatelé vedou tichou válku ve Středním pásmu. Niger neustále zasahuje do jezera Niger a omezuje naše práva k jezeru. Krizi je třeba vyřešit, jinak hrozí katastrofa." # todo: NEW TRANSLATION
- NIG_nigerian_industry: "Nigerijský průmysl" # todo: NEW TRANSLATION
- NIG_nigerian_industry_desc: "S největší populací v Africe je v našem zájmu rozšířit výrobní sektor. Musíme pokračovat v rozvoji, aby naše velká populace zůstala zaměstnaná." # todo: NEW TRANSLATION
- NIG_bankroll_africa: "Financovat Afriku" # todo: NEW TRANSLATION
- NIG_bankroll_africa_desc: "Série vnitřních konfliktů Afriky, náboženských sporů a politické nestability činí z kontinentu nebezpečnou investici. Kdo by byl lepším investorem než samotní Afričané?" # todo: NEW TRANSLATION
- NIG_lagos_finanical_centre: "Lagoské finanční centrum" # todo: NEW TRANSLATION
- NIG_lagos_finanical_centre_desc: "Město Lagos je největší město v Africe podle počtu obyvatel. Také se může pochlubit jedním z nejsilnějších finančních sektorů mezi významnými africkými městy. Ekonomické oddělení vidí tento průmysl jako jeden z našich dalších kroků ke zlepšení zaostávající ekonomiky." # todo: NEW TRANSLATION
- NIG_reform_water_legislation: "Nová legislativa o vodě" # todo: NEW TRANSLATION
- NIG_reform_water_legislation_desc: "Právní úpravy týkající se vody by měly být revidovány tak, aby lépe sloužily lidem. Musíme začít rezervovat a přerozdělovat vodu a zároveň zvýšit její dovoz, abychom pomohli obyvatelstvu." # todo: NEW TRANSLATION
- NIG_unmatched_growth: "Bezkonkurenční růst" # todo: NEW TRANSLATION
- NIG_unmatched_growth_desc: "Náš růst nikdy nepřestane a nebude mít obdoby. Jezero Niger by mělo být využito stejně jako ostatní zdroje a říční delty potřebují přehrady pro výrobu. Musíme růst co nejrychleji a pomoci našemu lidu se rozvíjet." # todo: NEW TRANSLATION
- NIG_nigerian_agricultural_belt: "Nigerijské zemědělské pásmo" # todo: NEW TRANSLATION
- NIG_nigerian_agricultural_belt_desc: "Střední pás Nigérie je převážně zemědělská oblast. Farmy, ranče a potravinářské závody se zde rozprostírají." # todo: NEW TRANSLATION
- NIG_education_programs: "Vzdělávací programy" # todo: NEW TRANSLATION
- NIG_education_programs_desc: "Míra gramotnosti v Nigérii je nepřijatelná, řadíme se téměř na dno mezi všemi zeměmi, pohybujeme se mezi 52 % a 60 %. Polovina našeho lidu neumí číst! Náš vzdělávací systém musí být reformován, aby vyvedl lidi z chudoby." # todo: NEW TRANSLATION
- NIG_african_investments: "Nigerijské zahraniční investice" # todo: NEW TRANSLATION
- NIG_african_investments_desc: "Některé země by mohly těžit ze zvýšené ekonomické spolupráce a investic z našeho veřejného i soukromého sektoru. Sestavte plány a začněte je rozesílat!" # todo: NEW TRANSLATION
- NIG_abuja_road_projects: "Silniční projekty v Abuja" # todo: NEW TRANSLATION
- NIG_abuja_road_projects_desc: "Silnice v Abudži je málo a jsou v špatném stavu. Zlepšení infrastruktury naší metropole by prospělo tisícům obyvatel v širším metropolitním prostoru a zároveň zvýšilo oblíbenost vlády v regionu!" # todo: NEW TRANSLATION
- NIG_middle_belt_legislation: "Legislativa pro Střední pás" # todo: NEW TRANSLATION
- NIG_middle_belt_legislation_desc: "Střední pásek potřebuje podporu, aby udržel svůj způsob života. Měli bychom jim přidělit více vodních zdrojů, protože zemědělství zaměstnává 30 % naší pracovní síly. Měli bychom také hledat metody zavlažování a zásobování dobytka vodou." # todo: NEW TRANSLATION
- NIG_reckless_agriculture: "Nerozvážné zemědělství" # todo: NEW TRANSLATION
- NIG_reckless_agriculture_desc: "Zemědělství potřebuje rozšíření. Máme rychle rostoucí populaci! Musíme skupinu uživit a udržet obyvatele." # todo: NEW TRANSLATION
- NIG_northern_factories: "Severní továrny" # todo: NEW TRANSLATION
- NIG_northern_factories_desc: "Severní regiony Nigérie by mohly využít nové továrny, aby se rozšířily a vyprodukovaly více manufaktur, které by nám prospěly." # todo: NEW TRANSLATION
- NIG_local_arms_companies: "Místní zbrojní firmy" # todo: NEW TRANSLATION
- NIG_local_arms_companies_desc: "Měli bychom zvážit dotace zbrojním firmám, aby vyráběly více zbraní lokálně." # todo: NEW TRANSLATION
- NIG_spur_regional_development: "Podpora regionálního rozvoje" # todo: NEW TRANSLATION
- NIG_spur_regional_development_desc: "Okolí vyžaduje zásadní rozvoj. Měli bychom zprostředkovat dohody s našimi sousedy a stavebními společnostmi, abychom podpořili naši ekonomiku i jejich." # todo: NEW TRANSLATION
- NIG_support_the_people: "Podpořit lid" # todo: NEW TRANSLATION
- NIG_support_the_people_desc: "Lidé potřebují naši podporu, pokud si mají zachovat důvěru v naše vedení a v cestu země. Měli bychom podporovat lidi tolik, kolik jsou ochotni nás podpořit." # todo: NEW TRANSLATION
- NIG_desalination_projects: "Projekty odsolování" # todo: NEW TRANSLATION
- NIG_desalination_projects_desc: "Vodní krize nadále trápí naše volby a politickou scénu. Může být v našem zájmu jednat s firmami specializovanými na odsolování." # todo: NEW TRANSLATION
- NIG_nigerian_oil: "Krvavá ropa" # todo: NEW TRANSLATION
- NIG_nigerian_oil_desc: "Ropa těžená v Nigérii získala zlověstné pojmenování. Náboženské spory, konflikty s milicemi a pirátstvím způsobily řadu problémů a nigerijská ropa byla posměšně nazvána 'Krvavá ropa'." # todo: NEW TRANSLATION
- NIG_homegrown_design: "Domácí návrhy" # todo: NEW TRANSLATION
- NIG_homegrown_design_desc: "Nigérie nemá velké zbrojní firmy. Měli bychom prozkoumat návrhy na dotování tohoto průmyslu." # todo: NEW TRANSLATION
- NIG_neighborly_expansion: "Sousedská expanze" # todo: NEW TRANSLATION
- NIG_neighborly_expansion_desc: "Afrika by měla být budována Afričany, nikoli někým jiným. Zastupitelé by měli být posláni k sousedům s cílem projednat expanzivní politiku a možné investiční příležitosti pro Nigérii i jejich." # todo: NEW TRANSLATION
- NIG_west_african_highways: "Dálnice Západní Afriky" # todo: NEW TRANSLATION
- NIG_west_african_highways_desc: "Infrastruktura v méně osídlených oblastech prakticky chybí. Bylo by výhodné rozšířit dálnice napříč celou Západní Afrikou." # todo: NEW TRANSLATION
- NIG_agricultural_investments: "Zemědělské investice" # todo: NEW TRANSLATION
- NIG_agricultural_investments_desc: "Zemědělství zaměstnává přibližně třicet procent všech Nigerijců. Musíme udělat, co můžeme, abychom podpořili lidi tvořící tento velký sektor naší ekonomiky." # todo: NEW TRANSLATION
- NIG_industrial_expansions: "Průmyslová expanze" # todo: NEW TRANSLATION
- NIG_industrial_expansions_desc: "Náš průmysl v mnoha ohledech zaostává. Nigérie je většinou známá svými zemědělskými produkty a produkty založenými na ropě. Stálo by za to zkoumat výstavbu manufaktur, kde to bude možné." # todo: NEW TRANSLATION
- NIG_found_the_ndcc: "Založit NDDC" # todo: NEW TRANSLATION
- NIG_found_the_ndcc_desc: "Komise pro rozvoj delty Nigeru (NDDC) je vládní organizace původně navržená prezidentem Olusegunem Obasanjo s jediným cílem: rozvíjet ropou bohatý region delty Nigeru v Nigérii." # todo: NEW TRANSLATION
- NIG_browning_contracts: "Smlouvy s Browningem" # todo: NEW TRANSLATION
- NIG_browning_contracts_desc: "Americká společnost Browning právě hledá nové zakázky na výrobu a prodej zbraní. Měli bychom být jejich dalším klientem." # todo: NEW TRANSLATION
- NIG_consolidations_of_arms: "Konsolidace zbraní" # todo: NEW TRANSLATION
- NIG_consolidations_of_arms_desc: "Naše ozbrojené síly používají příliš mnoho různých typů palných zbraní. Měli bychom uvažovat o konsolidaci na méně zbraňových platforem. Zavázání se konkrétním platformám nám umožní více vyrábět lokálně a zároveň snížit provozní náklady ozbrojených sil." # todo: NEW TRANSLATION
- NIG_progressive_development: "Progresivní rozvoj" # todo: NEW TRANSLATION
- NIG_progressive_development_desc: "Náš rozvoj je důležitý v každé kampani." # todo: NEW TRANSLATION
- NIG_european_investments: "Evropští investoři" # todo: NEW TRANSLATION
- NIG_european_investments_desc: "Evropa vždy hledá další velké příležitosti. Může být v našem zájmu rozšířit vztahy s Evropou v naději na zvýšení jejich potenciálních investic v zemi." # todo: NEW TRANSLATION
- NIG_sustainable_development: "Udržitelný rozvoj" # todo: NEW TRANSLATION
- NIG_sustainable_development_desc: "Místo nebezpečného rozšiřování bychom se měli zaměřit na udržitelnější rozvoj. Naše populace rychle roste a neustále překonává ostatní státy o více než sto milionů lidí. Musíme udržovat rozvoj v souladu s lidmi a tím, co naše země může zvládnout." # todo: NEW TRANSLATION
- NIG_extreme_industrialization: "Extrémní industrializace" # todo: NEW TRANSLATION
- NIG_extreme_industrialization_desc: "Ekology k čertu. Půda slouží k rozvoji obchodu a obchod znamená zisk!" # todo: NEW TRANSLATION
- NIG_expansion_of_renewable_resources: "Rozšíření obnovitelných zdrojů" # todo: NEW TRANSLATION
- NIG_expansion_of_renewable_resources_desc: "Delta řeky Niger a severní pouště mají obrovský potenciál pro rozvoj politik obnovitelných zdrojů. Ekonomické oddělení doporučuje tento krok, protože se pravděpodobně vyplatí z dlouhodobého hlediska." # todo: NEW TRANSLATION
- NIG_eco_factories: "Eko-továrny" # todo: NEW TRANSLATION
- NIG_eco_factories_desc: "Naše továrny by měly napodobovat představy některých environmentalistů. Může to být dobré pro náš růst a pro podporu zelených technologií v Africe!" # todo: NEW TRANSLATION
- NIG_massive_land_clearing: "Masivní kácení lesů" # todo: NEW TRANSLATION
- NIG_massive_land_clearing_desc: "V jižních částech země jsou velké oblasti zalesněné. Mohli bychom tyto oblasti vykácet v naději, že to usnadní soukromý růst průmyslu." # todo: NEW TRANSLATION
- NIG_aggresive_explotation: "Agresivní využívání" # todo: NEW TRANSLATION
- NIG_aggresive_explotation_desc: "Savannové oblasti mají jen malý nebo žádný průmyslový rozvoj. Oblast je rovná a snadno se tam staví." # todo: NEW TRANSLATION
- NIG_nigerian_armed_forces: "Nigerijské ozbrojené síly" # todo: NEW TRANSLATION
- NIG_nigerian_armed_forces_desc: "Nigerijské ozbrojené síly jsou pátou nejsilnější armádou v Africe. Byly původně vybudovány z Nigerijského pluku Královské západoafrické pohraniční síly (RWAFF). Dnes jsou rozděleny do tří hlavních složek: Nigérijská armáda, Nigérijské námořnictvo a Nigérijské letectvo. Celkem mají impozantních 160 000 vojáků a silně se zapojují na globální úrovni." # todo: NEW TRANSLATION
- NIG_defense_industries_of_nigeria: "Obranný průmysl Nigérie" # todo: NEW TRANSLATION
- NIG_defense_industries_of_nigeria_desc: "Obranný průmysl Nigérie je řada státních průmyslových konglomerátů, které určují výrobu zbraní a dalšího vojenského vybavení v zemi." # todo: NEW TRANSLATION
- NIG_the_army: "Armáda" # todo: NEW TRANSLATION
- NIG_the_army_desc: "Nigerijská armáda se v krátké historii účastnila mnoha konfliktů." # todo: NEW TRANSLATION
- NIG_air_components: "Letecké složky" # todo: NEW TRANSLATION
- NIG_air_components_desc: "Letectvo bylo redukováno na několik vrtulníků a několik lehkých letadel. Je čas opět zaměřit naši pozornost na rozkládající se ozbrojené síly." # todo: NEW TRANSLATION
- NIG_resource_drives: "Shánění surovin" # todo: NEW TRANSLATION
- NIG_resource_drives_desc: "Země momentálně trpí vážnými nedostatky surovin. Naše populace spotřebovává neuvěřitelné množství zdrojů, takže je v našem nejlepším zájmu tento nedostatek zmírnit, jinak náš růst zkolabuje." # todo: NEW TRANSLATION
- NIG_abuja_armories: "Zbrojnice v Abudže" # todo: NEW TRANSLATION
- NIG_abuja_armories_desc: "Hlavní město hostí většinu velitelství jednotlivých složek. Měli bychom zvážit rozšíření zbrojnic, aby byly síly v městě lépe připraveny." # todo: NEW TRANSLATION
- NIG_rifle_compositions: "Konfigurace pušek" # todo: NEW TRANSLATION
- NIG_rifle_compositions_desc: "Naše pušky jsou těžké a zastaralé. Měli bychom investovat do polymerových zbraní, abychom získali lehčí a levnější řešení." # todo: NEW TRANSLATION
- NIG_combined_arms: "Nigerijské kombinované síly" # todo: NEW TRANSLATION
- NIG_combined_arms_desc: "Terén Nigérie je vhodný pro četné typy boje: obrněné, motorizované, letecké, džunglové, městské nebo obecné bojiště. Naše ozbrojené síly musí efektivně komunikovat a operovat, jinak se mohou v boji dezorientovat a ztratit soudržnost." # todo: NEW TRANSLATION
- NIG_helicopter_requests: "Žádosti o vrtulníky" # todo: NEW TRANSLATION
- NIG_helicopter_requests_desc: "Sháníme nové vrtulníky. Bylo by výhodné rozšířit flotilu vrtulníků pro různé použití." # todo: NEW TRANSLATION
- NIG_multirole_fighters: "Víceúčelové stíhačky" # todo: NEW TRANSLATION
- NIG_multirole_fighters_desc: "Víceúčelové stíhačky jsou cestou budoucnosti. Konsolidace mnoha návrhů do méně, univerzálně použitelných typů může být velice prospěšná." # todo: NEW TRANSLATION
- NIG_peacekeepers_of_africa: "Mírotvorci Afriky" # todo: NEW TRANSLATION
- NIG_peacekeepers_of_africa_desc: "Afričtí mírotvorci jsou poměrně běžní, jak více afrických států industrializuje a rozrůstá se. Nigérie je však významná počtem misí, na kterých se její ozbrojené síly podílejí." # todo: NEW TRANSLATION
- NIG_northern_armories: "Severní zbrojnice" # todo: NEW TRANSLATION
- NIG_northern_armories_desc: "Zbrojnice na severu by měly být doplněny a rozšířeny." # todo: NEW TRANSLATION
- NIG_national_guard: "Zřídit Národní gardu" # todo: NEW TRANSLATION
- NIG_national_guard_desc: "Nigérie nemá formální větev Národní gardy. Diskutuje se však o jejím založení, aby lépe chránila občany domácími silami a zároveň uvolnila federální jednotky k potírání extremistů nebo pirátů." # todo: NEW TRANSLATION
- NIG_light_forces_investments: "Investice do mobilních sil" # todo: NEW TRANSLATION
- NIG_light_forces_investments_desc: "Naše mobilní síly výrazně zaostávají. Nigérie má vhodný terén pro obrněné, mechanizované a motorizované vojsko. Musíme to zdokonalit, pokud chceme být na bojišti lepší než sousedé." # todo: NEW TRANSLATION
- NIG_armor_production: "Místní výroba obrněné techniky" # todo: NEW TRANSLATION
- NIG_armor_production_desc: "Naše obrněné brigády jsou značně zastaralé; většina našich tanků jsou britské Vickersy z 60. let. Zbytek tvoří T-72, které jsou dnes stále konkurenceschopné. Měli bychom jednat s jinými mocnostmi, abychom vybrali nejlepší řešení pro nás." # todo: NEW TRANSLATION
- NIG_nigerian_coastal_forces: "Nigerijské námořnictvo" # todo: NEW TRANSLATION
- NIG_nigerian_coastal_forces_desc: "Nigerijské námořnictvo nebylo nikdy v centru pozornosti, avšak vedlo několik protipirátských kampaní ve vodách Západní Afriky. Musíme udržet silné námořnictvo pro ochranu pobřeží a našich obchodních tras." # todo: NEW TRANSLATION
- NIG_strike_fightrers: "Útočné stíhače" # todo: NEW TRANSLATION
- NIG_strike_fightrers_desc: "Místní průmysl by mohl být přesměrován na výrobu levnějších, efektivnějších stíhaček pro naše stárnoucí letectvo. Můžeme rozšířit provoz Alpha Jetu nebo Chengdu." # todo: NEW TRANSLATION
- NIG_kaduna_military_industries: "Kadunský vojenský průmysl" # todo: NEW TRANSLATION
- NIG_kaduna_military_industries_desc: "Kaduna je deváté největší město v Nigérii. Je to hlavní průmyslové centrum v severní polovině země. Některé staré textilky upadly do zanedbání. Můžeme některé z těchto továren přeměnit na výrobu malých zbraní pro naše ozbrojené síly." # todo: NEW TRANSLATION
- NIG_western_military_assistance: "Západní vojenská pomoc" # todo: NEW TRANSLATION
- NIG_western_military_assistance_desc: "Náš bývalý koloniální pán a Spojené státy nedávno projevily zájem o větší zapojení v naší zemi a ozbrojených silách. Můžeme toho využít k vylepšení některých našich selhávajících zbraňových systémů a posílení armády jako celku." # todo: NEW TRANSLATION
- NIG_eastern_doctrines: "Východní doktríny" # todo: NEW TRANSLATION
- NIG_eastern_doctrines_desc: "Rusko a Čína v posledních letech výrazně rozvinuly své doktríny, které se liší od západních zemí." # todo: NEW TRANSLATION
- NIG_lagos_drydocks: "Lagoské suché doky" # todo: NEW TRANSLATION
- NIG_lagos_drydocks_desc: "Lagos je největší město v Nigérii a leží na pobřeží. Vojenský průmysl byl v poslední době zanedbán kvůli klesající kvalitě našeho námořnictva. Nigerijský přístavní úřad uvažuje o přidělení dodatečných prostředků na výstavbu nových doků, aby zlepšil obchod a vojenskou připravenost." # todo: NEW TRANSLATION
- NIG_royal_naval_doctrines: "Doktríny Královského námořnictva" # todo: NEW TRANSLATION
- NIG_royal_naval_doctrines_desc: "Royal Navy je jednou z předních námořních mocností světa. Náš bývalý suzerén by nás mohl naučit několik věcí o námořních doktrínách a taktikách." # todo: NEW TRANSLATION
- NIG_victory_is_from_god: "Vítězství pochází pouze od Boha" # todo: NEW TRANSLATION
- NIG_victory_is_from_god_desc: "Věta 'Vítězství pochází pouze od Boha' je heslem Nigérijské armády od jejího vzniku v 60. letech. Vyjadřuje náboženský význam pro nigerijský lid." # todo: NEW TRANSLATION
- NIG_frigates: "Návrhy fregat" # todo: NEW TRANSLATION
- NIG_frigates_desc: "Fregaty se jeví jako nejtěžší lodě, které můžeme udržovat. Poslední fregata byla zprovozněna v 80. letech. Naše lodě jsou velmi zastaralé a potřebují modernizaci." # todo: NEW TRANSLATION
- NIG_light_submarines: "Lehké ponorky proti lodím" # todo: NEW TRANSLATION
- NIG_light_submarines_desc: "Lehké ponorky se mohou ukázat užitečné při protipirátských operacích nebo místním napadání konvojů, pokud někdy půjdeme do války." # todo: NEW TRANSLATION
- NIG_corvettes: "Hlídkové čluny" # todo: NEW TRANSLATION
- NIG_corvettes_desc: "Nigérie nemá velkou námořní přítomnost a pravděpodobně nikdy nebude. Hlídací čluny a jiné lehké lodě budou efektivnější vzhledem k omezené kapacitě suchých doků." # todo: NEW TRANSLATION
- NIG_not_islamic_majority_trigger_TT: "Nevydal se příliš směrem ke křesťanům" # todo: NEW TRANSLATION
- NIG_not_christian_majority_trigger_TT: "Nevydal se příliš směrem k muslimům" # todo: NEW TRANSLATION
- NIG_has_christian_majority_trigger_TT: "Přiblížil se křesťanům" # todo: NEW TRANSLATION
- NIG_has_islamic_majority_trigger_TT: "Přiblížil se muslimům" # todo: NEW TRANSLATION
- foreign_independence_20_NIG_TT: "Získává 20 §Ydomácího vlivu§!\n" # todo: NEW TRANSLATION
- NIG_the_pdp_TT: "§YThe People's Democratic Party je posílena§!\n" # todo: NEW TRANSLATION
- NIG_anpp_empower_TT: "§YAll Nigeria's People Party je posílena§!\n" # todo: NEW TRANSLATION
- NIG_pdc_empower_TT: "§YThe People's Democratic Congress je posílena§!\n" # todo: NEW TRANSLATION
- NIG_efficent_government_one_tt: "§GZvyšuje daňové příjmy o 10 %§!\n" # todo: NEW TRANSLATION
- NIG_efficent_government_two_tt: "§GUpravuje Efficient Government tak, aby snížil úrokovou sazbu o 3 %§!\n" # todo: NEW TRANSLATION
- NIG_has_higher_police_funding_TT: "Má zákon §YVysoké výdaje na policii a rozvědku§!\n" # todo: NEW TRANSLATION
- NIG_found_the_icpc_trigger_TT: "§YKorrupce§! zůstává problémem v zemi" # todo: NEW TRANSLATION
- NIG_usa_20_influence_TT: "§Y[USA.GetNamewithFlag]§! získává 20 vlivu v Nigérii.\n" # todo: NEW TRANSLATION
- NIG_eng_20_influence_TT: "§Y[ENG.GetNamewithFlag]§! získává 20 vlivu v Nigérii.\n" # todo: NEW TRANSLATION
- NIG_fra_20_influence_TT: "§Y[FRA.GetNamewithFlag]§! získává 20 vlivu v Nigérii.\n" # todo: NEW TRANSLATION
- NIG_ger_20_influence_TT: "§Y[GER.GetNamewithFlag]§! získává 20 vlivu v Nigérii.\n" # todo: NEW TRANSLATION
- NIG_african_investments_one_TT: "§Y[NIG.GetNamewithFlag]§! získává vliv v [ROOT.GetNamewithFlag].\n" # todo: NEW TRANSLATION
- NIG_foreign_grants_events_tt: "§Y[ROOT.GetNamewithFlag] získává vliv v [NIG.GetNamewithFlag]§!\nOdebere §R$6.0§! z pokladny.\nPřidá §G$6.0§! do Mezinárodních investic.\n" # todo: NEW TRANSLATION
- NIG_reorganize_the_militas_TT: "Přeskupí §Yislámské milice§! a §YKřesťanské milice§! do jedné jednotky po rozsáhlém výcviku a získání nového vybavení.\n" # todo: NEW TRANSLATION
- NIG_establish_ng_TT: "Zřídí řádnou §YNárodní gardu§!.\nPokud zvolíte toto zaměření, také rozpustíte milice.\n" # todo: NEW TRANSLATION
- NIG_establish_ng_two_TT: "Zřizuje řádnou §YNárodní gardu§!.\n §YPokladna:§!§R$-1.5§!\n" # todo: NEW TRANSLATION
- NIG_spend_7_5_billion_TT: "§YPokladna:§!§R$-7.5§!" # todo: NEW TRANSLATION
- NIG_northern_tolerance_TT: "Severní státy se začínají uklidňovat, protože vítězí tolerance.\n§GBrání náboženskému povstání na severu§!\n" # todo: NEW TRANSLATION
- NIG_southern_tolerance_TT: "Křesťanský jih složil zbraně ve prospěch míru a harmonie.\n§GBrání náboženskému povstání na jihu§!\n" # todo: NEW TRANSLATION
- NIG_tolerance_toolie_TT: "§YMusíte se rozhodnout o šaríi§!\n" # todo: NEW TRANSLATION
- NIG_consolidations_of_arms_toolie_TT: "Ve snaze konsolidovat naše palné zbraně kvůli nižším nákladům a zjednodušení zásobovacích linek jsme místním zbrojním továrnám udělili možnost vyrábět další zbraně.\n\n§GZíská 1500 nigerijských zbraní.§!" # todo: NEW TRANSLATION
- NIG_state_run_markets_tooltip_TT: "Zvýšení regulací na trzích nás bude stát §R$3.0§!\n" # todo: NEW TRANSLATION
- NIG_state_run_markets_effect_TT: "§YPokladna:§!§R$-3.0§!" # todo: NEW TRANSLATION
- NIG_religious_conversion_TT: "Konvertuje obyvatelstvo na nové náboženství.\n" # todo: NEW TRANSLATION
- NIG_religious_conversion_christian_TT: "Konvertuje obyvatelstvo na nové náboženství.\n" # todo: NEW TRANSLATION
- NIG_hold_off_on_conversion_flag: "Pozdržel konverze" # todo: NEW TRANSLATION
- NIG_hold_off_on_conversion_flag_set_TT: "§YPozastavuje náboženské konverze§!\n" # todo: NEW TRANSLATION
- NIG_hold_off_on_conversion_flag_remove_TT: "§YZnovu povoluje konverze§!\n" # todo: NEW TRANSLATION
- NIG_enlist_boko_haram_TT: "Najměte §YBoko Haram§! a získejte jejich podporu!\n" # todo: NEW TRANSLATION
- NIG_the_islamic_states_faction: "Unie islámských států" # todo: NEW TRANSLATION
- NIG_rise_of_boko_haram_TT: "§YBoko Haram uchopí moc!§!\n" # todo: NEW TRANSLATION
- NIG_disarm_the_militias_toolie_TT: "Vojenské síly začaly zabavovat zbraně od §YKřesťanských milic§! po celé zemi.\n" # todo: NEW TRANSLATION
- NIG_heli_requests_toolie_TT: "Jakmile budou navázány vztahy s naší cílovou zemí, koupíme 30 §Yútočných vrtulníků§! od buď §Y[SOV.GetNamewithFlag]§!, §Y[CHI.GetNamewithFlag]§! nebo §Y[USA.GetNamewithFlag]§!.\n" # todo: NEW TRANSLATION
- NIG_boko_haram_in_power_TT: "§YBoko Haram je již u moci§!\n" # todo: NEW TRANSLATION
- NIG_cores_equatorial_guinea_cameroon_central_tt: "Dává domovské území státům §Y[EGU.GetNameWithFlag]§!, §Y[CAM.GetNameWithFlag]§! a §Y[CAR.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
- NIG_cores_benin_togo_states_tt: "Dává domovské území státům §Y[BEN.GetNameWithFlag]§! a §Y[TOG.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
- NIG_cores_niger_states_tt: "Dává domovské území státům §Y[NGR.GetNameWithFlag]§!." # todo: NEW TRANSLATION
- NIG_christian_majority_10_idea: "Křesťanská většina - 10" # todo: NEW TRANSLATION
- NIG_christian_majority_10_idea_desc: "Byla zvolena křesťanská většina!" # todo: NEW TRANSLATION
- NIG_christian_majority_9_idea: "Křesťanská většina - 9" # todo: NEW TRANSLATION
- NIG_christian_majority_8_idea: "Křesťanská většina - 8" # todo: NEW TRANSLATION
- NIG_christian_majority_7_idea: "Křesťanská většina - 7" # todo: NEW TRANSLATION
- NIG_christian_majority_6_idea: "Křesťanská většina - 6" # todo: NEW TRANSLATION
- NIG_christian_majority_5_idea: "Křesťanská většina - 5" # todo: NEW TRANSLATION
- NIG_christian_majority_4_idea: "Křesťanská většina - 4" # todo: NEW TRANSLATION
- NIG_christian_majority_3_idea: "Křesťanská většina - 3" # todo: NEW TRANSLATION
- NIG_christian_majority_2_idea: "Křesťanská většina - 2" # todo: NEW TRANSLATION
- NIG_christian_majority_1_idea: "Křesťanská většina - 1" # todo: NEW TRANSLATION
- NIG_islamic_majority_10_idea: "Islámská většina - 10" # todo: NEW TRANSLATION
- NIG_islamic_majority_10_idea_desc: "Byla zvolena islámská většina!" # todo: NEW TRANSLATION
- NIG_islamic_majority_9_idea: "Islámská většina - 9" # todo: NEW TRANSLATION
- NIG_islamic_majority_8_idea: "Islámská většina - 8" # todo: NEW TRANSLATION
- NIG_islamic_majority_7_idea: "Islámská většina - 7" # todo: NEW TRANSLATION
- NIG_islamic_majority_6_idea: "Islámská většina - 6" # todo: NEW TRANSLATION
- NIG_islamic_majority_5_idea: "Islámská většina - 5" # todo: NEW TRANSLATION
- NIG_islamic_majority_4_idea: "Islámská většina - 4" # todo: NEW TRANSLATION
- NIG_islamic_majority_3_idea: "Islámská většina - 3" # todo: NEW TRANSLATION
- NIG_islamic_majority_2_idea: "Islámská většina - 2" # todo: NEW TRANSLATION
- NIG_islamic_majority_1_idea: "Islámská většina - 1" # todo: NEW TRANSLATION
- NIG_nigerian_secularism_idea: "Nigerijský sekularismus" # todo: NEW TRANSLATION
- NIG_nigerian_land_of_harmony_idea: "Země harmonie" # todo: NEW TRANSLATION
- NIG_unrestrained_piracy_idea: "Neomezené pirátství" # todo: NEW TRANSLATION
- NIG_unrestrained_piracy_idea_desc: "Nigerijské náboženské spory a politická nestabilita vytvořily prostor pro piráty u pobřeží. Pirátství v regionu nejvíce zasahuje naše ropné a plynárenské podniky." # todo: NEW TRANSLATION
- NIG_restrained_piracy_idea: "Omezené pirátství" # todo: NEW TRANSLATION
- NIG_restrained_piracy_idea_desc: "Federální vláda podnikla některá opatření a kroky k řešení pirátství. Pirátství je nyní méně rozšířené než dříve, ale stále přítomné." # todo: NEW TRANSLATION
- NIG_efficient_government_spending_idea: "Efektivní vládní výdaje" # todo: NEW TRANSLATION
- NIG_efficient_government_spending_idea_desc: "Nigerijská vláda si udržuje poměrně efektivní rozpočet. Je to z velké části díky vývozu a těžbě ropy." # todo: NEW TRANSLATION
- NIG_efficient_government_spending_reform_idea: "Efektivní vládní výdaje" # todo: NEW TRANSLATION
- NIG_efficient_government_spending_reform_idea_desc: "Nigerijská vláda si udržuje poměrně efektivní rozpočet. Je to z velké části díky vývozu a těžbě ropy. Další reformy a údržba umožnily bezpečně nižší úrokové sazby na našem dluhu." # todo: NEW TRANSLATION
- NIG_state_run_markets_idea: "Státem řízené trhy" # todo: NEW TRANSLATION
- NIG_armor_production_idea: "Nigerijská výroba obrněné techniky" # todo: NEW TRANSLATION
- NIG_coastal_forces_production_idea: "Výroba pobřežního námořnictva" # todo: NEW TRANSLATION
- NIG_nigerian_peacekeepers_idea: "Mírotvorci Afriky" # todo: NEW TRANSLATION
- NIG_victory_is_from_god_alone_idea: "Vítězství pochází pouze od Boha" # todo: NEW TRANSLATION
- NIG_the_new_nigerian_caliph_idea: "Nový chalífát" # todo: NEW TRANSLATION
- NIG_uncontrollable_population_growth_idea: "Neovladatelný růst populace" # todo: NEW TRANSLATION
- NIG_uncontrollable_population_growth_idea_desc: "Populace v Nigérii rychle roste. V dohledné budoucnosti toho moc nemůžeme udělat, abychom tento explozivní růst obyvatelstva omezili." # todo: NEW TRANSLATION
- NIG_controlled_population_program_idea: "Kontrolovaný růst populace" # todo: NEW TRANSLATION
- NIG_reformed_ndcc_idea: "Reformovaný NDCC" # todo: NEW TRANSLATION
- NIG_nigerian_education_idea: "Nigerijské vzdělávací programy" # todo: NEW TRANSLATION
- NIG_nigerian_education_idea_desc: "Investice do našich vzdělávacích programů bude nesmírně užitečná pro zlepšení naší pozice jako regionální mocnosti." # todo: NEW TRANSLATION
- NIG_blood_oil_idea: "Krvavá ropa" # todo: NEW TRANSLATION
- NIG_blood_oil_idea_desc: "Nigérijská ropa získala zvlášť zlověstné pojmenování. Ropa vyvážená z Nigérie je nazývána 'Krvavá ropa' kvůli násilí, bojům a dalším událostem obklopujícím těžbu černého zlata." # todo: NEW TRANSLATION
- NIG_religious_divide_decisions_category: "Náboženský rozkol" # todo: NEW TRANSLATION
- NIG_religious_divide_decisions_category_desc: "Náboženský rozkol pomalu prohlubuje trhliny v naší zemi. Je čas začít konvertovat příslušníky opačného náboženství v naději, že stabilizujeme zemi." # todo: NEW TRANSLATION
- NIG_convert_state_332: "Konvertovat Biafru" # todo: NEW TRANSLATION
- NIG_convert_state_332_desc: "Biafra je převážně křesťanský region v Nigérii. Ekonomicky produkuje velkou část ropných zásob země. MEND, neboli Hnutí za emancipaci delty Nigeru, je velká skupina milic, která brání místní produkci." # todo: NEW TRANSLATION
- NIG_convert_state_339: "Konvertovat Kano" # todo: NEW TRANSLATION
- NIG_convert_state_339_desc: "Kano je převážně islámský region v severní Nigérii. Má velká města jako Kaduna a Kano, která označují místní region jako průmyslové oblasti." # todo: NEW TRANSLATION
- NIG_convert_state_338: "Konvertovat Sokoto" # todo: NEW TRANSLATION
- NIG_convert_state_340: "Konvertovat Borno" # todo: NEW TRANSLATION
- NIG_convert_state_334: "Konvertovat Lagos" # todo: NEW TRANSLATION
- NIG_convert_state_336: "Konvertovat Benue" # todo: NEW TRANSLATION
- NIG_convert_state_322: "Konvertovat Ambazonii" # todo: NEW TRANSLATION
- NIG_convert_state_337: "Konvertovat Abuja" # todo: NEW TRANSLATION
- NIG_convert_state_337_desc: "Abuja je hlavní město Nigérie a rozdělení mezi muslimy a křesťany je zde nejzřetelnější. Největší mešity a kostely země se nacházejí zde v Abudže." # todo: NEW TRANSLATION
- NIG_religious_civil_war_mission: "Náboženská občanská válka!" # todo: NEW TRANSLATION
- NIG_religious_civil_war_mission_desc: "Lidé začínají brát zbraně ve jménu svého náboženství. Stojíme na pokraji všeobecné náboženské občanské války!" # todo: NEW TRANSLATION
- NIG_hold_off_on_conversion_decision: "Pozdržet konverze" # todo: NEW TRANSLATION
- NIG_hold_off_on_conversion_decision_desc: "Snažíme se obyvatele konvertovat příliš rychle. Stabilita země je v ohrožení!" # todo: NEW TRANSLATION
- nigeria_md.1.t: "Pokojné konverze v [NIG_religious_conversion_state.GetName]" # todo: NEW TRANSLATION
- nigeria_md.1.d1: "Naše da'wa (misie) začaly vést pokojné konverze v [NIG_religious_conversion_state.GetName]. Je to opravdu nádherný den pro islám. Chvála Alláhovi!" # todo: NEW TRANSLATION
- nigeria_md.1.d2: "Dnes se konal závěrečný hromadný křest v [NIG_religious_conversion_state.GetName]. Bůh promluvil hlasitě a s velkou intenzitou. Je to velký den pro Boha a velký den pro křesťanství." # todo: NEW TRANSLATION
- nigeria_md.1.a: "Výborně!" # todo: NEW TRANSLATION
- nigeria_md.1.b: "Výborně!" # todo: NEW TRANSLATION
- nigeria_md.2.t: "Nenásilné protesty v [NIG_religious_conversion_state.GetName]" # todo: NEW TRANSLATION
- nigeria_md.2.d1: "Islámská menšina ve státě uspořádala nenásilné protesty v [NIG_religious_conversion_state.GetName]. Způsobilo to v regionu určité změny stability." # todo: NEW TRANSLATION
- nigeria_md.2.d2: "Křesťanská menšina pomalu začala protestovat v oblasti v naději, že zastaví vládou podporované potlačování křesťanství. To donutilo některé z nejtvrdších odpůrců držet naše islámské misionáře na uzdě." # todo: NEW TRANSLATION
- nigeria_md.2.a: "Dobrý den pro křesťanství" # todo: NEW TRANSLATION
- nigeria_md.2.b: "Pro Alláha!" # todo: NEW TRANSLATION
- nigeria_md.3.t: "Násilný odpor vůči našim misionářům!" # todo: NEW TRANSLATION
- nigeria_md.3.d1: "Lidé se začali mobilizovat proti našim misionářům a protesty se pomalu stávají násilnými. Islámské protestující jsou údajně financováni a podněcováni povstalci Boko Haram." # todo: NEW TRANSLATION
- nigeria_md.3.d2: "Křesťanské milice začaly vyhánět naše misionáře z jejich ubytování. [NIG_religious_conversion_state.GetName] se začíná uzavírat, protože milice bojují s místní policií a misionáři." # todo: NEW TRANSLATION
- nigeria_md.3.a: "Nešťastné" # todo: NEW TRANSLATION
- nigeria_md.3.b: "Nešťastné" # todo: NEW TRANSLATION
- nigeria_md.4.t1: "Povstání Boko Haram!" # todo: NEW TRANSLATION
- nigeria_md.4.t2: "Křesťanské povstání!" # todo: NEW TRANSLATION
- nigeria_md.4.d1: "Lidé vzali zbraně ve jménu Alláha. Boko Haram otevřeně prohlašuje svůj záměr svrhnout vládu a napravit nestabilitu v regionu. Lidé v oblastech, které kontrolují, se rychle ozbrojují a jsou připraveni na válku.\n\n" # todo: NEW TRANSLATION
- nigeria_md.4.d2: "Křesťanské milice zahájily otevřené ozbrojené povstání proti našemu režimu. Tvrdí, že porušujeme jejich lidská práva. Musíme tento konflikt potlačit dříve, než se rozšíří i mimo hranice země." # todo: NEW TRANSLATION
- nigeria_md.4.a: "Smrt zrádcům!" # todo: NEW TRANSLATION
- nigeria_md.5.t: "Obnovení PDP" # todo: NEW TRANSLATION
- nigeria_md.5.d: "Strana lidové demokracie (PDP) zaznamenala nedávné obnovení popularity. Nyní začíná dominovat v průzkumech a místní vlády přecházejí k lidem z této strany." # todo: NEW TRANSLATION
- nigeria_md.5.a: "PDP je správná volba" # todo: NEW TRANSLATION
- nigeria_md.6.t: "Vzestup ANPP" # todo: NEW TRANSLATION
- nigeria_md.6.d: "All Nigeria's Peoples Party (ANPP) je od svého založení v roce 1999 jednou z největších opozičních stran v zemi. V posledních událostech postupně prosazuje stále více progresivních a regulovaných myšlenek na rozdíl od PDP. Stále více se ukazuje, že ANPP je skutečně stranou lidu." # todo: NEW TRANSLATION
- nigeria_md.6.a: "ANPP je volba lidu" # todo: NEW TRANSLATION
- nigeria_md.7.t: "Nigérie žádá o zahraniční dotace" # todo: NEW TRANSLATION
- nigeria_md.7.d: "Vláda Nigérie se rozhodla, že je v jejich nejlepším zájmu začít oslovovat naše diplomaty a velvyslance kvůli zahraničním dotacím. Snaží se rozšířit infrastrukturu v zemi a prohlédli si robustní silniční a železniční systémy naší země.\n\nMěli bychom jim pomoci?" # todo: NEW TRANSLATION
- nigeria_md.7.a: "Informujte Nigérijce, že jim pomůžeme." # todo: NEW TRANSLATION
- nigeria_md.7.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
- nigeria_md.8.t: "Investice z Nigérie" # todo: NEW TRANSLATION
- nigeria_md.8.d: "Nigérie se snaží investovat do infrastruktury naší země a do dalších životně důležitých sektorů. Jediný problém je, zda dovolíme nigérijským společnostem získat pevné postavení v našich křehkých ekonomikách?\n" # todo: NEW TRANSLATION
- nigeria_md.8.a: "Samozřejmě!" # todo: NEW TRANSLATION
- nigeria_md.8.b: "Nikdy!" # todo: NEW TRANSLATION
- nigeria_md.9.t: "Pozvánka do Unie islámských států" # todo: NEW TRANSLATION
- nigeria_md.9.d: "Nigérie a naši další bratři ve zbrani se začali sdružovat, aby bojovali za naši svobodu proti těm, kteří nám chtějí odporovat. Diplomat prohlašuje: 'musíme povstat společně, jinak nám hrozí úplné vyhlazení.'\n\nMěli bychom se připojit k našim bratrům ve víře?\n" # todo: NEW TRANSLATION
- nigeria_md.9.a: "Společně silnější!" # todo: NEW TRANSLATION
- nigeria_md.9.b: "Musíme džihád vést sami!" # todo: NEW TRANSLATION
- nigeria_md.10.t: "Nigérie žádá evropské investice" # todo: NEW TRANSLATION
- nigeria_md.10.d: "Nigérie k nám znovu přišla, aby projednala investice do své země. Poradci a velvyslanci diskutují o potenciálu investování v Nigérii, jako by šlo o lukrativní nemovitost. Je skutečně v našem zájmu pomoci této rozvíjející se ekonomice a získat dříve svůj díl koláče?" # todo: NEW TRANSLATION
- nigeria_md.10.a: "Jděte do toho! Více průmyslu znamená více peněz!" # todo: NEW TRANSLATION
- nigeria_md.10.b: "Plýtvání našimi prostředky" # todo: NEW TRANSLATION
+  nigeria_focus: "Nigerijský zaměřovací strom" # todo: NEW TRANSLATION
+  NIG_religious_divide: "Náboženský rozkol" # todo: NEW TRANSLATION
+  NIG_religious_divide_desc: "Nigérie čelí hlubokým náboženským napětím a sectářskému násilí, které ohrožuje národní stabilitu. Naše populace je ostře rozdělena mezi křesťanstvím na jihu a islámem na severu, což vytváří složitý sociopolitický obraz. Bez pečlivého řízení těchto náboženských rozdílů hrozí občanský neklid či horší. Rozhodnutí o tom, jak nyní budeme usilovat o náboženskou koexistenci, budou formovat budoucnost Nigérie pro generace a určovat, zda dosáhneme trvalé národní jednoty." # todo: NEW TRANSLATION
+  NIG_nigerian_sects: "Nigerijské sekty" # todo: NEW TRANSLATION
+  NIG_nigerian_sects_desc: "Islám v Nigérii sahá kořeny až do Velké říše Mali. Víra se vyvinula do rozmanité mozaiky tradic a Nigérie je domovem mnoha islámských sekt mimo sunnitský islám. Sem patří šíitské komunity, salafistické proudy, Qadiriyya sufisté, Tijjaniyyah řády a mnoho dalších odlišných teologických tradic, které formují složitou náboženskou krajinu země." # todo: NEW TRANSLATION
+  NIG_teachings_of_the_quaran: "Učení Koránu" # todo: NEW TRANSLATION
+  NIG_teachings_of_the_quaran_desc: "Korán je nadčasový posvátný text, zjevený, aby vedl lidstvo k spravedlivému životu a varoval před důsledky odchýlení od jeho moudrosti. Jak islám v Nigérii nadále vyvíjí, je nezbytné, aby naše mladé generace důkladně chápaly tato učení, aby zachovaly naše kulturní dědictví a posílily morální základ země." # todo: NEW TRANSLATION
+  NIG_uniting_the_faiths: "Sjednocení vír" # todo: NEW TRANSLATION
+  NIG_uniting_the_faiths_desc: "Islámská víra je různorodá. Často se však neshoduje a nedokáže se dohodnout. Víry musí být sjednoceny, aby byla zajištěna lepší budoucnost Nigérie a islámu v Africe." # todo: NEW TRANSLATION
+  NIG_beliefs_of_the_mosque: "Víry mešity" # todo: NEW TRANSLATION
+  NIG_beliefs_of_the_mosque_desc: "Mešita je posvátné místo. Víry mešity by měly a budou ctěny všemi, kteří procházejí jejími posvátnými chodbami." # todo: NEW TRANSLATION
+  NIG_islamic_preachings: "Islámská kázání" # todo: NEW TRANSLATION
+  NIG_islamic_preachings_desc: "Měli bychom začít schvalovat islámské kazatele, abychom získali alespoň zdání stability zde v zemi." # todo: NEW TRANSLATION
+  NIG_secure_tradtionalist_support: "Islámský tradicionalismus" # todo: NEW TRANSLATION
+  NIG_secure_tradtionalist_support_desc: "Tradiční hodnoty jsou nezbytné k udržení nás samých, naší země a našich způsobů života. Je načase usilovat o větší spolupráci s islámskými tradicionalisty, aby se naše víra v Nigérii uchovala a rozvíjela." # todo: NEW TRANSLATION
+  NIG_continue_sharia_law: "Pokračovat v šaría právu" # todo: NEW TRANSLATION
+  NIG_continue_sharia_law_desc: "Šaría právo je systém, který musíme dodržovat. Úředníci na severu a federální vláda shodně rozhodli, že pokračovat ve šaría právu je v našem zájmu." # todo: NEW TRANSLATION
+  NIG_line_the_government: "Naplňte vládu islámskými kandidáty" # todo: NEW TRANSLATION
+  NIG_line_the_government_desc: "Někteří úředníci považují vládu za příliš plnou křesťanů. Je na čase obohatit vládu o další islámské kandidáty a poradce." # todo: NEW TRANSLATION
+  NIG_contract_boko_haram: "Najmout Boko Haram" # todo: NEW TRANSLATION
+  NIG_contract_boko_haram_desc: "Záhadná skupina salafistů na severovýchodě začala dělat kroky v regionu, usiluje o větší islámskou tradici. Mělo by být výhodné s nimi navázat kontakt." # todo: NEW TRANSLATION
+  NIG_convert_the_christians: "Převést křesťany" # todo: NEW TRANSLATION
+  NIG_convert_the_christians_desc: "Křesťané musí vědět, že jejich kniha je vede na scestí. Je načase ukázat a diskutovat, že náš způsob života je cestou k skutečné prosperitě a spáse." # todo: NEW TRANSLATION
+  NIG_justify_radcialism: "Ospravedlnit radikalismus" # todo: NEW TRANSLATION
+  NIG_justify_radcialism_desc: "Radikalismus je důležitý pro jakékoli náboženství, aby rostlo. Naši bratři ve víře by měli vždy dostávat naši podporu." # todo: NEW TRANSLATION
+  NIG_disarm_the_militias: "Rozzbrojit milice" # todo: NEW TRANSLATION
+  NIG_disarm_the_militias_desc: "Křesťanské milice ve Středním pásu a na jihu zahájily menší ozbrojené nepokoje. Měli bychom se mobilizovat a rychle milice odzbrojit." # todo: NEW TRANSLATION
+  NIG_a_new_wave_of_extremism: "Nová vlna extremismu" # todo: NEW TRANSLATION
+  NIG_a_new_wave_of_extremism_desc: "Jedinou formou extremismu je zavedení nového druhu vlády vedeného islámskými učeními a udržením víry v Korán a jeho učení." # todo: NEW TRANSLATION
+  NIG_fifty_fifty: "Padesát na padesát" # todo: NEW TRANSLATION
+  NIG_fifty_fifty_desc: "Naše země je rozdělena napůl mezi islám a křesťanstvím. Výsledek leží na ostří nože." # todo: NEW TRANSLATION
+  NIG_tolerance: "Snášenlivost" # todo: NEW TRANSLATION
+  NIG_tolerance_desc: "Vyhlášení kterékoli víry jako oficiálního náboženství země by vyvolalo nadměrné napětí. Z politického hlediska bude pro nás výhodnější uzákonit snášenlivost obou vír." # todo: NEW TRANSLATION
+  NIG_islamic_tolerance: "Islámská snášenlivost" # todo: NEW TRANSLATION
+  NIG_islamic_tolerance_desc: "Islám je důležitý pro severní státy. Měli bychom začít vyučovat mládež a jiho-národ o toleranci k těmto vírám." # todo: NEW TRANSLATION
+  NIG_christian_faiths: "Křesťanské víry" # todo: NEW TRANSLATION
+  NIG_christian_faiths_desc: "Křesťanství je převážně na jihu země. Budeme je tlačit, aby se dozvěděli více o islámu, v naději, že to víry spojí." # todo: NEW TRANSLATION
+  NIG_separation_of_church_and_state: "Oddělení církve od státu" # todo: NEW TRANSLATION
+  NIG_separation_of_church_and_state_desc: "Církev a stát musí být odděleny, pokud chceme žít v opravdové harmonii." # todo: NEW TRANSLATION
+  NIG_land_of_harmony: "Země harmonie" # todo: NEW TRANSLATION
+  NIG_land_of_harmony_desc: "Víry se vydaly na cestu soužití, která je v mnoha místech neslyšet. Budeme chránit tuto vzácnou rovnováhu, aby naše domovina byla skutečnou zemí harmonie." # todo: NEW TRANSLATION
+  NIG_christian_theology: "Křesťanská teologie" # todo: NEW TRANSLATION
+  NIG_christian_theology_desc: "Křesťanství patří mezi nejčastější náboženství na světě. To tvrzení platí i zde v Nigérii. Měli bychom podpořit více teologických debat s křesťanskou vírou." # todo: NEW TRANSLATION
+  NIG_education_from_the_bible: "Vzdělání z Bible" # todo: NEW TRANSLATION
+  NIG_education_from_the_bible_desc: "Bible je Boží kniha. Bude nám hodně vykládat, jak bychom měli žít a jak pokračovat se svým životem." # todo: NEW TRANSLATION
+  NIG_christian_missionaries: "Křesťanští misionáři" # todo: NEW TRANSLATION
+  NIG_christian_missionaries_desc: "Měli bychom začít posílat misionáře, aby konvertovali ty, kteří následují pravou křesťanskou víru." # todo: NEW TRANSLATION
+  NIG_rights_of_the_church: "Práva církve" # todo: NEW TRANSLATION
+  NIG_rights_of_the_church_desc: "Dobří křesťané nikdy nepřecházejí práva naší církve. Ne teď, ne nikdy." # todo: NEW TRANSLATION
+  NIG_investments_in_the_church: "Investice do církve" # todo: NEW TRANSLATION
+  NIG_investments_in_the_church_desc: "Místní církve se pomalu dostávají do nepořádku. Měli bychom prozkoumat možnosti zlepšení těchto velmi důležitých struktur." # todo: NEW TRANSLATION
+  NIG_end_sharia_law: "Konec šaría práva" # todo: NEW TRANSLATION
+  NIG_end_sharia_law_desc: "Šaría právo na severu je pohroma pro zemi. Měli bychom využít naši většinu k demonstracím a prosazování naší agendy, aby šaría právo bylo jednou provždy ukončeno." # todo: NEW TRANSLATION
+  NIG_secure_christian_support: "Zajištění křesťanské podpory" # todo: NEW TRANSLATION
+  NIG_secure_christian_support_desc: "Křesťanská většina na jihu země zahrnuje některá z největších měst v naší působnosti. Lidé tam musí podporovat vládu." # todo: NEW TRANSLATION
+  NIG_suppression_of_islam: "Potlačení islámu" # todo: NEW TRANSLATION
+  NIG_suppression_of_islam_desc: "Islámská populace musí být ukázána na omyl svých cest islámskými doktrínami. Začneme tím, že uzavřeme místní islámské noviny a přerušíme další zdroje podpory." # todo: NEW TRANSLATION
+  NIG_enlist_the_militas: "Nábor milicí" # todo: NEW TRANSLATION
+  NIG_enlist_the_militas_desc: "Křesťanské milice ve Středohoří a na jihu se radikalizovaly, kde Nigérijská armáda a policie selhaly. Křesťanská část země chce být zapojena jako dobrovolná síla, aby lépe chránila sebe a své věřící." # todo: NEW TRANSLATION
+  NIG_christian_cabinet: "Křesťanský kabinet" # todo: NEW TRANSLATION
+  NIG_christian_cabinet_desc: "Regiony, kde je křesťanská většina, mají nejvíce průmyslu a finančních center. Proto by měl být náš kabinet reorganizován, aby posílil vazby s těmito oblastmi." # todo: NEW TRANSLATION
+  NIG_end_boko_haram_extremism: "Ukončit Boko Haram" # todo: NEW TRANSLATION
+  NIG_end_boko_haram_extremism_desc: "Boko Haram je pohroma této země. Musíme je zkrotit a obnovit pořádek v Nigérii." # todo: NEW TRANSLATION
+  NIG_embrace_the_chrisitans: "Přijměte křesťany" # todo: NEW TRANSLATION
+  NIG_embrace_the_chrisitans_desc: "Musíme přijmout křesťany a odsoudit ty na severu." # todo: NEW TRANSLATION
+  NIG_christian_radicals: "Posílit křesťanské radikály" # todo: NEW TRANSLATION
+  NIG_christian_radicals_desc: "Může být výhodné posílit více radikálních křesťanů do důležitých pozic ve vládě." # todo: NEW TRANSLATION
+  NIG_rise_of_boko_haram: "Vzestup Boko Haram" # todo: NEW TRANSLATION
+  NIG_rise_of_boko_haram_desc: "V severní Nigérii se vyhoupla mocná hnutí; lidé se shromažďují pod praporem Boko Haram. Místní islámský vůdci přijali tuto rostoucí sílu a mobilizují komunity pod jejich vedením. S rostoucí podporou a vlivem stojí Boko Haram na prahu proměny naší země a vede nás k slibné budoucnosti, definované striktním dodržováním islámských principů!" # todo: NEW TRANSLATION
+  NIG_align_to_isis: "Sjednotit se s ISIS" # todo: NEW TRANSLATION
+  NIG_align_to_isis_desc: "Může být jen jeden pravý chalífát a tím je Islámský stát na Blízkém východě. Slibujeme věrnost samoproslámenému kalifovi a přidáme se k jejich globálnímu džihádu. Tím, že se spojíme s ISIS, posílíme naši pozici a získáme přístup k jejich zdrojům, výcviku a mezinárodní síti extremistických podporovatelů." # todo: NEW TRANSLATION
+  NIG_west_african_caliphate: "Západoafrický kalifát" # todo: NEW TRANSLATION
+  NIG_west_african_caliphate_desc: "Sebevládačný kalifát na Blízkém východě je falešný vůdce, který se odchýlil od pravé cesty. Musíme si vytvořit vlastní osudy a ustanovit legitimní Západoafrický kalifát, který skutečně reprezentuje aspirace našeho lidu. Pod naším spravedlivým vedením povede víru k dosud nevídané velikosti a prosperitě po regionu!" # todo: NEW TRANSLATION
+  NIG_recognize_the_islamic_state: "Uznat Islámský stát" # todo: NEW TRANSLATION
+  NIG_recognize_the_islamic_state_desc: "Formální uznání Islámských států je klíčové pro získání diplomatické legitimity a zajištění nezbytné podpory od ostatních islámských zemí. Toto strategické spojenectví posílí naši pozici na mezinárodní scéně a poskytne přístup k zdrojům nezbytným pro naši další expanzi." # todo: NEW TRANSLATION
+  NIG_instigate_african_salafism: "Podněcovat africký Salafismus" # todo: NEW TRANSLATION
+  NIG_instigate_african_salafism_desc: "Salafismus je puristická interpretace islámu, která zdůrazňuje návrat k tradicím spravedlivých předků. Musíme šířit tuto ideologii po celé Africe a vybudovat síť stejně smýšlejících věřících, kteří promění kontinent v pevnost pravé islámské víry a praxe." # todo: NEW TRANSLATION
+  NIG_support_neighboring_extremists: "Podpora sousedních extremistů" # todo: NEW TRANSLATION
+  NIG_support_neighboring_extremists_desc: "Naše sousední země mají značné islámské populace, které sdílejí sympatie k naší věci. Mnozí z těchto věřících tiše podporují naše radikální ideologie, čímž vzniká úrodná půda pro expanzi. Musíme identifikovat tyto potenciální spojence a kultivovat jejich podporu, abychom posílili naše hnutí napříč hranicemi." # todo: NEW TRANSLATION
+  NIG_arm_other_extremists: "Vyzbrojit ostatní extremisty" # todo: NEW TRANSLATION
+  NIG_arm_other_extremists_desc: "Extremistické frakce po celém světě usilují o svržení toho, co považují za utlačující režimy. Tím, že poskytneme zbraně, výcvik a finanční podporu těmto podobně smýšlejícím skupinám, můžeme rozšířit náš vliv za hranice a současně vytvořit síť spojených hnutí, která sdílejí naši vizi. Tato strategická investice přinese výnosy, když tyto skupiny destabilizují naše nepřátele a prosazují naši ideologickou agendu po celém světě." # todo: NEW TRANSLATION
+  NIG_build_ties_with_extremist_groups: "Budovat kontakty s extremistickými skupinami" # todo: NEW TRANSLATION
+  NIG_build_ties_with_extremist_groups_desc: "Budováním strategických vztahů s podobně smýšlejícími extremistickými organizacemi po celém světě můžeme vytvořit silnou síť spojenců, kteří sdílejí naši vizi. Tyto kontakty nám poskytnou cenné zdroje, taktické know-how a mezinárodní podporu, čímž posílí naši pozici a rozšíří vliv za naše hranice. Prostřednictvím pečlivé koordinace s těmito skupinami můžeme prosadit naši společnou agendu a zachovat věrohodné popření, kdykoli to bude nutné." # todo: NEW TRANSLATION
+  NIG_claim_niger: "Nárok na Niger" # todo: NEW TRANSLATION
+  NIG_claim_niger_desc: "Niger s námi neustále soupeří o jezero Niger a zdroje v okolí našich hranic. Muslimové v regionu podporují náš nárok na chalífát ve Západní Africe." # todo: NEW TRANSLATION
+  NIG_invade_across_the_western_border: "Vpadnout přes západní hranici" # todo: NEW TRANSLATION
+  NIG_invade_across_the_western_border_desc: "Západní hranice je hustě džunglovatá a ukazuje se jako oblast, kterou můžeme rychle využít pro naše zisky." # todo: NEW TRANSLATION
+  NIG_impose_sharia_law_across_nigeria: "Zavést šaríjské právo v Nigérii" # todo: NEW TRANSLATION
+  NIG_impose_sharia_law_across_nigeria_desc: "Šaría právo je osvědčený systém práva. Musíme jej správně zavést ve všech státech Nigérie." # todo: NEW TRANSLATION
+  NIG_the_new_kid_on_the_block: "Nový hráč na scéně" # todo: NEW TRANSLATION
+  NIG_the_new_kid_on_the_block_desc: "ISIS a ISIL jsou v současnosti hlavními skupinami, když se o Salafistickém extremismu mluví. Nikdo však nečeká nového hráče na scéně." # todo: NEW TRANSLATION
+  NIG_the_islamic_states: "Islámské státy" # todo: NEW TRANSLATION
+  NIG_the_islamic_states_desc: "Navrhuje se, abychom začali fungovat jako jednotný celek spíše než jako nezávislé státy. Jsme Islámské státy." # todo: NEW TRANSLATION
+  NIG_invade_central_africa: "Vpadnout do Střední Afriky" # todo: NEW TRANSLATION
+  NIG_invade_central_africa_desc: "Střední Afrika je slabá a muslimská populace v této oblasti bývá často vykořisťována či krutě utlačována křesťanskými milicemi." # todo: NEW TRANSLATION
+  NIG_local_salafism: "Nigérijský salafismus" # todo: NEW TRANSLATION
+  NIG_local_salafism_desc: "Náš druh Salafismu by měl být jedinečný a neměli bychom se řídit ostatními formami." # todo: NEW TRANSLATION
+  NIG_declare_a_new_caliph: "Vyhlásit chalífát" # todo: NEW TRANSLATION
+  NIG_declare_a_new_caliph_desc: "Nyní přišel čas vyhlásit naše království na Zemi. Je čas, aby vzestoupil západoafrický chalífát!" # todo: NEW TRANSLATION
+  NIG_federal_government_of_nigeria: "Federální vláda Nigérie" # todo: NEW TRANSLATION
+  NIG_federal_government_of_nigeria_desc: "Vláda Nigérie má značnou sílu, ale trpí endemickou korupcí, která podkopává její účinnost. Musíme implementovat komplexní reformy, které odstraní plýtvání, postihnou zkorumpované úředníky a obnoví pověst Nigérie doma i v zahraničí." # todo: NEW TRANSLATION
+  NIG_constiution_reforms: "Ústavní reformy" # todo: NEW TRANSLATION
+  NIG_constiution_reforms_desc: "Nigérie vyžaduje rozsáhlé revize ústavy, aby čelila moderním výzvám. Musíme zahájit národní dialog, abychom prodiskutovali změny, jež posílí naši demokracii, ochrání občanské svobody a zajistí spravedlivé rozdělení moci mezi federální vládu a státy." # todo: NEW TRANSLATION
+  NIG_the_nigerian_model: "Nigérijský model" # todo: NEW TRANSLATION
+  NIG_the_nigerian_model_desc: "Nigérie má federální systém vlády, který čerpá významnou inspiraci ze Spojených států a je založen na prezidentské demokracii se třemi větvemi vlády: výkonnou, legislativní a soudní. Tento model byl přizpůsoben jedinečné kulturní a politické krajině Nigérie, vyvažující moc mezi federální vládou a 36 státy." # todo: NEW TRANSLATION
+  NIG_the_pdp: "Lidová demokratická strana" # todo: NEW TRANSLATION
+  NIG_the_pdp_desc: "Lidová demokratická strana, založená v roce 1998, reprezentuje středopravý pól politického spektra Nigérie. Jako jedna z dominanteních politických sil země si PDP udržuje významný vliv na nigérijskou politiku po desetiletí. Strana hájí národní konzervatismus v sociálních otázkách a zároveň prosazuje ekonomický liberalismus, podporu volného trhu a snížení zásahů vlády do podnikání. Její silná přítomnost napříč jižní Nigérií pomohla upevnit její postavení jako pilíře demokratického systému země." # todo: NEW TRANSLATION
+  NIG_the_anpp: "[Root.anpp_pdc_name_switch]" # todo: NEW TRANSLATION
+  NIG_the_anpp_desc: "[Root.anpp_pdc_desc_switch]" # todo: NEW TRANSLATION
+  NIG_anpp_1: "All Nigeria's People Party" # todo: NEW TRANSLATION
+  NIG_anpp_1_desc: "Strana All Nigeria's People Party byla založena na konci roku 1998 jako pravicově konzervativní politická síla s výraznou podporou převážně islámské severní oblasti. Zpočátku akceptovala sociální konzervatismus a neoliberální ekonomické politiky, ANPP se vyznačovala náboženskou přitažlivostí a regionálním zaměřením. Postupem času se strana postupně posunula doleva ve svém ideologickém postoji, přizpůsobujíc se měnící se politické krajině Nigérie, zatímco si udržovala své severní jádro." # todo: NEW TRANSLATION
+  NIG_anpp_2: "All Progressives Congress" # todo: NEW TRANSLATION
+  NIG_anpp_2_desc: "All Progressives Congress, vzniklá historickým sloučením ANPP, APGA a několika dalších politických subjektů v roce 2013, se etablovala jako dominantní středolevicová síla v nigérijské politice. Strana prosazuje pokrokové sociální reformy spolu s ekonomickým populismem, hájí redistribuci bohatství a větší zásahy vlády do klíčových sektorů. Se silnou organizací na základě místních iniciativ APC vybudovala významné podpůrné základny v obou regionech — severozápadě s převahou muslimů a jihovýchodě s převahou křesťanů — úspěšně překlenující tradiční regionální a náboženské rozdíly Nigérie a vytvářející skutečné národní politické hnutí." # todo: NEW TRANSLATION
+  NIG_social_conservatism: "Sociální konzervatismus" # todo: NEW TRANSLATION
+  NIG_social_conservatism_desc: "Oficiální postoj PDP k sociální politice je konzervativní. Je důležité podporovat tradiční hodnoty." # todo: NEW TRANSLATION
+  NIG_national_health_care_service: "Národní systém zdravotního pojištění" # todo: NEW TRANSLATION
+  NIG_national_health_care_service_desc: "Zdravotní systém v Nigérii je v zoufalé potřebě reforem. Lidé po celé zemi nemají pojištění. Naše úmrtnost je vysoká a nevypadá, že by se zlepšovala." # todo: NEW TRANSLATION
+  NIG_found_the_ntel: "Založte NTEL" # todo: NEW TRANSLATION
+  NIG_found_the_ntel_desc: "Společnost Nigeria Telecom Company (NTEL) vznikla poté, co byl zrušen monopol NITEL. Nyní funguje jako reinkarnace bývalého monopolu." # todo: NEW TRANSLATION
+  NIG_balanced_budgets: "Vyrovnané rozpočty" # todo: NEW TRANSLATION
+  NIG_balanced_budgets_desc: "Rozpočty v Nigérii zoufale potřebují audit a přepracování." # todo: NEW TRANSLATION
+  NIG_free_market: "Africké volné trhy" # todo: NEW TRANSLATION
+  NIG_free_market_desc: "Naše trhy by měly zahájit proces deregulace a otevřeného obchodu. Trh by měl určovat ceny a nikoli korporace. Proces deregulace a otevřeného obchodu by měl začít zde v Africe. Poté bychom měli zvážit rozšíření do dalších zemí." # todo: NEW TRANSLATION
+  NIG_the_way_of_bible: "Cesta Bible" # todo: NEW TRANSLATION
+  NIG_the_way_of_bible_desc: "Je důležité, abychom žili podle učení Bible. Měli bychom udržet náš posun k tradici." # todo: NEW TRANSLATION
+  NIG_christian_tradtionalism: "Křesťanský tradicionalismus" # todo: NEW TRANSLATION
+  NIG_christian_tradtionalism_desc: "Je nezbytné udržet náš tradicionalismus. Tradice je to, co nás chrání a spojuje. Nigérie je jednou zemí pod Bohem a tak to zůstane." # todo: NEW TRANSLATION
+  NIG_adminstrative_reforms: "Administrativní reformy" # todo: NEW TRANSLATION
+  NIG_adminstrative_reforms_desc: "Naše správa potřebuje reformy. Procesy jsou byrokratické a pomalé pro všechny. Snahy o zefektivnění by výrazně zlepšily celkovou kvalitu správy." # todo: NEW TRANSLATION
+  NIG_reform_the_economic_departments: "Reforma ekonomických oddělení" # todo: NEW TRANSLATION
+  NIG_reform_the_economic_departments_desc: "Ekonomická oddělení ve vládě jsou extrémně korupční a udržují členy, kteří neustále zpronevěřují, lžou a páchají řadu podvodů proti lidem Nigérie. Je načase vytvořit nové Ministerstvo ekonomiky." # todo: NEW TRANSLATION
+  NIG_found_the_icpc: "Založte ICPC" # todo: NEW TRANSLATION
+  NIG_found_the_icpc_desc: "Nezávislá komise pro potírání korupce (ICPC) se zabývá lovením a odstraňováním korupce na všech úrovních vlády. Také usiluje o vzdělávání lidí a podporu veřejné podpory pro boj proti korupci. Je důležité investovat do této agentury, aby lépe sloužila lidem a Nigérii pro budoucnost." # todo: NEW TRANSLATION
+  NIG_cut_the_waste: "Omezte plýtvání" # todo: NEW TRANSLATION
+  NIG_cut_the_waste_desc: "Ohromně velká část našich vládních výdajů je skutečně plýtvána. Měli bychom znovu prozkoumat rozpočet a snížit financování napříč celou vládou." # todo: NEW TRANSLATION
+  NIG_foreign_grants: "Zahraniční granty" # todo: NEW TRANSLATION
+  NIG_foreign_grants_desc: "Mezinárodní investice se zastavily kvůli místní piraterii na mořích, náboženským konfliktům na severu a emancipaci hnutí Nigerdelta na jihu. Naši poradci uvádějí, že pokud bychom hostili některé zahraniční velvyslance, mohli bychom potenciálně získat granty nebo jiné investice." # todo: NEW TRANSLATION
+  NIG_piracy_and_militias: "Piráti a náboženské milice" # todo: NEW TRANSLATION
+  NIG_piracy_and_militias_desc: "Piráti a náboženské milice se šíří napříč všemi částmi země. Naše policejní síly jsou vážně podvybavené, aby si poradily s těmito problémy. [NIG.GetLeader] a vláda dlouze diskutovali o způsobech řešení těchto problémů." # todo: NEW TRANSLATION
+  NIG_simpify_government_processes: "Zjednodušit vládní procesy" # todo: NEW TRANSLATION
+  NIG_simpify_government_processes_desc: "Vládní procesy jsou pomalé a drahé. Můžeme se soustředit na častěji používané služby, abychom posílili byrokracii jako celek." # todo: NEW TRANSLATION
+  NIG_the_togo_triangle: "Trojúhelník 'Togo'" # todo: NEW TRANSLATION
+  NIG_the_togo_triangle_desc: "Trojúhelník 'Togo' je nelegální offshore ropný trh poblíž deltě řeky Niger. Je to skvrna naší výnosné ropné ekonomiky a naší neustále se zlepšující země. Tomu trojúhelníku je třeba čelit, chceme-li zvýšit objem našich exportů a vyřešit další problémy, které ohrožují naši velkou zemi." # todo: NEW TRANSLATION
+  NIG_northern_strength: "Severní síla" # todo: NEW TRANSLATION
+  NIG_northern_strength_desc: "ANPP (nebo PDC) získává velkou část své podpory z severních států. Může nám být ku prospěchu pokračovat v kampani ve prospěch našich největších podporovatelů." # todo: NEW TRANSLATION
+  NIG_allocation_of_rights: "Přidělování práv" # todo: NEW TRANSLATION
+  NIG_allocation_of_rights_desc: "Práva lidí mohou být někdy pošlapána velkými a autoritářskými vládami. Musíme být vládou pro lidi a lidmi." # todo: NEW TRANSLATION
+  NIG_progressive_conservatism: "Progresivní konzervatismus" # todo: NEW TRANSLATION
+  NIG_progressive_conservatism_desc: "Navzdory podpoře, kterou získáváme od islámských traditionalistů na severu, naše sociální politika zůstává progresivní ve srovnání s opozicí. Může být užitečné pokračovat ve budování podpory i v jižních regionech." # todo: NEW TRANSLATION
+  NIG_keynesian_economic_policies: "Keynesovské ekonomické politiky" # todo: NEW TRANSLATION
+  NIG_keynesian_economic_policies_desc: "Ekonomická politika PDC bývá často v souladu s Keynesovými ekonomickými teoriemi. Touha po vyšší vládní intervenci na tržní ekonomice a použití těchto politik k tomu, aby ekonomika fungovala pro lidi, je naší strategií." # todo: NEW TRANSLATION
+  NIG_nigerian_socialism: "Nigérijský socialismus" # todo: NEW TRANSLATION
+  NIG_nigerian_socialism_desc: "I ti nejlevicovitější jedinci v Nigérii stále sledují konzervativnější přístup k sociální demokracii. Je načase, abychom přestali se řídit podle jiných národů a rozhodli se pro sociální politiku, která funguje pro lidi zde." # todo: NEW TRANSLATION
+  NIG_state_run_markets: "Státem řízené trhy" # todo: NEW TRANSLATION
+  NIG_state_run_markets_desc: "V nejlepším případě by trh fungoval sám bez jakékoli kontroly či regulace. A v nejhorším případě by si vzal výhodu z chudých ve zemi." # todo: NEW TRANSLATION
+  NIG_federal_policing: "Federální policie" # todo: NEW TRANSLATION
+  NIG_federal_policing_desc: "Policie nemá žádné správné federální větve. Policie bývá často vykonávána místními silami s volnými vazbami na naši federální policii. Bylo by pro nás prospěšné zřídit více federálních větví a rozšířit naši federální policejní sílu." # todo: NEW TRANSLATION
+  NIG_population_crisis: "Populační krize" # todo: NEW TRANSLATION
+  NIG_population_crisis_desc: "Počet obyvatel Nigérie nadále roste, a pokud se to bude dít rychlým tempem, vyčerpáme naše zdroje v blízké budoucnosti. Měli bychom diskutovat budoucnost země a v případě potřeby zavést přísnější politiky k ochraně naší budoucnosti." # todo: NEW TRANSLATION
+  NIG_stabilize_the_regime: "Stabilizovat režim" # todo: NEW TRANSLATION
+  NIG_stabilize_the_regime_desc: "Vláda učinila několik nepopulárních rozhodnutí. Jít vstříc lidu a diskutovat o jejich ziscích by mohlo režim stabilizovat." # todo: NEW TRANSLATION
+  NIG_industrial_regulations: "Průmyslové regulace" # todo: NEW TRANSLATION
+  NIG_industrial_regulations_desc: "Otázka průmyslových regulací je prostá: 'Kde to skončí?' Většina našich soukromých firem funguje dobře a zůstává zisková. Měli bychom však deregularizovat, abychom podpořili podnikání, nebo počkat a zpřísnit regulace pro firmy, které dělají podvody?" # todo: NEW TRANSLATION
+  NIG_poverty_issues: "Problémy chudoby" # todo: NEW TRANSLATION
+  NIG_poverty_issues_desc: "Nigérie se pyšní jednou z nejrychleji rostoucích ekonomik na světě. Průměrný růst je kolem sedmi až osmi procent. Avšak extrémní růst je sužován chudobou. Asi šedesát procent lidí žije v chudobě. Stojí za to zahájit diskuse s místními vládami, aby pomohly lidem." # todo: NEW TRANSLATION
+  NIG_end_usaid: "Ukončit USAID" # todo: NEW TRANSLATION
+  NIG_end_usaid_desc: "USAID má nad našimi záležitostmi stále ohromný vliv prostřednictvím svých programů pomoci. Je na čase sundat okovy a jít svou vlastní cestou." # todo: NEW TRANSLATION
+  NIG_petition_to_continue_usaid: "Petice pro pokračování USAID" # todo: NEW TRANSLATION
+  NIG_petition_to_continue_usaid_desc: "Pomoc, kterou od USA dostáváme, je extrémně důležitá. Jak se na Západě říká: „Pomáhá udržet loď nad vodou.“" # todo: NEW TRANSLATION
+  NIG_expand_the_safety_net: "Rozšířit sociální síť" # todo: NEW TRANSLATION
+  NIG_expand_the_safety_net_desc: "Lidé mají velmi málo sociální jistoty, na kterou by se mohli spolehnout, pokud nemohou pracovat. Západní země mají určité formy státní penze. Měli bychom se inspirovat těmito myšlenkami a implementovat je zde tak, aby dávaly smysl našim lidem." # todo: NEW TRANSLATION
+  NIG_efficent_government_spending: "Efektivní vládní výdaje" # todo: NEW TRANSLATION
+  NIG_efficent_government_spending_desc: "Vláda by měla utrácet efektivně a ne plýtvat. Sloučení několika našich agentur a jejich modernizace na pokročilejší systémy by naší ekonomice jen prospělo." # todo: NEW TRANSLATION
+  NIG_anti_debt_agenda: "Agenda proti dluhům" # todo: NEW TRANSLATION
+  NIG_anti_debt_agenda_desc: "Dluhy v Nigérii jsou většinou držené na externích účtech. Může být užitečné snížit dluh, aby se rozšířila vládní pomoc a další programy v zemi." # todo: NEW TRANSLATION
+  NIG_bankers_of_africa: "Bankéři Afriky" # todo: NEW TRANSLATION
+  NIG_bankers_of_africa_desc: "Nigérie je jednou z nejrychleji rostoucích ekonomik světa. Měli bychom začít investovat do našich bankovních systémů a rozšířit náš finanční sektor do okolních zemí." # todo: NEW TRANSLATION
+  NIG_water_crisis: "Vodní krize" # todo: NEW TRANSLATION
+  NIG_water_crisis_desc: "Voda je v Nigérii luxusem. Zemědělci a chovatelé bojují o vodu na Středním pásu. Níger neustále zasahuje do jezera Níger a ztěžuje našim právům k jezeru. Krizi je třeba řešit, jinak nás čekají ničivé důsledky." # todo: NEW TRANSLATION
+  NIG_nigerian_industry: "Nigérijský průmysl" # todo: NEW TRANSLATION
+  NIG_nigerian_industry_desc: "S největší populací v Africe by nám mělo být v zájmu rozšířit náš výrobní sektor. Musíme pokračovat ve vývoji, aby naše velká populace zůstala zaměstnaná." # todo: NEW TRANSLATION
+  NIG_bankroll_africa: "Financování Afriky" # todo: NEW TRANSLATION
+  NIG_bankroll_africa_desc: "Afrika je plná vnitřních konfliktů, náboženských svárů a politické nestability, což z ní dělá nebezpečnou investici. Kdo by byl lepšími investory než ostatní Afričané?" # todo: NEW TRANSLATION
+  NIG_lagos_financial_centre: "Lagoské finanční centrum" # todo: NEW TRANSLATION
+  NIG_lagos_financial_centre_desc: "Město Lagos je největším městem v Africe podle počtu obyvatel. Také má jeden z nejsilnějších finančních sektorů ze všech velkých měst v Africe. Ekonomické oddělení považuje tento průmysl za jeden z našich dalších kroků k oživení naší zaostávající ekonomiky." # todo: NEW TRANSLATION
+  NIG_reform_water_legislation: "Nová vodní legislativa" # todo: NEW TRANSLATION
+  NIG_reform_water_legislation_desc: "Vodní legislativu je třeba přepracovat, aby lépe sloužila lidem. Musíme začít s rezervováním a racionálním hospodařením s vodou a zároveň zvýšit naše dovozy, aby lidé prospívali." # todo: NEW TRANSLATION
+  NIG_unmatched_growth: "Nepřekonatelný růst" # todo: NEW TRANSLATION
+  NIG_unmatched_growth_desc: "Náš růst se nikdy nezastaví a nebude nikým srovnatelný. Jezero Niger by mělo být využíváno jako každý jiný zdroj a deltám řeky je třeba postavit hráze pro výrobu. Musíme růst co nejrychleji a pomáhat našim lidem rozvíjet se." # todo: NEW TRANSLATION
+  NIG_nigerian_agricultural_belt: "Nigérijský zemědělský pás" # todo: NEW TRANSLATION
+  NIG_nigerian_agricultural_belt_desc: "Střední pás Nigérie je z velké části zemědělským regionem v zemi. Farmy, ranče a zpracování potravin se po krajině rozseté." # todo: NEW TRANSLATION
+  NIG_education_programs: "Vzdělávací programy" # todo: NEW TRANSLATION
+  NIG_education_programs_desc: "Míra gramotnosti v Nigérii je neakceptovatelná, řadí nás mezi poslední země ve srovnání s ostatními státy, pohybující se někde mezi 52 % a 60 %. Polovina našich lidí neumí číst! Naše vzdělávací systémy se musí reformovat, aby pomohly lidem vyjít z chudoby." # todo: NEW TRANSLATION
+  NIG_african_investments: "Nigérijské zahraniční investice" # todo: NEW TRANSLATION
+  NIG_african_investments_desc: "Některé země po světě by mohly těžit z větší hospodářské spolupráce a investic ze strany našeho veřejného i soukromého sektoru. Připravte několik plánů a začněte je posílat!" # todo: NEW TRANSLATION
+  NIG_abuja_road_projects: "Dopravní projekty v Abujě" # todo: NEW TRANSLATION
+  NIG_abuja_road_projects_desc: "Silnice v Abujě jsou řídké a špatné kvality. Zlepšení infrastruktury hlavního města by prospělo tisícům obyvatel v širším metropolitním regionu a zároveň posílilo popularitu vlády v regionu." # todo: NEW TRANSLATION
+  NIG_middle_belt_legislation: "Legislativa Středního pásu" # todo: NEW TRANSLATION
+  NIG_middle_belt_legislation_desc: "Střední pás potřebuje podporu pro udržení svého způsobu života. Měli bychom mu alokovat více vodních zdrojů, neboť zemědělský průmysl tam tvoří 30 % naší pracovní síly. Měli bychom také hledat metody zavlažování a napájení našeho dobytka." # todo: NEW TRANSLATION
+  NIG_reckless_agriculture: "Nezodpovědné zemědělství" # todo: NEW TRANSLATION
+  NIG_reckless_agriculture_desc: "Zemědělství potřebuje rozšíření. Máme rostoucí populaci! Musíme uživit obyvatelstvo a zajistit, že lidé zůstanou zaměstnaní." # todo: NEW TRANSLATION
+  NIG_northern_factories: "Severní továrny" # todo: NEW TRANSLATION
+  NIG_northern_factories_desc: "Severní regiony Nigérie by uvítaly nové továrny pro rozšíření výroby a vytvoření většího počtu výrobních závodů, které by nám prospěly." # todo: NEW TRANSLATION
+  NIG_local_arms_companies: "Místní zbrojní firmy" # todo: NEW TRANSLATION
+  NIG_local_arms_companies_desc: "Měli bychom prozkoumat subvencování zbrojních firem, aby vyráběly více zbraní lokálně." # todo: NEW TRANSLATION
+  NIG_spur_regional_development: "Podnět k regionálnímu rozvoji" # todo: NEW TRANSLATION
+  NIG_spur_regional_development_desc: "Okolí kolem nás vyžaduje vážný rozvoj. Měli bychom hledat možnosti uzavírání dohod s našimi sousedy a s ostatními stavebními firmami, abychom podpořili naši ekonomiku i jejich." # todo: NEW TRANSLATION
+  NIG_support_the_people: "Podpora lidem" # todo: NEW TRANSLATION
+  NIG_support_the_people_desc: "Lidé potřebují naši podporu, aby nadále věřili našemu vedení a naší cestě jako zemi. Měli bychom lidi podporovat stejně, jako jsou ochotni nás podporovat." # todo: NEW TRANSLATION
+  NIG_desalination_projects: "Odsolovací projekty" # todo: NEW TRANSLATION
+  NIG_desalination_projects_desc: "Voda nadále sužuje naši volební kampaň a politickou scénu. Může být v našem zájmu jednat se společnostmi, které se specializují na odsolování." # todo: NEW TRANSLATION
+  NIG_nigerian_oil: "Krevní ropa" # todo: NEW TRANSLATION
+  NIG_nigerian_oil_desc: "Ropa vyrobená v Nigérii získala zlověstné jméno. Náboženské spory a konflikty s milicemi a pirátstvím způsobily řadu problémů a nigérijská ropa byla lidmi přezdívána 'Krevní ropa'." # todo: NEW TRANSLATION
+  NIG_homegrown_design: "Domácí návrhy" # todo: NEW TRANSLATION
+  NIG_homegrown_design_desc: "Nigérie nemá žádné významné zbrojní firmy. Měli bychom prozkoumat návrhy na subvencování tohoto průmyslu." # todo: NEW TRANSLATION
+  NIG_neighborly_expansion: "Sousedská expanze" # todo: NEW TRANSLATION
+  NIG_neighborly_expansion_desc: "Afrika musí být rozvíjena samotnými Afričany, a ne z vnějších sil. Pošleme diplomatické zástupce do sousedních zemí, abychom projednali vzájemně prospěšné expanzní politiky a investiční příležitosti, které mohou posílit Nigerii a naše regionální partnery. Tím, že posílíme tyto vztahy, můžeme vytvořit ekonomickou síť, která posílí celou Západní Afriku a zároveň zajistí naši suverenitu." # todo: NEW TRANSLATION
+  NIG_west_african_highways: "Západoafrické dálnice" # todo: NEW TRANSLATION
+  NIG_west_african_highways_desc: "Infrastruktura zůstává ve Západní Africe výrazně nedostatečná v řídkých a málo osídlených regionech." # todo: NEW TRANSLATION
+  NIG_agricultural_investments: "Zemědělské investice" # todo: NEW TRANSLATION
+  NIG_agricultural_investments_desc: "Zemědělství zaměstnává zhruba třicet procent obyvatel Nigérie. Musíme investovat do moderních zemědělských technik, zavlažovacích systémů a zemědělského vzdělávání, abychom zvýšili produktivitu a zlepšili živobytí milionů našich občanů. Poskytováním dotací na vybavení, hnojiva a plodiny odolné vůči suchu můžeme tento klíčový sektor proměnit v pilíř našeho hospodářského růstu." # todo: NEW TRANSLATION
+  NIG_industrial_expansions: "Průmyslová expanze" # todo: NEW TRANSLATION
+  NIG_industrial_expansions_desc: "Náš průmysl má v mnoha oblastech nedostatky. Nigérie je známá převážně svými zemědělskými produkty a výrobky založenými na ropě. Stálo by za to prozkoumat výstavbu manufaktur tam, kde je to možné." # todo: NEW TRANSLATION
+  NIG_found_the_ndcc: "Založit NDDC" # todo: NEW TRANSLATION
+  NIG_found_the_ndcc_desc: "Nigerijská komise pro rozvoj delty Nigeru (NDDC) byla založena prezidentem Olusegun Obasanjoem v roce 2000 s komplexním mandátem: usnadnit udržitelný rozvoj, ekologickou obnovu a hospodářskou prosperitu v ropně bohaté oblasti delty Nigeru. Tato strategická iniciativa si klade za cíl řešit desetiletí environmentálního poškození a sociálně-ekonomických výzev, přičemž zajišťuje, že místní komunity budou těžit z bohatých ropných zdrojů prostřednictvím infrastruktury, vzdělávacích programů a zlepšení zdravotní péče." # todo: NEW TRANSLATION
+  NIG_browning_contracts: "Smlouvy Browning" # todo: NEW TRANSLATION
+  NIG_browning_contracts_desc: "Browning, proslulý americký výrobce zbraní, aktivně hledá mezinárodní partnery pro výrobní a distribuční smlouvy. Zajištěním partnerství s touto prestižní společností by Nigérie mohla získat přístup k pokročilé zbraňové technologii, výrobnímu know-how a případným dohodám o převodu technologií. Tato strategická aliance by nejen posílila náš domácí zbrojní průmysl, ale také by posunula Nigérii na regionální centrum pro kvalitní výrobu zbraní ve západní Africe." # todo: NEW TRANSLATION
+  NIG_consolidations_of_arms: "Konsolidace zbraní" # todo: NEW TRANSLATION
+  NIG_consolidations_of_arms_desc: "Nigerijské ozbrojené síly momentálně provozují neefektivní směs různých zbraní, což vytváří logistické problémy a zvyšuje provozní náklady. Strategickou konsolidací arzenálu na standardizované bojové platformy můžeme vybudovat domácí výrobní linky, zjednodušit výcvikové protokoly a významně snížit provozní náklady. Tato standardizace zlepší bojovou pohotovost a podpoří náš domácí obranný průmysl, čímž posílí naši vojenskou soběstačnost a regionální vliv." # todo: NEW TRANSLATION
+  NIG_progressive_development: "Postupný rozvoj" # todo: NEW TRANSLATION
+  NIG_progressive_development_desc: "Náš rozvoj je důležitý v každé kampani." # todo: NEW TRANSLATION
+  NIG_european_investments: "Evropští investoři" # todo: NEW TRANSLATION
+  NIG_european_investments_desc: "Evropské země představují některé z nejzkušenějších investorů na světě s rozsáhlými kapitálovými zdroji. Strategickým posílením našich diplomatických a ekonomických vazeb s evropskými zeměmi můžeme přitáhnout významné zahraniční přímé investice do klíčových nigerijských odvětví. Tyto partnerství by přinesla nejen potřebný kapitál, ale i usnadnila transfer technologií, vytvořila pracovní místa a pomohla modernizovat naši infrastrukturu, čímž bychom Nigérii zajistili postavení hlavního cíle pro evropský byznys hledající růst." # todo: NEW TRANSLATION
+  NIG_hydroelectric_power_projects: "Projekty vodních elektráren" # todo: NEW TRANSLATION
+  NIG_hydroelectric_power_projects_desc: "Vodní elektrárny jsou obnovitelným zdrojem energie, který získává na popularitě v Nigérii. Je to čistý a efektivní způsob, jak generovat elektřinu a zároveň snížit náklady. Měli bychom investovat do projektů vodních elektráren, abychom zlepšili dodávky elektřiny a snížili naši závislost na zahraniční ropě." # todo: NEW TRANSLATION
+  NIG_sustainable_development: "Udržitelný rozvoj" # todo: NEW TRANSLATION
+  NIG_sustainable_development_desc: "Místo nebezpečného rozšiřování se zaměřme na udržitelnější rozvoj. Naše populace rychle roste a výrazně překonává ostatní národy o více než sto milionů lidí. Musíme rozvoj řídit v souladu s lidmi a s tím, co naše země zvládne." # todo: NEW TRANSLATION
+  NIG_extreme_industrialization: "Extrémní industrializace" # todo: NEW TRANSLATION
+  NIG_extreme_industrialization_desc: "Pokud environmentálníci zavřou oči, zemědělský a průmyslový růst znamenají zisk!" # todo: NEW TRANSLATION
+  NIG_expansion_of_renewable_resources: "Rozšíření obnovitelných zdrojů" # todo: NEW TRANSLATION
+  NIG_expansion_of_renewable_resources_desc: "Delt Nigeru a rozsáhlé severní pouště Nigérie nabízejí obrovský nevyužitý potenciál pro rozvoj obnovitelné energie. Naši ekonomičtí poradci důrazně doporučují investovat do solárních farem na suchém severu a do vodních elektráren podél delty Nigeru. Tyto udržitelné iniciativy by snížily naši závislost na fosilních palivech, vytvořily tisíce pracovních míst a dlouhodobě snížily náklady na energii. Díky umístění Nigérie jako lídra v africké obnovitelné energii můžeme zajistit naši environmentální budoucnost a ekonomickou prosperitu." # todo: NEW TRANSLATION
+  NIG_eco_factories: "Ekofabrik(y)" # todo: NEW TRANSLATION
+  NIG_eco_factories_desc: "Nigérie musí být průkopníkem environmentálně udržitelného průmyslového rozvoje prostřednictvím zavedení ekologicky šetrných výrobních zařízení, která minimalizují znečištění a emise CO2. Investicí do zelených technologií, integrace obnovitelné energie a udržitelných systémů nakládání s odpady mohou naše továrny sloužit jako model environmentálního hospodářství a zároveň zůstat konkurenceschopné. Tento přístup bude řešit lokální environmentální otázky a položí Nigérii jako lídra v udržitelné průmyslové výrobě napříč Afrikou, což vytvoří vzory pro sousední země." # todo: NEW TRANSLATION
+  NIG_massive_land_clearing: "Masivní vyklízení půdy" # todo: NEW TRANSLATION
+  NIG_massive_land_clearing_desc: "Obrovské savany Nigérie představují dosud nevyužitý průmyslový fenomén s minimálním rozvojem. Tyto rozsáhlé, rovné krajiny nabízejí ideální podmínky pro velkoplošné stavební projekty s minimálními geografickými překážkami. Implementací agresivní kampaně na vyklízení půdy můžeme rychle proměnit tyto nevyužité území na průmyslové zóny, vytvořit tisíce pracovních míst a výrazně rozšířit naši výrobní kapacitu. Ačkoliv environmentální skupiny vyjadřovaly obavy o ztrátu habitatů, ekonomické výhody pro naši rostoucí populaci nelze ignorovat. Tato odvážná rozvojová strategie postaví Nigérii na čelo průmyslové síly v západní Africe." # todo: NEW TRANSLATION
+  NIG_aggresive_explotation: "Agresivní vykořisťování" # todo: NEW TRANSLATION
+  NIG_aggresive_explotation_desc: "Obrovské savany Nigérie představují nevyužitý průmyslový potenciál s minimálním rozvojem. Tyto rozsáhlé, rovné krajiny poskytují ideální podmínky pro rychlou výstavbu s minimálními geografickými překážkami. Agresivně využívat tyto nevyužité území lze rychle vybudovat průmyslové zóny, které vytvoří tisíce pracovních míst a výrazně rozšíří výrobní kapacity. I když existují environmentální obavy, ekonomické výhody pro naši rostoucí populaci nelze ignorovat. Tato odvážná exploitační strategie upevní postavení Nigérie jako průmyslové velmoci ve západní Africe." # todo: NEW TRANSLATION
+  NIG_nigerian_armed_forces: "Nigerijské ozbrojené síly" # todo: NEW TRANSLATION
+  NIG_nigerian_armed_forces_desc: "Patří mezi pět nejsilnějších ozbrojených sil v Africe, s kořeny sahajícími až k Nigerijskému pluku Královské Západoafrické pohraniční síly (RWAFF). Dnes ozbrojené síly tvoří tři hlavní složky: Nigerijská armáda, Nigerijské námořnictvo a Nigerijské letectvo. S celkovou silou okolo 160 000 osob má nigerijská armáda významnou roli v regionálních bezpečnostních operacích a mezinárodních misích udržování míru po celém světě, čímž se země stává klíčovou vojenskou velmocí ve Západní Africe." # todo: NEW TRANSLATION
+  NIG_defense_industries_of_nigeria: "Obranné průmysly Nigérie" # todo: NEW TRANSLATION
+  NIG_defense_industries_of_nigeria_desc: "Obranná průmyslová korporace Nigérie (DICON) představuje pilíř vojensko-průmyslového komplexu Nigérie. Zřízena za účelem snížení závislosti na dovozu ze zahraničí, tato síť státem řízených zařízení vyrábí vše od malých zbraní po munici a vojenská vozidla. Ačkoli se tento sektor dále vyvíjí, je nezbytný pro naši národní bezpečnostní strategii, vytváří pracovní místa a buduje domorodé obranné kapacity, které posílí postavení Nigérie jako regionální velmoci a sníží naši závislost na drahých zahraničních importech." # todo: NEW TRANSLATION
+  NIG_the_army: "Armáda" # todo: NEW TRANSLATION
+  NIG_the_army_desc: "Nigérijská armáda se v krátké historii zapojila do mnoha konfliktů. Od občanské války a mírových misí po celé Africe až po protouzbrojové operace proti různým militantním skupinám získaly naše pozemní síly cenné bojové zkušenosti. Avšak nedostatek vybavení a organizační problémy omezovaly jejich účinnost. Modernizací naší velitelské struktury, zlepšením výcvikových programů a investicemi do nového vybavení můžeme Nigérijskou armádu proměnit v profesionální bojovou sílu, která bude chránit naši suverenitu a přispívat k regionální stabilitě." # todo: NEW TRANSLATION
+  NIG_air_components: "Letecké složky" # todo: NEW TRANSLATION
+  NIG_air_components_desc: "Nigérijské letectvo se značně zhoršilo a dnes se skládá jen z několika vrtulníků a zastaralých lehkých letounů. Naše letecké schopnosti, dříve zdroj národní hrdosti, byly příliš dlouho zanedbávány. Musíme naléhavě oživit tuto klíčovou složku ozbrojených sil prostřednictvím strategických investic do moderních letounů, výcvikových programů a údržbových zařízení. Obnovení naší vzdušné moci je nezbytné nejen pro národní obranu, ale také pro podporu proti‑povstaleckých operací a udržení postavení Nigérie jako regionální vojenské velmoci." # todo: NEW TRANSLATION
+  NIG_resource_drives: "Zdroje" # todo: NEW TRANSLATION
+  NIG_resource_drives_desc: "Nigérie čelí kritickým nedostatkům zdrojů, jak náš rychle rostoucí počet obyvatel klade na naše dodavatelské řetězce. S více než 200 miliony občanů požadujících nezbytné materiály musíme zajistit nové zdrojové cesty prostřednictvím strategických partnerství a domácího rozvoje. Bez řešení těchto nedostatků náš průmyslový růst zůstane stagnovat, ohrožující jak naši ekonomickou stabilitu, tak národní bezpečnost. Tyto zdrojové projekty se zaměří na maximalizaci efektivity těžby a rozvoj udržitelných alternativ tam, kde je to možné." # todo: NEW TRANSLATION
+  NIG_abuja_armories: "Abuja zbrojnice" # todo: NEW TRANSLATION
+  NIG_abuja_armories_desc: "Abuja, naše hlavní město, sídlí v ředitelství pro většinu vojenských složek. Musíme tam výrazně rozšířit a modernizovat naše zbrojnice, aby byly naše síly dobře vyzbrojené a připravené pro rychlé nasazení. Tyto strategické rezervy budou nejen posilovat naši vojenskou pohotovost, ale také sloužit jako centrální distribuční uzel pro naši národní obrannou síť, umožňující efektivnější rozdělování zdrojů v dobách krize." # todo: NEW TRANSLATION
+  NIG_rifle_compositions: "Puškové kompozice" # todo: NEW TRANSLATION
+  NIG_rifle_compositions_desc: "Nigerijské ozbrojené síly se v současnosti spoléhají na zastaralé, těžké pušky, které omezují pohyblivost a zvyšují vyčerpání vojáků během operací. Investicí do moderních zbraňových systémů na bázi polymeru můžeme našim jednotkám poskytnout podstatně lehčí palné zbraně, které jsou nejen ergonomičtější, ale i levnější na výrobu ve velkém. Tato modernizace by zlepšila naši bojeschopnost a snížila logistickou zátěž, zejména v náročném terénu, kde naši vojáci často operují." # todo: NEW TRANSLATION
+  NIG_combined_arms: "Nigérijské kombinované síly" # todo: NEW TRANSLATION
+  NIG_combined_arms_desc: "Různorodý terén Nigérie nabízí jedinečné příležitosti pro různé bojové scénáře – od obrněných a motorizovaných operací na otevřených polích po leteckou podporu nad hustými džungle a městskou válku v našich rostoucích městech. Abychom maximalizovali naši vojenskou účinnost, musíme vyvinout sofistikovanou doktrínu kombinovaných sil, ve které všechny složky ozbrojených sil budou komunikovat bezproblémově a fungovat jako sjednocená bojová síla. Bez této integrace hrozí naší armádě fragmentace během kritických operací, což by mohlo vést k ničivým taktickým selháním. Investicí do společných cvičení a moderních velitelských systémů můžeme Nigérii proměnit v soudržnou bojovou sílu, která bude schopna reagovat na jakoukoli hrozbu napříč naším různorodým terénem." # todo: NEW TRANSLATION
+  NIG_helicopter_requests: "Žádosti o vrtulníky" # todo: NEW TRANSLATION
+  NIG_helicopter_requests_desc: "Nigerijské ozbrojené síly naléhavě vyžadují moderní vrtulníkové schopnosti pro řešení našich různorodých provozních potřeb. Rozšířením naší flotily rotorových vrtulníků můžeme zvýšit mobilitu, průzkumné schopnosti a možnosti rychlé reakce v náročném terénu Nigérie. Tyto univerzální stroje budou sloužit pro více klíčových funkcí – od přepravy jednotek a lékařské evakuace po podporu z blízké vzdušné a proti‑povstalecké operace. Zajištění těchto prostředků představuje strategickou investici do naší národní bezpečnostní infrastruktury." # todo: NEW TRANSLATION
+  NIG_multirole_fighters: "Víceúčelové stíhačky" # todo: NEW TRANSLATION
+  NIG_multirole_fighters_desc: "Víceúčelové stíhačky jsou budoucnost. Sloučení mnoha návrhů do několika, univerzálně použitelných variant, by mohlo být velmi prospěšné." # todo: NEW TRANSLATION
+  NIG_peacekeepers_of_africa: "Mírotvůrci Afriky" # todo: NEW TRANSLATION
+  NIG_peacekeepers_of_africa_desc: "Africké mírotvůrci jsou poměrně častí, jak se stále více afrických národů industrializuje a rozvíjí. Nigérie se nicméně účastní velkého množství mírových misí, do kterých se ozbrojené síly zapojují." # todo: NEW TRANSLATION
+  NIG_northern_armories: "Severní zbrojnice" # todo: NEW TRANSLATION
+  NIG_northern_armories_desc: "Zbrojnice na severu by měly být důkladně rozpracovány a rozšířeny." # todo: NEW TRANSLATION
+  NIG_national_guard: "Zřídit Národní gardu" # todo: NEW TRANSLATION
+  NIG_national_guard_desc: "Nigérie nemá formální složku Národní gardy. Avšak hovoří se o její zřízení, které by domácí občany lépe chránilo a zároveň uvolnilo federální síly pro větší iniciativy v boji proti extremistům či pirátům." # todo: NEW TRANSLATION
+  NIG_light_forces_investments: "Investice do mobilních sil" # todo: NEW TRANSLATION
+  NIG_light_forces_investments_desc: "Naše mobilní síly jsou vážně nedostatečné. Nigérie má příznivý terén pro obrněnou, mechanizovanou a motorickou válku. Musíme tuto oblast zdokonalit, pokud chceme být na bojišti konkurenceschopní vůči našim sousedům." # todo: NEW TRANSLATION
+  NIG_armor_production: "Místní výroba obrněných vozidel" # todo: NEW TRANSLATION
+  NIG_armor_production_desc: "Naše obrněné brigády jsou značně zastaralé, většina obrněných vozidel pochází z britských Vickers vyrobených ve 60. letech. Zbytek tvoří T-72, které jsou dodnes konkurenceschopné. Měli bychom prozkoumat možnosti kompozic z jiných mocností, abychom zjistili, která varianta je pro nás nejlepší." # todo: NEW TRANSLATION
+  NIG_nigerian_coastal_forces: "Nigerijské námořnictvo" # todo: NEW TRANSLATION
+  NIG_nigerian_coastal_forces_desc: "Nigerijské námořnictvo nebylo nikdy na špici povědomí, avšak vykonalo řadu protipirátských operací v vodách kolem západní Afrika. Musíme udržet námořnictvo silné, abychom chránili naše pobřeží a lépe chránili naše námořní trasy." # todo: NEW TRANSLATION
+  NIG_strike_fighters: "Útočné stíhačky" # todo: NEW TRANSLATION
+  NIG_strike_fighters_desc: "Místní průmysl by bylo možné přeměnit na výrobu levnějších, účinnějších stíhačů pro naše stárnoucí letectvo. Potenciálně bychom mohli zvýšit kapacity pro Alpha Jet či Chengdu." # todo: NEW TRANSLATION
+  NIG_kaduna_military_industries: "Kaduna vojenské průmyslové podniky" # todo: NEW TRANSLATION
+  NIG_kaduna_military_industries_desc: "Kaduna je deváté největší město Nigérie. Je to významné průmyslové centrum v severní polovině země. Některé staré textilní továrny jsou v dezolátním stavu a zanedbání. Můžeme některé z těchto továren přestavět na výrobu malých zbraní pro naše ozbrojené síly." # todo: NEW TRANSLATION
+  NIG_western_military_assistance: "Západní vojenská pomoc" # todo: NEW TRANSLATION
+  NIG_western_military_assistance_desc: "Náš bývalý koloniální pán a USA nedávno zahájili konverzaci o větším zájmu z jejich strany o nás a naše ozbrojené síly. Můžeme to využít jako příležitost zlepšit některé naše nefunkční zbraňové systémy a celkově posílit naši armádu." # todo: NEW TRANSLATION
+  NIG_eastern_doctrines: "Východní doktríny" # todo: NEW TRANSLATION
+  NIG_eastern_doctrines_desc: "Rusko a Čína za posledních několik let výrazně pokročily v odlišných doktrínách oproti západním zemím." # todo: NEW TRANSLATION
+  NIG_lagos_drydocks: "Lagos suché doky" # todo: NEW TRANSLATION
+  NIG_lagos_drydocks_desc: "Lagos, největší metropole Nigérie, zaujímá strategickou polohu na našem pobřeží. V posledních letech se naše námořní schopnosti zhoršily kvůli nedostatku investic do vojenského námořního průmyslu. Nigerijský Portový úřad navrhl významné investice do nových suchých doků, což by sloužilo dvojímu účelu – oživení naší námořní moci a posílení obchodních námořních operací, čímž by se zlepšila jak naše ekonomická prosperita, tak vojenská pohotovost." # todo: NEW TRANSLATION
+  NIG_royal_naval_doctrines: "Doktríny Královského námořnictva" # todo: NEW TRANSLATION
+  NIG_royal_naval_doctrines_desc: "Královské námořnictvo je jednou z světových vedoucích námořních mocností. Náš bývalý suzerén by nás mohl naučit pár věcí o správných námořních doktrínách a taktice." # todo: NEW TRANSLATION
+  NIG_victory_is_from_god: "Vítězství pochází jen od Boha" # todo: NEW TRANSLATION
+  NIG_victory_is_from_god_desc: "Fráze 'Vítězství pochází jen od Boha' je mottem Nigérijské armády od jejího založení ve 60. letech. Zahrnuje náboženský význam Nigérijského lidu." # todo: NEW TRANSLATION
+  NIG_frigates: "Návrhy fregát" # todo: NEW TRANSLATION
+  NIG_frigates_desc: "Fregaty se zdají být nejtěžšími loděmi, jaké můžeme udržovat ve službě. Poslední fregata, kterou jsme měli v provozu, byla zařazena v 80. letech. Naše lodě jsou velmi zastaralé a potřebují modernizaci." # todo: NEW TRANSLATION
+  NIG_light_submarines: "Lehké ponorky proti lodím" # todo: NEW TRANSLATION
+  NIG_light_submarines_desc: "Lehké ponorky se mohou ukázat jako užitečné při operacích proti pirátům nebo při lokálním napadání konvojů, pokud bychom se někdy dostali do války." # todo: NEW TRANSLATION
+  NIG_corvettes: "Hlídkové lodě" # todo: NEW TRANSLATION
+  NIG_corvettes_desc: "Strategické zaměření Nigérie musí být na pobřežní obranu, nikoli na modro-vodní kapacity. Hlídkové lodě, korvety a další lehké lodě jsou ideálně vhodné pro naše potřeby námořní bezpečnosti, poskytují cenově efektivní řešení pro operace proti pirátství a ochranu území. Tyto menší lodě maximalizují naši omezenou kapacitu loděnic, zatímco nabízejí obratnost potřebnou k patrolování Zálivu Guinea a zajištění naší offshore ropné infrastruktury." # todo: NEW TRANSLATION
+  NIG_not_islamic_majority_trigger_TT: "Nedostal se příliš blízko ke křesťanům" # todo: NEW TRANSLATION
+  NIG_not_christian_majority_trigger_TT: "Nedostal se příliš blízko k muslimům" # todo: NEW TRANSLATION
+  NIG_has_christian_majority_trigger_TT: "Přiblížil se ke křesťanům" # todo: NEW TRANSLATION
+  NIG_has_islamic_majority_trigger_TT: "Přiblížil se k muslimům" # todo: NEW TRANSLATION
+  NIG_the_pdp_TT: "§YLidová demokratická strana je posílena§!\n" # todo: NEW TRANSLATION
+  NIG_anpp_empower_TT: "§YNigérijská Lidová strana je posílena§!\n" # todo: NEW TRANSLATION
+  NIG_pdc_empower_TT: "§YDemokratický lidový kongres je posílen§!\n" # todo: NEW TRANSLATION
+  NIG_found_the_icpc_trigger_TT: "§YKorupce§! Zůstává v zemi problémem" # todo: NEW TRANSLATION
+  NIG_reorganize_the_militas_TT: "Reorganizuje §YIslámské milice§! a §YKřesťanské milice§! do jediné jednotky po rozsáhlém výcviku a po pořízení nového vybavení.\n" # todo: NEW TRANSLATION
+  NIG_establish_ng_TT: "Založte správnou §Větev Národní gardy§!.\nTímto zaměřením také zrušíte milice.\n" # todo: NEW TRANSLATION
+  NIG_establish_ng_two_TT: "Zřizuje správnou §Větev Národní gardy§!.\n" # todo: NEW TRANSLATION
+  NIG_northern_tolerance_TT: "Severní státy začínají usazovat situaci, tolerance vítězí.\n§GZabraňuje náboženskému povstání na severu§!\n" # todo: NEW TRANSLATION
+  NIG_southern_tolerance_TT: "Křesťanská jižní část složila zbraně ve prospěch míru a harmonie.\n§GZabraňuje náboženskému povstání na jihu§!\n" # todo: NEW TRANSLATION
+  NIG_tolerance_toolie_TT: "§YMusíte učinit rozhodnutí o právu šaría§!\n" # todo: NEW TRANSLATION
+  NIG_religious_conversion_TT: "Převádí obyvatelstvo na novou víru.\n" # todo: NEW TRANSLATION
+  NIG_religious_conversion_christian_TT: "Převádí obyvatelstvo na novou víru.\n" # todo: NEW TRANSLATION
+  NIG_hold_off_on_conversion_flag: "Pozdržel konverze" # todo: NEW TRANSLATION
+  NIG_hold_off_on_conversion_flag_set_TT: "§YDokud je toto rozhodnutí aktivní, budou další státní konverze zablokovány§!\n" # todo: NEW TRANSLATION
+  NIG_hold_off_on_conversion_flag_remove_TT: "§YJakmile toto rozhodnutí skončí, další státní konverze budou opět možné§!\n" # todo: NEW TRANSLATION
+  NIG_enlist_boko_haram_TT: "Smluvte §YBoko Haram§! a získejte jejich podporu!\n" # todo: NEW TRANSLATION
+  NIG_the_islamic_states_faction: "Unie islámských států" # todo: NEW TRANSLATION
+  NIG_rise_of_boko_haram_TT: "§YBoko Haram uchvacuje moc§!\n" # todo: NEW TRANSLATION
+  NIG_disarm_the_militias_toolie_TT: "Ozbrojené síly začínají zabavovat zbraně od §YKřesťanských milicí§! po celé zemi.\n" # todo: NEW TRANSLATION
+  NIG_heli_requests_toolie_TT: "Jakmile bude navázán vztah s cílovou zemí, koupíme 30 §YÚtočných vrtulníků§! od buď §Y[SOV.GetNamewithFlag]§!, §Y[CHI.GetNamewithFlag]§!, nebo §Y[USA.GetNamewithFlag]§!.\n" # todo: NEW TRANSLATION
+  NIG_boko_haram_in_power_TT: "§YBoko Haram je již u moci§!\n" # todo: NEW TRANSLATION
+  NIG_cores_equatorial_guinea_cameroon_central_tt: "Ovládá státy §Y[EGU.GetNameWithFlag]§!, §Y[CAM.GetNameWithFlag]§!, a §Y[CAR.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
+  NIG_cores_benin_togo_states_tt: "Ovládá státy §Y[BEN.GetNameWithFlag]§! a §Y[TOG.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
+  NIG_cores_niger_states_tt: "Ovládá státy §Y[NGR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  NIG_controls_ambazonia_tt: "\nPokud ovládáme §Y[322.GetName]§! nebo máme práva na zdroje k §Y[322.GetName]§!:\n" # todo: NEW TRANSLATION
+  NIG_the_bakassi_peninsula: "Bakassi poloostrov" # todo: NEW TRANSLATION
+  NIG_the_bakassi_peninsula_tt: "Máme §YZajatý Bakassi poloostrov§!. Výběr může vést k válce s §Y[CAM.GetNameWithFlag]§! v nadcházejících týdnech.\n" # todo: NEW TRANSLATION
+  NIG_sharia_law_warning_tt: "Zastavení práva šaría v severních státech povede k tomu, že státy budou hůře konvertovatelné, pokud se rozhodneme to udělat později...\n" # todo: NEW TRANSLATION
+  NIG_ambazonia.1.a_tt: "Budeme jednat [NIG.GetAdjective] diplomaticky. Nepřistoupíme-li na vydání §YBakassi poloostrova§!, může to vést k eskalovanému konfliktu." # todo: NEW TRANSLATION
+  NIG_ambazonia.1.b_tt: "Budeme s [NIG.GetNameWithFlag] střetávat. Nepřistoupíme-li na vydání §YBakassi poloostrova§!, může to vést k eskalovanému konfliktu, někteří vojáci zemřou a je považováno za otevřeně nepřátelské." # todo: NEW TRANSLATION
+  NIG_accepted_the_icj_ruling: "Přijala rozhodnutí Mezinárodního soudního dvora" # todo: NEW TRANSLATION
+  NIG_rejected_the_icj_ruling: "Odmítla rozhodnutí Mezinárodního soudního dvora" # todo: NEW TRANSLATION
+  NIG_rejected_the_icj_ruling_2: "Odmítla rozhodnutí Mezinárodního soudního dvora" # todo: NEW TRANSLATION
+  NIG_occupying_ambazonia: "Obsazování Ambazonie" # todo: NEW TRANSLATION
+  NIG_occupying_ambazonia_2: "Obsazování Ambazonie" # todo: NEW TRANSLATION
+  NIG_christian_majority_10_idea: "Křesťanská většina - 10" # todo: NEW TRANSLATION
+  NIG_christian_majority_10_idea_desc: "Křesťanská většina byla vybrána!" # todo: NEW TRANSLATION
+  NIG_christian_majority_9_idea: "Křesťanská většina - 9" # todo: NEW TRANSLATION
+  NIG_christian_majority_8_idea: "Křesťanská většina - 8" # todo: NEW TRANSLATION
+  NIG_christian_majority_7_idea: "Křesťanská většina - 7" # todo: NEW TRANSLATION
+  NIG_christian_majority_6_idea: "Křesťanská většina - 6" # todo: NEW TRANSLATION
+  NIG_christian_majority_5_idea: "Křesťanská většina - 5" # todo: NEW TRANSLATION
+  NIG_christian_majority_4_idea: "Křesťanská většina - 4" # todo: NEW TRANSLATION
+  NIG_christian_majority_3_idea: "Křesťanská většina - 3" # todo: NEW TRANSLATION
+  NIG_christian_majority_2_idea: "Křesťanská většina - 2" # todo: NEW TRANSLATION
+  NIG_christian_majority_1_idea: "Křesťanská většina - 1" # todo: NEW TRANSLATION
+  NIG_islamic_majority_10_idea: "Islámská většina - 10" # todo: NEW TRANSLATION
+  NIG_islamic_majority_10_idea_desc: "Islámská většina byla vybrána!" # todo: NEW TRANSLATION
+  NIG_islamic_majority_9_idea: "Islámská většina - 9" # todo: NEW TRANSLATION
+  NIG_islamic_majority_8_idea: "Islámská většina - 8" # todo: NEW TRANSLATION
+  NIG_islamic_majority_7_idea: "Islámská většina - 7" # todo: NEW TRANSLATION
+  NIG_islamic_majority_6_idea: "Islámská většina - 6" # todo: NEW TRANSLATION
+  NIG_islamic_majority_5_idea: "Islámská většina - 5" # todo: NEW TRANSLATION
+  NIG_islamic_majority_4_idea: "Islámská většina - 4" # todo: NEW TRANSLATION
+  NIG_islamic_majority_3_idea: "Islámská většina - 3" # todo: NEW TRANSLATION
+  NIG_islamic_majority_2_idea: "Islámská většina - 2" # todo: NEW TRANSLATION
+  NIG_islamic_majority_1_idea: "Islámská většina - 1" # todo: NEW TRANSLATION
+  NIG_nigerian_secularism_idea: "Nigérijský sekularismus" # todo: NEW TRANSLATION
+  NIG_nigerian_secularism_idea_desc: "Rozdíly v náboženství v Nigérii donutily vládu, aby si zvolila neutrální postoj. Sekularismus je skutečně v nejlepším zájmu Nigérie." # todo: NEW TRANSLATION
+  NIG_nigerian_land_of_harmony_idea: "Země harmonie" # todo: NEW TRANSLATION
+  NIG_nigerian_land_of_harmony_idea_desc: "Rozdíly v náboženství v Nigérii donutily vládu, aby si vybrala neutrální postoj. Sekularismus je skutečně v nejlepším zájmu Nigérie, zajišťující budoucnost země jako sekulárního státu. Tímto také trvale upevňuje národ v Africe jako skutečnou zemi harmonie a míru pro všechna náboženství, křesťany i muslimy." # todo: NEW TRANSLATION
+  NIG_unrestrained_piracy_idea: "Nekontrolované pirátství" # todo: NEW TRANSLATION
+  NIG_unrestrained_piracy_idea_desc: "Nedávná nestabilita v zemi a náboženské spory v zemi zrodily nový nárůst pirátství. Rozsáhlé a nekontrolované pirátství je hlavním problémem pro nigerijskou vládu. Ovlivňuje ropný a plynárenský průmysl v zemi, zvláště v okolí Nigerijského delty. Kvůli stálému boji a nepokojům v regionu a bez dodatečné podpory od federální vlády budou piráti nadále způsobovat škody na našich břehách a v našich řekách." # todo: NEW TRANSLATION
+  NIG_restrained_piracy_idea: "Omezené pirátství" # todo: NEW TRANSLATION
+  NIG_restrained_piracy_idea_desc: "Federální vláda zavedla strategická opatření k boji proti pirátství v nigerijských vodách. Ačkoli tyto snahy významně snížily pirátskou aktivitu ve srovnání s dřívějšími úrovněmi, hrozba nebyla zcela odstraněna. Námořní hlídky a mezinárodní spolupráce pomohly zajistit hlavní námořní trasy, ale izolované případy se stále vyskytují, zejména v odlehlejších pobřežních oblastech a pod Niger Delta." # todo: NEW TRANSLATION
+  NIG_efficient_government_spending_idea: "Efektivní vládní výdaje" # todo: NEW TRANSLATION
+  NIG_efficient_government_spending_idea_desc: "Nigérijská vláda prokázala pozoruhodnou efektivitu ve finanční správě a udržování rozpočtu. Tento úspěch lze z velké části připisovat robustnímu exportu a těžbě ropy, které poskytují stabilní zdroj příjmů a umožňují strategické rozdělování zdrojů. Administrace zavedla obezřetné finanční politiky, které maximalizují výhody Nigérie z přírodních zdrojů a minimalizují plýtvání." # todo: NEW TRANSLATION
+  NIG_state_run_markets_idea: "Státem ovládané trhy" # todo: NEW TRANSLATION
+  NIG_state_run_markets_idea_desc: "Nigérijská vláda prosadila novou řadu zákonů zaměřených na větší regulace a další vládní kontrolu nad trhy. Tyto dodatečné regulace a větší kontrola vedly k růstu vládních stavebních projektů a rozvoji infrastruktury." # todo: NEW TRANSLATION
+  NIG_armor_production_idea: "Nigerijská výroba obrněné techniky" # todo: NEW TRANSLATION
+  NIG_armor_production_idea_desc: "Zdůraznění místní výroby obrněných vozidel, jako tanků, obrněných vozidel pěchoty (APCs) a bojových pásových vozidel (IFVs), sníží naši závislost na zahraničí při výrobě klíčového vybavení, které naše mechanizované síly vyžadují. Kromě toho to vytvoří další pracovní místa a příležitosti pro nigerijský lid a potenciálně otevře nové cesty ke bohatství pro zemi." # todo: NEW TRANSLATION
+  NIG_coastal_forces_production_idea: "Produkce pobřežních sil" # todo: NEW TRANSLATION
+  NIG_coastal_forces_production_idea_desc: "Nigérijská vláda zavedla řadu cílených investic a dalších politik ke zlepšení efektivity Nigérijského námořnictva. To umožnilo zvýšit dodatečnou výrobu námořních plavidel a pobřežních sil, aby byla zajištěna odpovídající suverenita našich břehů a vod." # todo: NEW TRANSLATION
+  NIG_nigerian_peacekeepers_idea: "Africké mírové síly" # todo: NEW TRANSLATION
+  NIG_nigerian_peacekeepers_idea_desc: "Nigérijská armáda, čerpající ze své rozsáhlé zkušenosti s řešením konfliktů, si vybudovala postavení jako přední dodavatel mírových sil napříč Afrikou. Naše jednotky jsou vysoce respektovány pro svou profesionalitu a účinnost při stabilizaci nestabilních regionů. Nasazením mírových sil a poskytováním vojenské podpory sousedním státům ukazuje Nigérie svůj závazek k regionálnímu bezpečí a kontinentálnímu blahobytu. Tyto snahy nejen posilují naši diplomatickou pozici, ale také významně přispívají k cestě Afriky k trvalému míru a rozvoji." # todo: NEW TRANSLATION
+  NIG_victory_is_from_god_alone_idea: "Vítězství je jen od Boha" # todo: NEW TRANSLATION
+  NIG_victory_is_from_god_alone_idea_desc: "Slova 'Vítězství je jen od Boha' jsou mottem nigerijské armády od jejího založení ve 60. letech. Zahrnují náboženský význam nigerijského lidu." # todo: NEW TRANSLATION
+  NIG_the_new_nigerian_caliph_idea: "Nový chalífát" # todo: NEW TRANSLATION
+  NIG_the_new_nigerian_caliph_idea_desc: "Nigérijská vláda schválila sérii legislativních opatření k vytvoření nového chalífátu. To umožnilo oživení islámské činnosti a vznik nového chalífátu." # todo: NEW TRANSLATION
+  NIG_uncontrollable_population_growth_idea: "Nekontrolovaný růst populace" # todo: NEW TRANSLATION
+  NIG_uncontrollable_population_growth_idea_desc: "Nigérie zažívá bezprecedentní růst populace, s jednou z nejvyšších plodností na světě. Tento demografický výbuch představuje zásadní výzvy pro infrastrukturu, vzdělávání, zdravotní péči a ekonomický rozvoj. Bez komplexních programů plánování rodiny a významných investic do sociálních služeb bude naše země nadále čelit socioekonomickým tlakům tohoto rychlého růstu, což potenciálně podkope naše rozvojové cíle na desítky let dopředu." # todo: NEW TRANSLATION
+  NIG_controlled_population_program_idea: "Řízený růst populace" # todo: NEW TRANSLATION
+  NIG_controlled_population_program_idea_desc: "Prostřednictvím komplexních programů plánování rodiny, osvětových kampaní a pečlivě zpracované legislativy se Nigérii podařilo zredukovať dříve bezprecedentní růst populace na udržitelnou úroveň. Tyto politiky vyvažují kulturní citlivosti s ekonomickými potřebami, což umožňuje lepší alokaci zdrojů do zdravotní péče, vzdělávání a infrastruktury. Tento řízený demografický přechod připravuje Nigérii na stabilnější dlouhodobý ekonomický růst a lepší kvalitu života jejích občanů." # todo: NEW TRANSLATION
+  NIG_reformed_ndcc_idea: "NDCC zreformována" # todo: NEW TRANSLATION
+  NIG_reformed_ndcc_idea_desc: "Nigerijská komise pro rozvoj delty Nigeru (NDDC) byla reformována, aby lépe sloužila potřebám regionu delty Nigeru. Nová komise se zaměří na rozvoj infrastruktury, vzdělávání, zdravotní péči a hospodářský rozvoj v regionu." # todo: NEW TRANSLATION
+  NIG_nigerian_education_idea: "Nigerijské vzdělávací programy" # todo: NEW TRANSLATION
+  NIG_nigerian_education_idea_desc: "Vláda Nigérie zavedla komplexní reformy vzdělávání, aby zlepšila kvalitu vzdělávání v zemi. Tyto reformy zahrnují zavedení nových učebních osnov, zvýšené školení učitelů a zlepšenou infrastrukturu ve školách." # todo: NEW TRANSLATION
+  NIG_blood_oil_idea: "Krvavá ropa" # todo: NEW TRANSLATION
+  NIG_blood_oil_idea_desc: "Ropné vývozy Nigérie získaly temné označení: 'Krvavá ropa'. Tento znepokojivý název vychází z rozsáhlého násilí, ozbrojených konfliktů a porušování lidských práv, která sužují ropou bohaté regiony, zvláště deltu Nigeru. Místní komunity trpí environmentálním ničením, zatímco militantní skupiny sabotují potrubí a unášejí ropné pracovníky, čímž vzniká cyklus nestability, který znevažuje Nigerijský nejcennější zdroj krví a korupcí." # todo: NEW TRANSLATION
+  NIG_bakassi_occupation_idea: "Bakassiho poloostrov" # todo: NEW TRANSLATION
+  NIG_bakassi_occupation_idea_desc: "Bakassiho poloostrov, bohatý na zdroje v deltě Nigeru, zůstává pod naší kontrolou navzdory Kamerunovým nárokům. Zatímco Kamerun žádá navrácení poloostrova, my si udržujeme naši pozici. Mezinárodní soudní dvůr (ICJ) aktuálně jedná o oprávněném vlastnictví tohoto území. Během této doby nadále těžíme a vyvážíme ropu z poloostrova, což prospívá naší domácí ekonomice i mezinárodnímu obchodu." # todo: NEW TRANSLATION
+  NIG_bakassi_occupation_idea_tt: "Zatímco kontrolujeme §YBakassiho poloostrov§!, máme §GPráva na zdroje§! k §Y[322.GetName]§!" # todo: NEW TRANSLATION
+  NIG_reckless_growth_idea: "Rychlý, nezodpovědný růst" # todo: NEW TRANSLATION
+  NIG_reckless_growth_idea_desc: "Přejímání neohlášeného a rychlého ekonomického růstu ze strany vlády přišlo s vysokou cenou. Místní komunity, jak kmenové populace, tak městští obyvatelé, nesou hlavní důsledky tohoto bezohledného rozvojového plánu." # todo: NEW TRANSLATION
+  NIG_religious_divide_decisions_category: "Náboženský rozkol" # todo: NEW TRANSLATION
+  NIG_religious_divide_decisions_category_desc: "Náboženský rozkol pomalu prohlubuje trhliny v naší zemi. Je načase začít konvertovat k opačné víře v naději na stabilizaci země." # todo: NEW TRANSLATION
+  NIG_convert_state_332: "Převést Biafru" # todo: NEW TRANSLATION
+  NIG_convert_state_332_desc: "Biafra je převážně křesťanská oblast v Nigérii. Z ekonomického hlediska však produkuje velkou část ropných zásob země. MEND, neboli Hnutí za emancipaci delty Nigeru, je velká milice, která brání místní produkci." # todo: NEW TRANSLATION
+  NIG_convert_state_339: "Převést Kano" # todo: NEW TRANSLATION
+  NIG_convert_state_339_desc: "Kano je převážně islámská oblast na severu Nigérie. Hlavní města Kaduna a Kano ustanovila tuto oblast jako důležité výrobní centrum s významnou průmyslovou kapacitou. Tato města představují klíčová ekonomická centra pro severní rozvoj Nigérie a jsou hluboce ovlivněna islámskou kulturou a tradicemi." # todo: NEW TRANSLATION
+  NIG_convert_state_338: "Převést Sokoto" # todo: NEW TRANSLATION
+  NIG_convert_state_338_desc: "Stát Sokoto je severozápadně nejdůležitější stát v severní Nigérii. Má historické vazby na lid Husů-Fulani a na bývalý Sokoto chalífát, což z něj činí velmi důležitý stát pro muslimy Nigérie. Je také jedním z nejdůležitějších center islámského učení v zemi a v západní Africe jako celku pro islam." # todo: NEW TRANSLATION
+  NIG_convert_state_340: "Převést Borno" # todo: NEW TRANSLATION
+  NIG_convert_state_340_desc: "" # todo: NEW TRANSLATION
+  NIG_convert_state_334: "Převést Lagos" # todo: NEW TRANSLATION
+  NIG_convert_state_334_desc: "Stát Lagos je domovem jedné z největších metropolitních oblastí v zemi i v Africe, a to městem se stejným jménem. Tento stát je jedním z hlavních zdrojů hospodářské činnosti a zároveň hustě osídleným městským centrem, které skrývá velkou část obyvatel země. Tato oblast je sice nábožensky různorodá, ale převážně křesťanská kvůli bývalému britskému kolonialismu a její poloze jako významného přístavu na západní africké pobřeží." # todo: NEW TRANSLATION
+  NIG_convert_state_336: "Převést Benue" # todo: NEW TRANSLATION
+  NIG_convert_state_336_desc: "" # todo: NEW TRANSLATION
+  NIG_convert_state_322: "Převést Ambazoniu" # todo: NEW TRANSLATION
+  NIG_convert_state_322_desc: "" # todo: NEW TRANSLATION
+  NIG_convert_state_337: "Převést Abuja" # todo: NEW TRANSLATION
+  NIG_convert_state_337_desc: "Abuja, hlavní město Nigérie, představuje mikrokosmos náboženské rozkoly v zemi, s téměř rovnými počty muslimů a křesťanů žijících bok po boku. Federální hlavní městská oblast hostí nejimpozantnější náboženské stavby země, včetně monumentální Národní mešity a nádherného Národního křesťanského centra, které symbolizují jemnou náboženskou rovnováhu definující nigérijskou společnost." # todo: NEW TRANSLATION
+  NIG_religious_civil_war_mission: "Náboženská občanská válka!" # todo: NEW TRANSLATION
+  NIG_religious_civil_war_mission_desc: "Náboženské napětí dosáhlo bodu zlomu napříč Nigérií, kdy se ozbrojené milice formují podél sektářských linií. Křesťané na jihu a muslimové na severu se rychle mobilizují, shromažďují zbraně a najímají bojovníky. Násilí již vypuklo v několika státech, hrozí, že zachvátí celou zemi devastující náboženskou občanskou válkou. Okamžitá akce je nutná, abychom zabránili úplnému kolapsu národní jednoty a zachovali budoucnost Nigérie jako sjednoceného státu." # todo: NEW TRANSLATION
+  NIG_hold_off_on_conversion_decision: "Pozastavit konverze" # todo: NEW TRANSLATION
+  NIG_hold_off_on_conversion_decision_desc: "Naše agresivní snahy o konverzi náboženství probíhají příliš rychle a ohrožují křehkou sociální strukturu naší země. Pokud v tomto nuceném postupu budeme pokračovat, riskujeme rozsáhlé občanské nepokoje, sektářské násilí a potenciálně nenapravitelné poškození národní jednoty. Musíme dočasně pozastavit konverzi, aby se napětí uklidnilo a vyvinul se vyváženější, udržitelný přístup, který respektuje složitost náboženského spektra Nigérie." # todo: NEW TRANSLATION
+  NIG_has_converted_everything: "Každý [NIG.GetNameWithFlag] [NIG.GetAdjective] stát byl převeden." # todo: NEW TRANSLATION
+  NIG_expand_hydro_decisions_category: "Rozšíření hydroelektrických projektů" # todo: NEW TRANSLATION
+  NIG_expand_hydro_decisions_category_desc: "Federální vláda Nigérie vytvořila sérii nových plánů a legislativ, které umožňují rozšíření hydroelektrických projektů po celé zemi. Měli bychom zvážit investice do těchto projektů, abychom pomohli generovat elektřinu, snížili naši závislost na ropě a pomohli Nigérii stát se lídrem v globálním využívání obnovitelných zdrojů, zatímco ropa zůstane volná pro export." # todo: NEW TRANSLATION
+  NIG_construct_the_mambilla_hydroelectric_power_plant: "Postavit Mambilla hydroelektrickou elektrárnu" # todo: NEW TRANSLATION
+  NIG_construct_the_mambilla_hydroelectric_power_plant_desc: "Projekt Mambilla je jedním z největších hydroelektrických projektů v celé Africe. Odhaduje se, že dokončení bude stát několik miliard dolarů a po dokončení bude mít instalovaný výkon 3050 MW, což z něj učiní jednu z nejvíce výkonných hydroelektrických elektráren na světě a jednu z největších v Africe. Leží na řece Donga, bude se skládat ze čtyř přes a dvou podzemních elektráren a očekává se, že vytvoří obrovské množství pracovních míst v místní oblasti." # todo: NEW TRANSLATION
+  NIG_construct_the_kashimbila_hydroelectric_power_plant: "Postavit Kashimbila hydroelektrickou elektrárnu" # todo: NEW TRANSLATION
+  NIG_construct_the_kashimbila_hydroelectric_power_plant_desc: "Nachází se v Taraba stát na jihovýchodě Nigérie, Kashimbila hydroelektrárna je elektrárna postavená nad řekou Katsina-Ala. Odhaduje se, že výstavba této hydroelektrárny zajistí více než 80 % až 90 % elektrické energie potřeb Taraba státu po dokončení." # todo: NEW TRANSLATION
+  NIG_construct_the_zungeru_hydroelectric_power_plant: "Postavte Zungeru hydroelektrárnu" # todo: NEW TRANSLATION
+  NIG_construct_the_zungeru_hydroelectric_power_plant_desc: "Postavena u řeky Kaduna ve státě Niger, elektrárna má výkon 700 MW. Odhaduje se, že vyrábí více než 2800 GWh elektřiny ročně, čímž je druhou největší vodní elektrárnou v zemi za vodní elektrárnou Kainji." # todo: NEW TRANSLATION
+  NIG_construct_the_gurara_hydroelectric_power_plant: "Postavte vodní elektrárnu Gurara II" # todo: NEW TRANSLATION
+  NIG_construct_the_gurara_hydroelectric_power_plant_desc: "Gurara II hydroelektrárna je rozsáhlý projekt vodní elektrárny, který bude generovat působivých 360 MW elektřiny. Leží na řece Gurara s očekávanou roční produkcí 1130 GWh, což je skvělá příležitost pro nás pokračovat v modernizaci naší země a posunout se blíže k našemu cíli být modernizovanou a průmyslovou zemí." # todo: NEW TRANSLATION
+  nigeria_md.1.t: "Pokojné konverze ve [NIG_religious_conversion_state.GetName]" # todo: NEW TRANSLATION
+  nigeria_md.1.d1: "Naše Dawahy zahájily pokojné konverze ve [NIG_religious_conversion_state.GetName]. Místní imámové hlásí rostoucí účast na mešitách a mnoho rodin přijímá islámské učení prostřednictvím našich vzdělávacích programů. Proces konverze probíhá překvapivě harmonicky, když komunitní vůdci usnadňují dialog mezi různými náboženskými skupinami. Vznikají nové islámské školy a volání k modlitbě nyní zní napříč čtvrtěmi, které byly dříve převážně křesťanské. Je to skutečně nádherný den pro Islám, když svědčíme o růstu naší ummy v této oblasti. Chvála Alláhu!" # todo: NEW TRANSLATION
+  nigeria_md.1.d2: "Naši křesťanští misionáři dosáhli pozoruhodného úspěchu v [NIG_religious_conversion_state.GetName], čehož vyvrcholením je dnešní závěrečná hromadná křestní slavnost. Místní kostely hlásí prudký nárůst návštěvnosti, rodiny přijímají křesťanské učení prostřednictvím našich vzdělávacích programů. Vůdcové komunity usnadnili pokojný dialog mezi různými náboženskými skupinami, usnadňující přechod. Vytvářejí se nové kostely a křesťanské školy a chvalozpěvy nyní zní v čtvrtích, které bývaly převážně muslimské. Je to skutečně požehnaný den pro křesťanství, když svědčíme o růstu Božího království v tomto regionu." # todo: NEW TRANSLATION
+  nigeria_md.1.a: "Skvěle!" # todo: NEW TRANSLATION
+  nigeria_md.1.b: "Skvěle!" # todo: NEW TRANSLATION
+  nigeria_md.2.t: "Nenásilné protesty ve [NIG_religious_conversion_state.GetName]" # todo: NEW TRANSLATION
+  nigeria_md.2.d1: "Islámská menšina v [NIG_religious_conversion_state.GetName] uspořádala pokojné demonstrace proti našim konverzním snahám. Místní imámové vedli modlitební shromáždění, která se vyvinula v nenásilné protesty, účastníci nesou cedule hájící jejich náboženské svobody. Přestože tyto protesty zůstaly řádné, vyvolaly výrazné napětí v regionu, které ovlivňuje stabilitu a zpomaluje naši misi. Místní orgány hlásí rostoucí polarizaci mezi náboženskými komunitami, jak islámská menšina shromažďuje ke své víře tradičnímu zachování." # todo: NEW TRANSLATION
+  nigeria_md.2.d2: "Křesťanská menšina v [NIG_religious_conversion_state.GetName] uspořádala pokojné demonstrace proti našim konverzním snahám. Místní duchovní vedoucí církví koordinovali modlitební shromáždění, která se vyvinula v nenásilné protesty, účastníci nesou cedule hájící jejich náboženské svobody. Tyto demonstrace vyvolaly výrazné napětí v regionu, když zbožnější křesťané active impedují práci našich islámských misionářů. Místní orgány hlásí rostoucí polarizaci mezi náboženskými komunitami, jak křesťané vyvíjejí snahu zachovat své vírové tradice." # todo: NEW TRANSLATION
+  nigeria_md.2.a: "Dobré dny pro křesťanství" # todo: NEW TRANSLATION
+  nigeria_md.2.b: "Za Alláha!" # todo: NEW TRANSLATION
+  nigeria_md.3.t: "Násilný odpor proti našim misionářům!" # todo: NEW TRANSLATION
+  nigeria_md.3.d1: "Násilný odpor proti našim misionářům vypukl napříč [NIG_religious_conversion_state.GetName]. To, co začalo jako pokojné protesty, se změnilo v organizovaný odpor, kdy islámští extremisté útočí na křesťanské kojence a narušují konverzní snahy. Zprávy z rozvědky uvádějí, že insurgents Boko Haram poskytují zbraně, financování a taktickou podporu místním odbojovým skupinám, čímž se náboženské napětí mění v ozbrojený konflikt, který ohrožuje regionální stabilitu." # todo: NEW TRANSLATION
+  nigeria_md.3.d2: "Násilný odpor vypukl v [NIG_religious_conversion_state.GetName] poté, co křesťanské milice vyhnaly naše misionáře z jejich ubytování. Region klesá do chaosu, když ozbrojené křesťanské skupiny vedou přímé střety s místní policií a islámskými misionáři. Silnice jsou blokovány, podniky zavírají a pohyb civilistů je značně omezen, jak násilí zesiluje. Zpravodajské služby naznačují, že tyto milice dostávají podporu z externích křesťanských organizací, čímž se to, co začalo jako náboženské napětí, mění v stále organizovanější ozbrojený odpor." # todo: NEW TRANSLATION
+  nigeria_md.3.a: "Nešťastné" # todo: NEW TRANSLATION
+  nigeria_md.3.b: "Nešťastné" # todo: NEW TRANSLATION
+  nigeria_md.4.t1: "Povstalecké operace Boko Haram!" # todo: NEW TRANSLATION
+  nigeria_md.4.t2: "Křesťanské povstání!" # todo: NEW TRANSLATION
+  nigeria_md.4.d1: "Lidé vzali zbraně ve jménu Alláha. Povstalecké oddíly Boko Haram veřejně oznamují svůj záměr svrhnout vládu a nastolit islámskou vládu napříč národem. Na územích pod jejich kontrolou se civilisté rychle ozbrojují a zavazují se k tomuto hnutí. Vojenské zpravodajství uvádí, že se v odlehlých oblastech tvoří organizované tábory výcviku, jak se povstalecké skupiny připravují na dlouhý konflikt. Situace se zhoršila ze samostatných incidentů na plnohodnotné povstání, které ohrožuje národní bezpečnost." # todo: NEW TRANSLATION
+  nigeria_md.4.d2: "Křesťanské milice vyvolaly otevřené ozbrojené povstání proti naší vládě. Tvrdí, že porušujeme jejich základní lidská práva, a jejich povstalecké síly rychle nabírají na tempu. Musíme se připravit na okamžitou vojenskou akci k potlačení tohoto povstání, než se rozšíří za naše hranice a ohrozí regionální stabilitu. Situace vyžaduje rychlý a rozhodný zásah k uchování národní jednoty." # todo: NEW TRANSLATION
+  nigeria_md.4.a: "Smrt zrádcům!" # todo: NEW TRANSLATION
+  nigeria_md.5.t: "Oživení PDP" # todo: NEW TRANSLATION
+  nigeria_md.5.d: "Strana People’s Democratic Party (PDP) zažila v Nigérii dramatický vzestup popularity. Dříve skeptičtí voliči se nyní sjednocují kolem jejího programu hospodářské reformy a národní jednoty. Kandidáti PDP dominují v průzkumech veřejného mínění v klíčových regionech, zatímco představitelé místní správy se k straně přidávají ve velkém počtu. Politologové tento posun připisují širokému zklamání ze selhání současné administrativy řešit bezpečnostní krize a hospodářský úpadek. Se sliby stability a prosperity se PDP prezentuje jako nejvěrohodnější alternativa pro budoucí vedení Nigérie." # todo: NEW TRANSLATION
+  nigeria_md.5.a: "PDP je správná volba" # todo: NEW TRANSLATION
+  nigeria_md.6.t: "Vzestup ANPP" # todo: NEW TRANSLATION
+  nigeria_md.6.d: "All Nigeria's Peoples Party (ANPP) se od svého vzniku v roce 1999 stala jednou z nejvlivnějších opozičních sil v zemi. V posledních letech strana získala významný vzestup díky prosazování pokrokových politik a požadování větší ekonomické regulace, čímž se jasně odlišuje od konzervativnější PDP. S rychle rostoucí sítí od základů, pokrývající Nigeria's různé etnické a náboženské komunity, se ANPP úspěšně prezentuje jako autentický hlas obyčejných občanů. Její platforma zaměřená na komplexní sociální programy a požadavek větší odpovědnosti vlády rezonuje s populací, která je čím dál více zklamaná ze současného stavu." # todo: NEW TRANSLATION
+  nigeria_md.6.a: "ANPP je volbou lidu" # todo: NEW TRANSLATION
+  nigeria_md.7.t: "Nigérie žádá o zahraniční granty" # todo: NEW TRANSLATION
+  nigeria_md.7.d: "Vláda Nigérie nás oslovila s významnými investičními návrhy zaměřenými na naši infrastrukturu, energetický sektor a průmyslový rozvoj. Jejich zástupci předložili komplexní plány pro dlouhodobé kapitálové závazky, které slibují výrazně urychlit náš ekonomický růst. Nicméně to vyvolává klíčové otázky ekonomické suverenity – poskytnutí významného podílu na trhu nigerijským korporacím by mohlo vytvořit závislosti a umožnit jim ovlivňovat naše domácí hospodářské politiky. Musíme pečlivě vyvážit okamžité vývojové výhody s možnými dlouhodobými důsledky pro naši národní hospodářskou nezávislost a bezpečnost." # todo: NEW TRANSLATION
+  nigeria_md.7.a: "Informujte Nigérijce, že pomůžeme." # todo: NEW TRANSLATION
+  nigeria_md.7.b: "Na to nemáme prostředky." # todo: NEW TRANSLATION
+  nigeria_md.8.t: "Investice z Nigérie" # todo: NEW TRANSLATION
+  nigeria_md.8.d: "Vláda Nigérie nás oslovila s významnými investičními návrhy zaměřenými na naši infrastrukturu, energetický sektor a průmyslový rozvoj. Jejich zástupci předložili komplexní plány pro dlouhodobé kapitálové závazky, které slibují výrazně urychlit náš ekonomický růst. Nicméně to vyvolává klíčové otázky ekonomické suverenity - poskytnutí významného podílu na trhu by mohlo vytvořit závislosti a umožnit ovlivňování našich domácích hospodářských politik. Musíme pečlivě vyvážit okamžité vývojové výhody s potenciálními dlouhodobými důsledky pro naši ekonomickou nezávislost a bezpečnost." # todo: NEW TRANSLATION
+  nigeria_md.8.a: "Samozřejmě" # todo: NEW TRANSLATION
+  nigeria_md.8.b: "Nikdy" # todo: NEW TRANSLATION
+  nigeria_md.9.t: "Pozvánka do Unie islámských států" # todo: NEW TRANSLATION
+  nigeria_md.9.d: "Islámská republika Nigérie nás formálně pozvala, abychom se připojili k Unii islámských států. Nigerijský diplomat mluví s přesvědčením: 'Naše muslimské národy musí stát jednotně proti západnímu imperialismu a sekulárním vlivům. Společně můžeme vybudovat ekonomickou a vojenskou alianci, která ochrání naše islámské hodnoty a zachová naši suverenitu. Rozdělení nás ponechává zranitelné vůči kulturnímu erozi a politickému podmanění.'\n\nAliance slibuje vzájemné obranné pakty, preferenční obchodní dohody a náboženské bratrství napříč islámským světem. Měli bychom se spojit se svými muslimskými bratry v této panislámské koalici?" # todo: NEW TRANSLATION
+  nigeria_md.9.a: "Společně silnější!" # todo: NEW TRANSLATION
+  nigeria_md.9.b: "Musíme jít džihádem sami!" # todo: NEW TRANSLATION
+  nigeria_md.10.t: "Nigérie žádá o evropské investice" # todo: NEW TRANSLATION
+  nigeria_md.10.d: "Nigerijští úředníci oslovili naši vládu s ambiciózním návrhem na investice. Jejich delegace představuje Nigérii jako nejrychleji rostoucí ekonomiku v Africe s rozsáhlým nevyužitým potenciálem v ropě, zemědělství a technologických odvětvích. Naši ekonomičtí poradci zdůrazňují, že časná investice by mohla zajistit preferenční přístup k rostoucím trhům Nigérie a k bohatým přírodním zdrojům. Avšak panují vážné obavy ohledně politické stability, korupce a infrastruktury. Měli bychom nyní vložit značný kapitál, abychom si vybudovali strategickou ekonomickou pozici v tomto vyvíjejícím se západoafrickém gigantovi, nebo počkat, až tyto problémy budou vyřešeny?" # todo: NEW TRANSLATION
+  nigeria_md.10.a: "Do toho! Více průmyslu znamená více peněz!" # todo: NEW TRANSLATION
+  nigeria_md.10.b: "Promarněné prostředky" # todo: NEW TRANSLATION
+  nigeria_md.11.t: "Proměněný národ, sjednocené národy" # todo: NEW TRANSLATION
+  nigeria_md.11.d: "Po několika měsících rozsáhlých náboženských konverzí a cílených náboženských snah sponzorovaných [NIG.GetNameWithFlag] [NIG.GetAdjective] State byl národ konvertován. [NIG.GetNameWithFlag] [NIG.GetAdjective] State byl konvertován na Islám a [NIG.GetNameWithFlag] [NIG.GetAdjective] State byl konvertován na křesťanství. Národ je nyní jednotným národem pod praporem Islámu." # todo: NEW TRANSLATION
+  nigeria_md.11.a: "Spokojený závěr..." # todo: NEW TRANSLATION
+  nigeria_md.100.t: "Šaría právo v Zamfara" # todo: NEW TRANSLATION
+  nigeria_md.100.d: "V překvapivém vývoji událostí byl stát Zamfara ustanoven jako jurisdikce s Šáriou jako právním systémem. Ačkoli to není nečekané ani regionu cizí, jedná se o významný vývoj pro zemi a bude mít zásadní dopad na severní část naší země. Křesťanští aktivisté v regionu se již mobilizují a připravují menší cílené protesty proti regionální vládě a zavedení Šaríe. Je jen otázka času, kdy šaría pronikne do všech muslimských regionů země." # todo: NEW TRANSLATION
+  nigeria_md.100.a: "Znepokojivý vývoj..." # todo: NEW TRANSLATION
+  nigeria_md.100.b: "Vložte varování" # todo: NEW TRANSLATION
+  nigeria_md.101.t: "Náboženské násilí v Kaduna" # todo: NEW TRANSLATION
+  nigeria_md.101.d: "Poté, co státy zvolily prosazovat Šáriu, křesťanská menšina ve státě Kaduna se začala mobilizovat a připravují menší cílené protesty proti regionální vládě a zavedení Šáríe. Je jen otázka času, než se šária rozšíří do všech muslimských oblastí země." # todo: NEW TRANSLATION
+  nigeria_md.101.a: "Zklidněte situaci" # todo: NEW TRANSLATION
+  nigeria_md.101.b: "Ignorujte situaci" # todo: NEW TRANSLATION
+  nigeria_md.102.t: "Náboženské nepokoje v Abuje kvůli Miss World" # todo: NEW TRANSLATION
+  nigeria_md.102.d: "Miss World se bude konat v Abuje a lidé nad tím demonstrují. Křesťanská většina protestuje kvůli tomu, že muslimská země hostí soutěž, a muslimové protestují kvůli tomu, že křesťanská země hostí soutěž. Situace je napjatá a může vyústit ve násilí." # todo: NEW TRANSLATION
+  nigeria_md.102.a: "Zakázat soutěž Miss World" # todo: NEW TRANSLATION
+  nigeria_md.102.b: "Nechte místní, ať si s tím poradí" # todo: NEW TRANSLATION
+  nigeria_md.103.t: "Poloostrov Bakassi" # todo: NEW TRANSLATION
+  nigeria_md.103.d: "Poloostrov Bakassi je bohatým ropným regionem na jihu Ambazonie, který byl naším státem po většinu čtyř desetiletí. Mezinárodní soudní dvůr však rozhodl ve prospěch Kamerunu a nařídil Nigérii poloostrov Kamerunu postoupit. Co bychom měli dělat? Můžeme přijmout rozhodnutí Mezinárodního soudního dvora a stáhnout se, nebo se můžeme pokusit Kamerun donutit, aby uznal tuto zcela idiotskou představu, že má na poloostrov právo." # todo: NEW TRANSLATION
+  nigeria_md.103.a: "Přijměte rozhodnutí Mezinárodního soudního dvora" # todo: NEW TRANSLATION
+  nigeria_md.103.b: "Odmítnout rozhodnutí Mezinárodního soudního dvora" # todo: NEW TRANSLATION
+  nigeria_md.104.t: "Kolaps budovy v Lagosu" # todo: NEW TRANSLATION
+  nigeria_md.104.d: "V Lagosu došlo ke zhroucení budovy a věří se, že šlo o nedostatek správných stavebních norem a regulací. Budova byla novým nákupním centrem ve městě Lagos. Předpokládá se, že byla postavena bez potřebných povolení a nebyla v souladu s normami." # todo: NEW TRANSLATION
+  nigeria_md.104.a: "Uhradit škody" # todo: NEW TRANSLATION
+  nigeria_md.104.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.105.t: "První Africké filmové ceny" # todo: NEW TRANSLATION
+  nigeria_md.105.d: "První Africké filmové ceny Movie Academy se konají v Lagosu. Očekává se, že akce přiláká velké množství návštěvníků z celého kontinentu. Je to skvělá příležitost ukázat naši kulturu a propagovat naši zemi jako skvělé místo pro podnikání." # todo: NEW TRANSLATION
+  nigeria_md.105.a: "Skvělá zábava" # todo: NEW TRANSLATION
+  nigeria_md.106.t: "Výbuch zbrojnice v Lagosu" # todo: NEW TRANSLATION
+  nigeria_md.106.d: "Výbuch v Lagosu v zbrojnici byl způsoben nedostatečnými bezpečnostními opatřeními. Výbuch byl způsoben bombou, kterou nastražila militantní skupina odpůrná vůči nigerijské vládě. Výbuch způsobil značné škody na zbrojnici a zabil řadu lidí." # todo: NEW TRANSLATION
+  nigeria_md.106.a: "Vyšetřete výbuch" # todo: NEW TRANSLATION
+  nigeria_md.106.b: "Škoda je hotová. Je čas jít dál." # todo: NEW TRANSLATION
+  nigeria_md.107.t: "Nigerijští militanté útočí v Port Harcourt" # todo: NEW TRANSLATION
+  nigeria_md.107.d: "Skupina militantů zaútočila na přístav Port Harcourt a věří se, že jsou proti nigerijské vládě. Militanti zabili řadu lidí a způsobili značné škody na přístavu." # todo: NEW TRANSLATION
+  nigeria_md.107.a: "Vyslat armádu" # todo: NEW TRANSLATION
+  nigeria_md.107.b: "Nechte místní policii, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.108.t: "Výbuch ropovodu v Lagosu" # todo: NEW TRANSLATION
+  nigeria_md.108.d: "Výbuch ropovodu v Lagosu byl způsoben nedostatečnou údržbou. Ropovod nebyl správně udržován a nebyl v souladu s normami." # todo: NEW TRANSLATION
+  nigeria_md.108.a: "Vyšetřete výbuch" # todo: NEW TRANSLATION
+  nigeria_md.108.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.109.t: "Kolaps přehrady v Zamfara" # todo: NEW TRANSLATION
+  nigeria_md.109.d: "Přehrada v Zamfara se zřítila a věří se, že k tomu došlo kvůli nedostatečné údržbě. Přehrada byla nová a byla postavena ve státě Zamfara. Předpokládá se, že byla postavena bez potřebných povolení a nebyla v souladu s normami." # todo: NEW TRANSLATION
+  nigeria_md.109.a: "Vyšetřete zhroucení" # todo: NEW TRANSLATION
+  nigeria_md.109.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.110.t: "Násilí před volbami" # todo: NEW TRANSLATION
+  nigeria_md.110.d: "Volby se blíží a násilí se zvyšuje. Křesťanská většina začíná protestovat kvůli tomu, že muslimská země hostí volby, a muslimové protestují kvůli tomu, že křesťanská země hostí volby. Situace je napjatá a může vyústit ve násilí." # todo: NEW TRANSLATION
+  nigeria_md.110.a: "Zvýšit bezpečnost a chránit volební urny" # todo: NEW TRANSLATION
+  nigeria_md.110.b: "Nechte situaci, aby si sama vyřešila" # todo: NEW TRANSLATION
+  nigeria_md.111.t: "Únik benzínu v Kaduna State" # todo: NEW TRANSLATION
+  nigeria_md.111.d: "K Kaduna State došlo k úniku benzínu a věří se, že šlo o nedostatečnou údržbu. Únik byl způsoben benzínovým tankem, který nebyl správně udržován a nebyl v souladu s normami." # todo: NEW TRANSLATION
+  nigeria_md.111.a: "Nasadit federální síly do oblasti" # todo: NEW TRANSLATION
+  nigeria_md.111.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.112.t: "Výbuch ropovodu Ijegun" # todo: NEW TRANSLATION
+  nigeria_md.112.d: "Výbuch ropovodu v Ijegun byl způsoben nedostatečnou údržbou. Ropovod nebyl správně udržován a nebyl v souladu s normami." # todo: NEW TRANSLATION
+  nigeria_md.112.a: "Vyšetřete výbuch" # todo: NEW TRANSLATION
+  nigeria_md.112.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.113.t: "Islámské extrémisté útočí v Bauchi State" # todo: NEW TRANSLATION
+  nigeria_md.113.d: "Skupina islámských extrémistů zaútočila na stát Bauchi a věří se, že jsou proti nigerijské vládě. Extrémisté zabili řadu lidí a způsobili značné škody na státě." # todo: NEW TRANSLATION
+  nigeria_md.113.a: "Vyslat armádu" # todo: NEW TRANSLATION
+  nigeria_md.113.b: "Nechte místní úřady, ať to vyřeší" # todo: NEW TRANSLATION
+  nigeria_md.114.t: "Zřízení univerzity Afe Babalola" # todo: NEW TRANSLATION
+  nigeria_md.114.d: "V Nigérii byla založena nová univerzita, pojmenovaná po zesnulém Afe Babalolaovi. Univerzita je soukromá a očekává se, že bude významným hráčem v sektoru vzdělávání země." # todo: NEW TRANSLATION
+  nigeria_md.114.a: "Skvělá příležitost" # todo: NEW TRANSLATION
+  nigeria_md.115.t: "Nigérijské povodně" # todo: NEW TRANSLATION
+  nigeria_md.115.d: "Nigérijská vláda vyhlásila stav nouze kvůli povodním, které postihly zemi. Povodně způsobily značné škody a usmrcily řadu lidí." # todo: NEW TRANSLATION
+  nigeria_md.115.a: "Příroda musí projít svým přirozeným průběhem" # todo: NEW TRANSLATION
+  nigeria_md.115.b: "Nasadit armádu do oblasti" # todo: NEW TRANSLATION
+  nigeria_md.115.c: "Poskytnout financování místním úřadům" # todo: NEW TRANSLATION
+  nigeria_md.116.t: "Krvavé zlaté jubileum" # todo: NEW TRANSLATION
+  nigeria_md.116.d: "Když Nigérie oslavovala své padesáté výročí nezávislosti, co mělo být radostnou příležitostí se proměnilo ve tragédii. Hnutí za emancipaci Nigerijské delty (MEND) dříve vydalo varování o plánovaných útocích během oslav jubilea, a svá slova naplnili. Bombové útoky v Abujě zabily několik lidí a další zranily mnoho dalších, čímž vrhly stín na národní zlaté jubileum. Tento útok přišel v obzvlášť obtížné době, protože země se již potýká s ničivými povodněmi, které donutila vládu vyhlásit nouzový stav." # todo: NEW TRANSLATION
+  nigeria_md.116.a: "Opravdu tragický den" # todo: NEW TRANSLATION
+  nigeria_md.117.t: "Masakr v Zaki Biamu" # todo: NEW TRANSLATION
+  nigeria_md.117.d: "Ve Zaki Biamu došlo k masakru a věří se, že byl způsoben nedostatečnými bezpečnostními opatřeními. Masakr byl způsoben skupinou militantů, kteří se staví proti nigerijské vládě. Masakr si vyžádal řadu obětí a způsobil značné škody ve státě." # todo: NEW TRANSLATION
+  nigeria_md.117.a: "Zajistit dodatečné financování místním orgánům" # todo: NEW TRANSLATION
+  nigeria_md.117.b: "Povolit armádě provést interní vyšetřování situace" # todo: NEW TRANSLATION
+  nigeria_ambazonia.1.t: "Máme na výběr?" # todo: NEW TRANSLATION
+  nigeria_ambazonia.1.d: "Nigérie se rozhodla odmítnout rozhodnutí Mezinárodního soudního dvora (ICJ) o vydání poloostrova Bakassi nám. Není jasné, jaké máme možnosti. Můžeme zvolit ustoupení a stažení z poloostrova, nebo se rozhodnout bojovat za něj, nebo se obrátit na Nigérii, aby své rozhodnutí přehodnotila. Co bychom měli udělat?" # todo: NEW TRANSLATION
+  nigeria_ambazonia.1.a: "Bakassi patří nám právem" # todo: NEW TRANSLATION
+  nigeria_ambazonia.1.b: "Postaráme se o to sami" # todo: NEW TRANSLATION
+  nigeria_ambazonia.1.c: "Stáhnout se z Bakassi" # todo: NEW TRANSLATION
+  nigeria_ambazonia.2.t: "První výstřel" # todo: NEW TRANSLATION
+  nigeria_ambazonia.2.d: "Kamerunští vojáci si vyzkoušeli naše síly na poloostrově Bakassi. Jednotky v regionu se snažily udržet své pozice a odrazily počáteční útočnou družinu kamerunských sil. Je jen otázkou času, než se to vyhrotí, pokud něco neuděláme, jinak to bude pokračovat. Co bychom měli dělat?" # todo: NEW TRANSLATION
+  nigeria_ambazonia.2.a: "Bojuj zpět!" # todo: NEW TRANSLATION
+  nigeria_ambazonia.2.b: "Nigérie se Bakassi vzdává" # todo: NEW TRANSLATION
+  nigeria_ambazonia.3.t: "Vzdání" # todo: NEW TRANSLATION
+  nigeria_ambazonia.3.d: "Kamerun se vzdal Bakassi poloostrova nám. Je čas oslavit naše vítězství a přejít do další kapitoly našeho vztahu, nad regionem Bakassi a okolními oblastmi." # todo: NEW TRANSLATION
+  nigeria_ambazonia.3.a: "Bakassi patří nám právem!" # todo: NEW TRANSLATION
+  nigeria_ambazonia.4.t: "Žádost" # todo: NEW TRANSLATION
+  nigeria_ambazonia.4.d: "Kamerun žádá, abychom se stáhli z poloostrova Bakassi. Co bychom měli dělat? Můžeme zvolit znovu posílit a bojovat za poloostrov, nebo se můžeme rozhodnout ustoupit a stáhnout se z poloostrova. Výběr ovlivní budoucnost regionu a vztah mezi naší zemí a Kamerunem." # todo: NEW TRANSLATION
+  nigeria_ambazonia.4.a: "Bojujte zpět!" # todo: NEW TRANSLATION
+  nigeria_ambazonia.4.b: "Vzdát se poloostrova" # todo: NEW TRANSLATION
+  nigeria_ambazonia.5.t: "Nigérie chrání Bakassi" # todo: NEW TRANSLATION
+  nigeria_ambazonia.5.d: "Nigérie chrání poloostrov Bakassi před Kamerunem. Není jasné, zda to povede k dalším krokům ze strany nigerijské vlády, ale je jasné, že Kamerun vyhrál tento diplomatický spor bez nutnosti krve." # todo: NEW TRANSLATION
+  nigeria_ambazonia.5.a: "Vzdát Bakassi" # todo: NEW TRANSLATION
+  nigeria_ambazonia.5.b: "Eskaluovat konflikt" # todo: NEW TRANSLATION
+  nigeria_ambazonia.6.t: "Nigérie vzdává Bakassi" # todo: NEW TRANSLATION
+  nigeria_ambazonia.6.d: "Nigérie se vzdává Bakassi poloostrova Kamerunu. Navzdory jejich počáteční neochotě následovat rozhodnutí Mezinárodního soudního dvora (ICJ) konečně poloostrov Bakassi Kamerunu. Není jasné, zda to povede k dalším akcím ze strany nigerijské vlády, ale je zřejmé, že Kamerun vyhrál tento diplomatický spor bez nutnosti plnohodnotné války." # todo: NEW TRANSLATION
+  nigeria_ambazonia.6.a: "Bakassi patří nám právem!" # todo: NEW TRANSLATION
+  nigeria_ambazonia.7.t: "Nigérie anektuje Ambazoniu" # todo: NEW TRANSLATION
+  nigeria_ambazonia.7.d: "Navzdory verdiktu Mezinárodního soudního dvora (ICJ) Kamerun Bakassi poloostrov Nigérii vydal; zbytek oblasti Ambazonie byl Nigérií anektován. Není jasné, zda to povede k dalším akcím ze strany kamerunské vlády, ale je zřejmé, že Nigérie vyhrála tuto bitvu do značné míry, neboť nyní ovládá celý poloostrov Bakassi i zbytek regionu." # todo: NEW TRANSLATION
+  nigeria_ambazonia.7.a: "Další nárůst napětí..." # todo: NEW TRANSLATION
+  nigeria_ambazonia.8.t: "Druhá válka v Ambazonii" # todo: NEW TRANSLATION
+  nigeria_ambazonia.8.d: "Nedostatek Nigérie akceptovat rozhodnutí ICJ vedl k druhé válce v Ambazonii. Válka je krutá a v úvodních dnech způsobila regionu značné škody. Není jasné, zda Nigérie bude schopna tuto válku vyhrát, ale je jasné, že válka bude dlouhá a obtížná pro obě strany, které již nic neztratily." # todo: NEW TRANSLATION
+  nigeria_ambazonia.8.a: "Smutný den pro svět..." # todo: NEW TRANSLATION
+  nigeria_ambazonia.9.t: "Nigérie se stáhne z Ambazonie" # todo: NEW TRANSLATION
+  nigeria_ambazonia.9.d: "Nigérie se stáhla z Ambazonie bez další eskalace. Není jasné, zda to povede k dalším akcím ze strany nigerijské vlády, ale je zřejmé, že Kamerun vyhrál tento diplomatický spor bez krve." # todo: NEW TRANSLATION
+  nigeria_ambazonia.9.a: "Rozvážnost zvítězila..." # todo: NEW TRANSLATION
+  nigeria_ambazonia.10.t: "Kamerun vzdává Bakassi" # todo: NEW TRANSLATION
+  nigeria_ambazonia.10.d: "Kamerun vzdává Bakassi poloostrov Nigérii. Není jasné, zda to povede k dalším akcím ze strany kamerunské vlády, ale je zřejmé, že Nigérie vyhrála tento diplomatický spor bez nutnosti krve." # todo: NEW TRANSLATION
+  nigeria_ambazonia.10.a: "Smutný den pro svět..." # todo: NEW TRANSLATION

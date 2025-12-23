@@ -1,0 +1,5 @@
+﻿l_english:
+  raid_category_nuclear_raids: "Jaderné údery" # todo: NEW TRANSLATION
+  tooltip_raid_category_nuclear_raids: "§HJaderné údery§! \nÚdery prováděné strategickými bombardéry nebo balistickými raketami nesoucími jaderné zbraně, proti taktickým i strategickým cílům.\n\n§RVAROVÁNÍ: Velká červená čára. Překročení této hranice může znamenat konec světa, jak ho známe...§!" # todo: NEW TRANSLATION
+  success_modifier_air_agility: "jednotka §HRadarová výhoda§!" # todo: NEW TRANSLATION
+  success_modifier_air_agility_negative: "nízká jednotka §HRadarová výhoda§!" # todo: NEW TRANSLATION

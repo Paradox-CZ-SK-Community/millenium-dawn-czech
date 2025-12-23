@@ -1,0 +1,98 @@
+﻿l_english:
+  Republic_of_Lakota_focus: "Zaměřovací strom Republiky Lakoty" # todo: NEW TRANSLATION
+  LKT_a_capital_conundrum: "Hádanka hlavního města" # todo: NEW TRANSLATION
+  LKT_a_capital_conundrum_desc: "S omezenými hranicemi, které držíme pohromadě jako národ, musíme hledat základnu, kterou budeme moci nazvat hlavním městem naší země. Při pohledu na sever doufáme v řešení." # todo: NEW TRANSLATION
+  LKT_montana_monster: "Montana Netvor" # todo: NEW TRANSLATION
+  LKT_montana_monster_desc: "Obnova konečně začala; národ musí být schopen sloužit a uživit se sám, než začneme řešit cokoli jiného. Zemědělství proto bude prioritou v těchto raných dnech." # todo: NEW TRANSLATION
+  LKT_montana_marvel: "Montana Zázrak" # todo: NEW TRANSLATION
+  LKT_montana_marvel_desc: "Od chudoby ke štěstí, či alespoň od prázdného žaludku k plnému. Proto můžeme začít zavádět civilní a obecní služby, které pomohou stabilizovat společnost v rámci státu a přinést novou mír do těchto krajů." # todo: NEW TRANSLATION
+  LKT_northern_troubles: "Severní potíže" # todo: NEW TRANSLATION
+  LKT_northern_troubles_desc: "Dakoty, stejně jako většina naší země, jsou velmi řídké a skutečně nevyvinuté navzdory počtům obyvatel některých států. Přesto musíme stabilizovat naše severní pohraniční území, než se jich budou snažit uloupit oportunisté; nebylo by dobré ani pro ty, kteří chtějí odejít. Prozatím se tedy pokusme nastartovat nějakou ekonomiku." # todo: NEW TRANSLATION
+  LKT_our_northern_light: "Naše severní světlo" # todo: NEW TRANSLATION
+  LKT_our_northern_light_desc: "S ekonomickým oživením a počátky sociální stability v Severní Dakotě můžeme nyní začít rozšiřovat místní nouzové a civilní služby. Z toho můžeme rozšířit sféru vládnutí v naší mladé zemi." # todo: NEW TRANSLATION
+  LKT_yellowstone_yelling: "Yellowstone křik" # todo: NEW TRANSLATION
+  LKT_yellowstone_yelling_desc: "Země volají po pokoji; v nich panuje chaos a nebezpečí. Musíme zahájit iniciativu, která vrátí do těchto končin mír a ticho. Není zde mnoho lidí ve státě, a tak je i méně rozvoje a věcí, se kterými by se dalo pracovat. Lidé však potřebují něco k jídlu a my jim to dáme." # todo: NEW TRANSLATION
+  LKT_worland_wonder: "Zázrak Worlandu" # todo: NEW TRANSLATION
+  LKT_worland_wonder_desc: "Konečně se částečné uspořádání míru vrátilo a tím mohou být obnoveny civilní služby a další obecní vymoženosti, čímž se posílí společenská soudržnost ve větší části naší země. Brzy si budeme moci skutečně užívat místo, které budeme nazývat domovem." # todo: NEW TRANSLATION
+  LKT_southern_turmoil: "Jižní nepokoje" # todo: NEW TRANSLATION
+  LKT_southern_turmoil_desc: "Bublání, práce a potíže; mícháme kotel všeho, co trápení způsobuje. Z dna zoufalství vyzdvihneme něco, co lze očistit a opravit. S ekonomiím a jídlem na stole, které připravíme, vyprávíme příběhy o tom, co bývalo mýty. Nyní jdeme vpřed a určujeme tempo, neboť naši lidé nás potřebují v těchto osudových chvílích." # todo: NEW TRANSLATION
+  LKT_rapid_city_revival: "Rychlá obnova Rapid City" # todo: NEW TRANSLATION
+  LKT_rapid_city_revival_desc: "S pevným rozhodnutím uzavíráme mír; pro lidi těchto krajů necháme, aby si užívali... dost bylo horších veršů. Vytvořili jste jakousi ekonomiku, teď rozjeďte vládní správu a civilní služby k obnovení sociální soudržnosti a solidarity vaší země." # todo: NEW TRANSLATION
+  LKT_industry_what_industry: "Průmysl, jaký průmysl?" # todo: NEW TRANSLATION
+  LKT_industry_what_industry_desc: "Ačkoliv by mnozí rádi tvrdili opak, realita je, že máme jistý průmyslový potenciál... možná to není mnoho, ale je to něco. To nám alespoň pomáhá stabilizovat a diverzifikovat naši ekonomickou skladbu." # todo: NEW TRANSLATION
+  LKT_nebraska_neck_breaker: "Nebraska – Zlomovač krků" # todo: NEW TRANSLATION
+  LKT_nebraska_neck_breaker_desc: "Národ je zraněný, musíme pracovat na uzdravení jeho ran. Obnovení určité ekonomické úrovně nám umožní lidem se spojit a znovu nastartovat společnost." # todo: NEW TRANSLATION
+  LKT_from_broken_bow_to_fixed: "Z Broken Bow k Opravě" # todo: NEW TRANSLATION
+  LKT_from_broken_bow_to_fixed_desc: "Rány se hojí, jizvy zůstávají. Bude to trvat, než se plně uzdravíme a posuneme vpřed z minulosti, ale zvládneme to, krok za krokem." # todo: NEW TRANSLATION
+  LKT_kansas_city_catastrophe: "Katastrofa Kansas City" # todo: NEW TRANSLATION
+  LKT_kansas_city_catastrophe_desc: "Kansas City, Kansas, jaké místo; plné lidí, věcí k dělat a věcí k vytržení z kontextu a zesměšnění. Avšak to lze říci o mnoha věcech; nakonec však jiskra vzplála a město zářilo víc než jen výsměchem a cheer. Nyní musíme obnovit to, co bylo kdysi ztraceno, a nastavit novou cestu k obnově." # todo: NEW TRANSLATION
+  LKT_the_kansas_city_kitty: "Kansas City Kočka" # todo: NEW TRANSLATION
+  LKT_the_kansas_city_kitty_desc: "Teď, když ekonomika existuje, můžeme se vrátit k zápasu. Slyším, že klub je otevřen na hlavní ulici, takže můžeme tančit celou noc jako kdysi ve starých dobrých dobách." # todo: NEW TRANSLATION
+  LKT_the_new_republic: "Nová republika" # todo: NEW TRANSLATION
+  LKT_the_new_republic_desc: "Z popela starého povstává nové. Nyní se vydáme objevovat nejen sami sebe, ale i budoucnost, kterou si přejeme budovat." # todo: NEW TRANSLATION
+  LKT_Sakakawea_capital: "Založeno §YSakakawea§! Hlavní město" # todo: NEW TRANSLATION
+  LKT_Sakakawea_capital_name: "Sakakawea" # todo: NEW TRANSLATION
+  LKT_Pierre_capital: "Založeno §YPierre§! Hlavní město" # todo: NEW TRANSLATION
+  LKT_Pierre_capital_name: "Pierre" # todo: NEW TRANSLATION
+  LKT_Fort_Nakanin_capital: "Založeno §YFort Nakanin§! Hlavní město" # todo: NEW TRANSLATION
+  LKT_Fort_Nakanin_capital_name: "Fort Nakanin" # todo: NEW TRANSLATION
+  LKT_New_Cheyenne_capital: "Založeno §YNew Cheyenne§! Hlavní město" # todo: NEW TRANSLATION
+  LKT_New_Cheyenne_capital_name: "New Cheyenne" # todo: NEW TRANSLATION
+  LKT_Old_Cheyenne_capital_name: "Old Cheyenne" # todo: NEW TRANSLATION
+  LKT_end_of_teaser: "Oficiální konec teaser stromu, nyní ovládáte svou zem. Tak s ní nakládejte, jak jen si přejete... prozatím." # todo: NEW TRANSLATION
+  LKT_organizing_the_farmers: "Organizování farmářů" # todo: NEW TRANSLATION
+  LKT_organizing_the_farmers_desc: "Nemáme toho mnoho, ale to, co máme, musíme shromáždit a připravit na chvíli, kdy je budeme potřebovat." # todo: NEW TRANSLATION
+  LKT_decisions_war_time_mobilization_category: "Válečná mobilizace" # todo: NEW TRANSLATION
+  LKT_decisions_war_time_mobilization_category_desc: "Když nastane potřeba, můžeme povolat dobrovolnickou legii lidí, která alespoň vyplní mezery v liniích. Nevíme, kdy přijde válka, ale víme, že na nás přijde." # todo: NEW TRANSLATION
+  LKT_war_time_mobilization: "Mobilizace 1. vlna" # todo: NEW TRANSLATION
+  LKT_war_time_mobilization_desc: "Vyzvání k zbrani je na nás a my se musíme spojit, abychom zajistili obranu našich domovů. Do zbraně, chlapci z Dixielandu!" # todo: NEW TRANSLATION
+  LKT_war_second_wave_defenders: "Obránci druhé vlny" # todo: NEW TRANSLATION
+  LKT_war_second_wave_defenders_desc: "Nepřítel tlačí vpřed, a tak musíme nasadit další vlnu obránců. Morálka národa utrpí, ale potřebujeme jednotky." # todo: NEW TRANSLATION
+  LKT_war_desperate_defenders: "Beznadějní obránci" # todo: NEW TRANSLATION
+  LKT_war_desperate_defenders_desc: "Situace je čím dál vážnější; potřebujeme každé dostupné tělo, ať už je schopné, nebo ne, aby drželo linii. Snad, možná, ještě vyhrajeme." # todo: NEW TRANSLATION
+  LKT_creating_infantry_reserves: "Vytváření pěší zálohy" # todo: NEW TRANSLATION
+  LKT_creating_infantry_reserves_desc: "Obklíčeni protivníky ze všech stran, musíme očekávat to nejhorší. Vytvořme připravenou záložní sílu, abychom byli připraveni na nepřítele, až nastane čas." # todo: NEW TRANSLATION
+  LKT_mobilizing_the_reserves: "Mobilizace rezerv" # todo: NEW TRANSLATION
+  LKT_mobilizing_the_reserves_desc: "Časy jsou blízko a musíme zajistit bezpečnost našich drahých občanů. Pojďme shromáždit rezervy a vyrazit bránit naše domovy." # todo: NEW TRANSLATION
+  LKT_ideas_economic_development_commission: "Komise pro hospodářský rozvoj" # todo: NEW TRANSLATION
+  LKT_ideas_economic_development_commission_desc: "S jednotou mezi Reclamation Front a vládou národa je spolupráce silnější než kdy dřív. Zřídila se nová ekonomická komise pro rozvoj a pochopení ekonomického složení naší země. Nyní pracují zdola i shora společně a budoucnost naší velké země je o kousek blíž k pravé jednotě." # todo: NEW TRANSLATION
+  LKT_event.1.t: "Hlava vlády" # todo: NEW TRANSLATION
+  LKT_event.1.d: "Jelikož v tuto chvíli nemáme v úmyslu hledět dále na sever, bezpečnost hlavního města národa spočívá na našich čtyřech nejsevernějších státech. Dakoty, Montana a Wyoming. Zatímco někteří tuto myšlenku odrazují, nebojí-li se, že čím dál je hlavní město od fronty, tím dál bude vyhledána pomoc a pozornost. Přesto nemůžeme být zdržováni touto rozptýlující hádkou. Mnozí se však ptají, zda bychom měli zachovat spíše základní pojmenování hlavního města, nebo zda bychom měli vzít v úvahu domorodé kořeny zemí. Prozatím tyto čtyři kandidátské státy dělají prostor pro to, aby se jevily pro výbor pro národní počátky vhodné pro výběr jejich státu." # todo: NEW TRANSLATION
+  LKT_event.1.o1: "Nebyli jsme právě v kolapsu kvůli takovým věcem?" # todo: NEW TRANSLATION
+  LKT_event.2.t: "Diskuse u srdce" # todo: NEW TRANSLATION
+  LKT_event.2.d: "Z našich čtyř kandidátů máme rozštěpení mezi ty, kdo chtějí být více v souladu s dávnými kořeny země, a těmi, kdo chtějí být více v tónu domorodých vlivů zemí. V domovské straně máme Montana s Fort Nakanin, inspirované starou domorodou rezervací poblíž, která byla pro kmen Nakoda a A'ananin. V Severní Dakotě máme Sakakawea po největší řece státu. Na jihu máme Pierre South Dakota jako volbu; vzhledem k nízkému rozvoji mnoho lidí věří, že nová federální hlavní město bude snadno vytvořit svůj vlastní distrikt jako součást širšího metropolitního puzzle Pierre. A konečně máme New Cheyenne, která je zhruba uprostřed státu; bude mít přednost nad starým hlavním městem Wyoming, které bude přejmenováno na Old Cheyenne. Někteří obyvatelé jsou na to poněkud dotčeni, nicméně mnozí věří, že je to hezký symbol obnovy, jak federální hlavní město přebírá novou stránku v historii mladé země." # todo: NEW TRANSLATION
+  LKT_event.2.o1: "Sakakawea" # todo: NEW TRANSLATION
+  LKT_event.2.o2: "Pierre" # todo: NEW TRANSLATION
+  LKT_event.2.o3: "Fort Nakanin" # todo: NEW TRANSLATION
+  LKT_event.2.o4: "New Cheyenne" # todo: NEW TRANSLATION
+  LKT_event.3.t: "Audit Jihu" # todo: NEW TRANSLATION
+  LKT_event.3.d: "Po dlouhém a úmorném úsilí o stabilizaci národa jsme konečně mohli řešit tuto údajnou organizaci „Reclamation Front“, která zřejmě nám pomáhá. Avšak jsme tam poslali auditory, aby zjistili skutečný důvod, proč tito lidé opustili své již ustálené domovy a náhle si vybudovali nové. Bez ohledu na to musíme počkat, co přesně bude hlášeno, pokud máme skutečně jednat." # todo: NEW TRANSLATION
+  LKT_event.3.o1: "Nemůže to být až tak špatné, že?" # todo: NEW TRANSLATION
+  LKT_event.4.t: "První zprávy" # todo: NEW TRANSLATION
+  LKT_event.4.d: "Objevily se některé informace a vypadají nejlépe smíšeně a v nejhorším případě zmatené. Některé zprávy naznačují, že RF je doslova takový, jak říkají, že jsou. Skupina domorodců prchajících ze Jižní republiky ve snaze najít si nový domov. V důsledku toho se ekonomická situace v Kansasu vyvíjela rychleji než zbytek země. Na druhou stranu se však objevují zprávy o tom, že někteří členové RF se dopouštějí trestných činů vůči místním obyvatelům a dokonce některé pseudo–mafiánské aktivity, aby si udrželi svou pověst. Takovéto střídání názorů by nám mohlo dát skutečnou roli při obnově, nebo by nám do břicha byl vrazен nůž. Bez ohledu na to musíme učinit vážné rozhodnutí, které by mohlo vést k činům, za něž bychom později mohli litovat." # todo: NEW TRANSLATION
+  LKT_event.4.o1: "Zločinci, všichni!" # todo: NEW TRANSLATION
+  LKT_event.4.o2: "Počkej, možná je na tom něco jiného." # todo: NEW TRANSLATION
+  LKT_event.5.t: "Nabídka, kterou nemohou odmítnout" # todo: NEW TRANSLATION
+  LKT_event.5.d: "V souvislosti se šokujícími zprávami o RF-ových dalších ilegálních aktivitách vzal auditor iniciativu a setkal se s vedením RF, aby jim v podstatě učinil nabídku. Ztlumit jejich nafoukanost a nechat severní vládě získat více kreditu a my je necháme být. Přirozeně vedení RF reagovalo různorodě a nejhlasitější z nich byla rostoucí kolektivní reakce. Tato reakce byla citována jako: „Jsme mírumilovní lidé a jsme důkladně rozhořčeni tím, že nás považujete za obyčejné zločince a organizované gangy podobné vašim bílým protějškům ze starých časů. Ukážeme vám, že takovým hrubým a degradujícím poznámkám stigmatizujícím naše národy nebudeme tolerovat.“ Auditor byl vyhozen a pronásledován až na hranici Nebrasky; z toho je zřejmé, že naše domněnky byly správné a musíme jednat brzy." # todo: NEW TRANSLATION
+  LKT_event.5.o1: "Dali jim palec a vezmou celý stát" # todo: NEW TRANSLATION
+  LKT_event.6.t: "Shromážděte národ" # todo: NEW TRANSLATION
+  LKT_event.6.d: "Rostoucí nejistota v Kansasu, protože členové RF a místní vedení se začínají přiklánět k tomuto vzpournému hnutí jako celku. V důsledku toho se i severní státy začínají sjednocovat a musíme zahájit jakoukoli mobilizaci, pokud chceme skutečně něco dosáhnout v dohledné době." # todo: NEW TRANSLATION
+  LKT_event.6.o1: "To je náš národ, ne jejich." # todo: NEW TRANSLATION
+  LKT_event.7.t: "Otevřené povstání" # todo: NEW TRANSLATION
+  LKT_event.7.d: "Ta proklínaná zrada to konečně dokázala, vyvěsili státní vlajku Kansasu a prohlásili stát za nezávislý na republice. Budeme muset zorganizovat jednotky a mít to hotovo dřív, než si naši sousedé všimnou naší slabosti." # todo: NEW TRANSLATION
+  LKT_event.7.o1: "Zní výzva k rally" # todo: NEW TRANSLATION
+  LKT_event.8.t: "Do války!" # todo: NEW TRANSLATION
+  LKT_event.8.d: "Národ je mobilizován a ať už to stojí za cokoli, vyrážíme na jih, abychom bránili naše území před těmito zrádnými a oportunistickými vetřelci. Dobrá vůle a vše kolem toho – ha, kupa nesmyslů v nejlepším a ještě více lží v tom nejhorším." # todo: NEW TRANSLATION
+  LKT_event.8.o1: "Jdeme na jih!" # todo: NEW TRANSLATION
+  LKT_event.9.t: "Nedávají nám jinou volbu" # todo: NEW TRANSLATION
+  LKT_event.9.d: "Říkají o nás, že jsme zloději, podvodníci a zločinci. Nejsme takoví a budeme se bránit spolu s těmito milými a příbuznými lidmi Kansasu. Za Kansas a za skutečnou svobodu!" # todo: NEW TRANSLATION
+  LKT_event.9.o1: "Bojujeme za naši svobodu!" # todo: NEW TRANSLATION
+  LKT_event.5000.t: "Další vyšetřování" # todo: NEW TRANSLATION
+  LKT_event.5000.d: "Pokračující zprávy ukazují, že čím dál víc tvrzení o ilegální stránce činnosti této organizace se ukazuje jako mylná. V důsledku toho začala jednání o urychlení ekonomiky národa a o snahách o harmonizovanější spojení lidu." # todo: NEW TRANSLATION
+  LKT_event.5000.o1: "Chvála Bohu, že jsme to prozkoumali podrobně" # todo: NEW TRANSLATION
+  LKT_event.5001.t: "Další plány" # todo: NEW TRANSLATION
+  LKT_event.5001.d: "Počáteční jednání a investiční plány vedly k růstu ekonomiky po celé zemi. Takový růst nám ukázal, že rozvoj, který jsme čekali na měsíce, se stal realitou. S tím, jak se věci vyvíjejí, musíme zvážit zřízení ekonomické komise, která zajistí vyvážený a stabilní hospodářský rozvoj naší velké země a jejích mnoha národů." # todo: NEW TRANSLATION
+  LKT_event.5001.o1: "K prosperitě!" # todo: NEW TRANSLATION
+  LKT_event.5002.t: "Komise" # todo: NEW TRANSLATION
+  LKT_event.5002.d: "Pokračující vyjednávání a rozvoj vedly k vytvoření \"Ekonomické rozvojové komise\". Tato komise vedla k soudržnějšímu hospodářskému plánování a růstové doktríně, která pomůže naší zemi po generace." # todo: NEW TRANSLATION
+  LKT_event.5002.o1: "Spojeni stojíme, rozděleni už nikdy nebudeme." # todo: NEW TRANSLATION

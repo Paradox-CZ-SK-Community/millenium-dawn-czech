@@ -1,31 +1,26 @@
 ﻿l_english:
- AIR_CATEGORY_UNKNOWN: "??? ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_FIGHTER: "Stíhačky ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_INTERCEPTOR: "Interceptory ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_CAS: "Podpora ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_BOMBER: "Bombardéry ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_TRANSPORT: "Transporty ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_MISSILE: "Rakety ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_AS_FIGHTER: "Vzdušná převaha ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_STRIKE_FIGHTER: "Útočný stíhač ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_MR_FIGHTER: "Víceúčelový stíhač ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_CV_FIGHTER: "Letadlový stíhač ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_HEAVY_AIR: "Těžká letadla ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_NAV_PLANE: "Námořní letadlo ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_STRATEGIC_BOMBER: "Strategický bombardér ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_TRANSPORT_PLANE: "Transportní letadlo ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_AIR_UAV: "Bezpilotní vzdušné vozidlo (UAV) ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_AA_MISSILE: "Protiletadlová raketa ($VAL$)" # todo: NEW TRANSLATION
- AIR_CATEGORY_KAMIKAZE_DRONE: "Kamikaze dron ($VAL$)" # todo: NEW TRANSLATION
- AIR_L_STRIKE_FIGHTER: "Lehký útočný stíhač ($VAL$)" # todo: NEW TRANSLATION
- category_AS_fighter: "Stíhačky vzdušné převahy" # todo: NEW TRANSLATION
- category_Strike_fighter: "Útočné stíhačky" # todo: NEW TRANSLATION
- category_MR_fighter: "Víceúčelové stíhačky" # todo: NEW TRANSLATION
- category_CV_fighter: "Stíhačky pro letadlové lodě" # todo: NEW TRANSLATION
- category_heavy_air: "Těžká letadla" # todo: NEW TRANSLATION
- category_nav_plane: "Námořní letadla" # todo: NEW TRANSLATION
- category_strat_bomber: "Strategické bombardéry" # todo: NEW TRANSLATION
- category_gunship: "Letecký bitevník" # todo: NEW TRANSLATION
- category_trans_plane: "Transportní letadla" # todo: NEW TRANSLATION
- category_Air_UAV: "Bezpilotní vzdušná vozidla (UAV)" # todo: NEW TRANSLATION
- category_AA_missile: "Protiletadlové rakety" # todo: NEW TRANSLATION
+  AIR_CATEGORY_AS_FIGHTER: "Stíhač pro vzdušnou nadvládu ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_STRIKE_FIGHTER: "Útočný stíhač ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_MR_FIGHTER: "Víceúčelový stíhač ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_CV_FIGHTER: "Stíhač pro letadlovou loď ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_HEAVY_AIR: "Těžké letadlo ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_NAV_PLANE: "Námořní letoun ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_STRATEGIC_BOMBER: "Strategický bombardér ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_TRANSPORT_PLANE: "Transportní letoun ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_AIR_UAV: "Bezlpilotní letoun (UAV) ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_AA_MISSILE: "Protiletadlová střela ($VAL$)" # todo: NEW TRANSLATION
+  AIR_CATEGORY_KAMIKAZE_DRONE: "Kamikaze dron ($VAL$)" # todo: NEW TRANSLATION
+  AIR_L_STRIKE_FIGHTER: "Lehký útočný stíhač ($VAL$)" # todo: NEW TRANSLATION
+  category_AS_fighter: "Stíhači pro vzdušnou nadvládu" # todo: NEW TRANSLATION
+  category_Strike_fighter: "Útoční stíhači" # todo: NEW TRANSLATION
+  category_MR_fighter: "Víceúčeloví stíhači" # todo: NEW TRANSLATION
+  category_CV_fighter: "Stíhači pro letadlové lodě" # todo: NEW TRANSLATION
+  category_heavy_air: "Těžká letadla" # todo: NEW TRANSLATION
+  category_nav_plane: "Námořní letouny" # todo: NEW TRANSLATION
+  category_gunship: "Ozbrojené letouny" # todo: NEW TRANSLATION
+  category_trans_plane: "Transportní letouny" # todo: NEW TRANSLATION
+  category_Air_UAV: "Bezlpilotní letouny (UAV)" # todo: NEW TRANSLATION
+  category_AA_missile: "Protiletadlové střely" # todo: NEW TRANSLATION
+  AIR_WING_NAME_FRA_MODERN: "$NR$e $NAME$" # todo: NEW TRANSLATION
+  tactical_bomber: "Taktický bombardér" # todo: NEW TRANSLATION
+  naval_bomber: "Námořní bombardér" # todo: NEW TRANSLATION

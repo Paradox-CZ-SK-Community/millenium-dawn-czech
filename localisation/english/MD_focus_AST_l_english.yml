@@ -1,0 +1,300 @@
+﻿l_english:
+  AST_thales_australia_materiel_manufacturer_trait: "Francouzská páteř systémů" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_f90_ergonomics: "F90 Ergonomie" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_polymer_receiver: "Polymerový přijímač" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_marksman_package: "Sada ostřelovače" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_brenade_launcher: "Integrace granátometu" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_ruggedized_sights: "Odolná miřidla" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_modular_rails: "Modulární lišty" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_bullpup_refinement: "Zdokonalení bullpupu" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_export_standards: "Exportní standardy" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_cold_weather: "Adaptace na chladné počasí" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_integrated_soldier: "Integrované systémy vojáka" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_v_hull: "Ovládání V‑hull" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_composite_armor_panels: "Kompozitní pancéřové panely" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_all_terrain_suspension: "Pružení pro všechny terény" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_lightweight_frame: "Hawkei – Lehká konstrukce" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_deployable_workshops: "Přenosné dílny" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_mine_blast: "Ochrana proti výbuchům min" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_modular_mission: "Modulární mise soupravy" # todo: NEW TRANSLATION
+  AST_thales_australia_miologistic_commonality: "Logistická shoda" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_ruggedized_electronics: "Odolná elektronika" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_remote_weapon: "Vzdálená zbraňová výbava" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_mission_system_fusion: "Fúze systémů misí" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_digital_cockpit: "Digitální kokpitová sada" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_nvg_compatibility: "Kompatibilita s nočním viděním" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_survivability_suite: "Sada odolnosti" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_ligtweight_wiring: "Lehká kabeláž" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_sensor_mast: "Integrace senzorového stožáru" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_mission_support: "Zařízení podpory misí" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_data_link_interoperability: "Interoperabilita datových spojení" # todo: NEW TRANSLATION
+  AST_thales_australia_mio_trait_composite_blade: "Vylepšení kompozitních lopatek" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_material: "Varley Rafael Australia" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_materiel_manufacturer_trait: "Centrum naváděných zbraní" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_insensitive_muniions: "Standard nehavarijních munic" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_high_temperature_rocket: "Vysokotemperovaný raketový motor" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_explosive_penetrator: "Vysoko-explozivní penetrátorová náplň" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_ligtweight_casing: "Lehká plášťová slitina" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_primary_explosives: "Primární výbušniny – suverénní kapacita" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_rpaid_shell_forging: "Rychlá linka tvarování nábojnic" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_thermal_protection: "Nátěry tepelné ochrany" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_rocket_motor: "Modul posilovače raketového motoru" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_dual_mode: "Integrace vyhledávače s duálním režimem" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_ruggedized_seeker: "Odolné pouzdro vyhledávače" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_ballistics_test: "Balistiky a kalibrace zkušební střelnice" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_guidance_algorithms: "Optimalizace naváděcích algoritmů" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_launcher_integration: "Zjednodušení integrace odpalovače" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_emc_hardened: "EMC odolná elektronika" # todo: NEW TRANSLATION
+  AST_varley_rafael_australia_mio_trait_export_certification: "Exportní certifikace a shoda" # todo: NEW TRANSLATION
+  AST_nioa_australia_material: "NIOA" # todo: NEW TRANSLATION
+  AST_nioa_australia_material_manufacturer_trait: "Kotva malých zbraní" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_hardened_service_barrel: "Pevná servisní hlaveň" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_simplified_field: "Zjednodušené rozebírání v poli" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_cost_optimized_receiver: "Nákladově optimalizovaný přijímač" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_integrated_low_sights: "Integrovaná nízkosvětelná miřidla" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_suppresor: "Sada kompatibility tlumičů" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_rapid_production: "Rychlé výrobní buňky" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_export_compliance: "Kancelář exportní shody" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_match_grade_barrel: "Kvalitní hlaveň a lože" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_heavy_calible: "Doladění balistiky pro velké ráže" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_precision_optics: "Integrace přesných optik" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_barrett_test: "Barrett Test a validační střelnice" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_cold_shot: "Ladění teploty pro studený výstřel" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_modular_muzzle_brake: "Modulární možnosti hlavňových brzd" # todo: NEW TRANSLATION
+  AST_nioa_australia_mio_trait_depot_level_service: "Podpůrné buňky na úrovni depotu" # todo: NEW TRANSLATION
+  AST_gdls_australia_material_manufacturer_trait: "Americký pancéřový násobitel" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_composite_armour: "Modul kompozitního pancíře" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_thermal_sighting: "Termální zaměřovací sada" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_tank_ammunition: "Prevence samovznícení tankových nábojů" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_reactive_armour: "Sada reaktivního pancíře" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_deep_slope: "Modul hlubokého svahu" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_close_combat: "APS pro blízký boj" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_heavy_crew: "Sada přežití posádky pro těžká vozidla" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_long_range_fire: "Dálkové řízení palby" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_main_gun_barrel: "Chladicí systém hlavního děla" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_rapid_turret: "Rychlý pohyb věže" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_modular_remote: "Modulární dálkové zbraňové stanice" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_advanced_communication: "Pokročilá komunikační síť" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_active_suspension: "Aktivní odpružení" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_urban_armour: "Městský pancíř – doplňky" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_recon_optics: "Průzkumné optiky" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_lightweight_composite: "Lehký kompozitní trup" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_rapid_disembark: "Rychlé vystoupení a doplňovací systém" # todo: NEW TRANSLATION
+  AST_gdls_australia_mio_trait_fied_repair: "Polní opravy a náhradní modul" # todo: NEW TRANSLATION
+  AST_hanwha_australia_tank: "Hanwha Defence Australia" # todo: NEW TRANSLATION
+  AST_hanwha_australia_tank_trait: "Korejská přesná palba a pancéřová inovace" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_rapid_fire: "Rychlá palba hydraulikou" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_extended_range_barrel: "Prodloužená hlaveň ráže 52" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_auto_loading_resupply: "Automatický systém doplňování" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_shoot_scoot_phasing: "Fázování střelby a přesunu" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_armoured_ammunition: "Uložení obrněné munice" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_local_engine: "Místní montáž motoru" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_suppression_resistant: "Optika odolná proti potlačení" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_tactical_fire: "Vylepšené taktické řízení palby" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_quick_action: "Rychlé logistické buňky" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_heavy_suspension: "Posílené těžké odpružení" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_high_explosive_fragmentation: "Vysoko-explozivní fragmentační náboje" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_thermal_support: "Podpora termovizního vidění" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_capacity_surge: "Linka rychlého nárůstu kapacity" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_advanced_turret: "Pokročilá stabilizace věže" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_composite_hull_panels: "Lehké kompozitní panely trupu" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_local_transmission: "Místní přenos a převod motoru" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_enhanced_c4i: "Vylepšený C4I a komunikační páteř" # todo: NEW TRANSLATION
+  AST_hanwha_mio_trait_crew_comfort: "Pohodlí posádky a interiéry přežití" # todo: NEW TRANSLATION
+  AST_rheinmetall_australia_tank: "Rheinmetall Defence Australia" # todo: NEW TRANSLATION
+  AST_rheinmetall_australia_tank_trait: "Osvědčený německý design" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_long_range_fuel: "Palivové soustavy s dlouhým dojezdem" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_modular_cargo: "Modulární rám nákladu" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_heavy_duty_suspension: "Těžké odpružení" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_rapid_field_repair: "Rychlá oprava v poli" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_hardened_electronics: "Pevná elektronika" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_logistisc_batch: "Logistické šarže" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_cold_start_kit: "Sada studeného startu" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_advanced_applique: "Pokročilý applique pancíř" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_networked_fire_control: "Síťové řízení palby" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_stabilised_gun: "Stabilizovaná zbraňová montáž" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_crew_survivability: "Systém přežití posádky" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_localised_armour: "Lokalizovaná produkce pancíře" # todo: NEW TRANSLATION
+  AST_rheinmetall_mio_trait_field_integration: "Polní integrační buňky" # todo: NEW TRANSLATION
+  AST_raytheon_australia_material: "Raytheon Australia" # todo: NEW TRANSLATION
+  AST_raytheon_australia_material_trait: "Americký architekt námořního úderu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_loitering_cruise: "Schopnost vyčkávacího letu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_multi_effect_warhead: "Hlava s více efekty" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_dynamic_retargeting_ling: "Dynamické propojování retargetingu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_propulsion_efficiency: "Ladění účinnosti pohonu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_stealthy_airframe: "Tiché tvarování letadlového trupu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_local_missile: "Místní výroba raket" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_precision_navigation: "Sada přesné navigace" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_combat_system_modular: "Modulární architektura bojových systémů" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_distributed_sensor: "Senzorová fúze" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_electromagnetic_signature: "Ovládání elektromagnetické signatury" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_resilient_data_links: "Odolné datové spoje" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_trhough_water: "Komunikace skrz vodu" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_systems_integration: "Efektivita integrace systémů" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_platform_life: "Prodloužení životnosti platformy" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_navy_contracting: "Námořní kancelář pro zakázky" # todo: NEW TRANSLATION
+  AST_raytheon_mio_trait_joint_test_range: "Přístup ke společné testovací střelnici" # todo: NEW TRANSLATION
+  AST_tenix_naval_manufacturer: "Tenix Defence" # todo: NEW TRANSLATION
+  AST_tenix_australia_naval_trait: "Průkopník zajištění provozu systémů" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_upgrade_expertise: "Odbornost na vylepšování M113" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_armored_vehicle: "Výroba obrněného vozidla S600" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_parts_remanufacture: "Znovuvýroba dílů" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_engine_rebuild: "Postupy obnovy motoru" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_heavy_maintenance: "Služba těžké údržby" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_diagnostics_workshop: "Diagnostická dílna" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_structural_rework: "Protokoly strukturálních úprav" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_spare_stockpiling: "Strategie zásob náhradních dílů" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_refit_line: "Kapacita refit linie" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_coating_seal_tech: "Technologie povrchových úprav a těsnění" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_rotary_turntable: "Přenos otočného stolu" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_module_fabrication: "Přesnost výroby modulů" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_deck_integration: "Amfibická palubní integrace" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_combat_system_sustainment: "Zajištění provozu bojových systémů" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_hull_reinforcement: "Posílení trupu" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_corrosion_protection: "Ochrana proti korozi" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_propulsion_efficiency: "Vylepšení efektivity pohonu" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_signature_reduction: "Nátěr snižující podpis" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_helideck_maintenance: "Zařízení pro údržbu helidecku" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_hangar_structural_design: "Strukturální návrh hangáru" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_deck_handling_automation: "Automatizace manipulace s palubou" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_shipyard_batch_lines: "Loděnické hromadné výrobní linky" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_aviation_fuel: "Rozvody paliva pro letectví" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_damage_control: "Postupy řízení škod" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_lifecycle_support: "Kancelář podpory životního cyklu" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_drydock_efficiency: "Efektivita suchého doku" # todo: NEW TRANSLATION
+  AST_tenix_mio_trait_local_steel: "Místní výroba oceli" # todo: NEW TRANSLATION
+  AST_asc_naval_trait: "Australský dům námořních systémů" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_modular_hull: "Modulární konstrukce trupu" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_high_speed_hull: "Vysokorychlostní tvar trupu" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_signature_reduction: "Nátěr snižující podpis" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_sensor_suite: "Integrace senzorového systému" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_maintenance_turnaround: "Doba údržby" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_combat_systems_upgrade: "Vylepšení bojových systémů" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_hull_reinforcement: "Posílení trupu" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_crew_systems: "Spolehlivost systémů posádky" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_acoustic_quieting: "Akustická tlumení" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_full_cycle_docking: "Dokovací dokonalost v plném cyklu" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_hull_integrity: "Inženýrství integrity trupu" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_submarine_combat: "Bojové ponorkové vylepšení" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_undersea_sensor: "Integrace podmořských senzorů" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_sustainment_planning: "Kancelář pro plánování zajištění" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_rapid_refit: "Rychlá refit kapacita" # todo: NEW TRANSLATION
+  AST_asc_mio_trait_submarine_lifecycle: "Modelování životního cyklu ponorek" # todo: NEW TRANSLATION
+  AST_austal_naval_manufacturer: "Austal Limited" # todo: NEW TRANSLATION
+  AST_austal_naval_trait: "Strategický námořní architekt" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_modular_combat_architecture: "Modulární bojová architektura" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_redundant_systems: "Redundantní návrh systémů" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_signature_reduction: "Nátěr snižující podpis" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_combat_systems_upgrade: "Vylepšení bojových systémů" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_drydock_trhoughput: "Kapacita suchého doku" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_hull_reinforcement: "Posílení trupu" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_system_integration: "Efektivita integrace systémů" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_lifespan_support_office: "Kancelář podpory životnosti" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_crew_system_robust: "Robustnost posádkových systémů" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_local_fabrication: "Místní výrobní základna" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_high_speed_hull: "Vysokorychlostní tvar trupu" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_mission_module: "Flexibilita modulů mise" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_endurance_module: "Návrh vytrvalostního modulu" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_lean_production_lines: "Štíhlé výrobní linky" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_patrol_signature: "Kontrola signatury hlídky" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_maintenance_modularity: "Modularita údržby" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_local_aluminum: "Místní výroba hliníku" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_support_office: "Kancelář podpory a zajištění" # todo: NEW TRANSLATION
+  AST_austal_mio_trait_integrated_systems: "Zjednodušení integrovaných systémů" # todo: NEW TRANSLATION
+  AST_bae_naval_trait: "Britské integrované námořní a bezpilotní systémy" # todo: NEW TRANSLATION
+  AST_bae_trait_modular_hull_blocks: "Modulární bloky trupu" # todo: NEW TRANSLATION
+  AST_bae_trait_signature_management: "Řízení signatur" # todo: NEW TRANSLATION
+  AST_bae_trait_patrol_hull_form: "Tvar patrolního trupu" # todo: NEW TRANSLATION
+  AST_bae_trait_sensor_suite_fusion: "Fúze senzorových souborů" # todo: NEW TRANSLATION
+  AST_bae_trait_combat_system_integration: "Integrace bojových systémů" # todo: NEW TRANSLATION
+  AST_bae_trait_hull_reinforcement: "Posílení trupu" # todo: NEW TRANSLATION
+  AST_bae_trait_helo_deck_integration: "Integrace helikoptérové paluby" # todo: NEW TRANSLATION
+  AST_bae_trait_patrol_endurance: "Výdrž patrol" # todo: NEW TRANSLATION
+  AST_bae_trait_surface_logistics: "Divize povrchové logistiky" # todo: NEW TRANSLATION
+  AST_bae_trait_crew_systems_robust: "Robustnost posádkových systémů" # todo: NEW TRANSLATION
+  AST_bae_trait_strix_vtol: "Strix VTOL platforma" # todo: NEW TRANSLATION
+  AST_bae_trait_uav_payload_modularity: "Modularita UAV nákladů" # todo: NEW TRANSLATION
+  AST_bae_trait_autonomy_stack: "Sada autonomie" # todo: NEW TRANSLATION
+  AST_bae_trait_uav_datalink_integration: "Integrace datalinku UAV" # todo: NEW TRANSLATION
+  AST_bae_trait_shipborne_aviation_support: "Podpora leteckého provozu na palubě" # todo: NEW TRANSLATION
+  AST_bae_trait_uav_maintenance_cells: "Buňky údržby UAV" # todo: NEW TRANSLATION
+  AST_bae_trait_uav_launch_recovery: "Spouštění a záchrana UAV" # todo: NEW TRANSLATION
+  AST_bae_trait_swarm_coordination: "Algoritmy koordinace roje" # todo: NEW TRANSLATION
+  AST_bae_trait_deck_traffic_management: "Řízení pohybu po palubě" # todo: NEW TRANSLATION
+  AST_bae_trait_maritime_uav_ops_center: "Námořní UAV operační centrum" # todo: NEW TRANSLATION
+  AST_asta_air_manufacturer: "Aerospace Technologies of Australia" # todo: NEW TRANSLATION
+  AST_asta_company_trait: "Dědictví Fishermans Bend" # todo: NEW TRANSLATION
+  AST_asta_trait_bend_built_frames: "Rámce vyrobené ohybem" # todo: NEW TRANSLATION
+  AST_asta_trait_hornet_assembly_precision: "Přesnost montáže Horneta" # todo: NEW TRANSLATION
+  AST_asta_trait_nomad_stol_heritage: "Dědictví Nomad STOL" # todo: NEW TRANSLATION
+  AST_asta_trait_integrated_avionics_looms: "Integrované avionické kabeláže" # todo: NEW TRANSLATION
+  AST_asta_trait_weight_balance_discipline: "Disciplína hmotnosti a vyvážení" # todo: NEW TRANSLATION
+  AST_asta_trait_structural_test_bays: "Strukturální zkušební dílny" # todo: NEW TRANSLATION
+  AST_asta_trait_depot_sustainment_flow: "Tok zajištění depotu" # todo: NEW TRANSLATION
+  AST_asta_trait_line_side_kitting: "Příprava dílů na lince" # todo: NEW TRANSLATION
+  AST_asta_trait_composite_repair_dock: "Kompozitní opravárenský dok" # todo: NEW TRANSLATION
+  AST_asta_trait_fleet_health_analytics: "Analytika stavu flotily" # todo: NEW TRANSLATION
+  AST_asta_trait_kaizen_cells_initiative: "Iniciativa Kaizen buněk" # todo: NEW TRANSLATION
+  AST_asta_trait_final_assembly_integration_line: "Linka finální montážní integrace" # todo: NEW TRANSLATION
+  AST_asta_trait_shop_floor_kitting: "Kitting na dílně" # todo: NEW TRANSLATION
+  AST_asta_trait_composite_repairs_cell: "Buňka pro opravy kompozitů" # todo: NEW TRANSLATION
+  AST_asta_trait_quality_circle_program: "Program kruhu kvality" # todo: NEW TRANSLATION
+  AST_asta_trait_local_subcontract_network: "Místní síť subdodavatelů" # todo: NEW TRANSLATION
+  AST_asta_trait_jindivik_telemetry_bus: "Jindivik Telemetry Bus" # todo: NEW TRANSLATION
+  AST_asta_trait_turana_control_logic: "Ovládací logika Turana" # todo: NEW TRANSLATION
+  AST_asta_trait_woomera_trial_craft: "Zkušební plavidlo Woomera" # todo: NEW TRANSLATION
+  AST_asta_trait_instrumented_airframes: "Instrumentované konstrukce letounů" # todo: NEW TRANSLATION
+  AST_asta_trait_quick_turn_sortie_prep: "Rychlá příprava sortie" # todo: NEW TRANSLATION
+  AST_asta_trait_reusable_target_protocols: "Opětovně použitelné cílové protokoly" # todo: NEW TRANSLATION
+  AST_asta_trait_data_link_hardening: "Zpevnění datové linky" # todo: NEW TRANSLATION
+  AST_asta_trait_modular_payload_trays: "Modulární zásobníky nákladu" # todo: NEW TRANSLATION
+  AST_asta_trait_telemetry_checkout_benches: "Zkušební lavice telemetrie" # todo: NEW TRANSLATION
+  AST_asta_trait_long_leg_ferry_kits: "Sady dlouhého trajektového kitu" # todo: NEW TRANSLATION
+  AST_asta_trait_guidance_systems_calibration: "Kalibrace naváděcích systémů" # todo: NEW TRANSLATION
+  AST_asta_trait_composite_drone_frames: "Konstrukce z kompozitů pro drony" # todo: NEW TRANSLATION
+  AST_asta_trait_flight_sciences_cadre: "Kádr leteckých věd" # todo: NEW TRANSLATION
+  AST_asta_trait_autonomous_systems_lab: "Laboratoř autonomních systémů" # todo: NEW TRANSLATION
+  AST_kongsberg_air_manufacturer: "Kongsberg Defence Australia" # todo: NEW TRANSLATION
+  AST_kda_company_trait: "Norwegian Fire Distribution & Integration" # todo: NEW TRANSLATION
+  AST_kda_trait_modular_fdc_network: "Modulární síť řízení palby" # todo: NEW TRANSLATION
+  AST_kda_trait_amraam_er_integration: "AMRAAM-ER Integrace" # todo: NEW TRANSLATION
+  AST_kda_trait_adaptive_engagement_planner: "Adaptivní plánovač zapojení" # todo: NEW TRANSLATION
+  AST_kda_trait_dual_radar_coordination: "Koordinace duálního radaru" # todo: NEW TRANSLATION
+  AST_kda_trait_canister_launcher_fabrication: "Výroba kanisterových spouští" # todo: NEW TRANSLATION
+  AST_kda_trait_redundant_power_systems: "Redundantní napájecí systémy" # todo: NEW TRANSLATION
+  AST_kda_trait_distributed_fire_nodes: "Distribuované palebné uzly" # todo: NEW TRANSLATION
+  AST_kda_trait_australian_sensor_integration: "Australská integrace senzorů" # todo: NEW TRANSLATION
+  AST_kda_trait_missile_command_bus_upgrade: "Vylepšení řídicí sběrnice pro střely" # todo: NEW TRANSLATION
+  AST_kda_trait_local_datalink_encryption: "Lokální šifrování datalinku" # todo: NEW TRANSLATION
+  AST_kda_trait_fire_control_simulator: "Simulátor řízení palby" # todo: NEW TRANSLATION
+  AST_kda_trait_industrial_co_production: "Průmyslová spoluprodukce" # todo: NEW TRANSLATION
+  AST_kda_trait_nomads_deployment_workflow: "Postup nasazení NOMADS" # todo: NEW TRANSLATION
+  AST_kda_trait_rapid_reload_protocols: "Rychlé protokoly rychlého doplnění" # todo: NEW TRANSLATION
+  AST_kda_trait_short_range_amraam_adapter: "Adaptér AMRAAM krátkého dosahu" # todo: NEW TRANSLATION
+  AST_kda_trait_lightweight_launcher_interfaces: "Lehká rozhraní spouště" # todo: NEW TRANSLATION
+  AST_kda_trait_field_assembly_workshops: "Polní montážní dílny" # todo: NEW TRANSLATION
+  AST_kda_trait_australian_maintenance_partnership: "Australské partnerství v údržbě" # todo: NEW TRANSLATION
+  AST_kda_trait_composite_canister_sealing: "Těsnění kompozitních canisterů" # todo: NEW TRANSLATION
+  AST_kda_trait_mobile_command_shelter: "Mobilní velitelský stan" # todo: NEW TRANSLATION
+  AST_kda_trait_sustainment_analytics_suite: "Sada analytiky zajištění" # todo: NEW TRANSLATION
+  AST_kda_trait_australian_supply_chain_hub: "Australský uzl dodavatelského řetězce" # todo: NEW TRANSLATION
+  AST_kda_trait_quick_refit_teams: "Rychlé refit týmy" # todo: NEW TRANSLATION
+  AST_kda_trait_modular_export_variant: "Modulární exportní varianta" # todo: NEW TRANSLATION
+  AST_amc_air_manufacturer: "Australská raketová korporace" # todo: NEW TRANSLATION
+  AST_amc_company_trait: "Centrum řízených zbraní" # todo: NEW TRANSLATION
+  AST_amc_trait_strategic_flight_envelope: "Strategický letový rozsah" # todo: NEW TRANSLATION
+  AST_amc_trait_precision_warhead_tuning: "Ladění precizních hlavic" # todo: NEW TRANSLATION
+  AST_amc_trait_composite_airframe_materials: "Materiály z kompozitů pro trup" # todo: NEW TRANSLATION
+  AST_amc_trait_integrated_guidance_suite: "Integrovaná naváděcí sada" # todo: NEW TRANSLATION
+  AST_amc_trait_co_development_alliances: "Aliance pro spoluvývoj" # todo: NEW TRANSLATION
+  AST_amc_trait_export_ready_certification: "Certifikace připravená k exportu" # todo: NEW TRANSLATION
+  AST_amc_trait_redundant_avionics_architecture: "Redundantní avionická architektura" # todo: NEW TRANSLATION
+  AST_amc_trait_long_range_test_facilities: "Testovací zařízení s dlouhým dosahem" # todo: NEW TRANSLATION
+  AST_amc_trait_tactical_launcher_modularity: "Modularita taktických vypouštěčů" # todo: NEW TRANSLATION
+  AST_amc_trait_rapid_rearm_procedures: "Rychlé postupy přearmování" # todo: NEW TRANSLATION
+  AST_amc_trait_modular_warhead_kits: "Modulární sady hlavic" # todo: NEW TRANSLATION
+  AST_amc_trait_localised_component_supply: "Lokalizované dodávky komponent" # todo: NEW TRANSLATION
+  AST_amc_trait_test_diagnostics_lab: "Laboratoř pro testování a diagnostiku" # todo: NEW TRANSLATION
+  AST_amc_trait_field_maintenance_teams: "Polní údržbářské týmy" # todo: NEW TRANSLATION
+  AST_amc_trait_cost_effective_propulsion_builds: "Nákladově efektivní pohonné sestavy" # todo: NEW TRANSLATION
+  AST_amc_trait_hardened_electronics_packaging: "Odolné balení elektroniky" # todo: NEW TRANSLATION

@@ -1,0 +1,248 @@
+﻿l_english:
+  AC_DECISIONS: "Stavební projekty" # todo: NEW TRANSLATION
+  AC_DECISIONS_desc: "Naše stavební projekty v zahraničí.\n\nNaše aktuální výše §GMezinárodní investice§! $$[?ROOT.int_investments] §Hmiliarda§!.\nAktuální počet aktivních §YInvestičních projekty§!: [?active_projects]/15\n" # todo: NEW TRANSLATION
+  AC_construction_CANCEL_decision: "Zrušit stavební projekt" # todo: NEW TRANSLATION
+  AC_construction_CANCEL_decision_desc: "Vrací náklady za nedokončené budovy." # todo: NEW TRANSLATION
+  AC_target_country_DECISIONS: "Stavební projekty" # todo: NEW TRANSLATION
+  AC_target_country_DECISIONS_desc: "Stavební projekty zahraničních zemí v naší zemi." # todo: NEW TRANSLATION
+  AC_project_0_text: "§Y[AC_GetConstructionTypeProject0]§! x[?project_build_amount^0] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_0_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^0] dny\n\nPočáteční náklady: [?project_monetary_cost^0]\nID projektu: 0\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_0_decision: "[AC_GetProjectText0]" # todo: NEW TRANSLATION
+  AC_project_0_decision_desc: "[AC_GetProjectDesc0]" # todo: NEW TRANSLATION
+  AC_project_0_target_decision: "§Y[From.AC_GetConstructionTypeProject0]§! x[From.AC_GetProject0Amount] v [From.AC_GetProjectState0]" # todo: NEW TRANSLATION
+  AC_project_0_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject0Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 0" # todo: NEW TRANSLATION
+  AC_project_1_text: "§Y[AC_GetConstructionTypeProject1]§! x[?project_build_amount^1] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_1_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^1] dny\n\nPočáteční náklady: [?project_monetary_cost^1]\nID projektu: 1\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_1_decision: "[AC_GetProjectText1]" # todo: NEW TRANSLATION
+  AC_project_1_decision_desc: "[AC_GetProjectDesc1]" # todo: NEW TRANSLATION
+  AC_project_1_target_decision: "§Y[From.AC_GetConstructionTypeProject1]§! x[From.AC_GetProject1Amount] v [From.AC_GetProjectState1]" # todo: NEW TRANSLATION
+  AC_project_1_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject1Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 1" # todo: NEW TRANSLATION
+  AC_project_2_text: "§Y[AC_GetConstructionTypeProject2]§! x[?project_build_amount^2] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_2_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^2] dny\n\nPočáteční náklady: [?project_monetary_cost^2]\nID projektu: 2\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_2_decision: "[AC_GetProjectText2]" # todo: NEW TRANSLATION
+  AC_project_2_decision_desc: "[AC_GetProjectDesc2]" # todo: NEW TRANSLATION
+  AC_project_2_target_decision: "§Y[From.AC_GetConstructionTypeProject2]§! x[From.AC_GetProject2Amount] v [From.AC_GetProjectState2]" # todo: NEW TRANSLATION
+  AC_project_2_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject2Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 2" # todo: NEW TRANSLATION
+  AC_project_3_text: "§Y[AC_GetConstructionTypeProject3]§! x[?project_build_amount^3] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_3_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^3] dny\n\nPočáteční náklady: [?project_monetary_cost^3]\nID projektu: 3\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_3_decision: "[AC_GetProjectText3]" # todo: NEW TRANSLATION
+  AC_project_3_decision_desc: "[AC_GetProjectDesc3]" # todo: NEW TRANSLATION
+  AC_project_3_target_decision: "§Y[From.AC_GetConstructionTypeProject3]§! x[From.AC_GetProject3Amount] v [From.AC_GetProjectState3]" # todo: NEW TRANSLATION
+  AC_project_3_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject3Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 3" # todo: NEW TRANSLATION
+  AC_project_4_text: "§Y[AC_GetConstructionTypeProject4]§! x[?project_build_amount^4] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_4_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^4] dny\n\nPočáteční náklady: [?project_monetary_cost^4]\nID projektu: 4\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_4_decision: "[AC_GetProjectText4]" # todo: NEW TRANSLATION
+  AC_project_4_decision_desc: "[AC_GetProjectDesc4]" # todo: NEW TRANSLATION
+  AC_project_4_target_decision: "§Y[From.AC_GetConstructionTypeProject4]§! x[From.AC_GetProject4Amount] v [From.AC_GetProjectState4]" # todo: NEW TRANSLATION
+  AC_project_4_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject4Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 4" # todo: NEW TRANSLATION
+  AC_project_5_text: "§Y[AC_GetConstructionTypeProject5]§! x[?project_build_amount^5] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_5_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^5] dny\n\nPočáteční náklady: [?project_monetary_cost^5]\nID projektu: 5\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_5_decision: "[AC_GetProjectText5]" # todo: NEW TRANSLATION
+  AC_project_5_decision_desc: "[AC_GetProjectDesc5]" # todo: NEW TRANSLATION
+  AC_project_5_target_decision: "§Y[From.AC_GetConstructionTypeProject5]§! x[From.AC_GetProject5Amount] v [From.AC_GetProjectState5]" # todo: NEW TRANSLATION
+  AC_project_5_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject5Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 5" # todo: NEW TRANSLATION
+  AC_project_6_text: "§Y[AC_GetConstructionTypeProject6]§! x[?project_build_amount^6] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_6_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^6] dny\n\nPočáteční náklady: [?project_monetary_cost^6]\nID projektu: 6\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_6_decision: "[AC_GetProjectText6]" # todo: NEW TRANSLATION
+  AC_project_6_decision_desc: "[AC_GetProjectDesc6]" # todo: NEW TRANSLATION
+  AC_project_6_target_decision: "§Y[FROM.AC_GetConstructionTypeProject6]§! x[From.AC_GetProject6Amount] v [From.AC_GetProjectState6]" # todo: NEW TRANSLATION
+  AC_project_6_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject6Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 6" # todo: NEW TRANSLATION
+  AC_project_7_text: "§Y[AC_GetConstructionTypeProject7]§! x[?project_build_amount^7] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_7_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^7] dny\n\nPočáteční náklady: [?project_monetary_cost^7]\nID projektu: 7\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_7_decision: "[AC_GetProjectText7]" # todo: NEW TRANSLATION
+  AC_project_7_decision_desc: "[AC_GetProjectDesc7]" # todo: NEW TRANSLATION
+  AC_project_7_target_decision: "§Y[From.AC_GetConstructionTypeProject7]§! x[From.AC_GetProject7Amount] v [From.AC_GetProjectState7]" # todo: NEW TRANSLATION
+  AC_project_7_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject7Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 7" # todo: NEW TRANSLATION
+  AC_project_8_text: "§Y[AC_GetConstructionTypeProject8]§! x[?project_build_amount^8] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_8_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^8] dny\n\nPočáteční náklady: [?project_monetary_cost^8]\nID projektu: 8\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_8_decision: "[AC_GetProjectText8]" # todo: NEW TRANSLATION
+  AC_project_8_decision_desc: "[AC_GetProjectDesc8]" # todo: NEW TRANSLATION
+  AC_project_8_target_decision: "§Y[From.AC_GetConstructionTypeProject8]§! x[From.AC_GetProject8Amount] v [From.AC_GetProjectState8]" # todo: NEW TRANSLATION
+  AC_project_8_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject8Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 8" # todo: NEW TRANSLATION
+  AC_project_9_text: "§Y[AC_GetConstructionTypeProject9]§! x[?project_build_amount^9] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_9_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^9] dny\n\nPočáteční náklady: [?project_monetary_cost^9]\nID projektu: 9\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_9_decision: "[AC_GetProjectText9]" # todo: NEW TRANSLATION
+  AC_project_9_decision_desc: "[AC_GetProjectDesc9]" # todo: NEW TRANSLATION
+  AC_project_9_target_decision: "§Y[From.AC_GetConstructionTypeProject9]§! x[From.AC_GetProject9Amount] v [From.AC_GetProjectState9]" # todo: NEW TRANSLATION
+  AC_project_9_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject9Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 9" # todo: NEW TRANSLATION
+  AC_project_10_text: "§Y[AC_GetConstructionTypeProject10]§! x[?project_build_amount^10] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_10_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^10] dny\n\nPočáteční náklady: [?project_monetary_cost^10]\nID projektu: 10\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_10_decision: "[AC_GetProjectText10]" # todo: NEW TRANSLATION
+  AC_project_10_decision_desc: "[AC_GetProjectDesc10]" # todo: NEW TRANSLATION
+  AC_project_10_target_decision: "§Y[From.AC_GetConstructionTypeProject10]§! x[From.AC_GetProject10Amount] v [From.AC_GetProjectState10]" # todo: NEW TRANSLATION
+  AC_project_10_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject10Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 10" # todo: NEW TRANSLATION
+  AC_project_11_text: "§Y[AC_GetConstructionTypeProject11]§! x[?project_build_amount^11] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_11_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^11] dny\n\nPočáteční náklady: [?project_monetary_cost^11]\nID projektu: 11\nKliknutím pravým tlačítkem zobrazíte cílový stav.\n" # todo: NEW TRANSLATION
+  AC_project_11_decision: "[AC_GetProjectText11]" # todo: NEW TRANSLATION
+  AC_project_11_decision_desc: "[AC_GetProjectDesc11]" # todo: NEW TRANSLATION
+  AC_project_11_target_decision: "§Y[From.AC_GetConstructionTypeProject11]§! x[From.AC_GetProject11Amount] v [From.AC_GetProjectState11]" # todo: NEW TRANSLATION
+  AC_project_11_target_decision_desc: "\nZemě: [From.GetName]\nPořadí výstavby: [From.AC_GetProject11Amount]\n\nVybráním tohoto rozhodnutí zrušíte stavební projekt.\n\nKliknutím pravým tlačítkem zobrazíte cílový stav.\nID projektu: 11" # todo: NEW TRANSLATION
+  AC_project_12_text: "§Y[AC_GetConstructionTypeProject12]§! x[?project_build_amount^12] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_12_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^12] dní\n\nPočáteční náklady: [?project_monetary_cost^12]\nID projektu: 12\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\n" # todo: NEW TRANSLATION
+  AC_project_12_decision: "[AC_GetProjectText12]" # todo: NEW TRANSLATION
+  AC_project_12_decision_desc: "[AC_GetProjectDesc12]" # todo: NEW TRANSLATION
+  AC_project_12_target_decision: "§Y[From.AC_GetConstructionTypeProject12]§! x[From.AC_GetProject12Amount] v [From.AC_GetProjectState12]" # todo: NEW TRANSLATION
+  AC_project_12_target_decision_desc: "\nZemě: [From.GetName]\nFronta výstavby: [From.AC_GetProject12Amount]\n\nVybráním tohoto rozhodnutí se zruší stavební projekt.\n\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\nID projektu: 12" # todo: NEW TRANSLATION
+  AC_project_13_text: "§Y[AC_GetConstructionTypeProject13]§! x[?project_build_amount^13] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_13_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^13] dní\n\nPočáteční náklady: [?project_monetary_cost^13]\nID projektu: 13\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\n" # todo: NEW TRANSLATION
+  AC_project_13_decision: "[AC_GetProjectText13]" # todo: NEW TRANSLATION
+  AC_project_13_decision_desc: "[AC_GetProjectDesc13]" # todo: NEW TRANSLATION
+  AC_project_13_target_decision: "§Y[From.AC_GetConstructionTypeProject13]§! x[From.AC_GetProject13Amount] v [From.AC_GetProjectState13]" # todo: NEW TRANSLATION
+  AC_project_13_target_decision_desc: "\nZemě: [From.GetName]\nFronta výstavby: [From.AC_GetProject13Amount]\n\nVybráním tohoto rozhodnutí se zruší stavební projekt.\n\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\nID projektu: 13" # todo: NEW TRANSLATION
+  AC_project_14_text: "§Y[AC_GetConstructionTypeProject14]§! x[?project_build_amount^14] v [From.GetName]" # todo: NEW TRANSLATION
+  AC_project_14_desc: "\nCelková doba výstavby: [?project_total_construction_duration_display^14] dní\n\nPočáteční náklady: [?project_monetary_cost^14]\nID projektu: 14\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\n" # todo: NEW TRANSLATION
+  AC_project_14_decision: "[AC_GetProjectText14]" # todo: NEW TRANSLATION
+  AC_project_14_decision_desc: "[AC_GetProjectDesc14]" # todo: NEW TRANSLATION
+  AC_project_14_target_decision: "§Y[From.AC_GetConstructionTypeProject14]§! x[From.AC_GetProject14Amount] v [From.AC_GetProjectState14]" # todo: NEW TRANSLATION
+  AC_project_14_target_decision_desc: "\nZemě: [From.GetName]\nFronta výstavby: [From.AC_GetProject14Amount]\n\nVybráním tohoto rozhodnutí se zruší stavební projekt.\n\nKlikněte pravým tlačítkem pro zobrazení cílového stavu.\nID projektu: 14" # todo: NEW TRANSLATION
+  AC_construction_CIC: "§YCivilní průmysl§!\nTato budova poskytuje stát průmysl pro výrobu civilních statků nebo výstavbu nových budov. Lze ji převést na vojenský průmysl, pokud je potřeba.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_CIVILIAN_FACTORY]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_CIC_delayed: "§YPředpoklady§!:\n[!AC_building_cic_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_MIC: "§YVojenský průmysl§!\nTato budova poskytuje stát průmysl pro výrobu vojenské výbavy. Lze ji převést na civilní průmysl, pokud je potřeba.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_MILITARY_FACTORY]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_MIC_delayed: "§YPředpoklady§!:\n[!AC_building_mic_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_NIC: "§YNámořní loděnice§!\nTato budova poskytuje stát průmysl pro stavbu nových lodí.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_DOCKYARD]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_NIC_delayed: "§YPředpoklady§!:\n[!AC_building_nic_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_INF: "§YInfrastruktura§!\nTato budova poskytuje stát s vylepšením infrastruktury. Zvyšuje vaši sílu zásob v strategických regionech a zvyšuje rychlost vašich jednotek, stejně jako zvyšuje těžbu surovin.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_INFRASTRUCTURE]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_INF_delayed: "§YPředpoklady§!:\n[!AC_building_infra_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_offices: "§YKancelářský sektor§!\nKancelářské sektory představují všechny ostatní průmysly ekonomiky mimo výzkum a těžký průmysl. Zahrnují finanční, zákaznické služby, informační technologie, maloobchod a mnoho dalších.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_OFFICES]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_offices_delayed: "§YPředpoklady§!:\n[!AC_building_offices_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_AA: "§YStanoviště protivzdušné obrany krátkého dosahu§!\n§YStanoviště protivzdušné obrany krátkého dosahu§!(KRÁTKODOCH) jsou komplexy a skupiny protiletadlových zbraní a taktik, které zajišťují obranu proti hrozbám z nízkoletujících vzdušných cílu. Tato stanoviště spolupracují na rozdělení vzdušného prostoru do obranných oblastí poskytujících místní vojenské cíle a vzdušné pokrytí infrastruktury od všeho, co sahá od vrtulníků po nízkoletící letadla až po stíhačky.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_ANTIAIR]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_AA_delayed: "§YPředpoklady§!:\n[!AC_building_antiair_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_RAD: "§YRadarová stanice§!\nRadarové stanice vám umožňují získat informace o nepřátelských jednotkách v blízkých státech. Skládají se z různých radarů a senzorů, stejně jako zpravodajských aktiv a kapacity analyzovat vývoj situace.\nVyšší úroveň zvětší jejich efektivní dosah.\nJejich radary také poskytují státu lepší detekci nepřátelských leteckých sil, což dává vašim strojům lepší šanci zasáhnout.\nKromě toho radary zvyšují detekci nepřátelských flotil na moři.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_RADAR]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_RAD_delayed: "§YPředpoklady§!:\n[!AC_building_radar_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_AIR: "§YLetiště§!\nTato budova poskytuje státu nasazení pro vaše letecké síly.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_AIRBASE]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_AIR_delayed: "§YPředpoklady§!:\n[!AC_building_airbase_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_fuel_silo: "§YStrategická palivová rezerva§!\nTato budova poskytuje vaší zemi více prostoru pro zásoby paliva §HFuel§!.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_FUEL_SILO]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_fuel_silo_delayed: "§YPředpoklady§!:\n[!AC_building_fuel_silos_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_internet_station: "§YSíťová infrastruktura§!\nSíťová infrastruktura jsou vysoké struktury používané v telekomunikačních a rádiových komunikacích pro posun přenosů na velké vzdálenosti nebo podzemní optické kabely a cloud computing systémy.\n\nKaždá úroveň §YSíťová infrastruktura§! zlepšuje lokální produktivitu o §G+5.00%§!.\nKaždá úroveň §YSíťová infrastruktura§! snižuje trvání §YMezinárodní investice§! o §G-5.00%§!.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_INTERNET_STATION]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_internet_station_delayed: "§YPředpoklady§!:\n[!AC_building_internet_station_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_REF: "§YObnovitelná energetická infrastruktura§!\nObnovitelná energetická infrastruktura je souhrnem všech obnovitelných zdrojů energie. Tyto zahrnují mimo jiné solární parky, větrné turbíny, rafinerie biopaliv, dřevěné植物 a biopalivové elektrárny a další. Jako taková využívá obnovitelné zdroje a vyrábí palivo z těchto zdrojů.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_REFINERY]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_REF_delayed: "§YPředpoklady§!:\n[!AC_building_ref_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_POWER_PLANT: "§YUhelná elektrárna na fosilní paliva§!\nElektrárna na fosilní paliva je souhrn pro všechny elektrárny na bázi fosilních paliv. Tyto zahrnují uhlí, zemní plyn a ropu.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_FOSSIL_POWERPLANT]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_POWER_PLANT_delayed: "§YPředpoklady§!:\n[!AC_building_power_plant_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_NUCLEAR_REACTOR: "§Jaderná reaktor§!\nBudova jaderného reaktoru přeměňuje jadernou energii na elektrickou energii, při čemž spotřebovává mírně obohacený uran.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_NUCLEAR_REACTOR]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_NUCLEAR_REACTOR_delayed: "§YPředpoklady§!:\n[!AC_building_nuclear_reactor_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_construction_AGRICULTURE_DISTRICT: "§YKomerční zemědělský distrikt§!\nKomerční zemědělský distrikt představuje souhrn všech nek výdajových zemědělských praktik v naší zemi. Zahrnuje agro-průmysl, obdělávané půdy, obilní sila, jatky a další.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_AGRICULTURE_DISTRICT]§! miliard" # todo: NEW TRANSLATION
+  AC_construction_AGRICULTURE_DISTRICT_delayed: "§YPředpoklady§!:\n[!AC_building_agriculture_district_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_down_arrow_tt: "Skrýt rozhraní §YInvestice§!" # todo: NEW TRANSLATION
+  AC_up_arrow_tt: "Zobrazit rozhraní §YInvestice§!" # todo: NEW TRANSLATION
+  AC_build_amount_green: "[?ROOT.project_build_amount^-1]" # todo: NEW TRANSLATION
+  AC_build_amount_red: "§R[?ROOT.project_build_amount^-1]§!" # todo: NEW TRANSLATION
+  AC_building_amount_increase_button_tt: "Zvolte, kolik budov vybraného typu chcete postavit v tomto státu.\n\n§LMaximální množství závisí na budově, volných slotech ve státu a vašich technologiích.§!" # todo: NEW TRANSLATION
+  AC_project_being_cancelled: "Projekt zrušen" # todo: NEW TRANSLATION
+  AC_build_cost_text_tt: "[?ROOT.project_monetary_cost^-1] miliard" # todo: NEW TRANSLATION
+  AC_time_text_tt: "[?ROOT.project_total_construction_duration^-1] dní" # todo: NEW TRANSLATION
+  patience_young_one_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! momentálně zvažuje §Cnabídku investice§! od §Y[ROOT.GetNameWithFlag]§!. Počkejte, až nabídku přijmou nebo zamítnou.\n" # todo: NEW TRANSLATION
+  this_investment_offer_pending_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! momentálně nezvažuje žádnou §Cnabídku investice§! od §Y[ROOT.GetNameWithFlag]§!.\n\n§YPoznámka vývojáře:§! Někdy může dojít k zablokování kvůli špatnému výkonu během multiplayerové hry. Požádejte o pokračování 90 dní (tři měsíce), než nahlásíte chyby v tomto stavu." # todo: NEW TRANSLATION
+  has_available_treasury_tt: "§YPokladna§! má více než $$§Y[?ROOT.project_monetary_cost^-1]§! miliard (Aktuálně: $$§G[?ROOT.treasury]§! miliard)\n" # todo: NEW TRANSLATION
+  AC_build_button_text: "[AC_GetBuildButtonText]" # todo: NEW TRANSLATION
+  AC_start_project: "Investovat" # todo: NEW TRANSLATION
+  AC_cancel_project: "Zrušit" # todo: NEW TRANSLATION
+  AC_standby_project: "Analyzování" # todo: NEW TRANSLATION
+  AC_standby_project_desc: "[THIS.GetName] analyzuje naši žádost" # todo: NEW TRANSLATION
+  AC_build_button_tt: "[AC_GetBuildButtonTT]" # todo: NEW TRANSLATION
+  AC_build_button_tt_1: "Investing in construction projects will increase your influence with the targeted country and provide investment income for your country.\n\n§YObě úrovně korupce země a infrastruktury státu ovlivní celkovou dobu výstavby. Výstavba má výchozí prodloužení doby o 35 %, bez ohledu na modifikátory.§!\n\n§LPokud cílová země přijme vaši nabídku na investici, na konci období výstavby získá tuto stavbu.§!\nAI zamítne investice, pokud mají problémy s ekonomikou nebo jejich domácí vliv je příliš nízký.\n\n[investment_cooldown]" # todo: NEW TRANSLATION
+  AC_build_button_tt_delayed: "§YPředpoklady§!:\n[!AC_build_button_click_enabled]" # todo: NEW TRANSLATION
+  AC_14_cooldown_tt: "Pokud ji země přijme, začne platit §Y14denní§! časovač, který začne přijetím. Během této doby nebudete získávat více vlivu bez ohledu na to, kolik peněz do této země vložíte." # todo: NEW TRANSLATION
+  AC_30_cooldown_tt: "Pokud ji země přijme, začne platit §Y30denní§! časovač, který začne přijetím. Během této doby nebudete získávat více vlivu bez ohledu na to, kolik peněz do této země vložíte." # todo: NEW TRANSLATION
+  AC_build_button_tt_2: "Zrušit aktivní projekt (v tomto státu můžete denně provést jen jednu investici)." # todo: NEW TRANSLATION
+  AC_build_button_tt_b: "Stisknutím tohoto tlačítka požádáte o povolení u správce státu. Pokud souhlasí, stavební projekt začne v záložce vašich rozhodnutí. Tento projekt se bude opakovat, dokud nebudou dokončeny všechny naplánované budovy.\n\n§YRychlost výstavby bude mít penalizaci -25 % oproti obvyklé (platí modifikátory rychlosti výstavby vaší země).§![From.AC_GetPoliticalPowerCost]\n\n§LMůžete mít jen jeden aktivní stavební projekt najednou.\n\nStát nemůže mít aktivní stavební projekt z více zemí.\n\nSprávce tohoto státu ho odmítne, pokud o vás má záporný názor.§!" # todo: NEW TRANSLATION
+  ac_influence_icon_tooltip: "[AC_GainTooltip]" # todo: NEW TRANSLATION
+  influence_gain_tooltip_yes_tt: "Získáme vliv touto investiční akcí.\n\n[investment_cooldown]" # todo: NEW TRANSLATION
+  influence_gain_tooltip_no_tt: "Nezískáme vliv touto investiční akcí.\n" # todo: NEW TRANSLATION
+  AC_event.1.t: "Investiční nabídka od [From.GetNameWithFlag]" # todo: NEW TRANSLATION
+  AC_event.1.d: "[From.GetName] navrhuje postavit [?FROM.project_build_amount^-1]x [From.AC_GetConstructionType] ve [?FROM.AC_state_target.GetName].\n\nOdhadované celkové náklady na projekt činí $$[?FROM.project_monetary_cost^-1] miliard. Bude to trvat odhadovaných [?FROM.project_construction_duration^-1] dní, než bude tento projekt dokončen. [From.GetName] nám nabízí dohodu, při které přispějeme 10 % celkové částky výstavby. [From.GetNameWithFlag] může z této práce získat vliv. [FROM.GetNameWithFlag] z tohoto projektu bude profitovat.\n\n\nDny do dokončení: [?FROM.project_construction_duration^-1]\nCelkové náklady na projekt ([FROM.GetNameWithFlag]): $[?FROM.project_monetary_cost^-1] miliard\nTyp stavby: [From.AC_GetConstructionType]\nNáklady investora ([THIS.GeTNameWithFlag]): $$[?investor_cost]\nLokalita: [?FROM.AC_state_target.GetName]" # todo: NEW TRANSLATION
+  AC_event.1.o1: "Přijmout nabídku" # todo: NEW TRANSLATION
+  AC_event.1.o2: "Odmítnout nabídku" # todo: NEW TRANSLATION
+  AC_event.2.t: "Stavební povolení zamítnuto" # todo: NEW TRANSLATION
+  AC_event.2.d: "Obdrželi jsme zamítnutí od našeho potenciálního nového investičního partnera. Je neuvěřitelné, že by odmítli náš projekt! Není to tak, že bychom získali vliv nebo kontrolu nad jejich vládou tím, že bychom pomohli rozvíjet jejich zemi? No nic, investiční dohoda s [FROM.GetName] se ve [?FROM.AC_state_target.GetName] zhroutila, takže bychom mohli poslat někoho jiného s nabídkou investice." # todo: NEW TRANSLATION
+  AC_event.2.o1: "Možná je to jejich soused..." # todo: NEW TRANSLATION
+  AC_event.3.t: "Stavební projekt zrušen" # todo: NEW TRANSLATION
+  AC_event.3.d: "Bohužel jsme nemohli dokončit naši investiční dohodu s našimi přáteli z [FROM.GetName]. Existuje mnoho potenciálních důvodů, ať už souvisejících se vztahy s vládou, nedostatkem financí, nebo možná jen obecný nezájem místních obyvatel. Můžeme to zkusit znovu později." # todo: NEW TRANSLATION
+  AC_event.3.o1: "Jejich ztráta!" # todo: NEW TRANSLATION
+  AC_cancel_investment_tt: "Zrušit následující investici od [From.GetName]:" # todo: NEW TRANSLATION
+  AC_build_cost_tt: "§YNáklady zahraničních investic§!\n\n§YNáklady zahraničních investic§! §gje počáteční náklad projektu, který zvažujeme zahájit. Je přímo odebrán z pokladny naší země a přidán k našim§! §YMezinárodním investicím§! §gupon přijetí projektu.§!\n\n§gPokud jste právě klikli z jiné země nebo státu, ujistěte se, že zvýšíte počet budov nebo klikněte na jinou budovu pro aktualizaci náhledu a zobrazení skutečných nákladů.§!\n\n§gKorupce, národní ideje a další mohou ovlivnit náklady na investiční projekt. Korupce země, do které investujete, zvýší náklady na projekt v závislosti na její úrovni korupce.§!" # todo: NEW TRANSLATION
+  AC_build_cost_tt_delayed: "Modifikátory:\n§YNáklady na investici do [PREV.CONTROLLER.GetNamewithFlag]:§! [?ROOT.displayable_monetary_cost_modifier|%0-] \n" # todo: NEW TRANSLATION
+  AC_clock_tt: "§YDoba dokončení investice§! [?ROOT.project_total_construction_duration_display^-1] Dnů\n\n§YDoba dokončení investice§! §gDoba trvání projektu je součtem doby, která zabere dokončení navrhovaného projektu v [PREV.GetName]. Čím více budov nabízíte §Y[PREV.CONTROLLER.GetNamewithFlag]§!, tím déle projekt potrvá.§!\n\n§gPokud jste právě klikli z jiné země nebo státu, ujistěte se, že zvýšíte počet budov nebo klikněte na jinou budovu pro aktualizaci náhledu a zobrazení skutečných nákladů.§!\n" # todo: NEW TRANSLATION
+  AC_clock_tt_delayed: "Modifikátory:\n[AC_GetInfrastructure]\n§YZměna investice do [PREV.CONTROLLER.GetNamewithFlag]:§! [?ROOT.displayable_construction_modifier|%]\n" # todo: NEW TRANSLATION
+  AC_page_up: "Další stránka" # todo: NEW TRANSLATION
+  AC_ITA_wasted_foreign_funds_time: "Pozor, §YMafia infiltrace investičních projektů§! může způsobit, že doby výstavby se prodlouží až o §R+200%§!\n" # todo: NEW TRANSLATION
+  AC_ITA_wasted_foreign_funds: "Pozor, §YMafia infiltrace investičních projektů§! může způsobit zvýšení nákladů až o §R+200%§!\n" # todo: NEW TRANSLATION
+  AC_Infrastructure_0: "§YInfrastruktura§! Úroveň 0 §R+50%§!" # todo: NEW TRANSLATION
+  AC_Infrastructure_1: "§YInfrastruktura§! Úroveň 1 §R+40%§!" # todo: NEW TRANSLATION
+  AC_Infrastructure_2: "§YInfrastruktura§! Úroveň 2 §R+30%§!" # todo: NEW TRANSLATION
+  AC_Infrastructure_3: "§YInfrastruktura§! Úroveň 3 §R+20%§!" # todo: NEW TRANSLATION
+  AC_Infrastructure_4: "§YInfrastruktura§! Úroveň 4 §R+10%§!" # todo: NEW TRANSLATION
+  AC_Infrastructure_5: "§YInfrastruktura§! Úroveň 5 §R+0%§!" # todo: NEW TRANSLATION
+  AC_construction_opinion4: "Nedávno investováno" # todo: NEW TRANSLATION
+  disabled_foreign_investment_flag_tt: "§Y[ROOT.GetNameWithFlag]§! může investovat do jiných zemí.\n" # todo: NEW TRANSLATION
+  int_auto_reject_investment_flag_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! momentálně neautomaticky odmítá nabídky" # todo: NEW TRANSLATION
+  state_based_investments_screen_tt: "§HVnitřní investice§!" # todo: NEW TRANSLATION
+  check_for_investment_project_limits_tt: "Aktuálně máte k dispozici §HInterní investiční§! slot (Volné projekty: [current_state_owned_investment_projects] / [maximum_state_owned_investment_projects])" # todo: NEW TRANSLATION
+  state_based_investments_screen_delayed_tt: "Menu níže je souborem rozhodnutí, která můžete učinit pro podporu různých typů rozvoje ve [THIS.GetName]. Všechny země budou mít minimálně dva volné sloty, které mohou využít pro jakýkoli stát ve své zemi. Můžete provádět více projektů v jednom státě nebo rozložit projekty po celé zemi. Získat další sloty lze zvýšením síly vaší země §YPower Ranking§!\n\nSloty podle síly:\n- §YSupervelmoc§!: 6\n- §YVelká moc§!: 5\n- §YHlavní moc§!: 4\n- §YRegionální moc§!: 3\n" # todo: NEW TRANSLATION
+  available_internal_investments_screen_tt: "K dispozici §HInterní investice§! Sloty: [current_state_owned_investment_projects] / [maximum_state_owned_investment_projects]" # todo: NEW TRANSLATION
+  available_internal_investments_tt: "Všechny národy budou mít minimálně dva volné sloty, které mohou využít pro jakékoli státy po celé zemi. Můžete provádět více projektů v jednom státě nebo rozložit projekty po celé zemi. Můžete získat další sloty zvýšením síly vaší země §YPower Ranking§!\n\nProbíhající projekty:\n[ROOT.state_owned_investment_timer_six][ROOT.state_owned_investment_timer_five][ROOT.state_owned_investment_timer_four][ROOT.state_owned_investment_timer_three][ROOT.state_owned_investment_timer_two][ROOT.state_owned_investment_timer_one]" # todo: NEW TRANSLATION
+  state_owned_investment_timer_one_tt: "Projekt v §Y[?var:state_owned_investments_project_one_state.GetName]§! Zbývající dny: [?state_owned_investments_project_one:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_one_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_investment_timer_two_tt: "Projekt v §Y[?var:state_owned_investments_project_two_state.GetName]§! Zbývající dny: [?state_owned_investments_project_two:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_two_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_investment_timer_three_tt: "Projekt v §Y[?var:state_owned_investments_project_three_state.GetName]§! Zbývající dny: [?state_owned_investments_project_three:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_three_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_investment_timer_four_tt: "Projekt v §Y[?var:state_owned_investments_project_four.GetName]§! Zbývající dny: [?state_owned_investments_project_four:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_four_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_investment_timer_five_tt: "Projekt v §Y[?var:state_owned_investments_project_five_state.GetName]§! Zbývající dny: [?state_owned_investments_project_five:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_five_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_investment_timer_six_tt: "Projekt v §Y[?var:state_owned_investments_project_six_state.GetName]§! Zbývající dny: [?state_owned_investments_project_six:days_left|0Y] dní (Dokončovací datum: [?state_owned_investments_project_six_expiration_date.GetDateStringNoHourLong])\n" # todo: NEW TRANSLATION
+  state_owned_local_renewable_capacity_modifier: "Rozšiřování místní obnovitelné kapacity" # todo: NEW TRANSLATION
+  state_owned_local_renewable_capacity_modifier_desc: "Po sérii cílených investic do místní infrastruktury obnovitelné energie nyní stát vyrábí více energie z obnovitelných zdrojů." # todo: NEW TRANSLATION
+  state_owned_local_infrastructure_modifier: "Rozšiřování místní infrastruktury" # todo: NEW TRANSLATION
+  state_owned_local_infrastructure_modifier_desc: "Rozšiřování místní infrastruktury ve státě vedlo k řadě krátkodobých projektů, které podstatně zlepšují místní infrastrukturu." # todo: NEW TRANSLATION
+  state_owned_local_military_infrastructure_modifier: "Rozšiřování místní vojenské infrastruktury" # todo: NEW TRANSLATION
+  state_owned_local_military_infrastructure_modifier_desc: "" # todo: NEW TRANSLATION
+  state_owned_local_energy_infrastructure_modifier: "Rozšiřování místní energetické infrastruktury" # todo: NEW TRANSLATION
+  state_owned_local_energy_infrastructure_modifier_desc: "" # todo: NEW TRANSLATION
+  state_owned_build_forward_logistics_base_modifier: "Postav Frontovou logistickou základnu" # todo: NEW TRANSLATION
+  state_owned_build_forward_logistics_base_modifier_desc: "" # todo: NEW TRANSLATION
+  state_owned_improve_rebuilding_efforts_modifier: "Vylepšené snahy o obnovu" # todo: NEW TRANSLATION
+  state_owned_improve_rebuilding_efforts_modifier_desc: "" # todo: NEW TRANSLATION
+  state_owned_hire_extra_primary_sector_workers_modifier: "Najmout další pracovníky primárního sektoru" # todo: NEW TRANSLATION
+  state_owned_hire_extra_primary_sector_workers_modifier_desc: "" # todo: NEW TRANSLATION
+  currently_encouraged_investments: "Aktuálně §YPodporujeme investice§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  encourage_investments_in_state_tt: "§YPodporovat investice§! v §Y[THIS.GetName]§!\n---------\nMůžeme v §Y[THIS.GetName]§! podpořit investice zkrácením byrokracie v dané oblasti, čímž se doba realizace investice zrychlí více, než by bylo jinak možné." # todo: NEW TRANSLATION
+  encourage_investments_in_state_delayed_tt: "§YPředpoklady:§!\n[!encourage_investments_in_state_click_enabled]\n§YEfekty:§!\n[!encourage_investments_in_state_click]\n" # todo: NEW TRANSLATION
+  encourage_investments_in_state_click_tt: "Na 120 dní budou §YInvestice§! v §Y[THIS.GetName]§! o §Y15%§! levnější. AI bude mít také větší pravděpodobnost investovat do státu." # todo: NEW TRANSLATION
+  encourage_productivity_in_state: "Aktuálně §YPodporujeme produktivitu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  encourage_productivity_in_state_tt: "§YPodpora růstu produktivity§! v §Y[THIS.GetName]§!\n---------\nMůžeme podpořit růst produktivity v §Y[THIS.GetName]§! zavedením nových technologií, technik a dalších prostředků, které regionu pomohou růst." # todo: NEW TRANSLATION
+  encourage_productivity_in_state_delayed_tt: "§YPředpoklady:§!\n[!encourage_productivity_in_state_click_enabled]\n§YEfekty:§!\n[!encourage_productivity_in_state_click]\n" # todo: NEW TRANSLATION
+  encourage_productivity_in_state_click_tt: "Na 120 dní bude §YRůst produktivity§! v §Y[THIS.GetName]§! o §Y20%§! rychlejší." # todo: NEW TRANSLATION
+  expand_local_building_capacity: "Aktuálně §YZvětšujeme místní stavební kapacitu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  block_future_expand_local_building_capacity: "Můžeme §YRozšířit místní kapacitu budov§! v §Y[THIS.GetName]§! (Počet rozšíření kapacity budov: [?expanded_building_slot_times|0Y])" # todo: NEW TRANSLATION
+  expand_local_building_capacity_tt: "§YZvětšit místní stavební kapacitu§! v §Y[THIS.GetName]§!\n---------\nMůžeme rozšířit místní stavební kapacitu zavedením různých místních stavebních politik, vyklizením dalšího pozemku a rozšířením dostupných zdrojů pro místní stavitele." # todo: NEW TRANSLATION
+  expand_local_building_capacity_delayed_tt: "§YPředpoklady:§!\n[!expand_local_building_capacity_click_enabled]\n§YEfekty:§!\n[!expand_local_building_capacity_click]\n" # todo: NEW TRANSLATION
+  expand_local_building_capacity_click_tt: "Každých 120 dní získáme §G1§! §YStavební slot§! v §Y[THIS.GetName]§!. Můžeme rozšířit §YStavební sloty§! v daném státu až na §Y5§!." # todo: NEW TRANSLATION
+  expand_local_renewable_capacity: "Aktuálně §YZvětšujeme místní obnovitelnou kapacitu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  expand_local_renewable_capacity_tt: "§YZvětšit místní obnovitelnou kapacitu§! v §Y[THIS.GetName]§!\n---------\nMěli bychom podpořit infrastrukturu obnovitelné energie v §Y[THIS.GetName]§!, aby přinášela dodatečnou energii z místní obnovitelné sítě." # todo: NEW TRANSLATION
+  expand_local_renewable_capacity_delayed_tt: "§YPředpoklady:§!\n[!expand_local_renewable_capacity_click_enabled]\n§YEfekty:§!\n[!expand_local_renewable_capacity_click]\n" # todo: NEW TRANSLATION
+  expand_local_renewable_capacity_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:\n" # todo: NEW TRANSLATION
+  expand_local_infrastructure: "Aktuálně §YZvětšujeme místní infrastrukturu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  expand_local_infrastructure_tt: "§YZvětšit místní infrastrukturu§! v §Y[THIS.GetName]§!\n---------\nInfrastruktura ve §Y[THIS.GetName]§! zaostává. Měli bychom navrhnout cílené krátkodobé projekty k rozšíření infrastruktury ve státě, aby podpořily a rozšířily místní rozvoj státu." # todo: NEW TRANSLATION
+  expand_local_infrastructure_delayed_tt: "§YPředpoklady:§!\n[!expand_local_infrastructure_click_enabled]\n§YEfekty:§!\n[!expand_local_infrastructure_click]\n" # todo: NEW TRANSLATION
+  expand_local_infrastructure_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:" # todo: NEW TRANSLATION
+  expand_local_military_infrastructure: "Aktuálně §YZvětšujeme místní vojenskou infrastrukturu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  expand_local_military_infrastructure_tt: "§YZvětšit místní vojenskou infrastrukturu§! v §Y[THIS.GetName]§!\n---------\nVojenské složky oslovily vládu a identifikovaly potenciální stavební lokality ve §Y[THIS.GetName]§!. Navrhli rozšíření místní vojenské infrastruktury zde, aby byla vojenská v regionu adekvátně podporována v případě konfliktu v dané oblasti." # todo: NEW TRANSLATION
+  expand_local_military_infrastructure_delayed_tt: "§YPředpoklady:§!\n[!expand_local_military_infrastructure_click_enabled]\n§YEfekty:§!\n[!expand_local_military_infrastructure_click]\n" # todo: NEW TRANSLATION
+  expand_local_military_infrastructure_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:" # todo: NEW TRANSLATION
+  expand_local_energy_infrastructure: "Aktuálně §YZvětšujeme místní energetickou infrastrukturu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  expand_local_energy_infrastructure_tt: "§YZvětšit místní energetickou infrastrukturu§! v §Y[THIS.GetName]§!\n---------\nMístní energetika v §Y[THIS.GetName]§! může být rozšířena, aby lépe podpořila obyvatele regionu a zároveň posílila národní energetickou síť." # todo: NEW TRANSLATION
+  expand_local_energy_infrastructure_delayed_tt: "§YPředpoklady:§!\n[!expand_local_energy_infrastructure_click_enabled]\n§YEfekty:§!\n[!expand_local_energy_infrastructure_click]\n" # todo: NEW TRANSLATION
+  expand_local_energy_infrastructure_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:" # todo: NEW TRANSLATION
+  build_forward_logistics_base: "Aktuálně §YPostav Frontovou logistickou základnu§! ve §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  build_forward_logistics_base_tt: "§YPostav Frontovou logistickou základnu§! ve §Y[THIS.GetName]§!\n---------\nStát je momentálně poněkud odpojen od naší primární logistiky. Měli bychom zvážit vybudování frontových logistických základen, abychom podpořili jednotky nasazené v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  build_forward_logistics_base_delayed_tt: "§YPožadavky:§!\n[!build_forward_logistics_base_click_enabled]\n§YEfekty:§!\n[!build_forward_logistics_base_click]\n" # todo: NEW TRANSLATION
+  build_forward_logistics_base_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:\n" # todo: NEW TRANSLATION
+  improve_rebuilding_efforts: "Aktuálně §YZlepšujeme úsilí na obnovu§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  improve_rebuilding_efforts_tt: "§YZlepšit úsilí o obnovu§! v §Y[THIS.GetName]§!\n---------\nNyní, když je §Y[THIS.GetName]§! plně pod naší kontrolou, měli bychom se zaměřit na posílení snah o obnovu v regionu, aby obyvatelstvo mohlo pokračovat bez omezení." # todo: NEW TRANSLATION
+  improve_rebuilding_efforts_delayed_tt: "§YPožadavky:§!\n[!improve_rebuilding_efforts_click_enabled]\n§YEfekty:§!\n[!improve_rebuilding_efforts_click]\n" # todo: NEW TRANSLATION
+  improve_rebuilding_efforts_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:\n" # todo: NEW TRANSLATION
+  hire_extra_primary_sector_workers: "Aktuálně §Ynajímáme další pracovníky primárního sektoru§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  hire_extra_primary_sector_workers_tt: "§YZaměstnat další pracovníky primárního sektoru§! v §Y[THIS.GetName]§!\n---------\nVýroba surovin v §Y[THIS.GetName]§! nesplňuje očekávaný výstup země. Měli bychom zvážit najmutí dalších pracovníků primárního sektoru, aby pomohli s produkcí surovin." # todo: NEW TRANSLATION
+  hire_extra_primary_sector_workers_delayed_tt: "§YPožadavky:§!\n[!hire_extra_primary_sector_workers_click_enabled]\n§YEfekty:§!\n[!hire_extra_primary_sector_workers_click]\n" # todo: NEW TRANSLATION
+  hire_extra_primary_sector_workers_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:\n" # todo: NEW TRANSLATION
+  improve_local_conservation_efforts: "Aktuálně §YZlepšujeme místní snahy o ochranu přírody§! v §Y[THIS.GetName]§!." # todo: NEW TRANSLATION
+  improve_local_conservation_efforts_tt: "§YZlepšit místní snahy o ochranu§! v §Y[THIS.GetName]§!\n---------\nMěli bychom zvážit zlepšení místních ochranářských snah v §Y[THIS.GetName]§!, aby se pomohlo chránit místní ekosystém a divokou zvěř, a zároveň ." # todo: NEW TRANSLATION
+  improve_local_conservation_efforts_delayed_tt: "§YPožadavky:§!\n[!improve_local_conservation_efforts_click_enabled]\n§YEfekty:§!\n[!improve_local_conservation_efforts_click]\n" # todo: NEW TRANSLATION
+  improve_local_conservation_efforts_click_tt: "Na 120 dní získáme následující v §Y[THIS.GetName]§!:\nPostihy plynoucí z §YAmazonského deštného pralesa - Místní snahy o ochranu§! jsou sníženy o §G-25%§!." # todo: NEW TRANSLATION

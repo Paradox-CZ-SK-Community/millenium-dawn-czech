@@ -1,14 +1,23 @@
 ﻿l_english:
- Houthi.threat: "Jemenská občanská válka" # todo: NEW TRANSLATION
- ISIS.threat: "Džihád v Iráku a Levantě" # todo: NEW TRANSLATION
- Libyan_Civil_War.threat: "Libyjská občanská válka" # todo: NEW TRANSLATION
- Syrian_Civil_War.threat: "Syrská občanská válka" # todo: NEW TRANSLATION
- threat_SOV_second_chechen_war: "Druhá čečenská válka" # todo: NEW TRANSLATION
- MD_Soundtrack_TITLE: "MD Soundtrack" # todo: NEW TRANSLATION
- l_click: "£left_mouse_texticon §YL Klik levým tlačítkem§!" # todo: NEW TRANSLATION
- shift_l_click: "£shift_texticon + £left_mouse_texticon §YShift + levé kliknutí§!" # todo: NEW TRANSLATION
- ctrl_l_click: "£ctrl_texticon + £left_mouse_texticon §YCtrl + levé kliknutí§!" # todo: NEW TRANSLATION
- r_click: "£right_mouse_texticon §YKlik pravým tlačítkem§!" # todo: NEW TRANSLATION
- ctrl_r_click: "£ctrl_texticon + £right_mouse_texticon §YCtrl + pravé kliknutí§!" # todo: NEW TRANSLATION
- shift_r_click: "£shift_texticon + £right_mouse_texticon §YShift + pravé kliknutí§!" # todo: NEW TRANSLATION
- SLOTS_DESC: "POJĎMEEEEEEE" # todo: NEW TRANSLATION
+  Houthi.threat: "Občanská válka v Jemenu" # todo: NEW TRANSLATION
+  ISIS.threat: "Džihád v Iráku a Levantu - Vzestup ISIS" # todo: NEW TRANSLATION
+  Libyan_Civil_War.threat: "Občanská válka v Libyi" # todo: NEW TRANSLATION
+  IRQ_Iran_civil_war.threat: "Třetí povstání iráckých šíitů" # todo: NEW TRANSLATION
+  IRQ_Iran_coup_civil_war.threat: "Povstání iráckých ba'athistů" # todo: NEW TRANSLATION
+  Syrian_Civil_War.threat: "Občanská válka v Sýrii" # todo: NEW TRANSLATION
+  threat_SOV_second_chechen_war: "Druhá čečenská válka" # todo: NEW TRANSLATION
+  MD_Soundtrack_TITLE: "MD Soundtrack" # todo: NEW TRANSLATION
+  MD_fm_habibi_TITLE: "Váněk Východu" # todo: NEW TRANSLATION
+  MD_regional_music_TITLE: "Regionální soundtrack" # todo: NEW TRANSLATION
+  MD_ukrwar_music_TITLE: "Seznam skladeb: Válka na Ukrajině" # todo: NEW TRANSLATION
+  MD_synthwave_music_TITLE: "Seznam skladeb synthwave" # todo: NEW TRANSLATION
+  l_click: "£click_left §YL Klik§!" # todo: NEW TRANSLATION
+  shift_l_click: "£key_shift + £click_left §YShift + levé kliknutí§!" # todo: NEW TRANSLATION
+  ctrl_l_click: "£key_ctrl + £click_left §YCtrl + levé kliknutí§!" # todo: NEW TRANSLATION
+  r_click: "£click_right §YPravé kliknutí§!" # todo: NEW TRANSLATION
+  ctrl_r_click: "£key_ctrl + £click_right §YCtrl + pravé kliknutí§!" # todo: NEW TRANSLATION
+  shift_r_click: "£key_shift + £click_right §YShift + pravé kliknutí§!" # todo: NEW TRANSLATION
+  SLOTS_DESC: "JDEMEEEEEEEE" # todo: NEW TRANSLATION
+  available_scientist_tt: "§GDostupný§! jako §YVědec§!:" # todo: NEW TRANSLATION
+  available_scientist_one_line_tt: "$available_scientist_tt$ §Y$CHARACTER$§!" # todo: NEW TRANSLATION
+  current_effect_tooltip: "Aktuální efekt:" # todo: NEW TRANSLATION

@@ -1,211 +1,208 @@
 ﻿l_english:
- switzerland_focus: "Švýcarské zaměření" # todo: NEW TRANSLATION
- swiss_alliance: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
- SWI_strengthen_the_government: "Posílit vládu" # todo: NEW TRANSLATION
- SWI_strengthen_the_government_desc: "Při snaze posílit naši vládu musíme nejprve zvážit reformy vlády a správy." # todo: NEW TRANSLATION
- SWI_join_the_united_nations: "Vstoupit do Organizace spojených národů" # todo: NEW TRANSLATION
- SWI_join_the_united_nations_desc: "Švýcarsko se dosud rozhodlo nestát se plnoprávným členem OSN a zvolilo si místo toho pozorovatelský status. Nyní si populace přeje, aby se to změnilo. Švýcarsko by mělo uspořádat referendum a následně potvrdit svůj vstup na plnoprávné členství v OSN." # todo: NEW TRANSLATION
- SWI_economic_independence: "Ekonomická nezávislost" # todo: NEW TRANSLATION
- SWI_economic_independence_desc: "Musíme zajistit, že pro naši ekonomickou bezpečnost budeme spoléhat jen na sebe sami." # todo: NEW TRANSLATION
- SWI_seek_eu_membership: "Utěsnění vztahů s EU" # todo: NEW TRANSLATION
- SWI_seek_eu_membership_desc: "Musíme se více integrovat se svými evropskými sousedy. Získáme investici od EU." # todo: NEW TRANSLATION
- SWI_strengthen_the_fdfa: "Posílit FDFA" # todo: NEW TRANSLATION
- SWI_strengthen_the_fdfa_desc: "Abychom měli všechny možnosti při jednání s různými státy, měli bychom posílit naše ministerstvo zahraničních věcí." # todo: NEW TRANSLATION
- SWI_strengthen_the_fdha: "Posílit FDHA" # todo: NEW TRANSLATION
- SWI_strengthen_the_fdha_desc: "Abychom lépe udrželi stabilitu a bezpečnost doma, musíme zajistit, aby naše ministerstvo vnitřních věcí fungovalo naplno." # todo: NEW TRANSLATION
- SWI_join_schengen: "Připojit se k Schengenu" # todo: NEW TRANSLATION
- SWI_join_schengen_desc: "Vstup do Schengenského prostoru bude skvělým způsobem, jak se více integrovat do evropské komunity." # todo: NEW TRANSLATION
- SWI_maintain_border_controls: "Udržet hraniční kontroly" # todo: NEW TRANSLATION
- SWI_maintain_border_controls_desc: "Musíme udržet suverenitu našeho státu. Je šílené vůbec uvažovat o zrušení našich hranic!" # todo: NEW TRANSLATION
- SWI_international_neutrality: "Mezinárodní neutralita" # todo: NEW TRANSLATION
- SWI_international_neutrality_desc: "Naše neutralita je tradice sahající až do roku 1815 a je to něco, co si náš lid velmi cení. Budeme v tom pokračovat!" # todo: NEW TRANSLATION
- SWI_declare_the_end_of_swiss_neutrality: "Prohlásit konec švýcarské neutrality" # todo: NEW TRANSLATION
- SWI_declare_the_end_of_swiss_neutrality_desc: "Ačkoliv nás neutralita učinila mírumilovnými, také nás oslabila a udělala závislými. Musíme se posunout směrem k většímu posílení." # todo: NEW TRANSLATION
- SWI_reform_the_bureaucracy: "Reformovat byrokracii" # todo: NEW TRANSLATION
- SWI_reform_the_bureaucracy_desc: "Budeme muset odstranit bariéry, které nám brání budovat mezinárodní působení." # todo: NEW TRANSLATION
- SWI_additional_military_facilities: "Další vojenská zařízení" # todo: NEW TRANSLATION
- SWI_additional_military_facilities_desc: "Nikdy neuškodí najít další způsoby, jak se chránit. V nejisté době nás možná zvýšení vojenského sektoru ochrání." # todo: NEW TRANSLATION
- SWI_the_swiss_protection_league: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
- SWI_the_swiss_protection_league_desc: "Je příliš nebezpečné jít do toho o samotě, ale pokud se připojíme k většímu spojenectví, budeme pohlceni. Možná je řešením založení vlastní aliance." # todo: NEW TRANSLATION
- SWI_condemn_factionalism: "Odsoudit frakcionářství" # todo: NEW TRANSLATION
- SWI_condemn_factionalism_desc: "Jediné, co rozpad na malé frakce může přinést, je totální válka. Stalo se to v historii mnohokrát. Švýcarsko to odmítne." # todo: NEW TRANSLATION
- SWI_economic_relations_in_the_alps: "Hospodářské vztahy v Alpách" # todo: NEW TRANSLATION
- SWI_economic_relations_in_the_alps_desc: "Naši alpskí sousedé představují skvělé příležitosti pro investice." # todo: NEW TRANSLATION
- SWI_european_investment_opportunities: "Evropské investiční příležitosti" # todo: NEW TRANSLATION
- SWI_european_investment_opportunities_desc: "Nyní, když jsme otevřeli hranice evropské komunitě, proč neotevřít i naši ekonomiku? Začneme usilovat o investice v Evropě a kolem ní!" # todo: NEW TRANSLATION
- SWI_invite_liechtenstein: "Pozvat Lichtenštejnsko" # todo: NEW TRANSLATION
- SWI_invite_liechtenstein_desc: "Lichtenštejnsko je s námi v dobrém i zlém. Jsou ideálním státem pro přidání do naší aliance." # todo: NEW TRANSLATION
- SWI_invite_austria: "Pozvat Rakousko" # todo: NEW TRANSLATION
- SWI_invite_austria_desc: "S Rakouskem máme mnoho společného, proto by dávalo smysl posílit tento svazek. Rozšíříme jim pozvání do naší aliance." # todo: NEW TRANSLATION
- SWI_nato_investments: "Investice NATO" # todo: NEW TRANSLATION
- SWI_nato_investments_desc: "NATO jako aliance má některé z nejbohatších a nejsilnějších zemí světa mezi členy. Budeme pravidelně dostávat ekonomickou a vojenskou pomoc." # todo: NEW TRANSLATION
- SWI_seek_nato_membership: "Usilovat o členství v NATO" # todo: NEW TRANSLATION
- SWI_seek_nato_membership_desc: "Všichni naši sousedé, kteří mají nějakou moc, se připojili k vojenské alianci NATO. Měli bychom jim jít příkladem, abychom lépe uplatnili naši sílu." # todo: NEW TRANSLATION
- SWI_european_arms_exports: "Evropský vývoz zbraní" # todo: NEW TRANSLATION
- SWI_european_arms_exports_desc: "My Švýcaři jistě máme rádi naše zbraně. Měli bychom tuto část naší kultury sdílet a vyvážet nejkvalitnější zbraně do zbytku Evropy." # todo: NEW TRANSLATION
- SWI_the_alpine_republic: "Alpská republika" # todo: NEW TRANSLATION
- SWI_the_alpine_republic_desc: "Nyní, když jsme upevnili naši alianci a její cíle, můžeme zahájit proces sjednocování našich velkých národů." # todo: NEW TRANSLATION
- SWI_continue_swiss_militarization: "Pokračovat v militarizaci Švýcarska" # todo: NEW TRANSLATION
- SWI_continue_swiss_militarization_desc: "Ačkoliv nás hory chrání, nepostačí to v případě plnohodnotné invaze. V takovém případě se musíme spolehnout sami na sebe. Proto bychom měli zvýšit militarizaci naší země." # todo: NEW TRANSLATION
- SWI_additional_defensive_efforts: "Další obranné úsilí" # todo: NEW TRANSLATION
- SWI_additional_defensive_efforts_desc: "Mohli jsme sjednotit naše alpské bratry, ale boj tím nekončí. Musíme zajistit, že jsme horskou pevností, odolnou vůči všem útokům." # todo: NEW TRANSLATION
- SWI_threaten_liechtenstein: "Vyhrožovat Lichtenštejnsku" # todo: NEW TRANSLATION
- SWI_threaten_liechtenstein_desc: "Mikrostát Lichtenštejnsko je po staletí černou skvrnou na našich hranicích. Měli bychom je jednoduše začlenit do našeho státu. Vydáme ultimátum." # todo: NEW TRANSLATION
- SWI_threaten_austria: "Vyhrožovat Rakousku" # todo: NEW TRANSLATION
- SWI_threaten_austria_desc: "Rakušané jsou slabí a mnohokrát v historii podlehli svému silnějšímu protějšku - Německu. My na ně zaútočíme a převezmeme zbytky." # todo: NEW TRANSLATION
- SWI_the_mountain_fortress: "Horská pevnost" # todo: NEW TRANSLATION
- SWI_the_mountain_fortress_desc: "Nejefektivnější obranou, kterou máme, jsou naše hory. Musíme je vybudovat, pokud chceme udržet obrannou výhodu." # todo: NEW TRANSLATION
- SWI_guns_for_the_population: "Zbraně pro obyvatelstvo" # todo: NEW TRANSLATION
- SWI_guns_for_the_population_desc: "Stát obklopený silnějšími mocnostmi musí mít obyvatelstvo stále připravené bránit své domovy." # todo: NEW TRANSLATION
- SWI_zurich_industrial_project: "Curyšský průmyslový projekt" # todo: NEW TRANSLATION
- SWI_zurich_industrial_project_desc: "Pokud se chceme měřit se sousedy, musíme mít odolný průmyslový sektor." # todo: NEW TRANSLATION
- SWI_strengthen_the_secret_services: "Posílit tajné služby" # todo: NEW TRANSLATION
- SWI_strengthen_the_secret_services_desc: "Tajné služby mohou hodně přispět k odhalování hrozeb vně i uvnitř našeho státu." # todo: NEW TRANSLATION
- SWI_military_investments_1: "Vojenské investice I" # todo: NEW TRANSLATION
- SWI_military_investments_1_desc: "Můžeme být malý stát, ale jen země, která se chce vzdát, by zanedbávala svůj vojenský průmysl." # todo: NEW TRANSLATION
- SWI_geneva_industrial_project: "Ženevský průmyslový projekt" # todo: NEW TRANSLATION
- SWI_geneva_industrial_project_desc: "Ženevě by se vždy hodilo více míst ve fabrikách. Oblast bychom měli kompletně reformovat." # todo: NEW TRANSLATION
- SWI_weaken_foreign_influence: "Oslabit zahraniční vliv" # todo: NEW TRANSLATION
- SWI_weaken_foreign_influence_desc: "Nesmíme dovolit, aby nás ovlivňovaly vnější síly. Musíme zůstat sami sebou. Musíme zůstat Švýcaři." # todo: NEW TRANSLATION
- SWI_secure_the_swiss_borders: "Zajistit švýcarské hranice" # todo: NEW TRANSLATION
- SWI_secure_the_swiss_borders_desc: "Začneme budovat rozsáhlé sítě hraničních hlídek a kontrolních stanovišť, aby nikdo nevstoupil nebo neodešel, aniž bychom o tom věděli." # todo: NEW TRANSLATION
- SWI_italian_forts: "Italské pevnosti" # todo: NEW TRANSLATION
- SWI_italian_forts_desc: "Musíme být vždy připraveni na útok od našich jižních sousedů." # todo: NEW TRANSLATION
- SWI_german_forts: "Německé pevnosti" # todo: NEW TRANSLATION
- SWI_german_forts_desc: "Během druhé světové války jsme byli příliš blízko konfliktu s Německem. Nemůžeme dovolit, aby nás zaskočila případná německá agrese." # todo: NEW TRANSLATION
- SWI_french_forts: "Francouzské pevnosti" # todo: NEW TRANSLATION
- SWI_french_forts_desc: "Není to tak, že by nás Francie nikdy neobsadila. Nemůžeme si dovolit být přemoženi jako dříve. Budeme připraveni pro jistotu." # todo: NEW TRANSLATION
- SWI_military_investments_2: "Vojenské investice II" # todo: NEW TRANSLATION
- SWI_military_investments_2_desc: "Naše předchozí průmyslové projekty byly velmi úspěšné. Měli bychom pokračovat ve vojenském rozvoji." # todo: NEW TRANSLATION
- SWI_military_investments_3: "Vojenské investice III" # todo: NEW TRANSLATION
- SWI_military_investments_3_desc: "Nebudeme omezeni naším rozměrem nebo geografií. Staneme se vojenskou a průmyslovou mocností." # todo: NEW TRANSLATION
- SWI_the_cern_project: "Projekt CERN" # todo: NEW TRANSLATION
- SWI_the_cern_project_desc: "Jaderný výzkum je cestou budoucnosti. Měli bychom zahájit rozsáhlé studie v této oblasti." # todo: NEW TRANSLATION
- SWI_the_large_hadron_collider: "Velký hadronový urychlovač" # todo: NEW TRANSLATION
- SWI_the_large_hadron_collider_desc: "Abychom lépe studovali a pokročili v našich projektech v CERNu, zahájíme výstavbu nejsilnějšího a nejrobustnějšího urychlovače částic, jaký svět kdy poznal." # todo: NEW TRANSLATION
- SWI_construct_power_plants: "Postavit elektrárny" # todo: NEW TRANSLATION
- SWI_construct_power_plants_desc: "S novými poznatky, které jsme získali z výzkumu, můžeme zavést efektivnější formy energie." # todo: NEW TRANSLATION
- SWI_establish_a_nuclear_arsenal: "Zřídit jaderný arzenál" # todo: NEW TRANSLATION
- SWI_establish_a_nuclear_arsenal_desc: "Každý stát, který za něco stojí, má určitý jaderný arzenál. Mohli bychom z výstavby výrazně profitovat." # todo: NEW TRANSLATION
- SWI_military_expansion: "Vojenská expanze" # todo: NEW TRANSLATION
- SWI_military_expansion_desc: "I když možná nemáme velké území, máme velmi vojensky orientovanou kulturu. Podpoříme to rozšířením našich vojenských zařízení." # todo: NEW TRANSLATION
- SWI_the_swiss_army: "Švýcarská armáda" # todo: NEW TRANSLATION
- SWI_the_swiss_army_desc: "Musíme najít nové způsoby výcviku, abychom lépe připravili naše jednotky na válku." # todo: NEW TRANSLATION
- SWI_the_swiss_air_force: "Švýcarské letectvo" # todo: NEW TRANSLATION
- SWI_the_swiss_air_force_desc: "Vzdušný boj je jedním z nejdůležitějších aspektů moderní války. Musíme zajistit, že budeme mít převahu." # todo: NEW TRANSLATION
- SWI_infantry_equipment: "Výzbroj pěchoty" # todo: NEW TRANSLATION
- SWI_infantry_equipment_desc: "Naši vojáci potřebují co nejpokročilejší a nejaktuálnější vybavení. Začneme tedy rozsáhlejší výzkum." # todo: NEW TRANSLATION
- SWI_armored_equipment: "Pancéřované vybavení" # todo: NEW TRANSLATION
- SWI_armored_equipment_desc: "I když obrněná vozidla v horách nemusí být vždy optimální, mají své výhody." # todo: NEW TRANSLATION
- SWI_fighter_equipment: "Stíhací výzbroj" # todo: NEW TRANSLATION
- SWI_fighter_equipment_desc: "Začneme hledat efektivnější typy stíhaček." # todo: NEW TRANSLATION
- SWI_land_doctrine: "Pozemní doktrína" # todo: NEW TRANSLATION
- SWI_land_doctrine_desc: "Naši nejlepší vojenské mozky mají povinnost vymýšlet stále lepší strategie na ochranu naší vlasti." # todo: NEW TRANSLATION
- SWI_air_doctrine: "Vzdušná doktrína" # todo: NEW TRANSLATION
- SWI_air_doctrine_desc: "Boje ve vzduchu mají své umění a musíme zajistit, aby naši muži byli v tom náležitě vyškoleni." # todo: NEW TRANSLATION
- SWI_northern_air_bases: "Severní letecké základny" # todo: NEW TRANSLATION
- SWI_northern_air_bases_desc: "Lépe budeme schopni reagovat na hrozby, pokud vybudujeme vojenské letecké základny na severu." # todo: NEW TRANSLATION
- SWI_artillery_production: "Výroba dělostřelectva" # todo: NEW TRANSLATION
- SWI_artillery_production_desc: "Dopad dělostřelectva, zejména v horském boji, nelze podceňovat. Musíme být v této technologii lídrem." # todo: NEW TRANSLATION
- SWI_the_glorious_navy_of_switzerland: "Slavné námořnictvo Švýcarska" # todo: NEW TRANSLATION
- SWI_the_glorious_navy_of_switzerland_desc: "Nyní, když jsme konečně dosáhli moří, zahájíme výstavbu velkého a slavného námořnictva! Švýcarsko bude vládnout vlnám!" # todo: NEW TRANSLATION
- SWI_bomber_equipment: "Výzbroj bombardérů" # todo: NEW TRANSLATION
- SWI_bomber_equipment_desc: "Bombardéry lze využít mnoha způsoby a musíme zajistit, aby naše modely zvládaly všechny úkoly." # todo: NEW TRANSLATION
- SWI_naval_doctrine: "Námořní doktrína" # todo: NEW TRANSLATION
- SWI_naval_doctrine_desc: "Můžeme být v námořním boji nováčky, ale uspějeme." # todo: NEW TRANSLATION
- SWI_swiss_aircraft_carriers: "Švýcarské letadlové lodě" # todo: NEW TRANSLATION
- SWI_swiss_aircraft_carriers_desc: "Je to jistě nákladný a zajímavý návrh, ale zavedení letadlové lodi může svět přimět brát nás vážněji." # todo: NEW TRANSLATION
- SWI_western_air_bases: "Západní letecké základny" # todo: NEW TRANSLATION
- SWI_western_air_bases_desc: "S přidáním této základny zvýšíme oblasti, které můžeme zasáhnout." # todo: NEW TRANSLATION
- SWI_southern_air_bases: "Jižní letecké základny" # todo: NEW TRANSLATION
- SWI_southern_air_bases_desc: "Musíme zajistit, že pokryjeme každou strategickou oblast v okolí naší země." # todo: NEW TRANSLATION
- SWI_european_tank_license: "Licence na evropské tanky" # todo: NEW TRANSLATION
- SWI_european_tank_license_desc: "Členové Evropské unie mají poměrně vyspělé tanky, které by se nám mohly hodit." # todo: NEW TRANSLATION
- SWI_adopt_euro: "Zavést euro" # todo: NEW TRANSLATION
- SWI_adopt_euro_desc: "Přijetím eura by naše ekonomika měla stabilně růst a přilákat více imigrantů a investorů do naší země." # todo: NEW TRANSLATION
- SWI_peace_at_switzerland: "Mír pro Švýcarsko" # todo: NEW TRANSLATION
- SWI_peace_at_switzerland_desc: "Uzavřením paktu o neútočení s našimi členy Evropské unie můžeme zaručit pokračující období švýcarské stability." # todo: NEW TRANSLATION
- SWI_german_trade_deals: "Německé obchodní dohody" # todo: NEW TRANSLATION
- SWI_german_trade_deals_desc: "Naše vztahy s našimi severními sousedy by se měly zlepšit, pokud s nimi uzavřeme více obchodních smluv." # todo: NEW TRANSLATION
- switzerland.2.t: "Konec švýcarského politického systému" # todo: NEW TRANSLATION
- switzerland.2.d: "Demokracie ve Švýcarsku, kdysi považovaná za vzor a inspiraci pro všechny usilující o větší zapojení lidu do vlády díky možnostem, které lidem poskytuje, už neexistuje.\n\nŠvýcarský vůdce [SWI.GetLeader] oznámil, že tyto \"rozptýlení od veřejného života\" a \"zbytečná referenda\" se přestanou konat." # todo: NEW TRANSLATION
- switzerland.2.o1: "Konečně." # todo: NEW TRANSLATION
- switzerland.2.o2: "To je škoda." # todo: NEW TRANSLATION
- switzerland.2.o3: "Ať už." # todo: NEW TRANSLATION
- switzerland.3.t: "Pozvánka do Švýcarské aliance" # todo: NEW TRANSLATION
- switzerland.3.d: "Aby ochránilo naši vzájemnou mezinárodní suverenitu, Švýcarsko nás pozvalo do své aliance neutrality a multinationální bezpečnosti." # todo: NEW TRANSLATION
- switzerland.3.o1: "Přijímáme!" # todo: NEW TRANSLATION
- switzerland.3.o2: "Ne!" # todo: NEW TRANSLATION
- switzerland.4.t: "Alpská republika" # todo: NEW TRANSLATION
- switzerland.4.d: "Švýcarsko vyhlásilo sjednocení alpských států do Alpské republiky - a požádalo nás, abychom se připojili." # todo: NEW TRANSLATION
- switzerland.4.o1: "Pro Alpy!" # todo: NEW TRANSLATION
- switzerland.4.o2: "Ehm, ne." # todo: NEW TRANSLATION
- switzerland.5.t: "Švýcarská ultimáta" # todo: NEW TRANSLATION
- switzerland.5.d: "S novou vojenskou frakcí v zádech na nás Švýcaři zaútočili a poslali naší zemi výhrůžku, abychom \"přestali ohrožovat švýcarskou vládu, lid a země a národy spřátelené se Švýcarskem\". Švýcarsko nám také předložilo jednadvacetibodový program - ale jeho přijetí by de facto znamenalo naši anexi do Švýcarské konfederace." # todo: NEW TRANSLATION
- switzerland.5.o1: "Musíme přijmout." # todo: NEW TRANSLATION
- switzerland.5.o2: "Nikdy! SVOBODA!" # todo: NEW TRANSLATION
- switzerland.6.t: "Konec Švýcarska" # todo: NEW TRANSLATION
- switzerland.6.d: "Nyní potvrzeno referendem: Švýcarský stát přestane existovat. Německé a rétorománské části země budou usilovat o stát v rámci Federální republiky, Romandie bude usilovat o připojení k Francii a italské části Švýcarska se stanou italskou provincií." # todo: NEW TRANSLATION
- switzerland.6.o1: "Vše dobré jednou končí." # todo: NEW TRANSLATION
- switzerland.7.t: "Adolf Ogi se stává prezidentem" # todo: NEW TRANSLATION
- switzerland.7.d: "Prezident Švýcarska je funkce, která se každý rok střídá mezi sedmi členy Švýcarské federální rady.\n\nAdolf Ogi z pravicově populistické Švýcarské lidové strany převzal tuto pozici na rok 2000. Již v roce 1993 úspěšně předsedal radě." # todo: NEW TRANSLATION
- switzerland.7.o1: "Dobrý výběr." # todo: NEW TRANSLATION
- switzerland_news.1.t: "Švýcarsko vstupuje do OSN" # todo: NEW TRANSLATION
- switzerland_news.1.d: "Původně švýcarská vláda po skončení druhé světové války odmítala vstoupit do Organizace spojených národů a odkazovala na trvalé odhodlání země k neutralitě - což je zvláštní vzhledem k tomu, že hlavní sídlo OSN v Evropě je právě v Ženevě (UNOG).\n\nNyní, po veřejném referendu, švýcarská vláda oznámila, že země přestane být pouhým divákem a vstoupí do organizace jako plnoprávný člen." # todo: NEW TRANSLATION
- switzerland_news.1.o1: "Konečně, Švýcarsko!" # todo: NEW TRANSLATION
- switzerland_news.1.o2: "A co my?" # todo: NEW TRANSLATION
- switzerland_news.1.o3: "Je to tak velká věc?" # todo: NEW TRANSLATION
- switzerland_news.2.t: "Konec švýcarské neutrality" # todo: NEW TRANSLATION
- switzerland_news.2.d: "Závazek Švýcarska k mezinárodní neutralitě a neangažovanosti v časech míru i války sahá až k roku 1516, kdy Švýcarská konfederace zastavila politiku expanze po porážce od Francie. Švýcarské odtržení od Svaté říše římské v roce 1648 tomuto postoji dále pomohlo. Konečným krokem bylo v roce 1815, kdy všechny velmoci na Vídeňském kongresu uznaly a garantovaly švýcarskou neutralitu.\n\nTato éra švýcarských dějin je nyní u konce. Předseda federální rady, [SWI.GetLeader], oznámil, že Švýcarsko již nebude ctít staré sliby a formálně zbavil velmoci, které dříve garantovaly jeho nezávislost, jejich povinnosti." # todo: NEW TRANSLATION
- switzerland_news.2.o1: "Zásadní vývoj?" # todo: NEW TRANSLATION
- switzerland_news.2.o2: "Úsvit nové doby!" # todo: NEW TRANSLATION
- switzerland_news.3.t: "[SWI.GetLeader] potvrzuje švýcarskou neutralitu" # todo: NEW TRANSLATION
- switzerland_news.3.d: "Švýcarská federální rada, podpořená parlamentem a kantony, dnes znovu potvrdila švýcarskou nevměšování se do mezinárodních konfliktů.\n\n[SWI.GetLeader] uvedl, že členství v mezinárodní koalici by nejen přineslo nebezpečí švýcarskému lidu, ale také povzbudilo svět k tomu, aby šel stejnou cestou." # todo: NEW TRANSLATION
- switzerland_news.3.o1: "To nejsou zrovna novinky..." # todo: NEW TRANSLATION
- switzerland_news.3.o2: "Švýcarsko zachraňuje situaci!" # todo: NEW TRANSLATION
- switzerland_news.4.t: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
- switzerland_news.4.d: "Ve kroku, který vytváří politické uskupení velmi blízké vojenské frakci (ale samozřejmě oficiálně nevojenské), získalo švýcarské ministerstvo obrany parlamentní podporu pro vznik \"Švýcarské ochranné ligy\" (která, jak je ve Švýcarsku zvykem, má ve svých oficiálních jazycích čtyři různé názvy).\n\nZdá se, že to bude další velký krok v dalším ozbrojeném 'neutralitním' vývoji Švýcarska." # todo: NEW TRANSLATION
- switzerland_news.4.o1: "Opravdová ozbrojená neutralita." # todo: NEW TRANSLATION
- switzerland_news.5.t: "Alpská republika" # todo: NEW TRANSLATION
- switzerland_news.5.d: "Švýcarská vláda poslala požadavky vládám Lichtenštejnska a Rakouska, aby schválily legislativu umožňující vstup do Švýcarské konfederace formou 20 nových kantonů.\nSoučasně Švýcarsko oficiálně změnilo svůj název na 'Republika Alp' neboli 'Alpská republika'.\n\nVaduz a Vídeň dosud neodpověděly, ale šance na sjednocení se jeví překvapivě vysoká. Lichtenštejnsku bylo zaručeno právo zachovat si svého panovníka jako trvalou hlavu kantonu i v republikánské formě vlády a Rakousku bylo garantováno 49 % míst v novém parlamentu, s 45 % pro čtyři národní komunity Švýcarska a 6 % pro Lichtenštejnsko." # todo: NEW TRANSLATION
- switzerland_news.5.o1: "Předefinování neutrality od roku 1516." # todo: NEW TRANSLATION
- switzerland_news.6.t: "Konec Švýcarské konfederace" # todo: NEW TRANSLATION
- switzerland_news.6.d: "V referendu otřásajícím světem všechny kantony Švýcarska jednomyslně hlasovaly pro rozdělení Švýcarska podle jazykových hranic do tří celků: německo‑románského, francouzského a italského. Všechny tyto entity již potvrzují plány na vstup do příslušných mateřských zemí.\n\nTímto končí švýcarská nezávislost. Země existovala nepřetržitě od legendárního přísahy u Rütli v roce 1307." # todo: NEW TRANSLATION
- switzerland_news.6.o1: "Všechny státy nakonec zaniknou." # todo: NEW TRANSLATION
- SWI_join_un: "Nový člen OSN" # todo: NEW TRANSLATION
- SWI_idea_arms_exports: "Vývoz švýcarských zbraní" # todo: NEW TRANSLATION
- SWI_idea_arms_exports_desc: "[ROOT.GetName] se konečně rozhodl mezinárodně vyvážet zbraně místo přímého zapojení do konfliktů." # todo: NEW TRANSLATION
- swiss_political_system: "Politický systém Švýcarska" # todo: NEW TRANSLATION
- swiss_political_system_desc: "Švýcarsko má velmi unikátní politický systém a je jedinou zemí na světě, která si právem může říkat \"semi‑přímá demokracie\". Občané mohou měnit ústavu formou referenda, vetovat zákony prostřednictvím referenda a dokonce i schvalovat zákony v referendu.\nTo má dopady na politiky: protože lidé tvoří politiku sami, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři velké švýcarské strany, SVP, FDP, CVP a SP, jsou neustále ve vládě společně - to činí národní volby ve Švýcarsku do značné míry zbytečnými, protože lid vládne ne skrze své zástupce, ale skrze referenda." # todo: NEW TRANSLATION
- swiss_political_system2: "Politický systém Švýcarska" # todo: NEW TRANSLATION
- swiss_political_system2_desc: "Švýcarsko má velmi unikátní politický systém a je jedinou zemí na světě, která si právem může říkat \"semi‑přímá demokracie\". Občané mohou měnit ústavu formou referenda, vetovat zákony prostřednictvím referenda a dokonce i schvalovat zákony v referendu.\nTo má dopady na politiky: protože lidé tvoří politiku sami, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři velké švýcarské strany, SVP, FDP, CVP a SP, jsou neustále ve vládě společně - to činí národní volby ve Švýcarsku do značné míry zbytečnými, protože lid vládne ne skrze své zástupce, ale skrze referenda." # todo: NEW TRANSLATION
- swiss_political_system3: "Politický systém Švýcarska" # todo: NEW TRANSLATION
- swiss_political_system3_desc: "Švýcarsko má velmi unikátní politický systém a je jedinou zemí na světě, která si právem může říkat \"semi‑přímá demokracie\". Občané mohou měnit ústavu formou referenda, vetovat zákony prostřednictvím referenda a dokonce i schvalovat zákony v referendu.\nTo má dopady na politiky: protože lidé tvoří politiku sami, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři velké švýcarské strany, SVP, FDP, CVP a SP, jsou neustále ve vládě společně - to činí národní volby ve Švýcarsku do značné míry zbytečnými, protože lid vládne ne skrze své zástupce, ale skrze referenda." # todo: NEW TRANSLATION
- SWI_idea_armed_population: "Ozbrojené švýcarské obyvatelstvo" # todo: NEW TRANSLATION
- SWI_idea_armed_population_desc: "Po nedávných změnách vládní politiky se vláda [ROOT.GetName] rozhodla, že všichni vhodní občané musí být proškoleni v používání střelných zbraní a každý je povinen vlastnit jednu zbraň." # todo: NEW TRANSLATION
- SWI_swiss_neutrality: "Švýcarská neutralita" # todo: NEW TRANSLATION
- SWI_swiss_neutrality_desc: "§YSpecial Rules:§!\n\n§YWe§! §RCANNOT§! §Ydeclare war on other countries!§!\n--------------\nŠvýcaři jsou po celém světě známí jako neutralové. Od svého založení jako republiky se země nezapojovala do žádného útočného konfliktu a zůstala neutrální i během obou světových válek.\n--------------\nTento národní duch lze §Rodstranit§! pokud dokončíme zaměření §HDeclare The End Of Swiss Neutrality§!." # todo: NEW TRANSLATION
- SWI_swiss_neutrality2: "Švýcarská neutralita" # todo: NEW TRANSLATION
- SWI_swiss_neutrality2_desc: "§YSpecial Rules:§!\n\n§YWe§! §RCANNOT§! §Ydeclare war on other countries!§!\n--------------\nŠvýcaři jsou po celém světě známí jako neutralové. Od svého založení jako republiky se země nezapojovala do žádného útočného konfliktu a zůstala neutrální i během obou světových válek.\n--------------\nTento národní duch lze §Rodstranit§! pokud dokončíme zaměření §HDeclare The End Of Swiss Neutrality§!." # todo: NEW TRANSLATION
- SWI_european_tanks: "Dohody o evropských tancích" # todo: NEW TRANSLATION
- SWI_european_tanks_desc: "" # todo: NEW TRANSLATION
- SWI_defensive_preparations: "Obranné přípravy" # todo: NEW TRANSLATION
- SWI_defensive_preparations_desc: "" # todo: NEW TRANSLATION
- SWI_Expanding_nuclear_research: "Rozšiřování jaderného výzkumu" # todo: NEW TRANSLATION
- SWI_Expanding_nuclear_research1: "Rozšiřování jaderného výzkumu" # todo: NEW TRANSLATION
- SWI_idea_armed_forces: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
- SWI_idea_armed_forces_desc: "Ozbrojené síly [ROOT.GetName] jsou národní vojenskou silou a obráncem národa." # todo: NEW TRANSLATION
- SWI_idea_armed_forces2: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
- SWI_idea_armed_forces2_desc: "Ozbrojené síly [ROOT.GetName] jsou národní vojenskou silou a obráncem národa." # todo: NEW TRANSLATION
- SWI_idea_armed_forces3: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
- SWI_idea_armed_forces3_desc: "Ozbrojené síly [ROOT.GetName] jsou národní vojenskou silou a obráncem národa." # todo: NEW TRANSLATION
- SWI_idea_armed_forces4: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
- SWI_idea_armed_forces4_desc: "Ozbrojené síly [ROOT.GetName] jsou národní vojenskou silou a obráncem národa." # todo: NEW TRANSLATION
- tooltip_SWI_seek_eu_membership: "§Y[ROOT.GetNameWithFlag]§! investuje do jednotného evropského trhu: §Y[EUU.GetFlag] Leader obchodní politiky Evropské unie§! (v tomto pořadí §Ypředseda Evropské komise§!, §Ypředseda Evropské rady§!, §Ypředseda Evropského parlamentu§!) získává §Ymezinárodní investici§! od §Y[ROOT.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
- tooltip_SWI_european_investment_opportunities: "§Y[EUU.GetFlag] Lídr obchodní politiky Evropské unie§! (v tomto pořadí §YPředseda Evropské komise§!, §YPředseda Evropské rady§!, §YPředseda Evropského parlamentu§!) investuje v §Y[ROOT.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
- SWI_join_un_tt: "§YPřipojíme se k§! §4Organizaci spojených národů§! §Ya náš názor vůči členům§! §4Rady bezpečnosti OSN§! §Yse zvýší!§!" # todo: NEW TRANSLATION
- SWI_can_declare_war_now_tt: "§YNyní můžeme vyhlásit§! §RVálku§! §Yjiným zemím!§!" # todo: NEW TRANSLATION
- SWI_additional_military_facilities_tt: "§YPokud§! [ROOT.GetNameWithFlag] §Yovládá§! [AUS.GetNameWithFlag]§Y, získáme více zařízení!§!" # todo: NEW TRANSLATION
- SWI_french_forts_tt: "§YVybudujeme obranné bunkry podél hranice s§! §4[FRA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- SWI_italian_forts_tt: "§YVybudujeme obranné bunkry podél hranice s§! §7[ITA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- SWI_german_forts_tt: "§YVybudujeme obranné bunkry podél hranice s§! §R[GER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  switzerland_focus: "Švýcarský strom zaměření" # todo: NEW TRANSLATION
+  swiss_alliance: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
+  SWI_strengthen_the_government: "Posílit vládu" # todo: NEW TRANSLATION
+  SWI_strengthen_the_government_desc: "Při snaze posílit vládu musíme zvažovat reformy vlády a správy jako náš první cíl." # todo: NEW TRANSLATION
+  SWI_join_the_united_nations: "Připojit se k OSN" # todo: NEW TRANSLATION
+  SWI_join_the_united_nations_desc: "Švýcarsko dosud rozhodlo, že se nestane plnoprávným členem OSN a zůstane pozorovatelským státem. Obyvatelé si to přejí změnit. Švýcarsko by mělo uspořádat referendum a poté potvrdit svůj vstup do plného členství OSN." # todo: NEW TRANSLATION
+  SWI_economic_independence: "Ekonomická nezávislost" # todo: NEW TRANSLATION
+  SWI_economic_independence_desc: "Musíme zajistit, že pro naši ekonomickou bezpečnost budeme závislí jen na sobě samotných." # todo: NEW TRANSLATION
+  SWI_seek_eu_membership: "Blízké vazby s EU" # todo: NEW TRANSLATION
+  SWI_seek_eu_membership_desc: "Musíme se více integrovat s našimi evropskými sousedy. Z EU obdržíme investici." # todo: NEW TRANSLATION
+  SWI_strengthen_the_fdfa: "Posílit FDFA" # todo: NEW TRANSLATION
+  SWI_strengthen_the_fdfa_desc: "Abychom měli otevřené všechny možnosti při jednání se státy, měli bychom posílit naše ministerstvo zahraničních věcí." # todo: NEW TRANSLATION
+  SWI_strengthen_the_fdha: "Posílit FDHA" # todo: NEW TRANSLATION
+  SWI_strengthen_the_fdha_desc: "Abychom lépe udrželi stabilitu a bezpečnost doma, musíme zajistit, že naše oddělení pro domácí záležitosti bude moci fungovat na plné obrátky." # todo: NEW TRANSLATION
+  SWI_join_schengen: "Připojit se ke Schengenu" # todo: NEW TRANSLATION
+  SWI_join_schengen_desc: "Vstup do Schengenského prostoru bude skvělým způsobem, jak se začlenit do evropské komunity." # todo: NEW TRANSLATION
+  SWI_maintain_border_controls: "Zachovat hraniční kontroly" # todo: NEW TRANSLATION
+  SWI_maintain_border_controls_desc: "Musíme si udržet suverenitu naší země. Je šílené dokonce uvažovat o tom, že bychom opustili naše hranice!" # todo: NEW TRANSLATION
+  SWI_international_neutrality: "Mezinárodní neutralita" # todo: NEW TRANSLATION
+  SWI_international_neutrality_desc: "Naše neutralita je tradice sahající až k roku 1815 a naši lidé ji velmi ctí. Budeme pokračovat v tomto krásném způsobu života!" # todo: NEW TRANSLATION
+  SWI_declare_the_end_of_swiss_neutrality: "Prohlásit konec švýcarské neutrality" # todo: NEW TRANSLATION
+  SWI_declare_the_end_of_swiss_neutrality_desc: "Přestože neutralita nás udržovala v klidu, dělala nás také slabými a závislými. Musíme se posunout k většímu posilování sebe sama." # todo: NEW TRANSLATION
+  SWI_reform_the_bureaucracy: "Reforma byrokracie" # todo: NEW TRANSLATION
+  SWI_reform_the_bureaucracy_desc: "Bude potřeba zrušit veškeré překážky, které nám brání budovat mezinárodní přítomnost." # todo: NEW TRANSLATION
+  SWI_additional_military_facilities: "Další vojenské zařízení" # todo: NEW TRANSLATION
+  SWI_additional_military_facilities_desc: "Nikdy neuškodí najít více způsobů, jak se chránit. V nadcházejících nejistých časech by zlepšení našeho vojenského sektoru mohlo přinést určité výhody." # todo: NEW TRANSLATION
+  SWI_the_swiss_protection_league: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
+  SWI_the_swiss_protection_league_desc: "Je příliš nebezpečné jít na to sám, ale když vstoupíme do větší aliance, budeme pohlceni. Možná řešením je založení naší vlastní aliance." # todo: NEW TRANSLATION
+  SWI_condemn_factionalism: "Odsoudit frakcionářství" # todo: NEW TRANSLATION
+  SWI_condemn_factionalism_desc: "Jediné, co rozdělení na malé frakce může přinést, je totální válka. Stalo se to mnohokrát v historii. Švýcarsko s tím nebude mít nic společného." # todo: NEW TRANSLATION
+  SWI_economic_relations_in_the_alps: "Ekonomické vztahy v Alpách" # todo: NEW TRANSLATION
+  SWI_economic_relations_in_the_alps_desc: "Naši alpští sousedé představují skvělou příležitost pro investice." # todo: NEW TRANSLATION
+  SWI_european_investment_opportunities: "Evropské investiční příležitosti" # todo: NEW TRANSLATION
+  SWI_european_investment_opportunities_desc: "Nyní, když jsme otevřeli hranice evropské komunitě, proč neotevřít naši ekonomiku i pro ni? Začneme usilovat o investice v Evropě a kolem ní!" # todo: NEW TRANSLATION
+  SWI_invite_liechtenstein: "Pozvat Liechtenštejnsko" # todo: NEW TRANSLATION
+  SWI_invite_liechtenstein_desc: "Liechtenštejnsko bylo s námi v dobrých i zlých časech. Je to ideální země pro přidání do naší aliance." # todo: NEW TRANSLATION
+  SWI_invite_austria: "Pozvat Rakousko" # todo: NEW TRANSLATION
+  SWI_invite_austria_desc: "Máme s Rakouskem mnoho společného, a proto by dávalo smysl rozvíjet tuto vazbu. Rozšiřme naši alianci a pozvěme je do ní." # todo: NEW TRANSLATION
+  SWI_nato_investments: "Investice NATO" # todo: NEW TRANSLATION
+  SWI_nato_investments_desc: "NATO jako aliance má mezi členy některé z nejbohatších a nejsilnějších národů světa. Budeme pravidelně dostávat ekonomickou i vojenskou pomoc." # todo: NEW TRANSLATION
+  SWI_seek_nato_membership: "Usilovat o členství v NATO" # todo: NEW TRANSLATION
+  SWI_seek_nato_membership_desc: "Všichni naši sousedé s aspoň trochou moci vstoupili do vojenského svazku NATO. Měli bychom jít v jejich šlépějích, abychom lépe prosazovali naši moc." # todo: NEW TRANSLATION
+  SWI_european_arms_exports: "Evropské zbrojní vývozy" # todo: NEW TRANSLATION
+  SWI_european_arms_exports_desc: "My Švýcaři rozhodně rádi používáme zbraně. Měli bychom tuto část naší kultury sdílet vyvážením nejkvalitnějších zbraní do zbytku Evropy." # todo: NEW TRANSLATION
+  SWI_the_alpine_republic: "Alpská republika" # todo: NEW TRANSLATION
+  SWI_the_alpine_republic_desc: "Nyní, když jsme posílili naše spojenectví a to, co to znamená, můžeme začít proces sjednocení našich velkých národů." # todo: NEW TRANSLATION
+  SWI_continue_swiss_militarization: "Pokračovat ve švýcarské militarizaci" # todo: NEW TRANSLATION
+  SWI_continue_swiss_militarization_desc: "Zatímco nás chrání hory, nebudou stačit v případě plného útoku. Pokud k němu dojde, musíme se spoléhat na sebe a na svůj zásluhy, abychom to zvládli. Proto bychom měli zvýšit militarizaci naší země." # todo: NEW TRANSLATION
+  SWI_additional_defensive_efforts: "Další obranné snahy" # todo: NEW TRANSLATION
+  SWI_additional_defensive_efforts_desc: "Možná jsme sjednotili naše alpské bratry, boj ale nekončí. Musíme zajistit, že budeme horskou pevností, odolnou vůči jakýmkoli útokům." # todo: NEW TRANSLATION
+  SWI_threaten_liechtenstein: "Vyhrožovat Lichtenštejnsku" # todo: NEW TRANSLATION
+  SWI_threaten_liechtenstein_desc: "Mikrostat Liechtenštejnsko byl po staletí zátěží našich hranic. Měli bychom je jednoduše začlenit do naší země. Vydat ultimátum." # todo: NEW TRANSLATION
+  SWI_threaten_austria: "Vyhrožovat Rakousku" # todo: NEW TRANSLATION
+  SWI_threaten_austria_desc: "Rakušané jsou slabí a mnohokrát padli pod sílu silnějšího Němce. Vkročíme a vezmeme jejich zbytky." # todo: NEW TRANSLATION
+  SWI_the_mountain_fortress: "Horská pevnost" # todo: NEW TRANSLATION
+  SWI_the_mountain_fortress_desc: "Naším nejúčinnějším obranným prvkem jsou naše hory. Musíme je posílit, pokud chceme udržet obrannou výhodu." # todo: NEW TRANSLATION
+  SWI_guns_for_the_population: "Zbraně pro obyvatelstvo" # todo: NEW TRANSLATION
+  SWI_guns_for_the_population_desc: "Národ obklopen silnějšími národy musí mít obyvatelstvo, které je vždy připraveno bránit své domovy." # todo: NEW TRANSLATION
+  SWI_zurich_industrial_project: "Curyšský průmyslový projekt" # todo: NEW TRANSLATION
+  SWI_zurich_industrial_project_desc: "Abychom mohli konkurovat našim sousedům, musíme mít robustní průmyslový sektor." # todo: NEW TRANSLATION
+  SWI_strengthen_the_secret_services: "Posílit tajné služby" # todo: NEW TRANSLATION
+  SWI_strengthen_the_secret_services_desc: "Tajné služby mohou výrazně pomoci odhalovat hrozby jak vně, tak uvnitř naší země." # todo: NEW TRANSLATION
+  SWI_military_investments_1: "Vojenské investice I" # todo: NEW TRANSLATION
+  SWI_military_investments_1_desc: "Můžeme být malý národ, ale jen národ připravený kapitulovat a zemřít by zanedbal svůj vojenský průmysl." # todo: NEW TRANSLATION
+  SWI_geneva_industrial_project: "Ženeva průmyslový projekt" # todo: NEW TRANSLATION
+  SWI_geneva_industrial_project_desc: "Ženeva by vždy uvítala více továren. Měli bychom tuto oblast zcela reformovat." # todo: NEW TRANSLATION
+  SWI_weaken_foreign_influence: "Oslabení zahraničního vlivu" # todo: NEW TRANSLATION
+  SWI_weaken_foreign_influence_desc: "Nesmíme dovolovat, aby nás ovlivňovaly cizí síly. Musíme zůstat sami sebou. Musíme zůstat Švýcarskými." # todo: NEW TRANSLATION
+  SWI_secure_the_swiss_borders: "Zabezpečit švýcarské hranice" # todo: NEW TRANSLATION
+  SWI_secure_the_swiss_borders_desc: "Začneme budovat rozsáhlé sítě hraničních hlídek a kontrolních stanovišť, aby bylo zajištěno, že nikdo nemůže vstoupit, aniž bychom o tom věděli." # todo: NEW TRANSLATION
+  SWI_italian_forts: "Italské pevnosti" # todo: NEW TRANSLATION
+  SWI_italian_forts_desc: "Vždy musíme být připraveni na útok od našich jižních sousedů." # todo: NEW TRANSLATION
+  SWI_german_forts: "Německé pevnosti" # todo: NEW TRANSLATION
+  SWI_german_forts_desc: "Příliš blízko ke konfliktu s Německem během druhé světové války. Nesmíme dopustit, aby nás německá agrese překvapila znovu." # todo: NEW TRANSLATION
+  SWI_french_forts: "Francouzské pevnosti" # todo: NEW TRANSLATION
+  SWI_french_forts_desc: "Není pravda, že Francie nás dřív nenapadla. Nemůžeme si dovolit být přemoženi, jako kdysi. Budeme připraveni pro případ nouze." # todo: NEW TRANSLATION
+  SWI_military_investments_2: "Vojenské investice II" # todo: NEW TRANSLATION
+  SWI_military_investments_2_desc: "Naše minulá průmyslová díla se ukázala být úspěšná. Měli bychom usilovat o ještě větší vojenský rozvoj." # todo: NEW TRANSLATION
+  SWI_military_investments_3: "Vojenské investice III" # todo: NEW TRANSLATION
+  SWI_military_investments_3_desc: "Nebudeme omezeni svou velikostí a geografií. Stane se z nás vojensko-průmyslová velmoc." # todo: NEW TRANSLATION
+  SWI_the_cern_project: "Projekt CERN" # todo: NEW TRANSLATION
+  SWI_the_cern_project_desc: "Jaderný výzkum je budoucnost. Měli bychom zahájit rozsáhlé studie v této oblasti." # todo: NEW TRANSLATION
+  SWI_the_large_hadron_collider: "Velký hadronový urychlovač" # todo: NEW TRANSLATION
+  SWI_the_large_hadron_collider_desc: "Abychom lépe studovali a posouvali naše projekty v CERN, zahájíme výstavbu nejvýkonnějšího a nejrobustnějšího urychlovače částic, jaký svět kdy poznal." # todo: NEW TRANSLATION
+  SWI_construct_power_plants: "Budovat elektrárny" # todo: NEW TRANSLATION
+  SWI_construct_power_plants_desc: "S novými poznatky získanými ve výzkumu můžeme zavést efektivnější formy energie." # todo: NEW TRANSLATION
+  SWI_establish_a_nuclear_arsenal: "Rozšířit švýcarské jaderné elektrárny" # todo: NEW TRANSLATION
+  SWI_establish_a_nuclear_arsenal_desc: "Naše jaderné elektrárny uspokojují naši poptávku, ale možná bude v našem nejlepším zájmu." # todo: NEW TRANSLATION
+  SWI_military_expansion: "Vojenská expanze" # todo: NEW TRANSLATION
+  SWI_military_expansion_desc: "Ačkoliv nemáme rozsáhlé území, máme velmi vojensky orientovanou kulturu. Budeme tuto tendenci podporovat rozšířením našich vojenských zařízení." # todo: NEW TRANSLATION
+  SWI_the_swiss_army: "Švýcarská armáda" # todo: NEW TRANSLATION
+  SWI_the_swiss_army_desc: "Musíme nalézt nové způsoby výcviku, abychom lépe připravili naše jednotky na válku." # todo: NEW TRANSLATION
+  SWI_the_swiss_air_force: "Švýcarské letectvo" # todo: NEW TRANSLATION
+  SWI_the_swiss_air_force_desc: "Letecký boj je jedním z nejdůležitějších aspektů války v moderní době. Musíme zajistit, že budeme mít náskok." # todo: NEW TRANSLATION
+  SWI_infantry_equipment: "Vybavení pěchoty" # todo: NEW TRANSLATION
+  SWI_infantry_equipment_desc: "Naši vojáci potřebují nejmodernější a nejaktuálnější vybavení, které dokážeme vyrobit. Proto zahájíme výzkum ve větším měřítku." # todo: NEW TRANSLATION
+  SWI_armored_equipment: "Pancéřované vybavení" # todo: NEW TRANSLATION
+  SWI_armored_equipment_desc: "Ačkoliv pancéřovaná vozidla v horách příliš nepomohou, stále mají své výhody." # todo: NEW TRANSLATION
+  SWI_fighter_equipment: "Vybavení stíhacích letounů" # todo: NEW TRANSLATION
+  SWI_fighter_equipment_desc: "Začneme hledat efektivnější druhy stíhacích letounů." # todo: NEW TRANSLATION
+  SWI_land_doctrine: "Pozemní doktrína" # todo: NEW TRANSLATION
+  SWI_land_doctrine_desc: "Naši nejlepší vojenští myslitelé mají povinnost přemítat o stále lepších strategiích k ochraně naší domoviny." # todo: NEW TRANSLATION
+  SWI_air_doctrine: "Letecká doktrína" # todo: NEW TRANSLATION
+  SWI_air_doctrine_desc: "Existuje umění leteckého boje a musíme zajistit, aby naši vojáci byli důkladně vycvičeni v něm." # todo: NEW TRANSLATION
+  SWI_northern_air_bases: "Severní letecké základny" # todo: NEW TRANSLATION
+  SWI_northern_air_bases_desc: "Lépe budeme schopni reagovat na hrozby, pokud vybudujeme vojenské letecké základny na severu." # todo: NEW TRANSLATION
+  SWI_artillery_production: "Výroba dělostřelectva" # todo: NEW TRANSLATION
+  SWI_artillery_production_desc: "Dopad dělostřelectva, zvláště v horském boji, nelze podceňovat. Musíme být na čele této technologie." # todo: NEW TRANSLATION
+  SWI_the_glorious_navy_of_switzerland: "Slavná švýcarská námořní flotila" # todo: NEW TRANSLATION
+  SWI_the_glorious_navy_of_switzerland_desc: "Nyní, když jsme konečně dorazili k moři, zahájíme stavbu velké a slavné flotily! Švýcarsko bude kralovat na vlnách!" # todo: NEW TRANSLATION
+  SWI_bomber_equipment: "Vybavení bombardérů" # todo: NEW TRANSLATION
+  SWI_bomber_equipment_desc: "Existuje mnoho způsobů, jak používat bombardéry, a musíme zajistit, aby naše modely byly schopné všech těchto variant." # todo: NEW TRANSLATION
+  SWI_naval_doctrine: "Námořní doktrína" # todo: NEW TRANSLATION
+  SWI_naval_doctrine_desc: "Můžeme být noví v námořním boji, ale uspějeme v něm." # todo: NEW TRANSLATION
+  SWI_swiss_aircraft_carriers: "Švýcarské letadlové lodě" # todo: NEW TRANSLATION
+  SWI_swiss_aircraft_carriers_desc: "Zavedení letadlové lodě je nákladný a zajímavý návrh, ale mohlo by svět vzít nás vážněji." # todo: NEW TRANSLATION
+  SWI_western_air_bases: "Západní letecké základny" # todo: NEW TRANSLATION
+  SWI_western_air_bases_desc: "Přidáním této letecké základny rozšíříme oblasti, na které můžeme útočit." # todo: NEW TRANSLATION
+  SWI_southern_air_bases: "Jižní letecké základny" # todo: NEW TRANSLATION
+  SWI_southern_air_bases_desc: "Musíme zajistit pokrytí všech strategických oblastí v okolí naší země." # todo: NEW TRANSLATION
+  SWI_european_tank_license: "Evropská tanková licence" # todo: NEW TRANSLATION
+  SWI_european_tank_license_desc: "Členové Evropské unie mají poměrně vyspělé tanky, které by se nám mohly hodit." # todo: NEW TRANSLATION
+  SWI_adopt_euro: "Přijmout euro" # todo: NEW TRANSLATION
+  SWI_adopt_euro_desc: "Přijetím eura by naše ekonomika rostla stabilněji a přilákala by více obyvatel a investorů do naší země." # todo: NEW TRANSLATION
+  SWI_peace_at_switzerland: "Mír pro Švýcarsko" # todo: NEW TRANSLATION
+  SWI_peace_at_switzerland_desc: "Prosazováním paktu neútočné spolupráce s členy Evropské unie zajistíme trvalý stav švýcarské stability." # todo: NEW TRANSLATION
+  SWI_german_trade_deals: "Německé obchodní dohody" # todo: NEW TRANSLATION
+  SWI_german_trade_deals_desc: "Naše vztahy s našimi severními sousedy by se měly zlepšit, jakmile uzavřeme více obchodních dohod s nimi." # todo: NEW TRANSLATION
+  switzerland.2.t: "Konec švýcarského politického systému" # todo: NEW TRANSLATION
+  switzerland.2.d: "Demokracie ve Švýcarsku, dříve vnímaná jako vzor a zářící hvězda pro ty, kteří hledají více veřejné účasti na vládnutí díky možnostem pro švýcarské občany, již není. \n\nŠvýcarský vůdce [SWI.GetLeader] oznámil, že tyto „Rušivé věci z veřejného života“ a „Zbytečné referenda“ by přestaly probíhat." # todo: NEW TRANSLATION
+  switzerland.2.o1: "Konečně pryč." # todo: NEW TRANSLATION
+  switzerland.2.o2: "Škoda." # todo: NEW TRANSLATION
+  switzerland.2.o3: "To je jedno." # todo: NEW TRANSLATION
+  switzerland.3.t: "Pozvánka do Švýcarské aliance" # todo: NEW TRANSLATION
+  switzerland.3.d: "Abychom chránili naši vzájemnou mezinárodní suverenitu, Švýcarsko nás pozvalo do své aliance neutrality a mezinárodní bezpečnosti." # todo: NEW TRANSLATION
+  switzerland.3.o1: "Přijímáme!" # todo: NEW TRANSLATION
+  switzerland.3.o2: "Ne" # todo: NEW TRANSLATION
+  switzerland.4.t: "Alpská republika" # todo: NEW TRANSLATION
+  switzerland.4.d: "Švýcarsko vyhlásilo sloučení alpských států do Alpské republiky a požádalo nás, abychom se k ní připojili." # todo: NEW TRANSLATION
+  switzerland.4.o1: "Pro Alpy!" # todo: NEW TRANSLATION
+  switzerland.4.o2: "Eh, ne." # todo: NEW TRANSLATION
+  switzerland.5.t: "Švýcarské hrozby" # todo: NEW TRANSLATION
+  switzerland.5.d: "S novou vojenskou frakcí v zádech se Švýcarsko vrhlo na nás a poslalo našemu státu hrozbu 'přestaňte ohrožovat vládu Švýcarska, lidi a země a národy spojené se Švýcarskem'. Také nám zaslali program dvacetijednu bodů, které je třeba dodržovat – přijetí by však de facto znamenalo naši anexi do Švýcarské konfederace." # todo: NEW TRANSLATION
+  switzerland.5.o1: "Musíme to přijmout." # todo: NEW TRANSLATION
+  switzerland.5.o2: "Nikdy! SVOBODA!" # todo: NEW TRANSLATION
+  switzerland.6.t: "Konec Švýcarské konfederace" # todo: NEW TRANSLATION
+  switzerland.6.d: "Nyní, potvrzené referendem: Švýcarský stát zanikne. Německé a romanské části země budou usilovat o státnost ve Federální republice, románská část se bude snažit o začlenění do Francie a italské části Švýcarska se stanou italskou provincií." # todo: NEW TRANSLATION
+  switzerland.6.o1: "Vše dobré musí jednou skončit." # todo: NEW TRANSLATION
+  switzerland.7.t: "Adolf Ogi se stává prezidentem" # todo: NEW TRANSLATION
+  switzerland.7.d: "Prezident Švýcarska je pozice, která se během ročních cyklů střídá mezi sedmi členy Federální rady. \n\nAdolf Ogi z pravicové populistické Švýcarské lidové strany převzal funkci pro rok 2000. Již dříve úspěšně předsedal radě v roce 1993." # todo: NEW TRANSLATION
+  switzerland.7.o1: "Dobrá volba" # todo: NEW TRANSLATION
+  switzerland_news.1.t: "Švýcarsko vstupuje do OSN" # todo: NEW TRANSLATION
+  switzerland_news.1.d: "Původně švýcarská vláda odmítla vstoupit do OSN po skončení druhé světové války, s odůvodněním, že země nadále dodržuje svou neutralitu – což je zvláštní vzhledem k tomu, že hlavní sídlo OSN v Evropě je OSNOG, Úřad OSN v Ženevě.\n\nNyní, po veřejném referendu, švýcarská vláda oznámila, že země postoupí k opuštění postavení pouhého pozorovatele a nyní vstoupí do organizace jako plnoprávný člen." # todo: NEW TRANSLATION
+  switzerland_news.1.o1: "Už je na čase, Švýcarsko!" # todo: NEW TRANSLATION
+  switzerland_news.1.o2: "A co my?" # todo: NEW TRANSLATION
+  switzerland_news.1.o3: "Je to opravdu taková velká věc?" # todo: NEW TRANSLATION
+  switzerland_news.2.t: "Konec švýcarské neutrality" # todo: NEW TRANSLATION
+  switzerland_news.2.d: "Závazek Švýcarska k mezinárodní neutralitě a neúčasti v dobách klidu i války sahá do roku 1516, kdy Švýcarská konfederace ukončila politiku expanze po porážce Franci. Odtržení od Svaté říše římské v roce 1648 dále podporovalo tento postoj. Poslední krok byl v roce 1815, kdy všechny významné mocnosti uznaly a zajistily neutralitu Švýcarska na poválečném Vídeňském kongresu.\n\nTato éra švýcarské historie je nyní minulostí. Prezident federální rady [SWI.GetLeader] oznámil, že Švýcarsko již nebude nadále dodržovat své staré přísahy a formálně vyřadilo velmoci, které mu dříve zajišťovaly nezávislost, z jejich povinnosti." # todo: NEW TRANSLATION
+  switzerland_news.2.o1: "Významný vývoj?" # todo: NEW TRANSLATION
+  switzerland_news.2.o2: "Zrození nové éry!" # todo: NEW TRANSLATION
+  switzerland_news.3.t: "[SWI.GetLeader] potvrzuje švýcarskou neutralitu" # todo: NEW TRANSLATION
+  switzerland_news.3.d: "Švýcarská federální rada, podporovaná parlamentem a kantony, dnes znovu potvrdila švýcarskou nezasahování do mezinárodních konfliktů.\n\n[SWI.GetLeader] uvedl, že členství v mezinárodní koalici by nepřineslo jen nebezpečí pro švýcarský lid, ale vyzvalo by i svět, aby učinil totéž." # todo: NEW TRANSLATION
+  switzerland_news.3.o1: "To není zrovna novinka..." # todo: NEW TRANSLATION
+  switzerland_news.3.o2: "Švýcarsko zachraňuje situaci!" # todo: NEW TRANSLATION
+  switzerland_news.4.t: "Švýcarská ochranná liga" # todo: NEW TRANSLATION
+  switzerland_news.4.d: "V kroku, který vytvořil politickou unii velmi blízkou vojenské frakci (ale oficiálně to není vojenská frakce), získalo ministerstvo švýcarské obrany podporu parlamentu pro vznik „Švýcarské ochranné ligy“ (jak je v zemi obvyklé, má čtyři oficiální názvy v různých jazycích země).\n\nZdá se, že je to další velký krok k dalším ozbrojeným 'neutralitám' Švýcarska." # todo: NEW TRANSLATION
+  switzerland_news.4.o1: "Ozbrojená neutralita skutečně." # todo: NEW TRANSLATION
+  switzerland_news.5.t: "Alpská republika" # todo: NEW TRANSLATION
+  switzerland_news.5.d: "Švýcarská vláda zaslala žádosti vládám Liechtenštejnska a Rakouska, aby schválily legislativu pro vstup do Švýcarské konfederace ve formě 20 nových kantonů. \nZároveň Švýcarsko oficiálně změnilo své jméno na 'Republika Alp' nebo zkratkou 'Alpská republika'. \n\nVaduz a Vídeň ještě neodpověděly, ale šance na sjednocení se zdají překvapivě dobré. Liechtenštejnsko bylo zaručeno právo zachovat si svého monarchu jako trvalého šéfa kantonu i v republikánské formě vlády a Rakousko má být zaručeno 49 % křesel v novém parlamentu, 45 % určených čtyřem národnostním komunitám Švýcarska a 6 % pro Liechtenštejnsko." # todo: NEW TRANSLATION
+  switzerland_news.5.o1: "Předefinování neutrality od roku 1516." # todo: NEW TRANSLATION
+  switzerland_news.6.t: "Konec Švýcarské konfederace" # todo: NEW TRANSLATION
+  switzerland_news.6.d: "V referendu, který otřásl světem, kantony Švýcarska jednomyslně rozhodly rozdělit Švýcarsko podle jazykových hranic do tří entit, německo-románské, francouzské a italské. Všechny tyto entity již dále potvrdily plány na začlenění do příslušných jazykových mateřských zemí.\n\nToto znamená konec švýcarské nezávislosti. Země existuje nepřetržitě od legendárního Rütlischwur z roku 1307." # todo: NEW TRANSLATION
+  switzerland_news.6.o1: "Všechny země nakonec zaniknou." # todo: NEW TRANSLATION
+  SWI_join_un: "Nový člen OSN" # todo: NEW TRANSLATION
+  SWI_idea_arms_exports: "Švýcarské vývozy zbraní" # todo: NEW TRANSLATION
+  SWI_idea_arms_exports_desc: "[ROOT.GetName] se konečně rozhodl vyvážet zbraně mezinárodně namísto toho, abychom se přímo zapojovali do uvedených konfliktů." # todo: NEW TRANSLATION
+  swiss_political_system: "Politický systém Švýcarska" # todo: NEW TRANSLATION
+  swiss_political_system_desc: "Švýcarsko má velmi jedinečný politický systém a je jedinou zemí na světě, která si může oprávněně říkat 'polopřímá demokracie'. Obyvatelé mohou měnit ústavu referendem, vetovat zákony referendem, mohou prosadit zákony referendem. \n\nTo má dopad na politiky. Protože lidé tvoří politiky jakkoli, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři velké strany Švýcarska, SVP, FDP, CVP a SP, jsou neustále ve vládě společně – což dělá národní volby ve Švýcarsku do značné míry zbytečnými, neboť lidé vládnou ne prostřednictvím svých zástupců, ale prostřednictvím referend." # todo: NEW TRANSLATION
+  swiss_political_system2: "Politický systém Švýcarska" # todo: NEW TRANSLATION
+  swiss_political_system2_desc: "Švýcarsko má velmi jedinečný politický systém a je jedinou zemí na světě, která si může oprávněně říkat 'polopřímá demokracie'. Obyvatelé mohou měnit ústavu referendem, vetovat zákony referendem, mohou prosazovat zákony referendem. \nToto má dopady na politiky: protože lidé tvoří politiku jakkoli, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři hlavní strany Švýcarska, SVP, FDP, CVP a SP, jsou stále ve vládě spolu – to činí národní volby ve Švýcarsku z velké části zbytečnými – lidé vládnou ne prostřednictvím svých zástupců, ale prostřednictvím referend." # todo: NEW TRANSLATION
+  swiss_political_system3: "Politický systém Švýcarska" # todo: NEW TRANSLATION
+  swiss_political_system3_desc: "Švýcarsko má velmi jedinečný politický systém a je jedinou zemí na světě, která si může oprávněně říkat 'polopřímá demokracie'. Obyvatelé mohou měnit ústavu referendem, vetovat zákony referendem, mohou prosadit zákony referendem. \nToto má dopady na politiky: protože lidé tvoří politiku jakkoli, švýcarský koaliční systém musí zahrnovat co nejvíce sil. Čtyři hlavní strany Švýcarska, SVP, FDP, CVP a SP, jsou stále ve vládě spolu – to činí národní volby ve Švýcarsku z velké části zbytečnými – lidé vládnou ne prostřednictvím svých zástupců, ale prostřednictvím referend." # todo: NEW TRANSLATION
+  SWI_idea_armed_population: "Ozbrojená švýcarská populace" # todo: NEW TRANSLATION
+  SWI_idea_armed_population_desc: "V návaznosti na nedávné změny ve vládní politice se vláda [ROOT.GetName] rozhodla, že je požadováno, aby všichni vhodní občané byli vycvičeni v používání zbraní a aby každý občan měl jednu zbraň." # todo: NEW TRANSLATION
+  SWI_swiss_neutrality_desc: "§YSpeciální pravidla:§!\n\n§YMy§! §Rnelze§! §Yvyhlašovat válku ostatním státům!§!\n--------------\nŠvýcaři jsou po celém světě známí tím, že jsou neutrální. Od svého založení a republiky zůstávali neutrální i během obou světových válek.\n--------------\nTento národní duch lze §ROdstranit§!, pokud dokončíme zaměření §HDeclare The End Of Swiss Neutrality§!." # todo: NEW TRANSLATION
+  SWI_european_tanks: "Evropské tankové dohody" # todo: NEW TRANSLATION
+  SWI_european_tanks_desc: "" # todo: NEW TRANSLATION
+  SWI_defensive_preparations: "Defenzivní přípravy" # todo: NEW TRANSLATION
+  SWI_defensive_preparations_desc: "" # todo: NEW TRANSLATION
+  SWI_Expanding_nuclear_research: "Rozšiřování jaderného výzkumu" # todo: NEW TRANSLATION
+  SWI_Expanding_nuclear_research1: "Rozšiřování jaderného výzkumu" # todo: NEW TRANSLATION
+  SWI_idea_armed_forces: "[ROOT.GetName] ozbrojené síly" # todo: NEW TRANSLATION
+  SWI_idea_armed_forces_desc: "Ozbrojené síly [ROOT.GetName] jsou vojenskou silou země a národním obráncem." # todo: NEW TRANSLATION
+  SWI_idea_armed_forces2: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
+  SWI_idea_armed_forces2_desc: "Ozbrojené síly [ROOT.GetName] jsou vojenskou silou země a národním obráncem." # todo: NEW TRANSLATION
+  SWI_idea_armed_forces3: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
+  SWI_idea_armed_forces3_desc: "Ozbrojené síly [ROOT.GetName] jsou vojenskou silou země a národním obráncem." # todo: NEW TRANSLATION
+  SWI_idea_armed_forces4: "[ROOT.GetNameWithFlag] ozbrojené síly" # todo: NEW TRANSLATION
+  SWI_idea_armed_forces4_desc: "Ozbrojené síly [ROOT.GetName] jsou vojenskou silou země a národním obráncem." # todo: NEW TRANSLATION
+  tooltip_SWI_seek_eu_membership: "§Y[ROOT.GetNameWithFlag]§! investuje do Evropského jednotného trhu: §Y[EUU.GetFlag] Lídr obchodní politiky Evropské unie§! (v tomto pořadí §YPředseda Evropské komise§!, §YPředseda Evropské rady§!, §YPředseda Evropského parlamentu§!) dostane §YMezinárodní investici§! od §Y[ROOT.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
+  tooltip_SWI_european_investment_opportunities: "§Y[EUU.GetFlag] Lídr obchodní politiky Evropské unie§! (v tomto pořadí §YPředseda Evropské komise§!, §YPředseda Evropské rady§!, §YPředseda Evropského parlamentu§!) investuje do §Y[ROOT.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
+  SWI_join_un_tt: "§YBudeme se připojovat k§! §4OSN§! §Y a naše stanovisko spolu s §4Rada bezpečnosti OSN§! se posílí!§!" # todo: NEW TRANSLATION
+  SWI_can_declare_war_now_tt: "§YNyní můžeme vyhlásit§! §RVálku§! §Ostatním zemím!§!" # todo: NEW TRANSLATION
+  SWI_additional_military_facilities_tt: "§YPokud§! [ROOT.GetNameWithFlag] §Yovládá§! [AUS.GetNameWithFlag]§Y, získáme více zařízení!§!" # todo: NEW TRANSLATION
+  SWI_french_forts_tt: "§YBudeme budovat obranné bunkry podél hranic s§! §4[FRA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  SWI_italian_forts_tt: "§YPostavíme obranné bunkry podél hranice s§! §7[ITA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  SWI_german_forts_tt: "§YPostavíme obranné bunkry podél hranice s§! §R[GER.GetNameWithFlag]§!" # todo: NEW TRANSLATION

@@ -1,39 +1,22 @@
 ﻿l_english:
- naval_equipment: "Lodě" # todo: NEW TRANSLATION
- corvette: "Korvety" # todo: NEW TRANSLATION
- corvette_desc: "Nejmenší třída plavidel považovaných za válečné lodě. Korvety jsou levné a snadněji nahraditelné než jejich větší protějšky." # todo: NEW TRANSLATION
- frigate: "Fregaty" # todo: NEW TRANSLATION
- frigate_desc: "Tvoří jádro mnoha moderních námořnictv; fregaty mohou být nasazeny jako součást námořních sil schopných operovat na otevřeném oceánu." # todo: NEW TRANSLATION
- destroyer: "Torpédoborce" # todo: NEW TRANSLATION
- destroyer_desc: "Určeny k eskortě větších plavidel ve flotile, tyto rychlé, obratné a dlouhotrvající válečné lodě jsou stejně schopné samostatné činnosti." # todo: NEW TRANSLATION
- stealth_destroyer: "Maskované torpédoborce" # todo: NEW TRANSLATION
- stealth_destroyer_desc: "" # todo: NEW TRANSLATION
- cruiser: "Křižníky" # todo: NEW TRANSLATION
- cruiser_desc: "Obvykle největší útočná plavidla v moderní flotile, tyto silné jednotky mohou pokrýt oceány a moře po celém světě." # todo: NEW TRANSLATION
- helicopter_operator: "Operátoři vrtulníků" # todo: NEW TRANSLATION
- helicopter_operator_desc: "" # todo: NEW TRANSLATION
- carrier: "Letadlové lodě" # todo: NEW TRANSLATION
- carrier_desc: "Tyto plovoucí letecké základny jsou vrcholem námořní síly a umožňují projekci moci země do oceánů po celém světě." # todo: NEW TRANSLATION
- submarine: "Ponorky" # todo: NEW TRANSLATION
- submarine_desc: "" # todo: NEW TRANSLATION
- attack_submarine: "Útočné ponorky" # todo: NEW TRANSLATION
- attack_submarine_desc: "" # todo: NEW TRANSLATION
- missile_submarine: "Raketové ponorky" # todo: NEW TRANSLATION
- missile_submarine_desc: "Tichí zabijáci světových oceánů — tyto podmořské válečné platformy kombinují řadu užitečných schopností, včetně maskování, získávání zpravodajských informací a zbraňových systémů." # todo: NEW TRANSLATION
- battle_cruiser: "Bitevní křižníky" # todo: NEW TRANSLATION
- battle_cruiser_desc: "" # todo: NEW TRANSLATION
- battle_cruiser_hull_1: "Bitevní křižníky" # todo: NEW TRANSLATION
- battle_cruiser_hull_1_desc: "" # todo: NEW TRANSLATION
- battle_cruiser_hull_2: "Bitevní křižníky" # todo: NEW TRANSLATION
- battle_cruiser_hull_2_desc: "" # todo: NEW TRANSLATION
- battle_cruiser_hull_3: "Bitevní křižníky" # todo: NEW TRANSLATION
- battle_cruiser_hull_3_desc: "" # todo: NEW TRANSLATION
- battleship: "Bitevní lodě" # todo: NEW TRANSLATION
- battleship_hull_0: "Bitevní lodě" # todo: NEW TRANSLATION
- battleship_hull_0_desc: "" # todo: NEW TRANSLATION
- battleship_hull_1: "Bitevní lodě" # todo: NEW TRANSLATION
- battleship_hull_1_desc: "" # todo: NEW TRANSLATION
- battleship_hull_2: "Bitevní lodě" # todo: NEW TRANSLATION
- battleship_hull_2_desc: "" # todo: NEW TRANSLATION
- battleship_hull_3: "Bitevní lodě" # todo: NEW TRANSLATION
- battleship_hull_3_desc: "" # todo: NEW TRANSLATION
+  naval_equipment: "Lodě" # todo: NEW TRANSLATION
+  corvette: "Korveta" # todo: NEW TRANSLATION
+  corvette_desc: "Nejmenší třída plavidel považovaných za válečné lodě. Korvety jsou levné a snáze nahraditelné než jejich větší protějšky." # todo: NEW TRANSLATION
+  frigate: "Fregata" # todo: NEW TRANSLATION
+  frigate_desc: "Tvoří jádro mnoha moderních námořnictev; fregaty mohou být používány jako součást oceánských námořních sil." # todo: NEW TRANSLATION
+  destroyer: "Torpédoborec" # todo: NEW TRANSLATION
+  destroyer_desc: "Určeny k eskortě větších plavidel ve flotile, tyto rychlé, obratné a s dlouhou výdrží válečné lodě jsou rovněž schopné samostatné operace." # todo: NEW TRANSLATION
+  stealth_destroyer: "Maskovací torpédoborce" # todo: NEW TRANSLATION
+  stealth_destroyer_desc: "Rané maskovací lodě navržené k dopravení palebné síly na místo při minimalizaci schopnosti nepřítele plavidlo detekovat a zasáhnout." # todo: NEW TRANSLATION
+  cruiser: "Křižník" # todo: NEW TRANSLATION
+  cruiser_desc: "Typicky největší útočná plavidla v moderní flotile; tato silná plavidla dokážou operovat na oceánech a mořích po celém světě." # todo: NEW TRANSLATION
+  helicopter_operator: "Nosiče vrtulníků" # todo: NEW TRANSLATION
+  helicopter_operator_desc: "" # todo: NEW TRANSLATION
+  submarine: "Ponorka" # todo: NEW TRANSLATION
+  submarine_desc: "" # todo: NEW TRANSLATION
+  stealth_frigate: "Maskovaná fregata" # todo: NEW TRANSLATION
+  stealth_frigate_desc: "Pokročilé konstrukce, postavené tak, aby využily technologie obcházející radar, což námořnictvu umožňuje mnohem větší svobodu manévru v boji." # todo: NEW TRANSLATION
+  stealth_corvette: "Maskovaná korveta" # todo: NEW TRANSLATION
+  stealth_corvette_desc: "Pokročilý maskovací návrh korvety ke zlepšení přeživatelnosti." # todo: NEW TRANSLATION
+  carrier: "Letadlová loď" # todo: NEW TRANSLATION
+  carrier_desc: "Velké plavidlo navržené k přepravě a startu letadel. Letadlové lodě jsou páteří moderní námořní síly." # todo: NEW TRANSLATION

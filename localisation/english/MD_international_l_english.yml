@@ -1,0 +1,516 @@
+﻿l_english:
+  open_the_international_system_tt: "Otevřít §YMezinárodní systémy§! rozhraní" # todo: NEW TRANSLATION
+  open_the_international_system_delayed_tt: "Otevře obrazovku §YMezinárodní systémy§! rozhraní včetně §YSoukromé vojenské společnosti§!, §YProtiterorismus§! systému a §YUznání státu§! systému." # todo: NEW TRANSLATION
+  IS_hire_pmcs_button_text: "Najmout PMCs" # todo: NEW TRANSLATION
+  IS_hire_pmcs_button_text_tt: "Otevře obrazovku §YSoukromé vojenské společnosti§!. Zde můžeme uzavírat smlouvy s §YPMCs§! pro řadu různých důvodů, jako jsou bezpečnostní síly, zajištění zbraní a další." # todo: NEW TRANSLATION
+  IS_counter_terror_button_text: "Protiterorismus" # todo: NEW TRANSLATION
+  IS_counter_terror_button_text_tt: "Otevře obrazovku §YProtiterorismus§!. Zde můžeme řídit naše protiteroristické snahy a také podporovat snahy ostatních států v boji proti terorismu." # todo: NEW TRANSLATION
+  IS_state_recognition_button_text: "Uznání státu" # todo: NEW TRANSLATION
+  IS_state_recognition_button_text_tt: "Otevře obrazovku §YUznání státu§!. Zde můžeme uznávat státy jako nezávislé národy a také pomáhat ostatním státům s jejich kampaněmi za uznání států." # todo: NEW TRANSLATION
+  recognition_category_desc: "Několik neuznaných států usiluje o členství v mezinárodním společenství. Musíme se rozhodnout, zda podpoříme jejich kampaně. Pokud získají dostatečnou podporu od členských států OSN, mohou být přijaty do Organizace spojených národů a zbaví se svého neuznaného statusu a s ním spojených nevýhod. Pro státy, které jsme již uznali, můžeme jejich kampaně dále podporovat tím, že povzbudíme ostatní členské státy OSN, aby je uznaly také." # todo: NEW TRANSLATION
+  not_recog_tt: "§Y[ROOT.GetNameWithFlag]§! dosud neuznal §Y[?var:open_state.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  has_recog_tt: "§Y[ROOT.GetNameWithFlag]§! uznal §Y[?var:open_state.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  grant_recog_tt: "Zvolený stát není v současnosti naší zemí uznán. Může nastat čas, kdy ho uznáme jako legitimní stát." # todo: NEW TRANSLATION
+  grant_recog_delayed_tt: "§YPředpoklady:§!\n[!grant_recog_button_click_enabled]\n\n§YEfekty:§!\n[!grant_recog_button_click]" # todo: NEW TRANSLATION
+  switch_recog_tt: "Rivalní vláda této země již není v zájmech naší země. Měli bychom zrušit naše uznání a uznat jejich rivala." # todo: NEW TRANSLATION
+  switch_recog_delayed_tt: "§YPředpoklady:§!\n[!switch_recog_button_click_enabled]\n\n§YEfekty:§!\n[!switch_recog_button_click]" # todo: NEW TRANSLATION
+  pressure_countries_tt: "Vybraná země potřebuje mezinárodní podporu. Můžeme využít náš vliv ve světě, abychom vyvíjeli nátlak na státy, aby ji uznaly, čímž bychom jí pomohli posílit postavení." # todo: NEW TRANSLATION
+  pressure_countries_delayed_tt: "§YPředpoklady:§!\n[!pressure_countries_recog_button_click_enabled]\n\n§YEfekty:§!\n[!pressure_countries_recog_button_click]" # todo: NEW TRANSLATION
+  rescind_recog_tt: "Pokles dvou bývalých přátel je plný důvodů, z nichž mnohé zůstanou skryty. Už nemůžeme tolerovat urážky. Je načase již nestanovovat uznání této země a jít dál." # todo: NEW TRANSLATION
+  move_embassy_ISR_button_tt: "[ISR.GetFlag] Přesunout velvyslanectví do Jeruzaléma [THIS.GetFlag]" # todo: NEW TRANSLATION
+  move_embassy_ISR_button_tooltip_tt: "§Y[ROOT.GetNameWithFlag]§! vedlo jednání se §Y[ISR.GetNameWithFlag]§! o přesunu jejich velvyslanectví do Jeruzaléma. Bude to velké diplomatické vítězství pro národ [ISR.GetAdjective], ale poníží naše vztahy s §Y[PAL.GetNameWithFlag]§! a zbytkem arabského světa." # todo: NEW TRANSLATION
+  move_embassy_ISR_button_tooltip_delayed_tt: "§YPředpoklady:§!\n[!move_embassy_ISR_button_click_enabled]\n\n§YEfekty:§!\n[!move_embassy_ISR_button_click]" # todo: NEW TRANSLATION
+  moved_ISR_embassy: "§Y[ROOT.GetNameWithFlag]§! přesunulo své velvyslanectví se §Y[ISR.GetNameWithFlag]§! do Jeruzaléma" # todo: NEW TRANSLATION
+  rescind_recog_delayed_tt: "§YPředpoklady:§!\n[!rescind_recog_button_click_enabled]\n\n§YEfekty:§!\n[!rescind_recog_button_click]" # todo: NEW TRANSLATION
+  campaign_usa_tt: "§YPředpoklady:§!\n[!campaign_USA_button_click_enabled]\n\n§YEfekty:§!\n[!campaign_USA_button_click]" # todo: NEW TRANSLATION
+  campaign_sov_tt: "§YPředpoklady:§!\n[!campaign_SOV_button_click_enabled]\n\n§YEfekty:§!\n[!campaign_SOV_button_click]" # todo: NEW TRANSLATION
+  campaign_chi_tt: "§YPředpoklady:§!\n[!campaign_CHI_button_click_enabled]\n\n§YEfekty:§!\n[!campaign_CHI_button_click]" # todo: NEW TRANSLATION
+  campaign_fra_tt: "§YPředpoklady:§!\n[!campaign_FRA_button_click_enabled]\n\n§YEfekty:§!\n[!campaign_FRA_button_click]" # todo: NEW TRANSLATION
+  campaign_eng_tt: "§YPředpoklady:§!\n[!campaign_ENG_button_click_enabled]\n\n§YEfekty:§!\n[!campaign_ENG_button_click]" # todo: NEW TRANSLATION
+  un_ascend_tt: "§YPředpoklady:§!\n[!un_ascension_button_click_enabled]\n\n§YEfekty:§!\n[!un_ascension_button_click]" # todo: NEW TRANSLATION
+  campaign_USA_button_text: "Kampaň pro USA [USA.GetFlag] Podpora" # todo: NEW TRANSLATION
+  campaign_SOV_button_text: "Žádat o podporu [SOV.GetName] [SOV.GetFlag]" # todo: NEW TRANSLATION
+  campaign_CHI_button_text: "Žádat o podporu PRC [CHI.GetFlag]" # todo: NEW TRANSLATION
+  campaign_FRA_button_text: "Žádat o podporu [FRA.GetName] [FRA.GetFlag]" # todo: NEW TRANSLATION
+  campaign_ENG_button_text: "Žádat o podporu [ENG.GetName] [ENG.GetFlag]" # todo: NEW TRANSLATION
+  un_ascension_button_tt: "Stát OSN členem" # todo: NEW TRANSLATION
+  switch_recog_button_text: "Přepnout uznání" # todo: NEW TRANSLATION
+  pressure_countries_recog_button_text: "Nátlak na státy" # todo: NEW TRANSLATION
+  grant_recog_button_text: "Udělit uznání" # todo: NEW TRANSLATION
+  rescind_recog_button_text: "Odebrat uznání" # todo: NEW TRANSLATION
+  not_is_a_rival_government_tt: "[?var:open_state.GetTag.GetNameWithFlag] není §YRivalní vláda§!" # todo: NEW TRANSLATION
+  not_recognized_this_nation_tt: "[?var:open_state.GetTag.GetNameWithFlag] není uznán §Y[ROOT.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  not_recognized_the_opponent_nation_tt: "§Y[ROOT.GetNameWithFlag]§! dosud neuznala §Y[?var:open_state.GetNameWithFlag]§! jako rivalní vládu." # todo: NEW TRANSLATION
+  is_a_rival_government_tt: "§Y[?var:open_state.GetNameWithFlag]§! je §YRivalní vláda§!" # todo: NEW TRANSLATION
+  PMC_company_button_tt: "[name_of_corp_desc]\n-----------\n§YPředpoklady:§!\n[!name_of_pmc_companies_button_click_enabled]\n§YEfekty:§!\n[!name_of_pmc_companies_button_click]" # todo: NEW TRANSLATION
+  pmc_unit_button_tt: "§YPředpoklady:§!\n[!name_of_pmc_units_button_click_enabled]\n\n§YEfekty:§!\n[!name_of_pmc_units_button_click]" # todo: NEW TRANSLATION
+  light_inf_tt: "§YPředpoklady:§!\n[!remove_light_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  mot_inf_tt: "§YPředpoklady:§!\n[!remove_mot_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  mech_inf_tt: "§YPředpoklady:§!\n[!remove_mech_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  hvy_inf_tt: "§YPředpoklady:§!\n[!remove_hvy_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  spec_inf_tt: "§YPředpoklady:§!\n[!remove_spec_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  tank_tt: "§YPředpoklady:§!\n[!remove_tank_button_click_enabled]" # todo: NEW TRANSLATION
+  sof_inf_tt: "§YPředpoklady:§!\n[!remove_sf_inf_button_click_enabled]" # todo: NEW TRANSLATION
+  has_hired_tt: "Má najánaný tento typ jednotky od vybrané společnosti" # todo: NEW TRANSLATION
+  pmc_open_units_list: "Toto otevře seznam jednotek pro tuto společnost." # todo: NEW TRANSLATION
+  pmc_upgrade_tt: "§YTato společnost je dostatečně vylepšená na podporu tohoto typu jednotky.§!" # todo: NEW TRANSLATION
+  light_inf_loc: "Lehká pěchota" # todo: NEW TRANSLATION
+  mot_inf_loc: "Motorizovaná pěchota" # todo: NEW TRANSLATION
+  mech_inf_loc: "Mechanizovaná pěchota" # todo: NEW TRANSLATION
+  hvy_mech_inf_loc: "Těžká mechanizovaná pěchota" # todo: NEW TRANSLATION
+  spc_inf_loc: "Specializovaná pěchota" # todo: NEW TRANSLATION
+  tank_loc: "Tanková jednotka" # todo: NEW TRANSLATION
+  spec_op_loc: "Pěchota speciálních operací" # todo: NEW TRANSLATION
+  remove_light_inf_button_text: "Odebrat lehkou pěchotu" # todo: NEW TRANSLATION
+  remove_mot_inf_button_text: "Odebrat motorickou pěchotu" # todo: NEW TRANSLATION
+  remove_mech_inf_button_text: "Odebrat mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  remove_heavy_mech_inf_button_text: "Odebrat těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  remove_special_infantry_text: "Odebrat speciální pěchotu" # todo: NEW TRANSLATION
+  remove_tank_unit_text: "Odebrat tankovou jednotku" # todo: NEW TRANSLATION
+  remove_sf_inf_button_text: "Odebrat pěchotu SOF" # todo: NEW TRANSLATION
+  constellis_pmc_formed: "§YConstellis Holdings§! Založena soukromá vojenská společnost" # todo: NEW TRANSLATION
+  blackwater_sel: "§YBlackwater Worldwide§! Vybráno" # todo: NEW TRANSLATION
+  aegis_sel: "§YAegis Defence Services§! Vybráno" # todo: NEW TRANSLATION
+  wagner_sel: "§YWagner Group§! Vybráno" # todo: NEW TRANSLATION
+  constellis_sel: "§YConstellis Holdings§! Vybráno" # todo: NEW TRANSLATION
+  sinai_create: "§YThe Unions of the Tribe of Sinai§! PMC Založena" # todo: NEW TRANSLATION
+  gard_create: "§YGardservis§! PMC Založena" # todo: NEW TRANSLATION
+  patriot_create: "§YPatriot§! PMC Založena" # todo: NEW TRANSLATION
+  dewe_create: "§YDewe Security Services§! PMC Založena" # todo: NEW TRANSLATION
+  over_create: "§YChina Overseas Group Security§! PMC Založena" # todo: NEW TRANSLATION
+  front_create: "§YFrontier Services Group§! PMC Založena" # todo: NEW TRANSLATION
+  redut_create: "§YRedut§! PMC Založena" # todo: NEW TRANSLATION
+  gazprom_create: "§YGazprom§! PMC Založena" # todo: NEW TRANSLATION
+  iron_create: "§YIron Navy§! PMC Založena" # todo: NEW TRANSLATION
+  sheriff_create: "§YSheriff§! PMC Založena" # todo: NEW TRANSLATION
+  lukoil_create: "§YLukoil§! PMC Založena" # todo: NEW TRANSLATION
+  rosneft_create: "§YRosneft§! PMC Založena" # todo: NEW TRANSLATION
+  sberbank_create: "§YSberbank§! PMC Založena" # todo: NEW TRANSLATION
+  vtb_create: "§YVTB§! PMC Založena" # todo: NEW TRANSLATION
+  inf_hire: "Najal lehkou pěchotu" # todo: NEW TRANSLATION
+  mot_inf_hire: "Najal motorickou pěchotu" # todo: NEW TRANSLATION
+  mech_inf_hire: "Najal mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  hvy_inf_hire: "Najal těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  spec_inf_hire: "Najal specializovanou pěchotu" # todo: NEW TRANSLATION
+  tank_hire: "Najal tankovou jednotku" # todo: NEW TRANSLATION
+  sf_hire: "Najal pěchotu SOF" # todo: NEW TRANSLATION
+  PMC_blackwater_loc: "£blackwater_button" # todo: NEW TRANSLATION
+  PMC_aegis_loc: "£aegis_button" # todo: NEW TRANSLATION
+  PMC_constellis_loc: "£costellis_button" # todo: NEW TRANSLATION
+  PMC_wagner_loc: "£wagner_button" # todo: NEW TRANSLATION
+  PMC_mpri_loc: "£mpri_button" # todo: NEW TRANSLATION
+  PMC_sadat_loc: "£sadat_button" # todo: NEW TRANSLATION
+  PMC_rsb_loc: "£rsb_button" # todo: NEW TRANSLATION
+  PMC_sandline_loc: "£sandline_button" # todo: NEW TRANSLATION
+  PMC_kbr_loc: "£kbr_button" # todo: NEW TRANSLATION
+  PMC_nirtal_loc: "£nirtal_button" # todo: NEW TRANSLATION
+  PMC_halo_loc: "£halo_button" # todo: NEW TRANSLATION
+  PMC_defense_loc: "£dci_button" # todo: NEW TRANSLATION
+  PMC_gardaworld_loc: "£garda_button" # todo: NEW TRANSLATION
+  PMC_esa_loc: "£eu_button" # todo: NEW TRANSLATION
+  PMC_g4s_loc: "£g4s_button" # todo: NEW TRANSLATION
+  PMC_asgaarg_loc: "£asgaarg_button" # todo: NEW TRANSLATION
+  PMC_dewe_loc: "£dewe_button" # todo: NEW TRANSLATION
+  PMC_gard_loc: "£gard_button" # todo: NEW TRANSLATION
+  PMC_iron_loc: "£iron_button" # todo: NEW TRANSLATION
+  PMC_lukoil_loc: "£lukoil_button" # todo: NEW TRANSLATION
+  PMC_over_loc: "£over_button" # todo: NEW TRANSLATION
+  PMC_patriot_loc: "£patriot_button" # todo: NEW TRANSLATION
+  PMC_redut_loc: "£redut_button" # todo: NEW TRANSLATION
+  PMC_rosneft_loc: "£rosneft_button" # todo: NEW TRANSLATION
+  PMC_vtb_loc: "£vtb_button" # todo: NEW TRANSLATION
+  PMC_md_loc: "£md_button" # todo: NEW TRANSLATION
+  PMC_asgard_loc: "£asgaard_button" # todo: NEW TRANSLATION
+  PMC_sinai_loc: "£union_button" # todo: NEW TRANSLATION
+  PMC_front_loc: "£front_button" # todo: NEW TRANSLATION
+  PMC_gazprom_loc: "£gaz_button" # todo: NEW TRANSLATION
+  PMC_sheriff_loc: "£sheriff_button" # todo: NEW TRANSLATION
+  PMC_sberbank_loc: "£sberbank_button" # todo: NEW TRANSLATION
+  PMC_md_name: "MD Military Bois" # todo: NEW TRANSLATION
+  PMC_blackwater_name: "Blackwater Worldwide" # todo: NEW TRANSLATION
+  PMC_aegis_name: "Aegis Defence Services" # todo: NEW TRANSLATION
+  PMC_constellis_name: "Constellis Holdings" # todo: NEW TRANSLATION
+  PMC_wagner_name: "Wagner Group" # todo: NEW TRANSLATION
+  PMC_mpri_name: "MPRI" # todo: NEW TRANSLATION
+  PMC_sadat_name: "SADAT Specialists" # todo: NEW TRANSLATION
+  PMC_rsb_name: "RSB-Group" # todo: NEW TRANSLATION
+  PMC_sandline_name: "SandLine" # todo: NEW TRANSLATION
+  PMC_kbr_name: "KBR Logistics" # todo: NEW TRANSLATION
+  PMC_nirtal_name: "Nirtal Specialists" # todo: NEW TRANSLATION
+  PMC_halo_name: "The HALO Trust" # todo: NEW TRANSLATION
+  PMC_defense_name: "Defense Conseil International" # todo: NEW TRANSLATION
+  PMC_gardaworld_name: "GardaWorld" # todo: NEW TRANSLATION
+  PMC_esa_name: "European Security Academy" # todo: NEW TRANSLATION
+  PMC_g4s_name: "G4S" # todo: NEW TRANSLATION
+  PMC_asgard_name: "Asgaard - Německá bezpečnostní skupina" # todo: NEW TRANSLATION
+  PMC_sinai_name: "Unie kmenů Sinaje" # todo: NEW TRANSLATION
+  PMC_gard_name: "Gardservis" # todo: NEW TRANSLATION
+  PMC_patriot_name: "Patriot" # todo: NEW TRANSLATION
+  PMC_dewe_name: "Dewe Security Services" # todo: NEW TRANSLATION
+  PMC_over_name: "China Overseas Group Security" # todo: NEW TRANSLATION
+  PMC_front_name: "Front" # todo: NEW TRANSLATION
+  PMC_redut_name: "Redut" # todo: NEW TRANSLATION
+  PMC_gazprom_name: "Gazprom" # todo: NEW TRANSLATION
+  PMC_iron_name: "Železné námořnictvo" # todo: NEW TRANSLATION
+  PMC_sheriff_name: "Sheriff" # todo: NEW TRANSLATION
+  PMC_lukoil_name: "Lukoil" # todo: NEW TRANSLATION
+  PMC_rosneft_name: "Rosneft" # todo: NEW TRANSLATION
+  PMC_sberbank_name: "Sberbank" # todo: NEW TRANSLATION
+  PMC_vtb_name: "VTB" # todo: NEW TRANSLATION
+  name_of_corp_tt: "§Y[name_of_corp]§!" # todo: NEW TRANSLATION
+  PMC_blackwater_name_desc: "§YBlackwater Worldwide§! je americký soukromý vojenský dodavatel (PMC) založený na konci roku 1996 bývalým velitelem USN SEAL, Erikem Prince. Společnost poskytuje řadu služeb, jako je výcvik v prosazování práva, výcvik boje na krátké vzdálenosti a bezpečnostní služby." # todo: NEW TRANSLATION
+  PMC_aegis_name_desc: "§YAegis§!, plně známá jako Aegis Defense Services, je britská soukromá vojenská společnost založená Timem Spicerem, který byl dříve generálním ředitelem Sandline International, se spoluzakladateli Jeffrey Dayem, Dominicem Armstrongem a Markem Bullough. Některé z poskytovaných služeb zahrnují bezpečnostní služby, výcvik v prosazování práva a logistickou podporu a rekonstrukční snahy." # todo: NEW TRANSLATION
+  PMC_constellis_name_desc: "§YConstellis Holdings§! je název americké soukromé vojenské společnosti vzniklé spojením Blackwater a Triple Canopy, čímž vznikla Constellis Holdings." # todo: NEW TRANSLATION
+  PMC_wagner_name_desc: "§YWagner Group§!, oficiálně známá jako PMC Wagner, je ruská státem financovaná soukromá vojenská společnost, kterou založil Jevgenij Prigožin. Wagner Group je nejznámější pro nábor vězňů do bojových jednotek a vede operace v mnoha zemích po celém světě." # todo: NEW TRANSLATION
+  PMC_md_name_desc: "Soukromá vojenská společnost §YMD Military Bois§! byla založena někdy v 21. století. Původ není znám, ale členové PMC pocházejí z široké škály zemí, od Ameriky, Švýcarska, Německa, Číny i Ruska, díky čemuž patří mezi nejrozmanitější vyzbrojené PMCs na světové scéně. Jsou široce považováni za jedny z nejlepších žoldáků k najmutí díky vysoké morálce, koordinaci a jejich schopnosti používat širokou škálu zbraňových platforem." # todo: NEW TRANSLATION
+  PMC_mpri_name_desc: "§YMPRI§! (a.k.a §YL3-MPRI§!) je americká globální soukromá vojenská společnost (PMC) založená v roce 1987 osmi bývalými vysokými vojenskými činiteli Spojených států, včetně Carla Vuono, bývalého předsedy Společného štábu. Společnost poskytuje širokou škálu služeb, od logistiky, vojenského výcviku, výcviku v prosazování práva, modernizace a údržby letadel, elektronických systémů a elektronického boje. Sehrála aktivní roli v Operaci Pouštní bouře a krátce poté se stala světově proslulou globální PMC s kontrakty v zemích jako Chorvatsko, Bosna a Hercegovina, Rovníková Guinea, Kolumbie a další." # todo: NEW TRANSLATION
+  PMC_sadat_name_desc: "§YSADAT Specialists§! je turecká soukromá vojenská společnost se sídlem v Istanbulu. Založena v roce 2012, společnost působí na Blízkém východě a poskytuje řadu dodavatelských služeb, jako je vojenské poradenství, obstarávání munice a obranné poradenství." # todo: NEW TRANSLATION
+  PMC_rsb_name_desc: "§YRSB-Group§! je ruská vojenská konzultační společnost, která poskytuje širokou škálu služeb, ale hlavně bojové síly, výcvik, logistiku a vysoce školený důstojnický sbor." # todo: NEW TRANSLATION
+  PMC_sandline_name_desc: "§YSandLine International§! je londýnská PMC založená a vzniklá v 90. letech Timem Spicerem. SandLine se podílela na několika konfliktech v 90. letech, jedním z nich byla Papua-Nová Guinea. Stejně jako u jiných PMCs poskytovala SandLine služby související s vojenským výcvikem a ochranou, stejně jako jedinečnou provozní podporu, která zahrnovala nákup vybavení a zbraní a diplomatickou podporu pro své držitele kontraktů." # todo: NEW TRANSLATION
+  PMC_kbr_name_desc: "§YKBR Logistics§! je logisticky orientovaná soukromá vojenská společnost, která je nejznámější svým zapojením do logistické podpory Spojeným státům a dalším partnerům NATO." # todo: NEW TRANSLATION
+  PMC_nirtal_name_desc: "§YNirtal Specialists§! byla založena v roce 1995 jako globální soukromá bezpečnostní společnost, která se specializuje na bojový výcvik, ochranu osob a bezpečnostní poradenství." # todo: NEW TRANSLATION
+  PMC_halo_name_desc: "§YThe Halo Trust§! byla založena v roce 1988 a je nezisková humanitární organizace, která se specializuje na odstraňování munice na válečných územích a bezpečné a účinné odstraňování min. Usilují o to, aby vlády pokračovaly v této praxi za účelem zajištění bezpečnosti budoucích generací. Část jejich práce proběhla v Mozambiku, Kosovu, Somálsku, Afghánistánu a v mnoha dalších zemích." # todo: NEW TRANSLATION
+  PMC_defense_name_desc: "§YDefense Conseil International§! byla založena v roce 2000 jako sloučení několika bývalých bezpečnostních organizací, jejichž hlavní účel je exportovat francouzské vojenské know-how, výcvik a technickou pomoc mezinárodně." # todo: NEW TRANSLATION
+  PMC_gardaworld_name_desc: "§YGardaWorld§! je kanadská soukromá bezpečnostní firma Stephana Crétiera, která provozuje služby ostrahy a pancéřovaných vozidel globálně. Společnost měla smlouvy s řadou zemí po celém světě a poskytovala bezpečnostní služby pro velvyslanectví, banky, vládní budovy a další místa." # todo: NEW TRANSLATION
+  PMC_esa_name_desc: "§YThe European Security Academy§! byla založena v roce 1992 Andrzejem Brylem a poskytuje služby v oblasti námořní ochrany, první pomoci, střelby a dalších. Dále společnost vycvičila mnoho speciálních jednotek v Evropské unii mezi policejními a vojenskými silami států §Y[EUU.GetFlag][EUU.GetName]§!." # todo: NEW TRANSLATION
+  PMC_g4s_name_desc: "§YG4S§! je londýnská mezinárodní soukromá bezpečnostní společnost vzniklá spojením §YSecuricor§! a §YGroup 4 Falck§!. Společnost nabízí řadu služeb, jako je bezpečnostní personál, výjezdové jednotky, přeprava vězňů v bezpečí a další. Stala se jednou z nejpřednějších soukromých bezpečnostních společností na světě podle výnosů i zaměstnanosti v Evropě a Africe." # todo: NEW TRANSLATION
+  PMC_asgard_name_desc: "§YAsgard - Německá bezpečnostní skupina§! je německá soukromá vojenská společnost založená v roce 2007. Jedná se o soukromou vojenskou společnost specializující se na boj, výcvik a další." # todo: NEW TRANSLATION
+  PMC_sinai_name_desc: "§YThe Union of the Tribes of Sinai§! je paramilitární síla v severním Sinajském regionu Egypta, která bojuje bok po boku s egyptskými bezpečnostními silami v regionu. Síla je primárně složena z místních beduínských kmenů. Síla se stala účinnou proti insurgentům a bojuje bilaterálně po boku koordinovaných profesionálních vojenských sil." # todo: NEW TRANSLATION
+  PMC_gard_name_desc: "§YGardservis§!, založená v roce 2020, je běloruská bezpečnostní organizace schválená běloruskou vládou, která má držet a vycvičit speciální bezpečnostní síly z cizích zemí, hlavně afrických a jihoamerických zemí. Často se srovnává s ruskou PMC Wagner Group a má podobnou strukturu a účel." # todo: NEW TRANSLATION
+  PMC_patriot_name_desc: "§YPatriot§! je ruská soukromá vojenská společnost, která byla vytvořena na konci roku 2018 jako elitnější verze §YWagner Group§!. Zaměřují se spíše na osobní ochranu a zaměstnávají výhradně zkušené vojáky s bojovými zkušenostmi." # todo: NEW TRANSLATION
+  PMC_dewe_name_desc: "§YDewe Security Services§! byla založena v roce 2011 bývalými vojáky a policejními důstojníky a poprvé působila během olympijských her v Pekingu v roce 2008. Často se podílejí na výcviku různých civilních policejních sil a jsou součástí iniciativy Belt & Road k poskytování bezpečnosti čínským investicím v Africe, Asii a na Blízkém východě." # todo: NEW TRANSLATION
+  PMC_over_name_desc: "§YChina Overseas Group Security§! je státem podporovaná čínská bezpečnostní firma, která má úzkou spolupráci se zahraničními národy, aby zajistila ochranu čínských a hostitelských zájmů. Poskytují řadu služeb, jako je výcvik, ochrana a bezpečnost pro země, které si jejich služby platí." # todo: NEW TRANSLATION
+  PMC_front_name_desc: "§YFront§! (nebo §YFrontier Services Group§!) je čínská státem vlastněná soukromá bezpečnostní organizace se sídlem v [HKG.GetNameWithFlag]. Je to africko zaměřená bezpečnostní, letecká a logistická firma založená bývalým generálním ředitelem §YBlackwater Worldwide§!, Erikem Prince. Společnost se primárně zaměřuje na logistické projekty pro námořní trasy, bezpečnost bez použití zbraní a výcvik proti terorismu. Dále se specializuje na vysoce rizikové evakuace z oblastí konfliktů." # todo: NEW TRANSLATION
+  PMC_redut_name_desc: "§YRedut§! byla založena v roce 2008 spojením různých ruských veteránů a jednotek ministerstva obrany, kteří získali bojové zkušenosti v různých mírových a vojenských misích." # todo: NEW TRANSLATION
+  PMC_gazprom_name_desc: "Po rozpuštění Wagner PMC si Gazprom vytvořil svou vlastní soukromou bezpečnostní organizaci, která mu umožnila chránit svá zařízení. Gazprom je také nejznáměji smluvně vázán ruským ministerstvem obrany na ochranu ropných a plynových zájmů." # todo: NEW TRANSLATION
+  PMC_iron_name_desc: "§YIron Navy§! je estonská soukromá vojenská společnost, která poskytuje širokou škálu ochranných služeb a služeb ochrany jachet." # todo: NEW TRANSLATION
+  PMC_sheriff_name_desc: "§YSheriff§! je druhá největší společnost na Transnistrii a zahrnuje veškeré výnosné soukromé podniky. Mají podíl na čerpacích stanicích, supermarketech, televizních kanálech, prodejnách, hotelích a dalších. Bezpečnostní organizace byla vytvořena jako další zdroj příjmů pro korporátního giganta. Společnost poskytuje bezpečnostní služby různým portfoliím a nabízela své služby i mezinárodně." # todo: NEW TRANSLATION
+  PMC_lukoil_name_desc: "§YLukoil§! založila svou PMC zaměřenou na bojové a bezpečnostní detaily a shromažďování zpravodajských informací. PMC sponzorovaná Lukoilem se pravděpodobně spojuje s bývalými agenty KGB." # todo: NEW TRANSLATION
+  PMC_rosneft_name_desc: "§YRosneft§! je dalším ropným gigantem v Rusku, který se primárně soustředí na založení další vojenské společnosti se zaměřením na bezpečnostní síly." # todo: NEW TRANSLATION
+  PMC_sberbank_name_desc: "§YSberbank§! je státní ruská banka, která založila vojenskou společnost na příkaz ruské vlády se zaměřením na boj a bezpečnostní síly." # todo: NEW TRANSLATION
+  PMC_vtb_name_desc: "§YVTB§! je státní ruská banka, která založila soukromou vojenskou společnost pod názvem Convoy za pomoci Arkady Rotenberg. Podobně jako jiné ruské soukromé vojenské společnosti se firma zaměřuje na vojenské a bezpečnostní služby poskytující bojové a bezpečnostní jednotky." # todo: NEW TRANSLATION
+  name_of_corp_desc_tt: "§Y[name_of_corp_desc]§!" # todo: NEW TRANSLATION
+  pmc_spawn_TT: "§GPožadované síly dorazí do našeho hlavního města§!" # todo: NEW TRANSLATION
+  pmc_surpassing_TT: "§YNepřekročíme kapacitu PMC§!" # todo: NEW TRANSLATION
+  pmc_surpassing_max_TT: "§YVaše HDP je dostatečné na podporu nabraných jednotek§!" # todo: NEW TRANSLATION
+  pmc_founded_TT: "§GZaložíme naši vlastní místní soukromou vojenskou společnost§!" # todo: NEW TRANSLATION
+  banned_pmc_operations_TT: "§ROperace této PMC nejsou zakázány nadvládou§!" # todo: NEW TRANSLATION
+  get_blackwater_light_infantry: "Najmout Blackwater lehkou pěchotu" # todo: NEW TRANSLATION
+  get_blackwater_mot_infantry: "Najmout Blackwater motorizovanou pěchotu" # todo: NEW TRANSLATION
+  get_blackwater_mech_infantry: "Najmout Blackwater mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_blackwater_heavy_mech_infantry: "Najmout Blackwater těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_blackwater_special_infantry: "Najmout Blackwater údernou jednotku" # todo: NEW TRANSLATION
+  get_blackwater_tank: "Najmout Blackwater tankovou jednotku" # todo: NEW TRANSLATION
+  get_blackwater_specops: "Najmout Blackwater SpecOps jednotku" # todo: NEW TRANSLATION
+  disband_blackwater_light_infantry: "Ukončit smlouvu se Blackwater lehkými jednotkami" # todo: NEW TRANSLATION
+  disband_blackwater_mot_infantry: "Ukončit smlouvu se Blackwater motorizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_blackwater_mech_infantry: "Ukončit smlouvu se Blackwater mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_blackwater_heavy_mech_infantry: "Ukončit smlouvu se Blackwater těžkou mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_blackwater_special_infantry: "Ukončit smlouvu se Blackwater údernými jednotkami" # todo: NEW TRANSLATION
+  disband_blackwater_tank: "Ukončit smlouvu se Blackwater tankovou jednotkou" # todo: NEW TRANSLATION
+  disband_blackwater_specops: "Ukončit smlouvu se Blackwater SpecOps jednotkami" # todo: NEW TRANSLATION
+  get_wagner_light_infantry: "Najmout Wagner lehkou pěchotu" # todo: NEW TRANSLATION
+  get_wagner_mot_infantry: "Najmout Wagner motorizovanou pěchotu" # todo: NEW TRANSLATION
+  get_wagner_mech_infantry: "Najmout Wagner mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_wagner_heavy_mech_infantry: "Najmout Wagner těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_wagner_special_infantry: "Najmout Wagner údernou jednotku" # todo: NEW TRANSLATION
+  get_wagner_tank: "Najmout Wagner tankovou jednotku" # todo: NEW TRANSLATION
+  get_wagner_specops: "Najmout Wagner SpecOps jednotku" # todo: NEW TRANSLATION
+  disband_wagner_light_infantry: "Ukončit smlouvu se Wagner lehkými jednotkami" # todo: NEW TRANSLATION
+  disband_wagner_mot_infantry: "Ukončit smlouvu se Wagner motorizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_wagner_mech_infantry: "Ukončit smlouvu se Wagner mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_wagner_heavy_mech_infantry: "Ukončit smlouvu se Wagner těžkou mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_wagner_special_infantry: "Ukončit smlouvu se Wagner údernými jednotkami" # todo: NEW TRANSLATION
+  disband_wagner_tank: "Ukončit smlouvu se Wagner tankovou jednotkou" # todo: NEW TRANSLATION
+  disband_wagner_specops: "Ukončit smlouvu se Wagner SpecOps jednotkami" # todo: NEW TRANSLATION
+  get_aegis_light_infantry: "Najmout Aegis lehkou pěchotu" # todo: NEW TRANSLATION
+  get_aegis_mot_infantry: "Najmout Aegis motorizovanou pěchotu" # todo: NEW TRANSLATION
+  get_aegis_mech_infantry: "Najmout Aegis mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_aegis_heavy_mech_infantry: "Najmout Aegis těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_aegis_special_infantry: "Najmout Aegis údernou jednotku" # todo: NEW TRANSLATION
+  get_aegis_tank: "Najmout Aegis tankovou jednotku" # todo: NEW TRANSLATION
+  get_aegis_specops: "Najmout Aegis SpecOps jednotku" # todo: NEW TRANSLATION
+  disband_aegis_light_infantry: "Ukončit smlouvu s Aegis lehkými jednotkami" # todo: NEW TRANSLATION
+  disband_aegis_mot_infantry: "Ukončit smlouvu s Aegis motorizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_aegis_mech_infantry: "Ukončit smlouvu s Aegis mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_aegis_heavy_mech_infantry: "Ukončit smlouvu s Aegis těžkou mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_aegis_special_infantry: "Ukončit smlouvu s Aegis údernými jednotkami" # todo: NEW TRANSLATION
+  disband_aegis_tank: "Ukončit smlouvu s Aegis tankovou jednotkou" # todo: NEW TRANSLATION
+  disband_aegis_specops: "Ukončit smlouvu se Aegis SpecOps jednotkami" # todo: NEW TRANSLATION
+  get_constellis_light_infantry: "Najmout Constellis lehkou pěchotu" # todo: NEW TRANSLATION
+  get_constellis_mot_infantry: "Najmout Constellis motorizovanou pěchotu" # todo: NEW TRANSLATION
+  get_constellis_mech_infantry: "Najmout Constellis mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_constellis_heavy_mech_infantry: "Najmout Constellis těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_constellis_special_infantry: "Najmout Constellis údernou jednotku" # todo: NEW TRANSLATION
+  get_constellis_tank: "Najmout Constellis tankovou jednotku" # todo: NEW TRANSLATION
+  get_constellis_specops: "Najmout Constellis SpecOps jednotku" # todo: NEW TRANSLATION
+  disband_constellis_light_infantry: "Ukončit smlouvu s Constellis lehkou pěchotou" # todo: NEW TRANSLATION
+  disband_constellis_mot_infantry: "Ukončit smlouvu s Constellis motorizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_constellis_mech_infantry: "Ukončit smlouvu s Constellis mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_constellis_heavy_mech_infantry: "Ukončit smlouvu s Constellis těžkou mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_constellis_special_infantry: "Ukončit smlouvu s Constellis údernou jednotkou" # todo: NEW TRANSLATION
+  disband_constellis_tank: "Ukončit smlouvu s Constellis tankovou jednotkou" # todo: NEW TRANSLATION
+  disband_constellis_specops: "Ukončit smlouvu se Constellis SpecOps jednotkami" # todo: NEW TRANSLATION
+  get_md_light_infantry: "Najmout MD lehkou pěchotu" # todo: NEW TRANSLATION
+  get_md_mot_infantry: "Najmout MD motorizovanou pěchotu" # todo: NEW TRANSLATION
+  get_md_mech_infantry: "Najmout MD mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_md_heavy_mech_infantry: "Najmout MD těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  get_md_special_infantry: "Najmout MD údernou jednotku" # todo: NEW TRANSLATION
+  get_md_tank: "Najmout MD tankovou jednotku" # todo: NEW TRANSLATION
+  get_md_specops: "Najmout MD SpecOps jednotku" # todo: NEW TRANSLATION
+  disband_md_light_infantry: "Ukončit smlouvu s MD lehkou pěchotou" # todo: NEW TRANSLATION
+  disband_md_mot_infantry: "Ukončit smlouvu s MD motorizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_md_mech_infantry: "Ukončit smlouvu s MD mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_md_heavy_mech_infantry: "Ukončit smlouvu s MD těžkou mechanizovanou pěchotou" # todo: NEW TRANSLATION
+  disband_md_special_infantry: "Ukončit smlouvu s MD údernou jednotkou" # todo: NEW TRANSLATION
+  disband_md_tank: "Ukončit smlouvu s MD tankovou jednotkou" # todo: NEW TRANSLATION
+  disband_md_specops: "Ukončit smlouvu se MD SpecOps jednotkami" # todo: NEW TRANSLATION
+  pmc_global_management: "Globální řízení PMCs" # todo: NEW TRANSLATION
+  pmc_global_management_desc: "Toto obrazovka nám umožňuje globálně operovat s našimi věrnými PMCs a spravovat je.\nMůžeme rozšířit naši kapacitu až na 7. Můžeme zlepšit naši kvalitu až na úroveň 4\n\n[PMC_global_header]" # todo: NEW TRANSLATION
+  found_pmc_global: "Založit globální PMC společnost" # todo: NEW TRANSLATION
+  expand_operations: "Rozšířit operace" # todo: NEW TRANSLATION
+  expand_operations_desc: "Tímto zvýšíme naši celkovou kapacitu PMC." # todo: NEW TRANSLATION
+  expand_quality: "Rozšířit materiálovou základnu" # todo: NEW TRANSLATION
+  expand_quality_desc: "Tímto se zvýší náš možný výčet jednotek." # todo: NEW TRANSLATION
+  ban_from_operating: "Zakázat PMCs působit" # todo: NEW TRANSLATION
+  ban_from_operating_desc: "Tímto zamezíte ostatním zemím v přístupu k naší PMC." # todo: NEW TRANSLATION
+  lift_ban_from_operating: "Zrušit zákaz provozu" # todo: NEW TRANSLATION
+  lift_ban_from_operating_desc: "Tímto umožníte ostatním zemím najímat naši PMC." # todo: NEW TRANSLATION
+  call_pmc_back_sov: "Přivolat jednotky zpět" # todo: NEW TRANSLATION
+  call_pmc_back_sov_desc: "To nám umožní dostat naše kluky domů, avšak budeme muset zaplatit kompenzaci za ukončení smlouvy s každou zemí." # todo: NEW TRANSLATION
+  pmc_category: "Soukromé vojenské společnosti" # todo: NEW TRANSLATION
+  pmc_category_tracker_desc: "§YSoukromé vojenské společnosti§!.\n\n§GNájem§! vlastní §Ysoukromou armádu!§!\n§YSpolečnosti§! §Gloajální§! vůči nám, nebo ty, které ovládáme přímo, nám poskytnou §Y20%§! §Gsleva§! na jejich službách.\n\n[PMC_max_available]\n§YAktuální seznam PMCs§!:\n[PMC_Header_blackwater][PMC_Header_wagner][PMC_Header_aegis][PMC_Header_constellis][PMC_Header_md]" # todo: NEW TRANSLATION
+  pmc_local_management: "Místní vojenské jednotky" # todo: NEW TRANSLATION
+  pmc_local_management_desc: "Místní soukromé vojenské společnosti. Lokální společnosti budou mít vždy 20% slevu.\nMůžeme rozšířit naši kapacitu až na 7. Můžeme zlepšit naši kvalitu až na úroveň 4\n\n[PMC_max_available]\n[PMC_local_header]" # todo: NEW TRANSLATION
+  form_local_pmc: "Založit místní PMC" # todo: NEW TRANSLATION
+  open_blackwater_desc: "Blackwater byla americká soukromá vojenská společnost založená 26. prosince 1996 bývalým důstojníkem Navy SEAL Erikem Prince. Blackwater a její předchůdci poskytují smluvní bezpečnostní služby federální vládě Spojených států. Od roku 2003 poskytuje služby CIA." # todo: NEW TRANSLATION
+  open_aegis_desc: "Aegis Defence Services je britská soukromá vojenská a soukromá bezpečnostní společnost s pobočkami v zahraničí v Afghánistánu, Spojených arabských emirátech, Iráku, Saúdské Arábii, Libyi, Somálsku a Mosambiku. Je součástí skupiny Aegis Group, která zahrnuje Aegis LLC, se sídlem ve Spojených státech. Byla založena v roce 2002 Timem Spicerem, který byl dříve generálním ředitelem soukromé vojenské společnosti Sandline International; Jeffrey Day, podnikatel; a Mark Bullough a Dominic Armstrong, bývalí investiční bankéři." # todo: NEW TRANSLATION
+  open_constellis_desc: "Constellis byla založena v roce 2010 skupinou operátorů a investorů, kteří usilovali o spojení nejlepších značek, aktiv a lidí v rámci složitého odvětví řízení rizik. Propaguje kulturu dodržování předpisů a provozní dokonalosti; rodina společností Constellis se rozrostla na globální tým vedoucích představitelů v odvětví, který zahrnuje Triple Canopy, Olive Group a The Development Initiative, stejně jako odvěké společnosti Centerra, ACADEMI, AMK9, OMNIPLEX, Strategic Social a Edinburgh International." # todo: NEW TRANSLATION
+  get_constellis_light_infantry_desc: "Jednotky o síle brigád, složené z lehké pěchoty a dělostřelecké podpory. Vynikající pro těžký terén a zároveň výrazně levnější než jiné armádní konstrukce." # todo: NEW TRANSLATION
+  get_aegis_light_infantry_desc: "Jednotky o síle brigád, složené z lehké pěchoty a dělostřelecké podpory. Vynikající pro těžký terén a zároveň výrazně levnější než jiné armádní konstrukce." # todo: NEW TRANSLATION
+  get_blackwater_heavy_mech_infantry_desc: "Mechanizovaná pěchota je velmi silná proti lehké pěchotě a motorizované pěchotě. Jsou také silnější v obraně než lehká a motorizovaná pěchota. Jejich cena je vysoká, ale síla těchto jednotek ji vyrovná." # todo: NEW TRANSLATION
+  get_blackwater_special_infantry_desc: "Speciální pěchota, neboli komando, jsou výkonné jednotky zkušených vojáků. Mohou být velmi užitečné při obraně, zejména v horských oblastech. Mohou také snadno zničit lehké divize. Jejich cena je velmi vysoká, ale mají mnoho zajímavých vlastností." # todo: NEW TRANSLATION
+  get_constellis_mech_infantry_desc: "Mechanizovaná pěchota je velmi silná proti lehké pěchotě a motorizované pěchotě. Jsou také silnější v obraně než lehká a motorizovaná pěchota. Jejich cena je vysoká, ale síla těchto jednotek ji vyváží." # todo: NEW TRANSLATION
+  get_blackwater_mech_infantry_desc: "Mechanizované pěchotní jednotky jsou velmi silné proti lehké pěchotě a motorizovaným jednotkám. Také jsou silnější než lehká a motorizovaná pěchota co do obrany. Cena těchto jednotek je vysoká, ale jejich síla to vyváží." # todo: NEW TRANSLATION
+  get_constellis_mot_infantry_desc: "Divize, které jsou silné a vhodné pro zásahy a ničení lehkých cílů. Jejich cena je vyšší než u lehké pěchoty, ale jsou proti nim silnější." # todo: NEW TRANSLATION
+  get_blackwater_mot_infantry_desc: "Divize, které jsou silné a vhodné pro zásahy a ničení lehkých cílů. Jejich cena je vyšší než u lehké pěchoty, ale jsou proti nim silnější." # todo: NEW TRANSLATION
+  get_blackwater_light_infantry_desc: "Jednotky brigádního typu složené z lehké pěchoty a dělostřelecké podpory, vhodné pro těžký terén a také výrazně levnější než jiné armádní koncepce." # todo: NEW TRANSLATION
+  expand_operations_local: "Rozšířit operace" # todo: NEW TRANSLATION
+  expand_operations_local_desc: "Tímto se zvýší celková kapacita našich PMCs." # todo: NEW TRANSLATION
+  expand_quality_local: "Rozšířit materiálovou základnu" # todo: NEW TRANSLATION
+  expand_quality_local_desc: "Tímto se zvýší počet dostupných jednotek." # todo: NEW TRANSLATION
+  recruit_light_unit: "Najmout místní lehkou pěchotu" # todo: NEW TRANSLATION
+  recruit_motorised_unit: "Najmout místní motorizovanou pěchotu" # todo: NEW TRANSLATION
+  recruit_mechanized_unit: "Najmout místní mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  recruit_heavy_mechanized_unit: "Najmout místní těžkou mechanizovanou pěchotu" # todo: NEW TRANSLATION
+  recruit_special_unit: "Najmout místní údernou jednotku" # todo: NEW TRANSLATION
+  recruit_tank_unit: "Najmout místní tankovou jednotku" # todo: NEW TRANSLATION
+  recruit_specops_unit: "Najmout místní jednotku speciálních operací" # todo: NEW TRANSLATION
+  disband_light_infantry: "Ukončit smlouvu s místními lehkými jednotkami" # todo: NEW TRANSLATION
+  disband_motorised_unit: "Ukončit smlouvu s místními motorizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_mechanized_unit: "Ukončit smlouvu s místními mechanizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_heavy_mechanized_unit: "Ukončit smlouvu s místními těžkými mechanizovanými jednotkami" # todo: NEW TRANSLATION
+  disband_special_unit: "Ukončit smlouvu s místními údernými jednotkami" # todo: NEW TRANSLATION
+  disband_tank_unit: "Ukončit smlouvu s místními tankovými jednotkami" # todo: NEW TRANSLATION
+  disband_specops_unit: "Ukončit smlouvu s místními jednotkami speciálních operací" # todo: NEW TRANSLATION
+  pmc_header_blackwater_loc: "§Y[USA.GetFlag] Blackwater§!: §GNajatý§! - [?global.merc_deployed^0] §YDostupné§! - [?global.merc_capacity^0]\n" # todo: NEW TRANSLATION
+  pmc_header_wagner_loc: "§Y[SOV.GetFlag] Wagner§!: §GNajatý§! - [?global.merc_deployed^1] §YDostupné§! - [?global.merc_capacity^1]\n" # todo: NEW TRANSLATION
+  pmc_header_aegis_loc: "§Y[ENG.GetFlag] Aegis§!: §GNajatý§! - [?global.merc_deployed^2] §YDostupné§! - [?global.merc_capacity^2]\n" # todo: NEW TRANSLATION
+  pmc_header_constellis_loc: "§YConstellis§!: §GNajatý§! - [?global.merc_deployed^3] §YDostupné§! - [?global.merc_capacity^3]\n" # todo: NEW TRANSLATION
+  pmc_header_md_loc: "§YMD§!: §GNajatý§! - [?global.merc_deployed^4] §YDostupné§! - [?global.merc_capacity^4]\n" # todo: NEW TRANSLATION
+  open_blackwater: "Otevřít §YBlackwater§! jednotky" # todo: NEW TRANSLATION
+  close_blackwater: "Zavřít §YBlackwater§! jednotky" # todo: NEW TRANSLATION
+  open_wagner: "Otevřít §YWagner§! jednotky" # todo: NEW TRANSLATION
+  close_wagner: "Zavřít §YWagner§! jednotky" # todo: NEW TRANSLATION
+  open_aegis: "Otevřít §YAegis§! jednotky" # todo: NEW TRANSLATION
+  close_aegis: "Zavřít §YAegis§! jednotky" # todo: NEW TRANSLATION
+  open_constellis: "Otevřít §YConstellis§! jednotky" # todo: NEW TRANSLATION
+  close_constellis: "Zavřít §YConstellis§! jednotky" # todo: NEW TRANSLATION
+  open_md: "Otevřít §YMD§! jednotky" # todo: NEW TRANSLATION
+  close_md: "Zavřít §YMD§! jednotky" # todo: NEW TRANSLATION
+  pmc_header_local: "Najatý - [?ROOT.merc_deployed] Dostupné - [?ROOT.merc_capacity] Vylepšit - [?ROOT.merc_upgrade]" # todo: NEW TRANSLATION
+  pmc_header_local_none: "Organizace ještě nebyla vytvořena." # todo: NEW TRANSLATION
+  pmc_header_global: "Najatý - [?global.merc_deployed^ROOT.pmc_index] Dostupné - [?global.merc_capacity^ROOT.pmc_index] Vylepšit - [?global.merc_upgrade^ROOT.pmc_index]" # todo: NEW TRANSLATION
+  pmc_header_global_none: "Organizace ještě nebyla vytvořena." # todo: NEW TRANSLATION
+  pmc_unit_0_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^0] Náklady na nasazení: [?global.merc_deploy_cost^0] Provozní náklady £treasury [?global.mercs_weekly_cost^0]" # todo: NEW TRANSLATION
+  pmc_unit_1_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^1] Náklady na nasazení: [?global.merc_deploy_cost^1] Provozní náklady £treasury [?global.mercs_weekly_cost^1]" # todo: NEW TRANSLATION
+  pmc_unit_2_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^2] Náklady na nasazení: [?global.merc_deploy_cost^2] Provozní náklady £treasury [?global.mercs_weekly_cost^2]" # todo: NEW TRANSLATION
+  pmc_unit_3_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^3] Náklady na nasazení: [?global.merc_deploy_cost^3] Provozní náklady £treasury [?global.mercs_weekly_cost^3]" # todo: NEW TRANSLATION
+  pmc_unit_4_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^4] Náklady na nasazení: [?global.merc_deploy_cost^4] Provozní náklady £treasury [?global.mercs_weekly_cost^4]" # todo: NEW TRANSLATION
+  pmc_unit_5_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^5] Náklady na nasazení: [?global.merc_deploy_cost^5] Provozní náklady £treasury [?global.mercs_weekly_cost^5]" # todo: NEW TRANSLATION
+  pmc_unit_6_TT: "Náklad na jednotku: £treasury [?global.mercs_cost^6] Náklady na nasazení: [?global.merc_deploy_cost^6] Provozní náklady £treasury [?global.mercs_weekly_cost^6]" # todo: NEW TRANSLATION
+  pmc_max_units_4: "Můžeme najmout §G4§! PMC jednotky. §YAktuálně najatých§!: [?ROOT.pmc_bought]" # todo: NEW TRANSLATION
+  pmc_max_units_3: "Můžeme najmout §G3§! PMC jednotky. §YAktuálně najatých§!: [?ROOT.pmc_bought]" # todo: NEW TRANSLATION
+  pmc_max_units_2: "Můžeme najmout §G2§! PMC jednotky. §YAktuálně najatých§!: [?ROOT.pmc_bought]" # todo: NEW TRANSLATION
+  pmc_max_units_1: "Můžeme najmout §G1§! PMC jednotky. §YAktuálně najatých§!: [?ROOT.pmc_bought]" # todo: NEW TRANSLATION
+  pmc_create_pmc_tt: "Vytvoříme naše vlastní PMCs§!, které ostatní země budou moci najmout a které nám přinesou §Ginfluence§! a §Gincome§! z kontraktů." # todo: NEW TRANSLATION
+  pmc_asgard: "Najmout §YAsgaard§! Bezpečnostní specialisté" # todo: NEW TRANSLATION
+  pmc_mpri: "Najmout §YMPRI§! Specialisté ve výcviku vojáků" # todo: NEW TRANSLATION
+  pmc_itt: "Dočasně najměte §YG4S§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_sadat: "Najmout §YSADAT§! Specialisté ve výcviku speciálních sil" # todo: NEW TRANSLATION
+  pmc_rsb: "Najmout §YRSB-Group§! Bezpečnostní specialisté" # todo: NEW TRANSLATION
+  pmc_sadline: "Najmout §YSandLine§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_kbr: "Najmout §YKBR§! Dodavatelské specialisty" # todo: NEW TRANSLATION
+  pmc_nirtal: "Najmout §YNirtal§! Specialisté ve výcviku" # todo: NEW TRANSLATION
+  pmc_halo: "Najmout §YHALO§! Specialisté na odminování" # todo: NEW TRANSLATION
+  pmc_dci: "Najmout §YDéfense Conseil International§! Specialisté na kybernetickou bezpečnost" # todo: NEW TRANSLATION
+  pmc_garda: "Najmout §YGardaWorld§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_sinai: "Najmout §YThe Union of the Tribes of Sinai§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_gard: "Najmout §YGard Service§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_patriot: "Najmout §YPatriot§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_dewe: "Najmout §YDewe Security Services§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_over: "Najmout §YChina Overseas Group Security§! Specialisté na kybernetickou bezpečnost a školení" # todo: NEW TRANSLATION
+  pmc_front: "Najmout §YFrontier Services Group§! Bezpečnostní specialisté" # todo: NEW TRANSLATION
+  pmc_redut: "Najmout §YRedut§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_gazprom: "Najmout §YRedut§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_iron: "Najmout §YIron Navy§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_eu: "Najmout §YEuropean Security Academy§! Specialisté ve výcviku speciálních sil" # todo: NEW TRANSLATION
+  pmc_sheriff: "Najmout §YSheriff§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_lukoil: "Najmout §YLukoil§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_rosneft: "Najmout §YRosneft§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_sberbank: "Najmout §YSber§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_vtb: "Najmout §YVTB§! PMCs brigádu" # todo: NEW TRANSLATION
+  pmc_asgard_TT: "§Y[GER.GetFlag] Asgaard PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_mpri_TT: "§Y[USA.GetFlag] MPRI PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_itt_TT: "§Y[GER.GetFlag] G4S PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_sadat_TT: "§Y[TUR.GetFlag] SADAT PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_rsb_TT: "§Y[SOV.GetFlag] RSB-Group PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_sadline_TT: "§Y[ENG.GetFlag] SandLine PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_kbr_TT: "§Y[USA.GetFlag] KBR PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_nirtal_TT: "§Y[ISR.GetFlag] Nirtal PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_halo_TT: "§Y[ENG.GetFlag][USA.GetFlag] HALO PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_dci_TT: "§Y[FRA.GetFlag] Défense Conseil International PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_garda_TT: "§Y[CAN.GetFlag] GardaWorld PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_sinai_TT: "§Y[EGY.GetFlag] The Union of the Tribes of Sinai PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_gard_TT: "§Y[BLR.GetFlag] Gard Service PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_patriot_TT: "§Y[SOV.GetFlag] Patriot PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_dewe_TT: "§Y[CHI.GetFlag] Dewe Security Services PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_over_TT: "§Y[CHI.GetFlag] China Overseas Group Security PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_front_TT: "§Y[CHI.GetFlag] Frontier Services Group PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_redut_TT: "§Y[SOV.GetFlag] Redut PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_gazprom_TT: "§Y[SOV.GetFlag] Gazprom PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_iron_TT: "§Y[EST.GetFlag] Iron Navy PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_eu_TT: "§Y[POL.GetFlag] European Security Academy PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_sheriff_TT: "§Y[PMR.GetFlag] Sheriff PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_lukoil_TT: "§Y[SOV.GetFlag] Lukoil PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_rosneft_TT: "§Y[SOV.GetFlag] Rosneft PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_sberbank_TT: "§Y[SOV.GetFlag] Sber PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_vtb_TT: "§Y[SOV.GetFlag] VTB PMCs§! služby momentálně §Gin use§!." # todo: NEW TRANSLATION
+  pmc_asgard_idea: "§0PMC§! Asgaard" # todo: NEW TRANSLATION
+  pmc_mrpi_idea: "§0PMC§! MPRI" # todo: NEW TRANSLATION
+  pmc_sadat_idea: "§0PMC§! SADAT" # todo: NEW TRANSLATION
+  pmc_rsb_idea: "§0PMC§! RSB-Group" # todo: NEW TRANSLATION
+  pmc_kbr_idea: "§0PMC§! KBR" # todo: NEW TRANSLATION
+  pmc_nirtal_idea: "§0PMC§! Nirtal" # todo: NEW TRANSLATION
+  pmc_halo_idea: "§0PMC§! HALO" # todo: NEW TRANSLATION
+  pmc_dci_idea: "§0PMC§! Défense Conseil International" # todo: NEW TRANSLATION
+  pmc_over_idea: "§0PMC§! China Overseas Group Security" # todo: NEW TRANSLATION
+  pmc_front_idea: "§0PMC§! Frontier Services Group" # todo: NEW TRANSLATION
+  pmc_gazprom_idea: "§0PMC§! Gazprom" # todo: NEW TRANSLATION
+  pmc_eu_idea: "§0PMC§! European Security Academy" # todo: NEW TRANSLATION
+  pmc_lukoil_idea: "§0PMC§! Lukoil" # todo: NEW TRANSLATION
+  pmc_rosneft_idea: "§0PMC§! Rosneft" # todo: NEW TRANSLATION
+  pmc_sberbank_idea: "§0PMC§! Sber" # todo: NEW TRANSLATION
+  pmc_vtb_idea: "§0PMC§! VTB" # todo: NEW TRANSLATION
+  open_other: "Otevřít jednotky dalšího PMCs" # todo: NEW TRANSLATION
+  close_other: "Zavřít jednotky dalšího PMCs" # todo: NEW TRANSLATION
+  pmc_sinai_create: "Vytvořit naše vlastní PMCs - §YThe Union of the Tribes of Sinai PMCs§!." # todo: NEW TRANSLATION
+  pmc_gard_create: "Vytvořit naše vlastní PMCs - §YGard Service PMCs§!." # todo: NEW TRANSLATION
+  pmc_patriot_create: "Vytvořit naše vlastní PMCs - §YPatriot PMCs§!." # todo: NEW TRANSLATION
+  pmc_dewe_create: "Vytvořit naše vlastní PMCs - §YDewe Security Services PMCs§!." # todo: NEW TRANSLATION
+  pmc_over_create: "Vytvořit naše vlastní PMCs - §YChina Overseas Group Security PMCs§!." # todo: NEW TRANSLATION
+  pmc_front_create: "Vytvořit naše vlastní PMCs - §YFrontier Services Group PMCs§!." # todo: NEW TRANSLATION
+  pmc_iron_create: "Vytvořit naše vlastní PMCs - §YIron Navy PMCs§!." # todo: NEW TRANSLATION
+  pmc_sheriff_create: "Vytvořit naše vlastní PMCs - §YSheriff PMCs§!." # todo: NEW TRANSLATION
+  pmc_redut_create_TT: "Vytvořit naše vlastní PMCs - §YRedut PMCs§!." # todo: NEW TRANSLATION
+  pmc_gazrpom_create_TT: "Vytvořit naše vlastní PMCs - §YGazprom PMCs§!." # todo: NEW TRANSLATION
+  pmc_sheriff_create_TT: "Vytvořit naše vlastní PMCs - §YSheriff PMCs§!." # todo: NEW TRANSLATION
+  pmc_lukoil_create_TT: "Vytvořit naše vlastní PMCs - §YLukoil PMCs§!." # todo: NEW TRANSLATION
+  pmc_rosneft_create_TT: "Vytvořit naše vlastní PMCs - §YRosneft PMCs§!." # todo: NEW TRANSLATION
+  pmc_sberbank_create_TT: "Vytvořit naše vlastní PMCs - §YSber PMCs§!." # todo: NEW TRANSLATION
+  pmc_vtb_create_TT: "Vytvořit naše vlastní PMCs - §YVTB PMCs§!." # todo: NEW TRANSLATION
+  pmc_events.1.t: "[From.GetNameDef] odvolává své žoldády" # todo: NEW TRANSLATION
+  pmc_events.1.d: "Část našich žoldátských jednotek je odvolána zpět do [From.GetNameDef] na základě rozkazů jejich nadřízeného; poskytnou kompenzaci za takové nedostatečné ukončení smlouvy, ale to je vše." # todo: NEW TRANSLATION
+  pmc_events.1.a: "Nešťastné" # todo: NEW TRANSLATION
+  pmc_events.2.t: "Naše PMCs byly najaty" # todo: NEW TRANSLATION
+  pmc_events.2.d: "Kromě peněz také těžíme z rozšíření vlivu ve státě." # todo: NEW TRANSLATION
+  pmc_events.2.a: "Dobré" # todo: NEW TRANSLATION
+  pmc_events.3.t: "Naše PMCs byly najaty" # todo: NEW TRANSLATION
+  pmc_events.3.d: "Jedna z našich PMCs byla najata [FROM.GetNameWithFlag]. Kromě peněz také těžíme z rozšíření vlivu ve státě." # todo: NEW TRANSLATION
+  pmc_events.3.a: "Dobré" # todo: NEW TRANSLATION
+  pmc_events.4.t: "Naše PMCs byly najaty" # todo: NEW TRANSLATION
+  pmc_events.4.d: "Jedna z našich PMCs byla najata [FROM.GetNameWithFlag]. Kromě peněz také těžíme z rozšíření vlivu ve státě." # todo: NEW TRANSLATION
+  pmc_events.4.a: "Dobré" # todo: NEW TRANSLATION
+  pmc_events.5.t: "Naše PMCs byly najaty" # todo: NEW TRANSLATION
+  pmc_events.5.d: "Jedna z našich PMCs byla najata [FROM.GetNameWithFlag]. Kromě peněz také těžíme z rozšíření vlivu ve státě." # todo: NEW TRANSLATION
+  pmc_events.5.a: "Dobré" # todo: NEW TRANSLATION
+  pmc_events.6.t: "Naše PMCs byly najaty" # todo: NEW TRANSLATION
+  pmc_events.6.d: "Jedna z našich PMCs byla najata [FROM.GetNameWithFlag]. Kromě peněz také těžíme z rozšíření vlivu ve státě." # todo: NEW TRANSLATION
+  pmc_events.6.a: "Dobré" # todo: NEW TRANSLATION
+  pmc_events.7.t: "Constellis PMC Založena" # todo: NEW TRANSLATION
+  pmc_events.7.d: "Constellis Holdings byla dnes založena sloučením Triple Canopy a Blackwater Worldwide (a.k.a. Academi) a velkého počtu dalších menších bezpečnostních holdingů. Constellis se přebrandovalo jako nefinanční společnost pro řízení rizik, která se specializuje na mnoho různých sektorů a odvětví." # todo: NEW TRANSLATION
+  pmc_events.7.a: "Další PMC..." # todo: NEW TRANSLATION
+  pmc_events.7.b: "Další americká PMCs." # todo: NEW TRANSLATION
+  IS_counter_terror_nation_text: "Národ" # todo: NEW TRANSLATION
+  IS_counter_terror_threat_text: "Hrozba terorismu" # todo: NEW TRANSLATION
+  terror_main_category: "Čím vyšší je §YTerror Threat§! v zemi, tím vyšší je pravděpodobnost, že džihádistické skupiny zaútočí na domácí cíle (např. vládní budovy) i na zahraniční cíle (např. vojenské základny) v té zemi. Útoky mohou být vedeny i v sousední zemi, pokud je její hranice nepřísně hlídána. Závažnost útoků a pravděpodobnost jejich úspěchu lze snížit zvýšením výdajů na vnitřní bezpečnost a prováděním protiteroristického výcviku." # todo: NEW TRANSLATION
+  terror_instruct_category: "Schopnost země snížit §YTerror Threat§! pod určitou úroveň závisí na tom, zda je ve válce, její stabilitě, GDP/c a úrovni korupce. §YTerror Threat§! může vzrůst vlivem §YRadicalization§! a infiltrace džihádistů z sousedních zemí. Bude klesat při nízké úrovni §YRadicalization§! a v důsledku razie a externího zásahu. Minimální úroveň §YRadicalization§! lze snížit bojem proti korupci, zvyšováním stability a růstem ekonomiky. §YRadicalization§! roste spolu s popularitou [Caliphate_L] a v důsledku rychlé sociální liberalizace." # todo: NEW TRANSLATION
+  threat_level_negligible_loc: "§GZanedbatelná§!" # todo: NEW TRANSLATION
+  threat_level_low_loc: "§GNízká§!" # todo: NEW TRANSLATION
+  threat_level_moderate_loc: "§YStřední§!" # todo: NEW TRANSLATION
+  threat_level_substantial_loc: "§8Podstatná§!" # todo: NEW TRANSLATION
+  threat_level_severe_loc: "§OZávažná§!" # todo: NEW TRANSLATION
+  threat_level_critical_loc: "§RKritická§!" # todo: NEW TRANSLATION
+  recent_pressure_tt: "V poslední době jsme na státy nevyvíjeli tlak, aby uznaly jiný stát." # todo: NEW TRANSLATION
+  mor_promote_tt: "§YPožadavky:§!\n[!mor_promote_tolerant_islam_button_click_enabled]\n\n§YEfekty:§!\n[!mor_promote_tolerant_islam_button_click]" # todo: NEW TRANSLATION
+  oma_promote_tt: "§YPožadavky:§!\n[!oma_promote_tolerant_islam_button_click_enabled]\n\n§YEfekty:§!\n[!oma_promote_tolerant_islam_button_click]" # todo: NEW TRANSLATION
+  ct_derad_tt: "§YPožadavky:§!\n[!ct_fund_deradicalisation_programs_button_click_enabled]\n\n§YEfekty:§!\n[!ct_fund_deradicalisation_programs_button_click]" # todo: NEW TRANSLATION
+  ct_train_tt: "§YPožadavky:§!\n[!ct_training_button_click_enabled]\n\n§YProtiteroristický výcvik§! Úroveň (Aktuální: [?ct_training|Y2]) určuje pravděpodobnost úspěchu nájezdů a leteckých útoků.\n§YProtiteroristický výcvik§! Úroveň získaná je určena počtem zahraničních poradců (Aktuální zahraniční poradci: [?foreign_adivsors|Y0]) a naším aktuálním zákonem o výcviku důstojníků.\n\nKaždý zahraniční poradce zvýší §YProtiteroristický výcvik§! úroveň o §G+0.25§! za trénink (Aktuální zahraniční poradci: [?foreign_adivsors|Y0])\nKaždý §YZákon o výcviku důstojníků§! po §YPokročilém výcviku důstojníků§! zvýší §YProtiteroristický výcvik§! úroveň o §G+0.50§! za trénink.\n\nProvádění výcviku zvýší naši §YProtiteroristický výcvik§! úroveň o [?foreign_advisors_math|+G]\n\n§RCounter Terror Training Level has a max of§! 10 §Rand decreases at a rate of§! 0.2 §Rper month.§!\n\n§YEfekty:§!\n[!ct_training_button_click]" # todo: NEW TRANSLATION
+  ct_raid_tt: "§YPožadavky:§!\n[!ct_raid_button_click_enabled]\n\nPokud je nájezd §Gúspěšný§!, §YHrozba terorismu§! se sníží o §G-5§! (Aktuální hrozba: [?threat_level|Y0]) a §YRadikalizace§! se zvýší o §R+2§! (Aktuální radikalizace: [?radicalization|Y0]).\nPokud je nájezd §Runsuccessful§!, §YHrozba terorismu§! se nezmění a §YRadikalizace§! se zvýší o §R+5§! (Aktuální radikalizace: [?radicalization|Y0]).\n§GMá vyšší pravděpodobnost úspěchu než letecké útoky.§!\n\nNájezd má základní míru úspěchu §Y40%§!\nKaždá úroveň §YCounter Terror Training§! zvyšuje pravděpodobnost úspěchu o §G+5.00%§!\n(Aktuální úroveň §YCounter Terror Training§!: [?ct_training|Y2])\n\n§YEfekty:§!\n[!ct_raid_button_click]" # todo: NEW TRANSLATION
+  ct_strike_tt: "§YPožadavky:§!\n[!ct_strike_button_click_enabled]\n\nPokud je letecký útok §Gúspěšný§!, §YHrozba terorismu§! se sníží o §G-5§! (Aktuální hrozba: [?threat_level|Y0]) a §YRadikalizace§! se zvýší o §R+2§! (Aktuální radikalizace: [?radicalization|Y0]).\nPokud je letecký útok §Runsuccessful§!, §YHrozba terorismu§! se nezmění a §YRadikalizace§! se zvýší o §R+5§! (Aktuální radikalizace: [?radicalization|Y0]).\n§RMá nižší pravděpodobnost úspěchu než nájezdy.§!\n\nLetecký útok má základní míru úspěchu §Y25%§!\nKaždá úroveň §YCounter Terror Training§! zvyšuje pravděpodobnost úspěchu o §G+5.00%§!\n(Aktuální úroveň §YCounter Terror Training§!: [?ct_training|Y2])\n\n§YEfekty:§!\n[!ct_strike_button_click]" # todo: NEW TRANSLATION
+  ct_deploy_adv_tt: "§YPožadavky:§!\n[!ct_deploy_advisors_button_click_enabled]\n\n§YEfekty:§!\n[!ct_deploy_advisors_button_click]" # todo: NEW TRANSLATION
+  ct_withdraw_adv_tt: "§YPožadavky:§!\n[!ct_withdraw_advisors_button_click_enabled]\n\n§YEfekty:§!\n[!ct_withdraw_advisors_button_click]" # todo: NEW TRANSLATION
+  not_a_main_nation: "§Y[?var:ct_state_selected.GetNameWithFlag]§! není v regionu Kavkazu ani teroristickým národem." # todo: NEW TRANSLATION
+  ct_capable_nation: "Je schopná posílat a dodávat poradce." # todo: NEW TRANSLATION
+  has_not_sent_advisors: "Dosud nebyli vysláni poradci do §Y[?var:ct_state_selected.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  has_sent_advisors: "Vyslali jsme poradce do §Y[?var:ct_state_selected.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  fund_derad_tt: "Nefinancuje deradikalisaci" # todo: NEW TRANSLATION
+  conduct_training_tt: "Nedělá protiteroristický výcvik" # todo: NEW TRANSLATION
+  conduct_raid_tt: "Nedělá protiteroristické nájezdy" # todo: NEW TRANSLATION
+  conduct_strike_tt: "Nedělá protiteroristické letecké útoky" # todo: NEW TRANSLATION
+  terror_fund_deradicalisation_programmes: "Financování programů deradikalisace" # todo: NEW TRANSLATION
+  terror_ct_training_mission: "Cvičení protiteroristického výcviku" # todo: NEW TRANSLATION
+  terror_conduct_raid: "Provádění protiteroristických nájezdů" # todo: NEW TRANSLATION
+  terror_conduct_strike: "Provádění protiteroristických leteckých útoků" # todo: NEW TRANSLATION
+  IS_radicalization_text: "Radikalizace" # todo: NEW TRANSLATION
+  IS_ir_nation_sel_display_text: "[?var:open_state.GetName] [?var:open_state.GetFlag]" # todo: NEW TRANSLATION
+  CT_national_selected_nation_display_text: "[?var:ct_state_selected.GetName] [?var:ct_state_selected.GetFlag]" # todo: NEW TRANSLATION
+  CT_terror_radicalization_text: "[THIS.radicalization_loc] ([?THIS.radicalization|0])" # todo: NEW TRANSLATION
+  CT_terror_radicalization_text_delayed: "Tato hodnota představuje aktuální úroveň §YRadikalizace§! v národu. Hodnota §YRadikalizace§! může mít různá minimum a maximum na základě různých podmínek. Podmínky zahrnují, zda je národ ve válce, má vysokou korupci, nízkou stabilitu, je džihádistickou vládou, splnění specifických národních fokusů nebo má nízké GDP/c.\n\n[THIS.GetNameWithFlag] §YRadikalizace§! Max: [?max_radical_display|2]\n[THIS.GetNameWithFlag] §YRadikalizace§! Min: [?min_radical_display|2]" # todo: NEW TRANSLATION
+  CT_terror_threat_text: "[THIS.threat_level_flag] ([?THIS.threat_level|0])" # todo: NEW TRANSLATION
+  CT_terror_threat_text_delayed: "Tato hodnota představuje aktuální úroveň §YHrozba terorismu§! v zemi. Hodnota §YHrozba terorismu§! může mít různá minimum a maximum na základě různých podmínek. Podmínky zahrnují, zda je národ ve válce, má vysokou korupci, nízkou stabilitu, je džihádistickou vládou, splnění specifických národních fokusů nebo má nízké GDP/c.\n\n[THIS.GetNameWithFlag] §YHrozba terorismu§! Max: [?max_terror_threat_display|2]\n[THIS.GetNameWithFlag] §YHrozba terorismu§! Min: [?min_terror_threat_display|2]" # todo: NEW TRANSLATION
+  ct_withdraw_advisors_button_tt: "Odebrat vojenské poradce" # todo: NEW TRANSLATION
+  ct_deploy_advisors_button_tt: "Nasadit vojenské poradce" # todo: NEW TRANSLATION
+  ct_strike_button_tt: "Letecký útok na teroristické skrýše" # todo: NEW TRANSLATION
+  ct_raid_button_tt: "Nájezd na teroristické skrýše" # todo: NEW TRANSLATION
+  ct_training_button_tt: "Provést protiteroristický výcvik" # todo: NEW TRANSLATION
+  ct_fund_deradicalisation_programs_button_tt: "Financovat programy deradikalizace" # todo: NEW TRANSLATION
+  ct_region_asia_button_text: "Střední Asie" # todo: NEW TRANSLATION
+  ct_region_africa_button_text: "Subsaharská Afrika" # todo: NEW TRANSLATION
+  ct_region_me_button_text: "Střední východ" # todo: NEW TRANSLATION
+  MOR_promote_tolerant_islam: "§YPodporovat§! al-Wasatiyyah" # todo: NEW TRANSLATION
+  MOR_promote_tolerant_islam_desc: "Maroko je známé svými umírněnými interpretacemi islámu. Morální princip al-Wasatiyyah, neboli střídmost, spojuje malickou školu islámského práva, Ašárijskou teologii a sunnitský sufismus. Království vždy trvalo na tom, že nejúčinnější způsob, jak předcházet terorismu, je šířit tuto formu umírněného islámu, aby se potlačily extrémistické interpretace.\n\nMůžeme zajistit, že více národů obdrží naše učení tím, že budeme mít §YVliv§! v dalších zemích." # todo: NEW TRANSLATION
+  OMA_promote_tolerant_islam: "§YPodporovat§! Ibádijský islám" # todo: NEW TRANSLATION
+  OMA_promote_tolerant_islam_desc: "Ománská společnost byla do značné míry imunní vůči extrémistickým islámským ideologiím. To je do značné míry způsobeno rozšířením Ibádijského islámu, který prosazuje toleranci k ostatním náboženstvím. Ibádíové upřednostňují pokojné řešení sporů spíše než konfrontaci, a proto nejsou náchylní k radikalizaci. Omán vždy tvrdil, že nejúčinnější způsob, jak zabránit terorismu, je šířit Ibádijský islám, aby se potlačily extrémistické ideologie.\n\nMůžeme zajistit, že více národů obdrží naše učení tím, že budeme mít §YVliv§! v jiných zemích." # todo: NEW TRANSLATION
+  MENA_terror_fund_deradicalisation_programmes: "§YFond§! Deradikálizační programy" # todo: NEW TRANSLATION
+  MENA_terror_fund_deradicalisation_programmes_desc: "Uvěznění džihádisté nejsou nenapravitelní. Mnoho řadových bojovníků v extrémistických organizacích je jen mylně smýšlející mládež, která podlehla odchýleným formám islámu, jež káží smrt ostatním muslimům. Měli bychom provést deradikálizační programy, abychom tyto zklamané mladé muže a ženy reintegrovali do společnosti. Účinnost programů je spojena s našimi výdaji na sociální zabezpečení." # todo: NEW TRANSLATION
+  terror_fund_deradicalisation_programmes_tt: "Čím vyšší je váš §Y$social_budget$§!, tím účinnější budou §YDeradikálizační programy§!." # todo: NEW TRANSLATION
+  MENA_terror_ct_training: "§YProveďte§! Školení proti terorismu" # todo: NEW TRANSLATION
+  MENA_terror_ct_training_desc: "Abychom maximalizovali naši pohotovost vůči teroristickému ohrožení, měli bychom průběžně aktualizovat připravenost našich bezpečnostních služeb. Čím lepší je naše §YOfficer Training§! a čím více zahraničních poradců máme na našem území, tím účinnější bude toto školení." # todo: NEW TRANSLATION
+  terror_ct_training: "§YŠkolení proti terorismu§! Úroveň (Aktuální: [?ct_training|Y2]) určuje pravděpodobnost úspěchu pro razie a nálety.\n§YŠkolení proti terorismu§! Úroveň získaná je určena počtem zahraničních poradců (Aktuální zahraniční poradci: [?foreign_adivsors|Y0]) a naším aktuálním zákonem o školení důstojníků.\n\nKaždý zahraniční poradce zvýší §YŠkolení proti terorismu§! Úroveň o §G+0.25§! za trénink (Aktuální zahraniční poradci: [?foreign_adivsors|Y0])\nKaždé §Y$Officer_Training_Law$§! po §Y$officer_advanced_training$§! zvýší §YŠkolení proti terorismu§! Úroveň o §G+0.50§! za trénink.\n\nProvedení školení zvýší naši §YŠkolení proti terorismu§! Úroveň o [?foreign_advisors_math|+G]\n\n§RCounter Terror Training Úroveň má maximum§! 10 §R a snižuje se rychlostí§! 0.2 §Rza měsíc.§!" # todo: NEW TRANSLATION
+  MENA_terror_conduct_raid: "§YZásah§! Teroristické skrýše" # todo: NEW TRANSLATION
+  MENA_terror_conduct_raid_desc: "Naše bezpečnostní služby identifikovaly teroristické skrýše na našem území. Měli bychom provádět zásahy speciálních sil, abychom zatkli podezřelé džihádisty a zadrželi nelegální zbraně. Pravděpodobnost úspěšnosti těchto zásahů závisí na množství výcviku v boji proti terorismu, kterým prošly naše bezpečnostní síly." # todo: NEW TRANSLATION
+  terror_conduct_raid_tt: "Pokud je zásah §Gsuccessful§!, §YTerror Threat§! se sníží o §G-5§! (Aktuální hrozba: [?threat_level|Y0]) a §YRadicalization§! se zvýší o §R+2§! (Aktuální radikalizace: [?radicalization|Y0]).\nPokud je zásah §Runsuccessful§!, §YTerror Threat§! se nezmění a §YRadicalization§! se zvýší o §R+5§! (Aktuální radikalizace: [?radicalization|Y0]).\n§GMá vyšší pravděpodobnost úspěchu než nálety.§!\n\nZásah má základní míru úspěšnosti §Y40%§!\nKaždá úroveň §YCounter Terror Training§! zvyšuje pravděpodobnost úspěchu o §G+5.00%§!\n(Aktuální §YCounter Terror Training§! Úroveň: [?ct_training|Y2])" # todo: NEW TRANSLATION
+  MENA_terror_conduct_strike: "§YLaunch§! Letecké nálety na teroristické skrýše" # todo: NEW TRANSLATION
+  MENA_terror_conduct_strike_desc: "V odlehlých oblastech země se nachází několik úkrytů džihádistů, nad kterými centrální vláda nemá plnou pravomoc. Měli bychom tyto skrýše zasáhnout leteckými nálety, abychom odstranili hrozbu, kterou tito džihádisté představují. Pravděpodobnost úspěchu těchto náletů závisí na množství výcviku v boji proti terorismu, kterým prošly naše bezpečnostní orgány." # todo: NEW TRANSLATION
+  terror_conduct_strike_tt: "Pokud je letecký úder §Gúspěšný§!, §YTerror Threat§! se sníží o §G-5§! (Aktuální hrozba: [?threat_level|Y0]) a §YRadicalization§! se zvýší o §R+2§! (Aktuální radikalizace: [?radicalization|Y0]).\nPokud je letecký úder §Runsuccessful§!, §YTerror Threat§! se nezmění a §YRadicalization§! se zvýší o §R+5§! (Aktuální radikalizace: [?radicalization|Y0]).\n§RMá nižší pravděpodobnost úspěchu než razie.§!\n\nLetecký úder má základní míru úspěšnosti §Y25%§!\nKaždá úroveň §YCounter Terror Training§! zvyšuje pravděpodobnost úspěchu o §G+5.00%§!\n(Aktuální §YCounter Terror Training§! Úroveň: [?ct_training|Y2])" # todo: NEW TRANSLATION
