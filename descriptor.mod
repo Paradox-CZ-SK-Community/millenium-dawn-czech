@@ -1,8 +1,8 @@
-version="1"
+version="2"
 tags={
     "Translation"
 }
-name="Projekt 2000"
+name="Demo čeština Millenium Dawn Paradox CZ/SK"
 supported_version="1.17.*"
 dependencies = {
     "Millenium Dawn: A Modern Day Mod"
