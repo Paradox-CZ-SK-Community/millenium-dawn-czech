@@ -25,6 +25,7 @@
   EU_rejecting: "Odmítání:" # todo: NEW TRANSLATION
   EU_support: "Podpora" # todo: NEW TRANSLATION
   EU_reject: "Odmítnout" # todo: NEW TRANSLATION
+  EU_min_call_rate_text: "Minimální sazba" # todo: NEW TRANSLATION
   EU_current_active_measure: "§YAktuální aktivní opatření§!" # todo: NEW TRANSLATION
   EU_country_rate_text: "[THIS.GetNameWithFlag] Míra" # todo: NEW TRANSLATION
   EU_global_rate_text: "Globální míra" # todo: NEW TRANSLATION
@@ -35,6 +36,12 @@
   EU_start_omt_text: "Spustit OMT" # todo: NEW TRANSLATION
   EU_if_has_active_omt: "Pokud má OMT aktivní:" # todo: NEW TRANSLATION
   EUU_european_debt_crisis: "§YEvropská dluhová krize§! Došlo k ní" # todo: NEW TRANSLATION
+  EU_average_eu_economy_tt_delayed: "Ekonomika EU se počítá jako průměr ekonomik všech členů:\n§RRegrese - 1§!\n§ORecese - 2§!\n§YStagnace - 3§!\n§GStabilní růst - 4§!\n§BRychlý růst - 5§!\n§0Hospodářský boom - 6§!" # todo: NEW TRANSLATION
+  avg_eu_eco_color_1: "Průměrná ekonomika:§R [?global.EU_average_eco_lvl] §!" # todo: NEW TRANSLATION
+  avg_eu_eco_color_2: "Průměrná ekonomika:§O [?global.EU_average_eco_lvl] §!" # todo: NEW TRANSLATION
+  avg_eu_eco_color_3: "Průměrná ekonomika:§Y [?global.EU_average_eco_lvl] §!" # todo: NEW TRANSLATION
+  avg_eu_eco_color_4: "Průměrná ekonomika:§G [?global.EU_average_eco_lvl] §!" # todo: NEW TRANSLATION
+  avg_eu_eco_color_5: "Průměrná ekonomika:§B [?global.EU_average_eco_lvl] §!" # todo: NEW TRANSLATION
   EU_potential: "[ROOT.GetNamewithFlag] je potenciálním členem EU" # todo: NEW TRANSLATION
   EU_candidate: "[ROOT.GetNamewithFlag] je kandidátský člen EU" # todo: NEW TRANSLATION
   EUU_migrant_crisis_triggered: "§YMigrační krize v Evropě§! Vyvolána" # todo: NEW TRANSLATION
@@ -104,6 +111,7 @@
   expenditure_total_loc_text: "Celkové výdaje: [?global.EU_total_exp|§R2] miliard" # todo: NEW TRANSLATION
   expenditure_total_loc_tt: "Kategorie - Celkem - Poměr\n§ORůst§!: [?global.EU_growth_exp_total|§Y0] miliarda - [?global.EU_growth_exp_ratio|§O%2]\n§RPřírodní zdroje§!: [?global.EU_natural_exp_total|§Y0] miliard - [?global.EU_natural_exp_ratio|§G%2]\n§LGlobální Evropa§!: [?global.EU_global_exp_total|§Y0] miliard - [?global.EU_global_exp_ratio|§L%2]\n§gAdministrace, bezpečnost a občanství§!: [?global.EU_admin_exp_total|§Y0] miliard - [?global.EU_admin_exp_ratio|§g%2]" # todo: NEW TRANSLATION
   expenditure_total_loc_delayed_tt: "[EU_distribution_member_states]" # todo: NEW TRANSLATION
+  average_eu_gdpc_header: "Průměrný HDP na obyvatele: §C[?global.EU_gdp_capita]§!" # todo: NEW TRANSLATION
   multiannual_financial_framework_header: "§YDlouhodobý finančný rámec§!" # todo: NEW TRANSLATION
   budget_draft_loc_tt: "Návrh: [EU_mff_draft] [draft_status_EU_mff]" # todo: NEW TRANSLATION
   budget_invested_pp_tt: "Celkové investované PP: [?global.EU_mff_draft_invested_PP|§Y0]" # todo: NEW TRANSLATION
@@ -112,6 +120,8 @@
   eu_total_budget_tt: "Roční rozpočet: [?global.EU_total_budget|§G2] miliard" # todo: NEW TRANSLATION
   eu_total_budget_tt_delayed: "[EU_contribution_member_states]" # todo: NEW TRANSLATION
   tooltip_EU_global_call_combined_tooltip: "EU rozpočet založený na HDP – sazba volání: Přidej §C0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Rodolávat§! (§R-10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Nat_Populism_icon] [EU_parliament_PG_Nat_Populism_short_name], [EU_parliament_PG_Nat_Fascism_icon] [EU_parliament_PG_Nat_Fascism_short_name], [EU_parliament_PG_Nat_Autocracy_icon] [EU_parliament_PG_Nat_Autocracy_short_name] a [EU_parliament_PG_Monarchist_icon] [EU_parliament_PG_Monarchist_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n\nEU rozpočet založený na HDP – sazba volání: Přidej §C-0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Gpodporovat§! (§G+10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n" # todo: NEW TRANSLATION
+  tooltip_EU_budget_raise_min_call_rate_effect: "EU rozpočet – sazba volání založená na HDP: Přidat §C0.05%§! (b.)\nCelkem investované PP: Přidat §Y[?global.EU_15_per_member_cost]§!\n[EU_parl_PG_party_1_icon], [EU_parl_PG_party_6_icon] a [EU_parl_PG_party_14_icon] budou této změně §Rodporovat§!.\n[EU_parl_PG_party_2_icon] a [EU_parl_PG_party_16_icon] tuto změnu §Gpodpoří§!.\n[EU_parl_PG_party_3_icon] a [EU_parl_PG_party_18_icon] tuto změnu §Gpodpoří§!.\n[EU_parl_PG_party_17_icon] tuto změnu §Gpodpoří§!.\n[EU_parl_PG_party_4_icon],  [EU_parl_PG_party_5_icon] a [EU_parl_PG_party_19_icon] tuto změnu §Gpodpoří§!.\n[EU_parl_PG_party_20_icon], [EU_parl_PG_party_21_icon], [EU_parl_PG_party_22_icon] a [EU_parl_PG_party_23_icon] této změně §Rodporovat§!." # todo: NEW TRANSLATION
+  tooltip_EU_budget_lower_min_call_rate_effect: "EU rozpočet – sazba volání založená na HDP: Přidat §C0.05%§! (b.)\nCelkem investované PP: Přidat §Y[?global.EU_15_per_member_cost]§!\n[EU_parl_PG_party_1_icon], [EU_parl_PG_party_6_icon] a [EU_parl_PG_party_14_icon] tuto změnu §Gpodpoří§!.\n[EU_parl_PG_party_2_icon] a [EU_parl_PG_party_16_icon] této změně §Rodporovat§!.\n[EU_parl_PG_party_3_icon] a [EU_parl_PG_party_18_icon] této změně §Rodporovat§!.\n[EU_parl_PG_party_17_icon] této změně §Rodporovat§!.\n[EU_parl_PG_party_4_icon],  [EU_parl_PG_party_5_icon] a [EU_parl_PG_party_19_icon] této změně §Rodporovat§!.\n[EU_parl_PG_party_20_icon], [EU_parl_PG_party_21_icon], [EU_parl_PG_party_22_icon] a [EU_parl_PG_party_23_icon] tuto změnu §Gpodpoří§!." # todo: NEW TRANSLATION
   tooltip_EU_budget_raise_global_call_rate_effect: "EU rozpočet založený na HDP – sazba volání: Přidej §C0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Rodolávat§! (§R-10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Nat_Populism_icon] [EU_parliament_PG_Nat_Populism_short_name], [EU_parliament_PG_Nat_Fascism_icon] [EU_parliament_PG_Nat_Fascism_short_name], [EU_parliament_PG_Nat_Autocracy_icon] [EU_parliament_PG_Nat_Autocracy_short_name] a [EU_parliament_PG_Monarchist_icon] [EU_parliament_PG_Monarchist_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n" # todo: NEW TRANSLATION
   tooltip_EU_budget_lower_global_call_rate_effect: "EU rozpočet založený na HDP – sazba volání: Přidej §C-0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Gpodporovat§! (§G+10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n" # todo: NEW TRANSLATION
   tooltip_EU_budget_raise_THIS_call_combined: "§Y[THIS.GetNameWithFlag]§!: EU rozpočet založený na HDP – sazba volání: Přidej §C0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Gpodporovat§! (§G+10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Rodolávat§! (§R-10§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Gsilně podporovat§! (§G+25§!) této změně.\n\n§Y[THIS.GetNameWithFlag]§!: EU rozpočet založený na HDP – sazba volání: Přidej §C-0.05%§! (bodů)\nCelkově investovaná PP: Přidej §Y100§!\n[EU_parliament_PG_conservatism_icon] [EU_parliament_PG_conservatism_short_name], [EU_parliament_PG_Neutral_conservatism_icon] [EU_parliament_PG_Neutral_conservatism_short_name] a [EU_parliament_PG_Conservative_icon] [EU_parliament_PG_Conservative_short_name] budou §Rodolávat§! (§R-10§!) této změně.\n[EU_parliament_PG_liberalism_icon] [EU_parliament_PG_liberalism_short_name] a [EU_parliament_PG_Neutral_Libertarian_icon] [EU_parliament_PG_Neutral_Libertarian_short_name] budou §Gpodporovat§! (§G+10§!) této změně.\n[EU_parliament_PG_socialism_icon] [EU_parliament_PG_socialism_short_name] a [EU_parliament_PG_neutral_Social_icon] [EU_parliament_PG_neutral_Social_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Neutral_green_icon] [EU_parliament_PG_Neutral_green_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n[EU_parliament_PG_Communist-State_icon] [EU_parliament_PG_Communist-State_short_name],  [EU_parliament_PG_anarchist_communism_icon] [EU_parliament_PG_anarchist_communism_short_name] a [EU_parliament_PG_Neutral_Communism_icon] [EU_parliament_PG_Neutral_Communism_short_name] budou §Rsilně odolávat§! (§R-25§!) této změně.\n" # todo: NEW TRANSLATION
@@ -177,6 +187,7 @@
   POL_EU_contribution: "[POL.GetNameWithFlag] - [?POL.EU_budget_contribution|§Y0] miliarda - [?POL.EU_budget_call_rate|§C2]§C%§! - [?POL.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   POR_EU_contribution: "[POR.GetNameWithFlag] - [?POR.EU_budget_contribution|§Y0] miliarda - [?POR.EU_budget_call_rate|§C2]§C%§! - [?POR.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   ROM_EU_contribution: "[ROM.GetNameWithFlag] - [?ROM.EU_budget_contribution|§Y0] miliarda - [?ROM.EU_budget_call_rate|§C2]§C%§! - [?ROM.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
+  RUS_EU_contribution: "[RUS.GetNameWithFlag] - [?RUS.EU_budget_contribution|§Y0] miliard - [?RUS.EU_budget_call_rate|§C2]§C%§! - [?RUS.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SCL_EU_contribution: "[SCL.GetNameWithFlag] - [?SCL.EU_budget_contribution|§Y0] miliarda - [?SCL.EU_budget_call_rate|§C2]§C%§! - [?SCL.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SCO_EU_contribution: "[SCO.GetNameWithFlag] - [?SCO.EU_budget_contribution|§Y0] miliarda - [?SCO.EU_budget_call_rate|§C2]§C%§! - [?SCO.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SER_EU_contribution: "[SER.GetNameWithFlag] - [?SER.EU_budget_contribution|§Y0] miliarda - [?SER.EU_budget_call_rate|§C2]§C%§! - [?SER.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
@@ -184,6 +195,7 @@
   SLO_EU_contribution: "[SLO.GetNameWithFlag] - [?SLO.EU_budget_contribution|§Y0] miliarda - [?SLO.EU_budget_call_rate|§C2]§C%§! - [?SLO.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SLV_EU_contribution: "[SLV.GetNameWithFlag] - [?SLV.EU_budget_contribution|§Y0] miliarda - [?SLV.EU_budget_call_rate|§C2]§C%§! - [?SLV.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SMA_EU_contribution: "[SMA.GetNameWithFlag] - [?SMA.EU_budget_contribution|§Y0] miliarda - [?SMA.EU_budget_call_rate|§C2]§C%§! - [?SMA.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
+  SOV_EU_contribution: "[SOV.GetNameWithFlag] - [?SOV.EU_budget_contribution|§Y0] miliard - [?SOV.EU_budget_call_rate|§C2]§C%§! - [?SOV.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SPA_EU_contribution: "[SPA.GetNameWithFlag] - [?SPA.EU_budget_contribution|§Y0] miliarda - [?SPA.EU_budget_call_rate|§C2]§C%§! - [?SPA.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SPR_EU_contribution: "[SPR.GetNameWithFlag] - [?SPR.EU_budget_contribution|§Y0] miliarda - [?SPR.EU_budget_call_rate|§C2]§C%§! - [?SPR.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
   SWE_EU_contribution: "[SWE.GetNameWithFlag] - [?SWE.EU_budget_contribution|§Y0] miliarda - [?SWE.EU_budget_call_rate|§C2]§C%§! - [?SWE.EU_budget_ratio|§g%2]\n" # todo: NEW TRANSLATION
@@ -240,6 +252,7 @@
   POL_EU_distribution: "[POL.GetNameWithFlag] - [?POL.EU_budget_total_gain|§Y2] - [?POL.EU_budget_ratio_gain|§C%2] - [?POL.EU_growth_subsidies|§O2] - [?POL.EU_natural_subsidies|§G2] - [?POL.EU_global_exp_subsidies|§L2] - [?POL.EU_admin_subsidies|§g2] - [?POL.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   POR_EU_distribution: "[POR.GetNameWithFlag] - [?POR.EU_budget_total_gain|§Y2] - [?POR.EU_budget_ratio_gain|§C%2] - [?POR.EU_growth_subsidies|§O2] - [?POR.EU_natural_subsidies|§G2] - [?POR.EU_global_exp_subsidies|§L2] - [?POR.EU_admin_subsidies|§g2] - [?POR.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   ROM_EU_distribution: "[ROM.GetNameWithFlag] - [?ROM.EU_budget_total_gain|§Y2] - [?ROM.EU_budget_ratio_gain|§C%2] - [?ROM.EU_growth_subsidies|§O2] - [?ROM.EU_natural_subsidies|§G2] - [?ROM.EU_global_exp_subsidies|§L2] - [?ROM.EU_admin_subsidies|§g2] - [?ROM.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
+  RUS_EU_distribution: "[RUS.GetNameWithFlag] - [?RUS.EU_budget_total_gain|§Y2] - [?RUS.EU_budget_ratio_gain|§C%2] - [?RUS.EU_growth_subsidies|§O2] - [?RUS.EU_natural_subsidies|§G2] - [?RUS.EU_global_exp_subsidies|§L2] - [?RUS.EU_admin_subsidies|§g2] - [?RUS.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SCL_EU_distribution: "[SCL.GetNameWithFlag] - [?SCL.EU_budget_total_gain|§Y2] - [?SCL.EU_budget_ratio_gain|§C%2] - [?SCL.EU_growth_subsidies|§O2] - [?SCL.EU_natural_subsidies|§G2] - [?SCL.EU_global_exp_subsidies|§L2] - [?SCL.EU_admin_subsidies|§g2] - [?SCL.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SCO_EU_distribution: "[SCO.GetNameWithFlag] - [?SCO.EU_budget_total_gain|§Y2] - [?SCO.EU_budget_ratio_gain|§C%2] - [?SCO.EU_growth_subsidies|§O2] - [?SCO.EU_natural_subsidies|§G2] - [?SCO.EU_global_exp_subsidies|§L2] - [?SCO.EU_admin_subsidies|§g2] - [?SCO.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SER_EU_distribution: "[SER.GetNameWithFlag] - [?SER.EU_budget_total_gain|§Y2] - [?SER.EU_budget_ratio_gain|§C%2] - [?SER.EU_growth_subsidies|§O2] - [?SER.EU_natural_subsidies|§G2] - [?SER.EU_global_exp_subsidies|§L2] - [?SER.EU_admin_subsidies|§g2] - [?SER.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
@@ -247,6 +260,7 @@
   SLO_EU_distribution: "[SLO.GetNameWithFlag] - [?SLO.EU_budget_total_gain|§Y2] - [?SLO.EU_budget_ratio_gain|§C%2] - [?SLO.EU_growth_subsidies|§O2] - [?SLO.EU_natural_subsidies|§G2] - [?SLO.EU_global_exp_subsidies|§L2] - [?SLO.EU_admin_subsidies|§g2] - [?SLO.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SLV_EU_distribution: "[SLV.GetNameWithFlag] - [?SLV.EU_budget_total_gain|§Y2] - [?SLV.EU_budget_ratio_gain|§C%2] - [?SLV.EU_growth_subsidies|§O2] - [?SLV.EU_natural_subsidies|§G2] - [?SLV.EU_global_exp_subsidies|§L2] - [?SLV.EU_admin_subsidies|§g2] - [?SLV.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SMA_EU_distribution: "[SMA.GetNameWithFlag] - [?SMA.EU_budget_total_gain|§Y2] - [?SMA.EU_budget_ratio_gain|§C%2] - [?SMA.EU_growth_subsidies|§O2] - [?SMA.EU_natural_subsidies|§G2] - [?SMA.EU_global_exp_subsidies|§L2] - [?SMA.EU_admin_subsidies|§g2] - [?SMA.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
+  SOV_EU_distribution: "[SOV.GetNameWithFlag] - [?SOV.EU_budget_total_gain|§Y2] - [?SOV.EU_budget_ratio_gain|§C%2] - [?SOV.EU_growth_subsidies|§O2] - [?SOV.EU_natural_subsidies|§G2] - [?SOV.EU_global_exp_subsidies|§L2] - [?SOV.EU_admin_subsidies|§g2] - [?SOV.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SPA_EU_distribution: "[SPA.GetNameWithFlag] - [?SPA.EU_budget_total_gain|§Y2] - [?SPA.EU_budget_ratio_gain|§C%2] - [?SPA.EU_growth_subsidies|§O2] - [?SPA.EU_natural_subsidies|§G2] - [?SPA.EU_global_exp_subsidies|§L2] - [?SPA.EU_admin_subsidies|§g2] - [?SPA.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SPR_EU_distribution: "[SPR.GetNameWithFlag] - [?SPR.EU_budget_total_gain|§Y2] - [?SPR.EU_budget_ratio_gain|§C%2] - [?SPR.EU_growth_subsidies|§O2] - [?SPR.EU_natural_subsidies|§G2] - [?SPR.EU_global_exp_subsidies|§L2] - [?SPR.EU_admin_subsidies|§g2] - [?SPR.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
   SWE_EU_distribution: "[SWE.GetNameWithFlag] - [?SWE.EU_budget_total_gain|§Y2] - [?SWE.EU_budget_ratio_gain|§C%2] - [?SWE.EU_growth_subsidies|§O2] - [?SWE.EU_natural_subsidies|§G2] - [?SWE.EU_global_exp_subsidies|§L2] - [?SWE.EU_admin_subsidies|§g2] - [?SWE.EU_budget_net|§+2]\n" # todo: NEW TRANSLATION
@@ -264,11 +278,29 @@
   EU_budget_mff_draft_desc: "Členský stát, který vypracovává návrh Víceletného finančního rámce, musí na konci jednání zařadit návrh na agendu Evropského parlamentu. Jako odměnu získá navrhující členský stát veškerou vloženou politickou sílu, když bude Víceletný finanční rámec schválen a uveden do platnosti." # todo: NEW TRANSLATION
   EU_mff_draft_mission: "Vyjednávání Víceletného finančního rámce" # todo: NEW TRANSLATION
   EU_mff_draft_mission_desc: "Během vyjednávání mohou všechny členské státy investovat politickou sílu, aby návrh změnily podle své představy. Změny návrhu ovlivní názor politických skupin Evropského parlamentu na návrh." # todo: NEW TRANSLATION
+  EU_min_call_rate_tooltip: "§GLevým kliknutím:§! Zvyšte globální minimální sazbu volání\n\n§GPravým kliknutím:§! Snižte globální minimální sazbu volání.\n\n§YStojí [?global.EU_15_per_member_cost] politické moci§!" # todo: NEW TRANSLATION
   EU_global_call_rate_tooltip: "§GNa levý klik:§! Zvyšte globální sazbu vyvolání\n\n§YNastavení:§!\n[!EU_global_expenses_click_enabled]\n§YEfekty:§!\n[!EU_global_expenses_click]\n£GFX_na stránku:§GNa pravý klik:§! Snižte globální sazbu vyvolání\n§YNastavení:§!\n[!EU_global_expenses_right_click_enabled]\n§YEfekty:§!\n[!EU_global_expenses_right_click]" # todo: NEW TRANSLATION
   EU_THIS_call_rate_tooltip: "§GNa levý klik:§! Zvyšte sazbu volání [THIS.GetNameWithFlag]'\n§GNa levý klik:§! Zvyšte sazbu vyvolání [THIS.GetNameWithFlag]\n\n§GOn Right Click:§! Lower [THIS.GetNameWithFlag]'\n\n§YCosts 100 Political Power§!" # todo: NEW TRANSLATION
+  EU_budget_yearly_timer: "Časovač rozpočtu EU" # todo: NEW TRANSLATION
+  EU_budget_yearly_timer_desc: "Čas do příštího návrhu rozpočtu EU" # todo: NEW TRANSLATION
+  EU_budget_draft_preparations: "Přípravy návrhu rozpočtu EU" # todo: NEW TRANSLATION
+  EU_budget_draft_preparations_desc: "Jednání o rozpočtu EU brzy začnou." # todo: NEW TRANSLATION
+  EU_budget_draft_ongoing: "Probíhající jednání o rozpočtu EU" # todo: NEW TRANSLATION
+  EU_budget_draft_ongoing_desc: "" # todo: NEW TRANSLATION
+  EU_budget_draft_ongoing_president: "Probíhající jednání o rozpočtu EU" # todo: NEW TRANSLATION
+  EU_budget_draft_ongoing_president_desc: "" # todo: NEW TRANSLATION
+  EU_mff_yearly_timer: "Časovač víceletého finančního rámce EU" # todo: NEW TRANSLATION
+  EU_mff_yearly_timer_desc: "Čas do příštího návrhu víceletého finančního rámce EU" # todo: NEW TRANSLATION
+  EU_mff_draft_preparations: "Přípravy návrhu víceletého finančního rámce EU" # todo: NEW TRANSLATION
+  EU_mff_draft_preparations_desc: "Jednání o víceletém finančním rámci EU brzy začnou." # todo: NEW TRANSLATION
+  EU_mff_draft_ongoing: "Jednání o návrhu víceletého finančního rámce EU" # todo: NEW TRANSLATION
+  EU_mff_draft_ongoing_desc: "" # todo: NEW TRANSLATION
+  EU_mff_draft_ongoing_president: "Jednání o návrhu víceletého finančního rámce EU" # todo: NEW TRANSLATION
+  EU_mff_draft_ongoing_desc_president: "" # todo: NEW TRANSLATION
   EU_budget_global_expense_tooltip: "£click_left §GNa levý klik:§! Zvyšte výdaje pro Globální EU\n£YPředpoklady:§!\n[!EU_global_expenses_click_enabled]\n§YEfekty:§!\n[!EU_global_expenses_click]\n£GFX_click_right §GNa pravý klik:§! Snižte výdaje pro Globální EU\n§YPředpoklady:§!\n[!EU_global_expenses_right_click_enabled]\n§YEfekty:§!\n[!EU_global_expenses_right_click]" # todo: NEW TRANSLATION
   EU_budget_admin_expense_tooltip: "£click_left §GNa levý klik:§! Zvyšte výdaje na administrativu a pod.\n§YPředpoklady:§!\n[!EU_administration_expenses_click_enabled]\n§YEfekty:§!\n[!EU_administration_expenses_click]\n\n£GFX_click_right §GNa pravý klik:§! Snižte výdaje na administrativu a pod.\n§YPředpoklady:§!\n[!EU_administration_expenses_right_click_enabled]\n§YEfekty:§!\n[!EU_administration_expenses_right_click]" # todo: NEW TRANSLATION
   EU_budget_subsidies_tooltip: "£click_left §GNa levý klik:§! Zvyšte dotace pro růst, snižte přírodní dotace\n§YPředpoklady:§!\n[!EU_growth_natural_subsidies_click_enabled]\n§YEfekty:§!\n[!EU_growth_natural_subsidies_click]\n\n£GFX_click_right §GNa pravý klik:§! Snižte růstové dotace, snižte přírodní dotace\n§YPředpoklady:§!\n[!EU_growth_natural_subsidies_right_click_enabled]\n§YEfekty:§!\n[!EU_growth_natural_subsidies_right_click]" # todo: NEW TRANSLATION
+  EU_ongoing_budget_draft_trigger_tt: "Jakýkoli §Členský stát Evropské unie§! právě připravuje §Yn nový návrh rozpočtu EU§!" # todo: NEW TRANSLATION
   EU_budget_draft_desc: "Členský stát, který vypracovává rozpočet EU pro nadcházející fiskální rok, musí návrh na konci jednání zařadit na agendu Evropského parlamentu. Jako odměnu získá navrhující členský stát veškerou vloženou politickou sílu, když bude rozpočet EU schválen a uveden do platnosti." # todo: NEW TRANSLATION
   european_council_header: "Právní akty [EUU.GetFlag][EUU.GetName]" # todo: NEW TRANSLATION
   current_council_votes: "§GOopatření způsobilé k hlasování§!" # todo: NEW TRANSLATION
@@ -298,7 +330,60 @@
   EU_legend_text: "§YLegenda§!" # todo: NEW TRANSLATION
   EU_legend_text_tt: "Modrá - [EU_parliament_PG_conservatism_icon] EPP-ED\nŽlutá - [EU_parliament_PG_liberalism_icon] ELDR\nČervená - [EU_parliament_PG_socialism_icon] PES" # todo: NEW TRANSLATION
   EU_political_groups_text_tt: "Níže je Evropský parlament. Evropský parlament se skládá z přímo volených europoslanců, neboli členů Evropského parlamentu." # todo: NEW TRANSLATION
+  european_sec_parliament_member_state: "Členský stát:" # todo: NEW TRANSLATION
+  european_sec_parliament_meps: "Europoslanci:" # todo: NEW TRANSLATION
+  european_sec_parliament_title: "Parlament" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_0_loc_key: "[EU_parl_PG_party_0_icon] APWA: [?global.MEP_PG_party_0|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_1_loc_key: "[EU_parl_PG_party_1_icon] EPP-ED: [?global.MEP_PG_party_1|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_2_loc_key: "[EU_parl_PG_party_2_icon] ELDR: [?global.MEP_PG_party_2|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_3_loc_key: "[EU_parl_PG_party_3_icon] PES: [?global.MEP_PG_party_3|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_4_loc_key: "[EU_parl_PG_party_4_icon] AOC: [?global.MEP_PG_party_4|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_5_loc_key: "[EU_parl_PG_party_5_icon] EACL: [?global.MEP_PG_party_5|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_6_loc_key: "[EU_parl_PG_party_6_icon] AR: [?global.MEP_PG_party_6|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_7_loc_key: "[EU_parl_PG_party_7_icon] AA: [?global.MEP_PG_party_7|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_8_loc_key: "[EU_parl_PG_party_8_icon] AMSR: [?global.MEP_PG_party_8|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_9_loc_key: "[EU_parl_PG_party_9_icon] AHSR: [?global.MEP_PG_party_9|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_10_loc_key: "[EU_parl_PG_party_10_icon] AWM: [?global.MEP_PG_party_10|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_11_loc_key: "[EU_parl_PG_party_11_icon] ASM: [?global.MEP_PG_party_11|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_12_loc_key: "[EU_parl_PG_party_12_icon] AMI: [?global.MEP_PG_party_12|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_13_loc_key: "[EU_parl_PG_party_13_icon] ANAA: [?global.MEP_PG_party_13|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_14_loc_key: "[EU_parl_PG_party_14_icon] UEN: [?global.MEP_PG_party_14|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_15_loc_key: "[EU_parl_PG_party_15_icon] AOS: [?global.MEP_PG_party_15|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_16_loc_key: "[EU_parl_PG_party_16_icon] AOL: [?global.MEP_PG_party_16|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_17_loc_key: "[EU_parl_PG_party_17_icon] Greens/EFA: [?global.MEP_PG_party_17|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_18_loc_key: "[EU_parl_PG_party_18_icon] AOSD: [?global.MEP_PG_party_18|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_19_loc_key: "[EU_parl_PG_party_19_icon] GUE/NGL: [?global.MEP_PG_party_19|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_20_loc_key: "[EU_parl_PG_party_20_icon] EDD: [?global.MEP_PG_party_20|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_21_loc_key: "[EU_parl_PG_party_21_icon] AoF: [?global.MEP_PG_party_21|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_22_loc_key: "[EU_parl_PG_party_22_icon] EUMS: [?global.MEP_PG_party_22|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  EU_parliament_mini_PG_party_23_loc_key: "[EU_parl_PG_party_23_icon] AoM: [?global.MEP_PG_party_23|C0] §Ceuroposlanci§!" # todo: NEW TRANSLATION
+  PG_party_0: "[EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_short_name]" # todo: NEW TRANSLATION
+  PG_party_1: "[EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_short_name]" # todo: NEW TRANSLATION
+  PG_party_2: "[EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_short_name]" # todo: NEW TRANSLATION
+  PG_party_3: "[EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_short_name]" # todo: NEW TRANSLATION
+  PG_party_4: "[EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_short_name]" # todo: NEW TRANSLATION
+  PG_party_5: "[EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_short_name]" # todo: NEW TRANSLATION
+  PG_party_6: "[EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_short_name]" # todo: NEW TRANSLATION
+  PG_party_7: "[EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_short_name]" # todo: NEW TRANSLATION
+  PG_party_8: "[EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_short_name]" # todo: NEW TRANSLATION
+  PG_party_9: "[EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_short_name]" # todo: NEW TRANSLATION
+  PG_party_10: "[EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_short_name]" # todo: NEW TRANSLATION
+  PG_party_11: "[EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_short_name]" # todo: NEW TRANSLATION
+  PG_party_12: "[EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_short_name]" # todo: NEW TRANSLATION
+  PG_party_13: "[EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_short_name]" # todo: NEW TRANSLATION
+  PG_party_14: "[EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_short_name]" # todo: NEW TRANSLATION
+  PG_party_15: "[EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_short_name]" # todo: NEW TRANSLATION
+  PG_party_16: "[EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_short_name]" # todo: NEW TRANSLATION
+  PG_party_17: "[EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_short_name]" # todo: NEW TRANSLATION
+  PG_party_18: "[EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_short_name]" # todo: NEW TRANSLATION
+  PG_party_19: "[EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_short_name]" # todo: NEW TRANSLATION
+  PG_party_20: "[EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_short_name]" # todo: NEW TRANSLATION
+  PG_party_21: "[EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_short_name]" # todo: NEW TRANSLATION
+  PG_party_22: "[EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_short_name]" # todo: NEW TRANSLATION
+  PG_party_23: "[EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_short_name]" # todo: NEW TRANSLATION
   office_occupied_tt: "Tento §YOffice§! momentálne nie je obsadený žiadnym ďalším členom §CEvropskej únie§!." # todo: NEW TRANSLATION
+  EU_commission_president_taken: "Musí být prezident §CEvropské unie§! nebo zůstane pouze jeden člen!" # todo: NEW TRANSLATION
+  EU_central_bank_taken: "Musí být prezident §YEvropské centrální banky§! nebo zůstane pouze jeden člen!" # todo: NEW TRANSLATION
   EU_total_member_vote_tt: "Celkový počet Členských štátov§! Požadované: [?global.EU_active_vote_yes]/[?global.EU_majority_qmv_state]" # todo: NEW TRANSLATION
   EU_total_member_vote_desc_tt: "§C[EUU.GetFlag][EUU.GetName]'s§! primárny systém hlasovania je kvalifikovaná väčšina (QMV). QMV vyžaduje, že [?global.EU_majority_qmv_state] Členské štáty (alebo 55 % aktuálneho počtu členských štátov) podpoří súčasné uznesenie. Akonáhle budeme mať viac než [?global.EU_majority_qmv_state] Členských štátov, zákon môže byť prijatý, za predpokladu, že máme požadovanú väčšinu populácie 65 %.\n\nPodiel % populácie EÚ §GPodporované§!: [?global.var_EUpopRatioYes|%+]\nPodiel % populácie EÚ §ROdmietnuté§!: [?global.var_EUpopRatioNo|%-]" # todo: NEW TRANSLATION
   EU_sup_vote_tt: "Podiel % populácie EÚ §GPodporované§!: [?global.var_EUpopRatioYes|%+]" # todo: NEW TRANSLATION
@@ -310,6 +395,54 @@
   con_vote_wait: "§YEvropská rada§! nedávno ukončila zasedání. Dny do dalšího zasedání: §Y[?delay_player_next_council_vote:days_left|0Y] Dny§!" # todo: NEW TRANSLATION
   con_vote_wait_no_flag: "§YEvropská rada§! je připravena na zasedání." # todo: NEW TRANSLATION
   eu_candidates_considering: "§YEvropská rada§! momentálně nezvažuje žádné kandidáty EU" # todo: NEW TRANSLATION
+  EU_parl_PG_party_0_influence: "Vliv [EU_parl_PG_party_0_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_0_influence_desc: "Vliv [EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_1_influence: "Vliv [EU_parl_PG_party_1_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_1_influence_desc: "Vliv [EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_2_influence: "Vliv [EU_parl_PG_party_2_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_2_influence_desc: "Vliv [EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_3_influence: "Vliv [EU_parl_PG_party_3_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_3_influence_desc: "Vliv [EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_4_influence: "Vliv [EU_parl_PG_party_4_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_4_influence_desc: "Vliv [EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_5_influence: "Vliv [EU_parl_PG_party_5_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_5_influence_desc: "Vliv [EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_6_influence: "Vliv [EU_parl_PG_party_6_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_6_influence_desc: "Vliv [EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_7_influence: "Vliv [EU_parl_PG_party_7_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_7_influence_desc: "Vliv [EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_8_influence: "Vliv [EU_parl_PG_party_8_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_8_influence_desc: "Vliv [EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_9_influence: "Vliv [EU_parl_PG_party_9_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_9_influence_desc: "Vliv [EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_10_influence: "Vliv [EU_parl_PG_party_10_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_10_influence_desc: "Vliv [EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_11_influence: "Vliv [EU_parl_PG_party_11_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_11_influence_desc: "Vliv [EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_12_influence: "Vliv [EU_parl_PG_party_12_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_12_influence_desc: "Vliv [EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_13_influence: "Vliv [EU_parl_PG_party_13_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_13_influence_desc: "Vliv [EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_14_influence: "Vliv [EU_parl_PG_party_14_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_14_influence_desc: "Vliv [EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_15_influence: "Vliv [EU_parl_PG_party_15_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_15_influence_desc: "Vliv [EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_16_influence: "Vliv [EU_parl_PG_party_16_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_16_influence_desc: "Vliv [EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_17_influence: "Vliv [EU_parl_PG_party_17_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_17_influence_desc: "Vliv [EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_18_influence: "Vliv [EU_parl_PG_party_18_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_18_influence_desc: "Vliv [EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_19_influence: "Vliv [EU_parl_PG_party_19_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_19_influence_desc: "Vliv [EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_20_influence: "Vliv [EU_parl_PG_party_20_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_20_influence_desc: "Vliv [EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_21_influence: "Vliv [EU_parl_PG_party_21_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_21_influence_desc: "Vliv [EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_22_influence: "Vliv [EU_parl_PG_party_22_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_22_influence_desc: "Vliv [EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_name] na aktuální bod jednání" # todo: NEW TRANSLATION
+  EU_parl_PG_party_23_influence: "Vliv [EU_parl_PG_party_23_icon]" # todo: NEW TRANSLATION
+  EU_parl_PG_party_23_influence_desc: "Vliv [EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_name] na aktuální bod jednání" # todo: NEW TRANSLATION
   EU_show_available_0_loc_key: "Žádná aktivní agenda" # todo: NEW TRANSLATION
   EU_show_available_101_loc_key: "Charta základních práv Evropské unie" # todo: NEW TRANSLATION
   EU_show_available_102_loc_key: "Evropská konvence" # todo: NEW TRANSLATION
@@ -350,6 +483,10 @@
   EU_show_available_609_loc_key: "Evropský hospodářský prostor" # todo: NEW TRANSLATION
   EU_show_available_610_loc_key: "Bělorusko" # todo: NEW TRANSLATION
   EU_show_available_611_loc_key: "Vnitřní rozšíření" # todo: NEW TRANSLATION
+  EU_show_available_650_loc_key: "Rozšířený rámec pro rozšíření" # todo: NEW TRANSLATION
+  EU_show_available_651_loc_key: "Úprava Lisabonské smlouvy" # todo: NEW TRANSLATION
+  EU_show_available_652_loc_key: "Smlouva o partnerství EU–Rusko" # todo: NEW TRANSLATION
+  EU_show_available_653_loc_key: "Rusko" # todo: NEW TRANSLATION
   EU_show_available_112_loc_key: "Evropská federace" # todo: NEW TRANSLATION
   EU_show_available_110_loc_key: "Federalizace Evropské unie" # todo: NEW TRANSLATION
   EU_show_available_111_loc_key: "Spojené státy Evropy" # todo: NEW TRANSLATION
@@ -396,6 +533,10 @@
   EU_show_available_desc_609_loc_key: "§ONavrhované právo je Rozšiřující EU právo§!\n\nZemě mimo EU v Evropském hospodářském prostoru (§Y[SWI.GetNameWithFlag]§!, §Y[NOR.GetNameWithFlag]§! a §Y[ICE.GetNameWithFlag]§!) a také mikrostaty Evropy (§Y[HLS.GetNameWithFlag]§!, §Y[SMA.GetNameWithFlag]§!, §Y[MNC.GetNameWithFlag]§!, §Y[ADO.GetNameWithFlag]§!, a §Y[LIC.GetNameWithFlag]§!) se stanou kandidáty na vstup do §C[EUU.GetFlag] Evropské unie§!." # todo: NEW TRANSLATION
   EU_show_available_desc_610_loc_key: "§ONavrhované právo je Rozšiřující EU právo§!\n\n§Y[BLR.GetNameWithFlag]§! se stává kandidátem na vstup do §C[EUU.GetFlag] Evropské unie§!." # todo: NEW TRANSLATION
   EU_show_available_desc_611_loc_key: "§ONavrhované právo je Rozšiřující EU právo§!\n\nVnitřní rozšíření je proces nových členských států vznikajících z rozkolu či odtržení od stávajícího členského státu. §Y[CRE.GetNameWithFlag]§!, §Y[SCL.GetNameWithFlag]§!, §Y[SCO.GetNameWithFlag]§!, §Y[VOJ.GetNameWithFlag]§!, §Y[WAS.GetNameWithFlag]§!, §Y[GAL.GetNameWithFlag]§!, §Y[SIL.GetNameWithFlag]§!, §Y[CAT.GetNameWithFlag]§!, §Y[SPA.GetNameWithFlag]§!, §Y[CNR.GetNameWithFlag]§!, §Y[NAV.GetNameWithFlag]§!, §Y[BAY.GetNameWithFlag]§! a §Y[GRL.GetNameWithFlag]§! mohou se stát kandidáty na vstup do §C[EUU.GetFlag] Evropské unie§!, až získají nezávislost." # todo: NEW TRANSLATION
+  EU_show_available_desc_650_loc_key: "" # todo: NEW TRANSLATION
+  EU_show_available_desc_651_loc_key: "" # todo: NEW TRANSLATION
+  EU_show_available_desc_652_loc_key: "" # todo: NEW TRANSLATION
+  EU_show_available_desc_653_loc_key: "§OTento navrhovaný zákon je zákonem o rozšiřování EU.§!\n\n§Y[SOV.GetNameWithFlag]§! se stává kandidátem na vstup do §C[EUU.GetFlag] Evropské unie§!." # todo: NEW TRANSLATION
   EU_show_available_desc_110_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nProces evropské integrace dosáhl stavu, kdy jakákoli další integrace povede k federalizaci §C[EUU.GetFlag][EUU.GetName]§!." # todo: NEW TRANSLATION
   EU_show_available_desc_111_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nPo více než 70 letech evropské integrace se členské státy §C[EUU.GetFlag][EUU.GetName]§! rozhodly vzdát se své suverenity a vytvořit §C[EUU.GetFlag] Spojené státy Evropy§!." # todo: NEW TRANSLATION
   EU_show_available_desc_112_loc_key: "§YThis proposed law is a Federalization EU Law.§!\n\nČlenské státy §C[EUU.GetFlag][EUU.GetName]§! se rozhodly převést Unie do §C[EUU.GetFlag] Evropské federace§! se zásadou kvalifikované většiny hlasů jako základním principem a s vedením §YPresident of the European Federation§!." # todo: NEW TRANSLATION
@@ -459,18 +600,52 @@
   no_council_vote_tt: "Žádné probíhající hlasování Rady EU" # todo: NEW TRANSLATION
   EU_level_of_breaches_less_than_3_tt: "Úroveň porušení hodnot Evropské unie je §YMéně než§! 3 (aktuální porušení: [?THIS.breach_of_EU_value|0R])" # todo: NEW TRANSLATION
   EU_no_external_sov_chi_influence_15_tt: "§Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§! v současné době nemá §R15%§! §Yvliv§! na §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  EU_no_external_chi_influence_15_tt: "§Y[CHI.GetNameWithFlag]§! v současnosti nemá §R15%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  EU_no_external_sov_influence_15_tt: "§Y[SOV.GetNameWithFlag]§! v současnosti nemá §R15%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§! nebo je v §CEvropské unii§!\n" # todo: NEW TRANSLATION
+  EU_external_sov_chi_influence_50_tt: "§Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§! v současnosti mají §R60%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§! nebo §Y[SOV.GetNameWithFlag]§! není v §CEvropské unii§!\n" # todo: NEW TRANSLATION
+  EU_external_chi_influence_50_tt: "§Y[CHI.GetNameWithFlag]§! v současnosti má §R50%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  EU_external_sov_influence_50_tt: "§Y[SOV.GetNameWithFlag]§! v současnosti má §R50%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   EU_external_sov_chi_influence_15_tt: "§Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§! v současné době má §R15%§! §Yvliv§! na §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  EU_external_chi_influence_15_tt: "§Y[CHI.GetNameWithFlag]§! v současnosti má §R15%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  EU_external_sov_influence_15_tt: "§Y[SOV.GetNameWithFlag]§! v současnosti má §R15%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   EU_external_sov_chi_influence_10_tt: "§Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§! v současné době má §R10%§! §Yvliv§! na §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  EU_external_chi_influence_10_tt: "§Y[CHI.GetNameWithFlag]§! v současnosti má §R10%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  EU_external_sov_influence_10_tt: "§Y[SOV.GetNameWithFlag]§! v současnosti má §R10%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   EU_external_sov_chi_influence_5_tt: "§Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§! v současné době má §R5%§! §Yvliv§! na §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  EU_external_chi_influence_5_tt: "§Y[CHI.GetNameWithFlag]§! v současnosti má §R5%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  EU_external_sov_influence_5_tt: "§Y[SOV.GetNameWithFlag]§! v současnosti má §R5%§! §Yvlivu§! v §Y[THIS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   no_high_sceptics_tt: "§YEuroskepticismus§! je méně než 40% (aktuální: [?THIS.eurosceptic|-%])" # todo: NEW TRANSLATION
   has_mep_rep_tt: "[eu_parties_l] má zastoupení MEP k ovlivňování" # todo: NEW TRANSLATION
   party_not_supporting_tt: "[eu_parties_l] lze přesvědčit, aby podpořil toto opatření" # todo: NEW TRANSLATION
   council_vote_button_tt: "§Y[name_of_reform]§!\n-----------\n§HPředpoklady:§!\n[!name_of_available_vote_button_click_enabled]\n§HEfekty:§!\n[!name_of_available_vote_button_click]" # todo: NEW TRANSLATION
   council_vote_button_delayed_tt: "[current_active_vote_desc]" # todo: NEW TRANSLATION
+  wes_aut_tt: "§HPožadavky:§!\n[!PG_party_0_influence_click_enabled]" # todo: NEW TRANSLATION
+  wes_lib_tt: "§HPožadavky:§!\n[!PG_party_2_influence_click_enabled]" # todo: NEW TRANSLATION
+  wes_soc_tt: "§HPožadavky:§!\n[!PG_party_3_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_com_tt: "§HPožadavky:§!\n[!PG_party_4_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_ana_tt: "§HPožadavky:§!\n[!PG_party_5_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_rea_tt: "§HPožadavky:§!\n[!PG_party_6_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_aut_tt: "§HPožadavky:§!\n[!PG_party_7_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_msh_tt: "§HPožadavky:§!\n[!PG_party_8_influence_click_enabled]" # todo: NEW TRANSLATION
+  eme_hsh_tt: "§HPožadavky:§!\n[!PG_party_9_influence_click_enabled]" # todo: NEW TRANSLATION
+  sal_est_tt: "§HPožadavky:§!\n[!PG_party_10_influence_click_enabled]" # todo: NEW TRANSLATION
+  sal_jih_tt: "§HPožadavky:§!\n[!PG_party_11_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_isl_tt: "§HPožadavky:§!\n[!PG_party_12_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_aut_tt: "§HPožadavky:§!\n[!PG_party_13_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_con_tt: "§HPožadavky:§!\n[!PG_party_14_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_oli_tt: "§HPožadavky:§!\n[!PG_party_15_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_lib_tt: "§HPožadavky:§!\n[!PG_party_16_influence_click_enabled]" # todo: NEW TRANSLATION
+  wes_con_tt: "§HPožadavky:§!\n[!PG_party_1_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_gre_tt: "§HPožadavky:§!\n[!PG_party_17_influence_click_enabled]" # todo: NEW TRANSLATION
   neu_soc_tt: "§HPředpoklady:§!\n[!PG_neutral_Social_influence_click_enabled]" # todo: NEW TRANSLATION
+  neu_com_tt: "§HPožadavky:§!\n[!PG_party_19_influence_click_enabled]" # todo: NEW TRANSLATION
   nat_pop_tt: "§HPředpoklady:§!\n[!PG_Nat_Populism_influence_click_enabled]" # todo: NEW TRANSLATION
   nat_facism_tt: "§HPředpoklady:§!\n[!PG_Nat_Fascism_influence_click_enabled]" # todo: NEW TRANSLATION
+  nat_autocracy_tt: "§HPožadavky:§!\n[!PG_party_22_influence_click_enabled]" # todo: NEW TRANSLATION
   monarchist_tt: "§HPředpoklady:§!\n[!PG_Monarchist_influence_click_enabled]" # todo: NEW TRANSLATION
+  PG_party_1_influence: "EPP-ED byl přesvědčen, aby podpořil toto opatření" # todo: NEW TRANSLATION
+  PG_party_0_support: "APWA podporuje toto opatření" # todo: NEW TRANSLATION
+  PG_party_1_support: "EPP-ED podporuje toto opatření" # todo: NEW TRANSLATION
   approve_ipa_tt: "§HPředpoklady:§!\n[!approve_IPA_button_click_enabled]\n§HEffekt:§!\n[!approve_IPA_button_click]" # todo: NEW TRANSLATION
   eurobonds_tt: "Vyžaduje §YEurobondy§! k projití Radou EU" # todo: NEW TRANSLATION
   euro_fin_stab_facility_tt: "Vyžaduje, aby §YEvropský finanční stabilizační nástroj§! prošel Radou EU" # todo: NEW TRANSLATION
@@ -493,6 +668,9 @@
   vote_requirements_tt: "§Y[name_of_reform]§!\n-----------\n§YPředpoklady:§!\n[!name_of_available_reform_button_click_enabled]\n§YEfekty:§!\n[!name_of_available_reform_button_click]" # todo: NEW TRANSLATION
   eu_candidates_tt: "Požaduje existenci kandidátů Evropské unie" # todo: NEW TRANSLATION
   2013_enlargement_pass_tt: "Vyžaduje §YRozšíření EU 2013§! aby Rada Evropské unie schválila" # todo: NEW TRANSLATION
+  extended_enlargement_framework_pass_tt: "Vyžaduje, aby §YRozšířený rámec pro rozšíření§! byl schválen Radou EU" # todo: NEW TRANSLATION
+  lisbon_treaty_amendment_pass_tt: "Vyžaduje, aby §YÚprava Lisabonské smlouvy§! byla schválena Radou EU" # todo: NEW TRANSLATION
+  eu_russia_treaty_pass_tt: "Vyžaduje, aby §YSmlouva o partnerství EU–Rusko§! byla schválena Radou EU" # todo: NEW TRANSLATION
   allow_2013_enlargement_tt: "Vyžaduje §YRozšíření EU 2007§! aby Rada Evropské unie schválila" # todo: NEW TRANSLATION
   allow_2007_enlargement_tt: "Vyžaduje §YRozšíření EU 2004§! aby Rada Evropské unie schválila" # todo: NEW TRANSLATION
   no_ongoing_expansion_tt: "Žádné probíhající rozšíření EU není na hlasování" # todo: NEW TRANSLATION
@@ -518,6 +696,7 @@
   root_euroscepticism_campaign: "[ROOT.GetFlag] Euroscepticism" # todo: NEW TRANSLATION
   root_euroscepticism_campaign_desc: "Euroskeptická kampaň ve §Y[ROOT.GetNameWithFlag]§!.\n\n§HPředpoklady:§!\n[!euroscepticism_country_button_click_enabled]\n§HEfekt:§!\n[!euroscepticism_country_button_click]\n" # todo: NEW TRANSLATION
   euroscepticism_country_button_click_cooldown: "Nedávno proběhla euroskeptická kampaň. (Zbývá dní: [?euroscepticism_country_button_click_cooldown:days_left|Y0])" # todo: NEW TRANSLATION
+  less_than_15_eurosceptic: "Země má méně než §R15% euroskepticismu§!.\nAktuálně: §R[?THIS.eurosceptic|%]§!" # todo: NEW TRANSLATION
   soteu_country_header: "Země" # todo: NEW TRANSLATION
   debt_header: "§YDluh§!" # todo: NEW TRANSLATION
   ecb_omt_debt_list_tt: "[THIS.GetNameWithFlag] má aktuálně dluh ve výši $[?THIS.debt|Y]. Doplácí nyní $[?THIS.debt_rate|R] týdně." # todo: NEW TRANSLATION
@@ -550,8 +729,111 @@
   eurozone_reforms_desc: "Eurozóna je právě na prahu dluhové krize, kterou Evropa nezažila od doby po druhé světové války. Musíme reformovat eurozónu přijímáním reforem jako §YEvropská bankovní unie§!, §YEurobondy§! nebo §YEvropský mechanismus pro stabilitu (ESM)§!.\n\nDluhová krize EU se dá předejít zavedením následujících reforem:\n- §YEvropská bankovní unie§!\n- §YEurobondy§!\n- §YEvropský mechanismus pro stabilitu§!\n" # todo: NEW TRANSLATION
   troika_reforms: "Reforemy Trojky" # todo: NEW TRANSLATION
   troika_reforms_desc: "Reforemy požadované takzvanou Trojkou Evropské komise (EC), Evropské centrální banky (ECB) a Mezinárodního měnového fondu (IMF), aby zabránily bankrotu §Y[ROOT.GetNameWithFlag]§!." # todo: NEW TRANSLATION
+  eu_this_mep_tt: "[THIS.Western_Autocracy_L_icon] [?THIS.MEP_party_0]\n[THIS.conservatism_L_icon] [?THIS.MEP_party_1]\n[THIS.liberalism_L_icon] [?THIS.MEP_party_2]\n[THIS.socialism_L_icon] [?THIS.MEP_party_3]\n[THIS.Communist-State_L_icon] [?THIS.MEP_party_4]\n[THIS.anarchist_communism_L_icon] [?THIS.MEP_party_5]\n[THIS.Conservative_L_icon] [?THIS.MEP_party_6]\n[THIS.Autocracy_L_icon] [?THIS.MEP_party_7]\n[THIS.Mod_Vilayat_e_Faqih_L_icon] [?THIS.MEP_party_8]\n[THIS.Vilayat_e_Faqih_L_icon] [?THIS.MEP_party_9]\n[THIS.Kingdom_L_icon] [?THIS.MEP_party_10]\n[THIS.Caliphate_L_icon] [?THIS.MEP_party_11]\n[THIS.Neutral_Muslim_Brotherhood_L_icon] [?THIS.MEP_party_12]\n[THIS.Neutral_Autocracy_L_icon] [?THIS.MEP_party_13]\n[THIS.Neutral_conservatism_L_icon] [?THIS.MEP_party_14]\n[THIS.oligarchism_L_icon] [?THIS.MEP_party_15]\n[THIS.Neutral_Libertarian_L_icon] [?THIS.MEP_party_16]\n[THIS.Neutral_green_L_icon] [?THIS.MEP_party_17]\n[THIS.neutral_Social_L_icon] [?THIS.MEP_party_18]\n[THIS.Neutral_Communism_L_icon] [?THIS.MEP_party_19]\n[THIS.Nat_Populism_L_icon] [?THIS.MEP_party_20]\n[THIS.Nat_Fascism_L_icon] [?THIS.MEP_party_21]\n[THIS.Nat_Autocracy_L_icon] [?THIS.MEP_party_22]\n[THIS.Monarchist_L_icon] [?THIS.MEP_party_23]" # todo: NEW TRANSLATION
   EU_parliament_focus_EUXXX_approve: "Schválit [EUXXX_EP_agenda_name]" # todo: NEW TRANSLATION
   EU_parliament_focus_EUXXX_approve_desc: "Udělit parlamentní schválení [EUXXX_EP_agenda_name]" # todo: NEW TRANSLATION
+  EU_parliament_focus_EUXXX_approve_timer: "Čas do schválení [EUXXX_EP_agenda_name]" # todo: NEW TRANSLATION
+  EU_parliament_focus_EUXXX_approve_timer_desc: "Čas do dalšího [EUXXX_EP_agenda_name] ke schválení." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU101_voting_result: "Výsledek hlasování parlamentu o Chartě základních práv Evropské unie" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU101_voting_result_desc: "Členské státy hlasovaly o Chartě základních práv Evropské unie. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU102_voting_result: "Výsledek hlasování parlamentu o Evropské ústavě" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU102_voting_result_desc: "Členské státy hlasovaly o Evropské úmluvě. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU103_voting_result: "Výsledek hlasování parlamentu o Evropské ústavě" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU103_voting_result_desc: "Členské státy hlasovaly o Evropské ústavě. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU104_voting_result: "Výsledek hlasování parlamentu o Lisabonské smlouvě" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU104_voting_result_desc: "Členské státy hlasovaly o Lisabonské smlouvě. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU105_voting_result: "Výsledek hlasování parlamentu o Službě pro vnější činnost EU" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU105_voting_result_desc: "Členské státy hlasovaly o Službě pro vnější činnost EU. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU201_voting_result: "Výsledek hlasování parlamentu o zásahu ECB" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU201_voting_result_desc: "Členské státy hlasovaly o zásahu ECB. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU202_voting_result: "Výsledek hlasování parlamentu o Evropské bankovní unii" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU202_voting_result_desc: "Členské státy hlasovaly o Evropské bankovní unii. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU203_voting_result: "Výsledek hlasování parlamentu o eurobondech" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU203_voting_result_desc: "Členské státy hlasovaly o eurobondech. Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU204_voting_result: "Výsledek hlasování parlamentu o Evropském mechanismu finanční stability (EFSF)" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU204_voting_result_desc: "Členské státy hlasovaly o Evropském mechanismu finanční stability (EFSF). Čas zobrazit výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU205_voting_result: "Výsledek hlasování Evropského stabilizačního mechanismu (ESM) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU205_voting_result_desc: "Členské státy hlasovaly o Evropském stabilizačním mechanismu (ESM). Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU206_voting_result: "Výsledek hlasování o Fiskální unii v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU206_voting_result_desc: "Členské státy hlasovaly o Fiskální unii. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU207_voting_result: "Výsledek hlasování o Evropské hospodářské vládě v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU207_voting_result_desc: "Členské státy hlasovaly o Evropské hospodářské vládě. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU208_voting_result: "Výsledek hlasování o Evropském ministru hospodářství a financí v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU208_voting_result_desc: "Členské státy hlasovaly o Evropském ministrovi hospodářství a financí. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU301_voting_result: "Výsledek hlasování o Evropské obranné agentuře (EDA) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU301_voting_result_desc: "Členské státy hlasovaly o Evropské obranné agentuře (EDA). Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU302_voting_result: "Výsledek hlasování o Trvalé strukturální spolupráci (PESCO) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU302_voting_result_desc: "Členské státy hlasovaly o Trvalé strukturální spolupráci (PESCO). Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU303_voting_result: "Výsledek hlasování o Evropském obranném fondu v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU303_voting_result_desc: "Členské státy hlasovaly o Evropském obranném fondu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU304_voting_result: "Výsledek hlasování o Evropské bezpečnostní radě v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU304_voting_result_desc: "Členské státy hlasovaly o Evropské bezpečnostní radě. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU305_voting_result: "Výsledek hlasování o Euroarmádě v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU305_voting_result_desc: "Členské státy hlasovaly o Euroarmádě. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU306_voting_result: "Výsledek hlasování o Euronámořnictvu v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU306_voting_result_desc: "Členské státy hlasovaly o Euronámořnictvu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU307_voting_result: "Výsledek hlasování o trvalém členství EU v RB OSN v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU307_voting_result_desc: "Členské státy hlasovaly o trvalém členství EU v Radě bezpečnosti OSN. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU308_voting_result: "Výsledek hlasování o jaderné mocnosti EU v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU308_voting_result_desc: "Členské státy hlasovaly o jaderné mocnosti EU. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU401_voting_result: "Výsledek hlasování o Obecném nařízení o ochraně osobních údajů (GDPR) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU401_voting_result_desc: "Členské státy hlasovaly o Obecném nařízení o ochraně osobních údajů. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU402_voting_result: "Výsledek hlasování o směrnici o autorském právu v digitálním jednotném trhu v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU402_voting_result_desc: "Členské státy hlasovaly o směrnici o autorském právu na digitálním jednotném trhu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU403_voting_result: "Výsledek hlasování o Nařízení Dublin II v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU403_voting_result_desc: "Členské státy hlasovaly o nařízení Dublin II. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU404_voting_result: "Výsledek hlasování o přemisťování a přesídlování žadatelů o azyl v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU404_voting_result_desc: "Členské státy hlasovaly o přemisťování a přesídlování žadatelů o azyl. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU405_voting_result: "Výsledek hlasování o dohodě EU–Turecko v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU405_voting_result_desc: "Členské státy hlasovaly o dohodě EU–Turecko. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU406_voting_result: "Výsledek hlasování o Evropské azylové agentuře v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU406_voting_result_desc: "Členské státy hlasovaly o Evropské azylové agentuře. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU407_voting_result: "Výsledek hlasování o Frontexu v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU407_voting_result_desc: "Členské státy hlasovaly o Frontexu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU408_voting_result: "Výsledek hlasování o Evropské pohraniční a pobřežní stráži v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU408_voting_result_desc: "Členské státy hlasovaly o Evropské pohraniční a pobřežní stráži. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU601_voting_result: "Výsledek hlasování o rozšíření Evropské unie v roce 2004 v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU601_voting_result_desc: "Členské státy hlasovaly o rozšíření Evropské unie z roku 2004. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU602_voting_result: "Výsledek hlasování o rozšíření Evropské unie v roce 2007 v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU602_voting_result_desc: "Členské státy hlasovaly o rozšíření Evropské unie z roku 2007. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU603_voting_result: "Výsledek hlasování o rozšíření Evropské unie v roce 2013 v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU603_voting_result_desc: "Členské státy hlasovaly o rozšíření Evropské unie z roku 2013. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU703_voting_result: "Výsledek hlasování o odchodu bez dohody v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU703_voting_result_desc: "Členské státy hlasovaly o odchodu bez dohody. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU110_voting_result: "Výsledek hlasování o federalizaci Evropské unie v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU110_voting_result_desc: "Členské státy hlasovaly o federalizaci Evropské unie. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU111_voting_result: "Výsledek hlasování o Spojených státech Evropy v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU111_voting_result_desc: "Členské státy hlasovaly o Spojených státech Evropy. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU112_voting_result: "Výsledek hlasování o Evropské federaci v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU112_voting_result_desc: "Členské státy hlasovaly o Evropské federaci. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU605_voting_result: "Výsledek hlasování o rozšíření o Západní Balkán v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU605_voting_result_desc: "Členské státy hlasovaly o rozšíření o Západní Balkán. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU606_voting_result: "Výsledek hlasování o Turecku v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU606_voting_result_desc: "Členské státy hlasovaly o Turecku. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU607_voting_result: "Výsledek hlasování o rozšíření u Černého moře v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU607_voting_result_desc: "Členské státy hlasovaly o rozšíření u Černého moře. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU608_voting_result: "Výsledek hlasování o rozšíření o Kavkaz v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU608_voting_result_desc: "Členské státy hlasovaly o rozšíření o Kavkaz. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU609_voting_result: "Výsledek hlasování o Evropském hospodářském prostoru (EHP) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU609_voting_result_desc: "Členské státy hlasovaly o Evropském hospodářském prostoru. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU610_voting_result: "Výsledek hlasování o Bělorusku v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU610_voting_result_desc: "Členské státy hlasovaly o Bělorusku. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU611_voting_result: "Výsledek hlasování o vnitřním rozšíření v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU611_voting_result_desc: "Členské státy hlasovaly o vnitřním rozšíření. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU650_voting_result: "Výsledek hlasování o rozšířeném rámci rozšíření v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU650_voting_result_desc: "Členské státy hlasovaly o rozšířeném rámci rozšíření. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU651_voting_result: "Výsledek hlasování o dodatku k Lisabonské smlouvě v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU651_voting_result_desc: "Členské státy hlasovaly o dodatku k Lisabonské smlouvě. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU652_voting_result: "Výsledek hlasování o partnerství EU–Rusko v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU652_voting_result_desc: "Členské státy hlasovaly o partnerství EU–Rusko. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU653_voting_result: "Výsledek hlasování o Rusku v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU653_voting_result_desc: "Členské státy hlasovaly o Rusku. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU998_voting_result: "Výsledek hlasování o návrhu rámcového víceletého finančního rámce (MFF) v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU998_voting_result_desc: "Členské státy hlasovaly o návrhu MFF. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_parliament_focus_EU999_voting_result: "Výsledek hlasování o návrhu rozpočtu v Parlamentu" # todo: NEW TRANSLATION
+  EU_parliament_focus_EU999_voting_result_desc: "Členské státy hlasovaly o návrhu rozpočtu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EUXXX_QMV_result: "[EU_voting_EUXXX_QMV_loc]" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EUXXX_QMV_result_timer: "[EU_voting_EUXXX_QMV_loc]" # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU101_QMV_result: "Hlasovací výsledek Charty základních práv Evropské unie" # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU101_QMV_result_desc: "Členské státy hlasovaly o Chartě základních práv Evropské unie. Nyní ukažme výsledek." # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU102_QMV_result: "Hlasovací výsledek Evropské konvence" # todo: NEW TRANSLATION
@@ -638,6 +920,18 @@
   EU_voting_mission_focus_EU610_QMV_result_desc: "Členské státy hlasovaly o Bělorusku. Je čas ukázat výsledek." # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU611_QMV_result: "Výsledek hlasování o vnitřním rozšíření" # todo: NEW TRANSLATION
   EU_voting_mission_focus_EU611_QMV_result_desc: "Členské státy hlasovaly o vnitřním rozšíření. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU650_QMV_result: "Výsledek hlasování Rady o rozšířeném rámci rozšíření" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU650_QMV_result_desc: "Členské státy hlasovaly o rozšířeném rámci rozšíření. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU651_QMV_result: "Výsledek hlasování Rady o dodatku k Lisabonské smlouvě" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU651_QMV_result_desc: "Členské státy hlasovaly o dodatku k Lisabonské smlouvě. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU652_QMV_result: "Výsledek hlasování Rady o partnerství EU–Rusko" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU652_QMV_result_desc: "Členské státy hlasovaly o partnerství EU–Rusko. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU653_QMV_result: "Výsledek hlasování Rady o Rusku" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU653_QMV_result_desc: "Členské státy hlasovaly o Rusku. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU998_QMV_result: "Výsledek hlasování o návrhu MFF" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU998_QMV_result_desc: "Členské státy hlasovaly o návrhu MFF. Je čas ukázat výsledek." # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU999_QMV_result: "Výsledek hlasování o návrhu rozpočtu" # todo: NEW TRANSLATION
+  EU_voting_mission_focus_EU999_QMV_result_desc: "Členské státy hlasovaly o návrhu rozpočtu. Je čas ukázat výsledek." # todo: NEW TRANSLATION
   eu_voting_minor_popup_tt: "Pokud si nepřejete nadále dostávat tyto notifikace, můžete v rozhodovacím menu vypnout drobná pop-up okna. POZNÁMKA: To také skryje jiné události. Nejedná se o pop-upy Evropské unie týkající se hlasování nebo kdy je rada či parlament připraven na zasedání." # todo: NEW TRANSLATION
   EUvote.1.t: "Hlasování Evropského parlamentu zahájeno" # todo: NEW TRANSLATION
   EUvote.1.d: "Evropský parlament předložil návrh k hlasování! Zkontrolujte sekci Parlament v EU a pomozte ho posoudit či schválit." # todo: NEW TRANSLATION
@@ -651,6 +945,18 @@
   EUvote.4.t: "Hlasování Evropské rady je připraveno ke zasedání" # todo: NEW TRANSLATION
   EUvote.4.d: "Evropská rada je připravena na zasedání. Můžete navrhnout něco Evropské radě nebo AI navrhne návrh zákona k projednání za dva týdny." # todo: NEW TRANSLATION
   EUvote.4.a: "Na volby!" # todo: NEW TRANSLATION
+  EUbudget.10.t: "Blížící se jednání o návrhu rozpočtu EU" # todo: NEW TRANSLATION
+  EUbudget.10.d: "Jednání o návrhu rozpočtu EU začnou za 7 dní" # todo: NEW TRANSLATION
+  EUbudget.10.a: "Ke stolu jednání!" # todo: NEW TRANSLATION
+  EUbudget.11.t: "Probíhající jednání o návrhu rozpočtu EU" # todo: NEW TRANSLATION
+  EUbudget.11.d: "Jednání o návrhu rozpočtu EU potrvají 14 dní" # todo: NEW TRANSLATION
+  EUbudget.11.a: "Ke stolu jednání!" # todo: NEW TRANSLATION
+  EUbudget.20.t: "Blížící se jednání o návrhu MFF EU" # todo: NEW TRANSLATION
+  EUbudget.20.d: "Jednání o návrhu MFF EU začnou za 14 dní" # todo: NEW TRANSLATION
+  EUbudget.20.a: "Ke stolu jednání!" # todo: NEW TRANSLATION
+  EUbudget.21.t: "Probíhající jednání o návrhu MFF EU" # todo: NEW TRANSLATION
+  EUbudget.21.d: "Jednání o návrhu MFF EU potrvají 28 dní" # todo: NEW TRANSLATION
+  EUbudget.21.a: "Ke stolu jednání!" # todo: NEW TRANSLATION
   EUevent.2.t: "Dohoda EU-Turecko" # todo: NEW TRANSLATION
   EUevent.2.d: "§C[EUU.GetFlag] Evropská unie§! a [TUR.GetNameWithFlag] dosáhly dohody, jejímž cílem je zastavit tok nelegální migrace z Turecka do Evropy. Podle Prohlášení EU-Turecko budou vráceni všichni noví nelegální migranti a žadatelé o azyl, jejichž žádosti o azyl byly prohlášeny za nepřípustné, zpět do Turecka. §C[EUU.GetFlag] Evropská unie§! zaplatí 3 miliardy EUR za Zařízení pro uprchlíky v Turecku." # todo: NEW TRANSLATION
   EUevent.2.a: "Dobře" # todo: NEW TRANSLATION
@@ -925,6 +1231,21 @@
   EU_news.12.t: "Prezident Evropské federace" # todo: NEW TRANSLATION
   EU_news.12.d: "[FROM.GetNameWithFlag] bude nyní zastávat úřad Prezidenta Evropské federace na dalších 5 let." # todo: NEW TRANSLATION
   EU_news.12.a: "Těšíme se na dobrou spolupráci!" # todo: NEW TRANSLATION
+  EU_party_news.1.t: "Restrukturalizace skupiny EPP" # todo: NEW TRANSLATION
+  EU_party_news.1.d: "" # todo: NEW TRANSLATION
+  EU_party_news.1.a: "Dobře" # todo: NEW TRANSLATION
+  EU_party_news.2.t: "Restrukturalizace ELDR" # todo: NEW TRANSLATION
+  EU_party_news.2.d: "" # todo: NEW TRANSLATION
+  EU_party_news.2.a: "Dobře" # todo: NEW TRANSLATION
+  EU_party_news.6.t: "Vzniká AEMN" # todo: NEW TRANSLATION
+  EU_party_news.6.d: "" # todo: NEW TRANSLATION
+  EU_party_news.6.a: "Dobře" # todo: NEW TRANSLATION
+  EU_party_news.14.t: "Vzniká ECR" # todo: NEW TRANSLATION
+  EU_party_news.14.d: "" # todo: NEW TRANSLATION
+  EU_party_news.14.a: "Dobře" # todo: NEW TRANSLATION
+  EU_party_news.20.t: "Vzniká EFD" # todo: NEW TRANSLATION
+  EU_party_news.20.d: "" # todo: NEW TRANSLATION
+  EU_party_news.20.a: "Dobře" # todo: NEW TRANSLATION
   EU_Tech_Share_name: "Evropská obranná agentura (EDA)" # todo: NEW TRANSLATION
   EU_Tech_Share_desc: "Členské státy spojují své výzkumné snahy. Evropská obranná agentura (EDA) koordinuje snahy mezi členskými státy Evropské unie." # todo: NEW TRANSLATION
   tooltip_ECB_Start_OMT_effect: "§GPo levém kliknutí§! §YOMT Program§! bude k dispozici.\n\n§GPo pravém kliknutí§! §YOMT Size Limit§! > $0." # todo: NEW TRANSLATION
@@ -997,6 +1318,8 @@
   NAV_Article_50_YES: "§Y[NAV.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   BAY_Article_50_YES: "§Y[BAY.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   GRL_Article_50_YES: "§Y[GRL.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  RUS_Article_50_YES: "§Y[RUS.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+  SOV_Article_50_YES: "§Y[SOV.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
   Article_50: "[THIS.GetName] aktivoval Článek 50" # todo: NEW TRANSLATION
   EU_Article_50: "Opustit Evropskou unii! (Článek 50)" # todo: NEW TRANSLATION
   EU_Article_50_desc: "\"Každý členský stát se může rozhodnout odstoupit od Unie v souladu se svými vlastními ústavními požadavky.\"\\n- Článek 50(1), Smlouva o Evropské unii.\\n\\n První ustanovení článku 50 bylo vypracováno pro Ústavní smlouvu pro Evropskou unii. Po neúspěšném ratifikačním procesu Evropské ústavy byl tento článek začleněn do Lisabonské smlouvy." # todo: NEW TRANSLATION
@@ -1041,6 +1364,8 @@
   counter_military_exercise_mission_desc: "Proti vojenskému cvičení" # todo: NEW TRANSLATION
   EU_military_exercise_threat: "Vojenské cvičení" # todo: NEW TRANSLATION
   no_active_agenda: "§YEvropský parlament§! momentálně neuvažuje o žádné agendě." # todo: NEW TRANSLATION
+  no_active_budget_mff_draft: "Neexistuje žádný blížící se nebo probíhající návrh rozpočtu EU nebo MFF." # todo: NEW TRANSLATION
+  no_ongoing_vote: "§YEvropská rada§! právě projednává opatření" # todo: NEW TRANSLATION
   cur_inf_nat: "§Y[THIS.GetNameWithFlag]§! dosud nebyl jejich hlas ovlivněn během této relace" # todo: NEW TRANSLATION
   EU_all_big_players_have_office: "Všechny státy ovládané hráčem, nebo hlavní státy EU, mají v současnosti funkci." # todo: NEW TRANSLATION
   EU_budget_mff: "Žádný probíhající finanční rámec" # todo: NEW TRANSLATION
@@ -1150,6 +1475,14 @@
   tooltip_EU_parliament_focus_EU610_EP_agenda_additional: "Udělí [BLR.GetNameWithFlag] §YEvropská kandidatura§!" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU611_EP_agenda: "Umístí na agendu EP §YVnitřní rozšíření§!.\n\n" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU611_EP_agenda_additional: "Udělí [CRE.GetNameWithFlag], [SCL.GetNameWithFlag], [SCO.GetNameWithFlag], [WAS.GetNameWithFlag], [VOJ.GetNameWithFlag], [GAL.GetNameWithFlag], [SIL.GetNameWithFlag], [CAT.GetNameWithFlag], [SPA.GetNameWithFlag], [CNR.GetNameWithFlag], [NAV.GetNameWithFlag], [BAY.GetNameWithFlag] a [GRL.GetNameWithFlag], §YEvropská kandidatura§!" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU650_EP_agenda: "Zařadí §YRozšířený rámec rozšíření§! na pořad jednání EP.\n\n" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU650_EP_agenda_additional: "" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU651_EP_agenda: "Zařadí §YDodatek k Lisabonské smlouvě§! na pořad jednání EP.\n\n" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU651_EP_agenda_additional: "" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU652_EP_agenda: "Zařadí §YSmlouvu o partnerství EU–Rusko§! na pořad jednání EP.\n\n" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU652_EP_agenda_additional: "" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU653_EP_agenda: "Zařadí §YRusko§! na pořad jednání EP.\n\n" # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU653_EP_agenda_additional: "Udělí [SOV.GetNameWithFlag] §Yevropské kandidátsví§!" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU703_EP_agenda: "Umístí na agendu EP §YŽádný obchod bez dohody§!.\n\n" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU110_EP_agenda: "Umístí na agendu EP §YFederalizace Evropské unie§!.\n\nVede k následujícím §C[EUU.GetFlag][EUU.GetName]§! zákonům:\n- §YSpojené státy Evropy§!\n- §YEvropská federace§!" # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU111_EP_agenda: "Umístí na agendu EP §YSpojené státy Evropy§!.\n\n" # todo: NEW TRANSLATION
@@ -1199,6 +1532,12 @@
   tooltip_EU_parliament_focus_EU609_approve: "§YEvropský hospodářský prostor (EEA)§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU610_approve: "§YBělorusko§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU611_approve: "§YVnitřní rozšíření§! obdrží §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU650_approve: "§YRozšířený rámec rozšíření§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU651_approve: "§YDodatek k Lisabonské smlouvě§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU652_approve: "§YSmlouva o partnerství EU–Rusko§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU653_approve: "§YRusko§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU998_approve: "§YNávrh MFF§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU999_approve: "§YNávrh rozpočtu§! získává §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU100_approve_NOT: "§YEU reformy§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU101_approve_NOT: "§YCharta základních práv Evropské unie§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU102_approve_NOT: "§YEvropská úmluva§! nedostala §Gschválení EP§!." # todo: NEW TRANSLATION
@@ -1243,6 +1582,12 @@
   tooltip_EU_parliament_focus_EU609_approve_NOT: "§YEvropský hospodářský prostor (EEA)§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU610_approve_NOT: "§YBělorusko§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU611_approve_NOT: "§YVnitřní rozšíření§! nedostalo §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU650_approve_NOT: "§YRozšířený rámec rozšíření§! nezískal §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU651_approve_NOT: "§YDodatek k Lisabonské smlouvě§! nezískal §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU652_approve_NOT: "§YSmlouva o partnerství EU–Rusko§! nezískala §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU653_approve_NOT: "§YRusko§! nezískalo §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU998_approve_NOT: "§YNávrh MFF§! nezískal §Gschválení EP§!." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU999_approve_NOT: "§YNávrh rozpočtu§! nezískal §Gschválení EP§!." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus__remove: "Momentálně nemáme žádný aktivní bod na programu. Prosím, zařaďte bod na program, pokud bude Evropský parlament k dispozici pro zasedání." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU101_remove: "Odstraňte §YCharta základních práv Evropské unie§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU102_remove: "Odstraňte §YEvropskou úmluvu§! z agendy EP." # todo: NEW TRANSLATION
@@ -1287,6 +1632,36 @@
   tooltip_EU_parliament_focus_EU609_remove: "Odebrat §YEvropský hospodářský prostor§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU610_remove: "Odebrat §YBělorusko§! z agendy EP." # todo: NEW TRANSLATION
   tooltip_EU_parliament_focus_EU611_remove: "Odebrat §YVnitřní rozšíření§! z agendy EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU650_remove: "Odstranit §YRozšířený rámec rozšíření§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU651_remove: "Odstranit §YDodatek k Lisabonské smlouvě§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU652_remove: "Odstranit §YSmlouvu o partnerství EU–Rusko§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU653_remove: "Odstranit §YRusko§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU998_remove: "Odstranit §YNávrh MFF§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parliament_focus_EU999_remove: "Odstranit §YNávrh rozpočtu§! z programu EP." # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_0_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_1_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_2_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_3_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_4_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_5_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_6_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_7_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_8_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_9_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_10_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_11_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_12_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_13_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_14_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_15_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_16_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_17_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_18_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_19_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_20_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_21_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_22_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
+  tooltip_EU_parl_PG_party_23_influence: "Rozhodnutí ovlivnit [EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_name] v otázce na aktuálním programu je k dispozici" # todo: NEW TRANSLATION
   EDU: "Evropská obranná unie" # todo: NEW TRANSLATION
   EDU_desc: "Evropská obranná unie (EDU) je vojenské rameno Politiky společné bezpečnosti a obrany Evropské unie (PSBO)." # todo: NEW TRANSLATION
   EU_council_category: "Evropská rada / Rada Evropské unie" # todo: NEW TRANSLATION
@@ -1360,6 +1735,8 @@
   EU_council_NAV_loc_key: "[NAV.GetNameWithFlag] " # todo: NEW TRANSLATION
   EU_council_BAY_loc_key: "[BAY.GetNameWithFlag] " # todo: NEW TRANSLATION
   EU_council_GRL_loc_key: "[GRL.GetNameWithFlag] " # todo: NEW TRANSLATION
+  EU_council_RUS_loc_key: "[RUS.GetNameWithFlag] " # todo: NEW TRANSLATION
+  EU_council_SOV_loc_key: "[SOV.GetNameWithFlag] " # todo: NEW TRANSLATION
   EU_council_determine_serious_breach_of_EU_values: "Určete vážné porušení hodnot EU" # todo: NEW TRANSLATION
   EU_council_determine_serious_breach_of_EU_values_desc: "Podle článku 7 odstavce 2 TEU může Rada určit existenci vážného a přetrvávajícího porušení hodnot Evropské unie. Toto je předpoklad pro pozastavení hlasovacích práv EU." # todo: NEW TRANSLATION
   number_of_eu_breaches_greater_than_three: "[THIS.GetAdjective] §YÚroveň porušení hodnot EU§! je  §RVětší než§! 3 (Aktuálně: [?THIS.breach_of_EU_value|0])" # todo: NEW TRANSLATION
@@ -1375,6 +1752,30 @@
   EU_council_suspend_subsidies_desc: "Podle článku 7 odst. 3 TEU může Rada rozhodnout o pozastavení některých práv vyplývajících z uplatňování Smluv u dotyčného členského státu." # todo: NEW TRANSLATION
   EU_council_revoke_subsidies_suspension: "Zrušit pozastavení EU dotací" # todo: NEW TRANSLATION
   EU_council_revoke_subsidies_suspension_desc: "Podle článku 7 odst. 4 TEU může Rada rozhodnout následně o zrušení opatření přijatých podle odstavce 3 v reakci na změny situace, které vedly k jejich uložení." # todo: NEW TRANSLATION
+  EU_parl_PG_party_0_loc_key: "[EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_name]: [?global.MEP_PG_party_0|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_0|§%0] - [?global.PI_PG_party_0|§+] PI [EU_parl_PG_party_0_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_1_loc_key: "[EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_name]: [?global.MEP_PG_party_1|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_1|§%0] - [?global.PI_PG_party_1|§+] PI [EU_parl_PG_party_1_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_2_loc_key: "[EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_name]: [?global.MEP_PG_party_2|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_2|§%0] - [?global.PI_PG_party_2|§+] PI [EU_parl_PG_party_2_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_3_loc_key: "[EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_name]: [?global.MEP_PG_party_3|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_3|§%0] - [?global.PI_PG_party_3|§+] PI [EU_parl_PG_party_3_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_4_loc_key: "[EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_name]: [?global.MEP_PG_party_4|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_4|§%0] - [?global.PI_PG_party_4|§+] PI [EU_parl_PG_party_4_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_5_loc_key: "[EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_name]: [?global.MEP_PG_party_5|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_5|§%0] - [?global.PI_PG_party_5|§+] PI [EU_parl_PG_party_5_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_6_loc_key: "[EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_name]: [?global.MEP_PG_party_6|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_6|§%0] - [?global.PI_PG_party_6|§+] PI [EU_parl_PG_party_6_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_7_loc_key: "[EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_name]: [?global.MEP_PG_party_7|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_7|§%0] - [?global.PI_PG_party_7|§+] PI [EU_parl_PG_party_7_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_8_loc_key: "[EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_name]: [?global.MEP_PG_party_8|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_8|§%0] - [?global.PI_PG_party_8|§+] PI [EU_parl_PG_party_8_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_9_loc_key: "[EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_name]: [?global.MEP_PG_party_9|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_9|§%0] - [?global.PI_PG_party_9|§+] PI [EU_parl_PG_party_9_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_10_loc_key: "[EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_name]: [?global.MEP_PG_party_10|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_10|§%0] - [?global.PI_PG_party_10|§+] PI [EU_parl_PG_party_10_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_11_loc_key: "[EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_name]: [?global.MEP_PG_party_11|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_11|§%0] - [?global.PI_PG_party_11|§+] PI [EU_parl_PG_party_11_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_12_loc_key: "[EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_name]: [?global.MEP_PG_party_12|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_12|§%0] - [?global.PI_PG_party_12|§+] PI [EU_parl_PG_party_12_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_13_loc_key: "[EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_name]: [?global.MEP_PG_party_13|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_13|§%0] - [?global.PI_PG_party_13|§+] PI [EU_parl_PG_party_13_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_14_loc_key: "[EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_name]: [?global.MEP_PG_party_14|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_14|§%0] - [?global.PI_PG_party_14|§+] PI [EU_parl_PG_party_14_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_15_loc_key: "[EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_name]: [?global.MEP_PG_party_15|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_15|§%0] - [?global.PI_PG_party_15|§+] PI [EU_parl_PG_party_15_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_16_loc_key: "[EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_name]: [?global.MEP_PG_party_16|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_16|§%0] - [?global.PI_PG_party_16|§+] PI [EU_parl_PG_party_16_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_17_loc_key: "[EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_name]: [?global.MEP_PG_party_17|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_17|§%0] - [?global.PI_PG_party_17|§+] PI [EU_parl_PG_party_17_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_18_loc_key: "[EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_name]: [?global.MEP_PG_party_18|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_18|§%0] - [?global.PI_PG_party_18|§+] PI [EU_parl_PG_party_18_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_19_loc_key: "[EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_name]: [?global.MEP_PG_party_19|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_19|§%0] - [?global.PI_PG_party_19|§+] PI [EU_parl_PG_party_19_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_20_loc_key: "[EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_name]: [?global.MEP_PG_party_20|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_20|§%0] - [?global.PI_PG_party_20|§+] PI [EU_parl_PG_party_20_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_21_loc_key: "[EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_name]: [?global.MEP_PG_party_21|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_21|§%0] - [?global.PI_PG_party_21|§+] PI [EU_parl_PG_party_21_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_22_loc_key: "[EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_name]: [?global.MEP_PG_party_22|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_22|§%0] - [?global.PI_PG_party_22|§+] PI [EU_parl_PG_party_22_members]\n" # todo: NEW TRANSLATION
+  EU_parl_PG_party_23_loc_key: "[EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_name]: [?global.MEP_PG_party_23|C0] §CMEP§! - [?global.MEP_Ratio_PG_party_23|§%0] - [?global.PI_PG_party_23|§+] PI [EU_parl_PG_party_23_members]\n" # todo: NEW TRANSLATION
   EU_parliament_focus_EUXXX_remove: "Odebrat [EUXXX_EP_agenda_name] z agendy" # todo: NEW TRANSLATION
   EU_parliament_focus_EUXXX_remove_desc: "Odebrat [EUXXX_EP_agenda_name] z agendy Evropského parlamentu" # todo: NEW TRANSLATION
   tooltip_focus_EU101_accepted: "§YCharta základních práv Evropské unie§! je §Cpřijata§! Radou.\n" # todo: NEW TRANSLATION

@@ -2378,6 +2378,118 @@
   CZE_koruna_ceska_program_desc: "Program Koruna Česká si klade za cíl obnovit suverenitu a nezávislost České republiky podporou používání české koruny jako národní měny. Program usiluje o obnovení české monarchie s rodem Habsburg-Lotrinských. Strana byla založena v roce 1990." # todo: NEW TRANSLATION
   CZE_democratic_feudalism: "Demokratický feudalismus" # todo: NEW TRANSLATION
   CZE_democratic_feudalism_desc: "Lidé nebudou následovat krále jen proto, že je král. Musíme vytvořit systém, kde bude král volen lidem, ale stále bude mít moc vládnout. To zajistí, že naše monarchie bude odlišná od té staré a bude více přijata v moderním světě." # todo: NEW TRANSLATION
+  CZE_strive_from_the_democratic_system: "Usilovat o odklon od demokratického systému" # todo: NEW TRANSLATION
+  CZE_strive_from_the_democratic_system_desc: "Staré monarchické uspořádání bylo systémem, kde měl král absolutní moc. Tento způsob vlády přetrval po staletí. Proč to tedy zkusit znovu? S dostatečnou podporou Habsburků v Maďarsku a Rakousku můžeme získat velkou podporu pro naši věc. Lidé opět půjdou za králem a král povede zemi k prosperitě." # todo: NEW TRANSLATION
+  CZE_promote_presidential_elections: "Prosazovat prezidentské volby" # todo: NEW TRANSLATION
+  CZE_promote_presidential_elections_desc: "Ostatní Habsburkové nebudou spokojeni s naším rozhodnutím podporovat prezidentské volby, ale musíme to udělat. Lidé potřebují zvolit svého vůdce. Nedovolíme návrat starého monarchického systému, ale vytvoříme nový, kde bude krále volit lid." # todo: NEW TRANSLATION
+  CZE_limited_eu_trust_koruna_ceska: "Omezená důvěra v EU" # todo: NEW TRANSLATION
+  CZE_limited_eu_trust_koruna_ceska_desc: "Evropská unie je skvělý nápad, ale není dokonalá. Musíme být opatrní v naší důvěře v EU a zajistit, aby byly chráněny naše zájmy. V naší zemi jsou i jiné strany, které tento názor sdílejí, takže pojďme spolupracovat." # todo: NEW TRANSLATION
+  CZE_cooperation_with_ods: "Spolupráce s ODS" # todo: NEW TRANSLATION
+  CZE_cooperation_with_ods_desc: "ODS sdílí naši vizi omezené důvěry v EU a demokratických aspirací. Můžeme spolupracovat, abychom dosáhli našich společných cílů." # todo: NEW TRANSLATION
+  CZE_cooperation_with_kdu_csl: "Spolupráce s KDU-ČSL" # todo: NEW TRANSLATION
+  CZE_cooperation_with_kdu_csl_desc: "KDU-ČSL je v současnosti nejstarší stranou v České republice. Sdílejí naše křesťanské hodnoty a tradiční rodinný systém. S těmito společenskými hodnotami můžeme spolupracovat pro vyšší dobro." # todo: NEW TRANSLATION
+  CZE_parliamentary_cooperation: "Parlamentní spolupráce" # todo: NEW TRANSLATION
+  CZE_parliamentary_cooperation_desc: "Úspěšné setkání s jinými stranami otevírá cestu k další spolupráci v parlamentu. S podporou ODS a KDU-ČSL můžeme předběhnout komunisty a sociální demokraty a prosadit svůj hlas." # todo: NEW TRANSLATION
+  CZE_integrate_with_democratic_countries: "Integrace s demokratickými zeměmi" # todo: NEW TRANSLATION
+  CZE_integrate_with_democratic_countries_desc: "Demokratické země jsou vedeny prezidentem, takže náš „král“ se bude muset tomuto systému přizpůsobit. Pokud ostatní země přijmou tyto podmínky, můžeme s nimi začít integraci." # todo: NEW TRANSLATION
+  CZE_trust_in_the_old_system: "Důvěra ve starý systém" # todo: NEW TRANSLATION
+  CZE_trust_in_the_old_system_desc: "Lidé musí vědět, že náš monarchistický pohled není horší než ten současný a že dokážeme dovést zemi k prosperitě. Nedovolíme návrat starého monarchického systému, ale vytvoříme nový s králi, které vybírají lidé." # todo: NEW TRANSLATION
+  CZE_prepare_a_new_president: "Připravit nového prezidenta" # todo: NEW TRANSLATION
+  CZE_prepare_a_new_president_desc: "Dnes slovo prezident zní lépe než král, takže aby nedocházelo k nedorozuměním, připravíme nového prezidenta. Pro nás bude on králem naší země, ale pro lidi bude vystupovat jako prezident." # todo: NEW TRANSLATION
+  CZE_seek_support_from_hungary: "Hledat podporu v Maďarsku" # todo: NEW TRANSLATION
+  CZE_seek_support_from_hungary_desc: "Maďarsko má dlouhou historii monarchie a Habsburkové mají silné vazby na maďarskou královskou rodinu. Můžeme usilovat o jejich podporu v našich snahách o obnovení monarchie v České republice." # todo: NEW TRANSLATION
+  CZE_seek_support_from_austria: "Hledat podporu v Rakousku" # todo: NEW TRANSLATION
+  CZE_seek_support_from_austria_desc: "Podpora rakouských Habsburků výrazně ovlivní naše snahy o obnovu monarchie v naší zemi. Pokud sjednotíme rodiny Habsburků, můžeme vytvořit silné spojenectví, které nám pomůže dosáhnout našich cílů." # todo: NEW TRANSLATION
+  CZE_promote_the_traditional_family_system: "Prosazovat tradiční rodinný systém" # todo: NEW TRANSLATION
+  CZE_promote_the_traditional_family_system_desc: "Tradiční rodinný systém je základem naší společnosti. Musíme jej prosazovat a zajistit, aby byl respektován a chráněn. Habsburkové mají dlouhou historii podporování tradiční rodiny, viděli ji jako symbol stability a silný nástroj v politických rozhodnutích." # todo: NEW TRANSLATION
+  CZE_old_way_of_country_management: "Starý způsob řízení země" # todo: NEW TRANSLATION
+  CZE_old_way_of_country_management_desc: "Starý způsob řízení země je ten, kterým vládli Habsburkové. Je to systém, kde má král absolutní moc a lidé musí plnit jeho rozkazy. Tento systém se v minulosti osvědčil, takže budeme následovat kroky našich předků." # todo: NEW TRANSLATION
+  CZE_attack_kscm: "Utok na KSČM" # todo: NEW TRANSLATION
+  CZE_attack_kscm_desc: "Ti komunisté již ukázali, jak destruktivní je jejich systém nejen pro naši zemi, ale pro celý svět. Nedovolíme jim znovu vládnout a uděláme vše pro zničení jejich vlivu v naší zemi." # todo: NEW TRANSLATION
+  CZE_attack_cssd: "Utok na ČSSD" # todo: NEW TRANSLATION
+  CZE_attack_cssd_desc: "ČSSD, přítel KSČM, veřejně podporuje jejich kroky. Přátelé našich nepřátel jsou našimi nepřáteli." # todo: NEW TRANSLATION
+  CZE_christian_and_protestant_values: "Křesťanské a protestantské hodnoty" # todo: NEW TRANSLATION
+  CZE_christian_and_protestant_values_desc: "Naopak k Habsburkům můžeme spojit katolické i protestantské hodnoty a vytvořit tak silný multikonfesní stát. To nám pomůže sjednotit lidi a vytvořit pevný základ pro naši novou monarchii, kde budou všichni respektováni a chráněni bez ohledu na jejich náboženství." # todo: NEW TRANSLATION
+  CZE_multi_religious_state: "Multikonfesní stát" # todo: NEW TRANSLATION
+  CZE_multi_religious_state_desc: "Po pravdě, Habsburkové byli čistě katoličtí a opomíjeli ostatní náboženství. Ale to bylo před stovkami let. Dnes, pokud ukážeme lidem, že dokážeme respektovat jiné náboženství, můžeme vytvořit ještě větší zemi než za vlády Habsburků." # todo: NEW TRANSLATION
+  CZE_petr_nohel: "Petr Nohel" # todo: NEW TRANSLATION
+  CZE_petr_nohel_desc: "Petr Nohel je heraldik, genealog a teolog. Věnuje se genealogii a heraldice šlechtických rodů, zejména vládnoucích a bývalých vládnoucích dynastií. Zpracovává také otázky vzdělávání a vysokého školství obecně." # todo: NEW TRANSLATION
+  CZE_vaclav_srb: "Václav Srb" # todo: NEW TRANSLATION
+  CZE_vaclav_srb_desc: "Václav Srb složil státní zkoušku tlumočníka-překladatele z francouzštiny, italštiny a ruštiny, což mu umožnilo působit jako průvodce. V roce 1991 založil vlastní cestovní kancelář Praga Magica. Jeho společenský talent a velké zapojení do naší strany z něj jistě udělají v budoucnu skvělého vůdce naší země." # todo: NEW TRANSLATION
+  CZE_radim_spacek: "Radim Špacek" # todo: NEW TRANSLATION
+  CZE_radim_spacek_desc: "Radim Špacek není jen politik, ale také biolog, který studoval matematické metody zpracování dat v experimentálním výzkumu na Filozofické fakultě Univerzity Karlovy. Jeho bohaté politické zkušenosti a znalost světa nám pomohou vytvořit lepší budoucnost pro naši zemi." # todo: NEW TRANSLATION
+  CZE_the_end_of_czech_communism: "Konec českého komunismu" # todo: NEW TRANSLATION
+  CZE_the_end_of_czech_communism_desc: "Naše země dostatečně trpěla za komunistického režimu. Zastavme komunisty jednou provždy." # todo: NEW TRANSLATION
+  CZE_decentralization_of_the_economy: "Decentralizace ekonomiky" # todo: NEW TRANSLATION
+  CZE_decentralization_of_the_economy_desc: "Příliš centralizovaná ekonomika je zranitelná vůči korupci a neefektivitě. Musíme decentralizovat ekonomiku a dát regionům více moci. To nám pomůže vytvořit efektivnější a účinnější ekonomiku." # todo: NEW TRANSLATION
+  CZE_the_question_of_the_silesia_region: "Otázka slezského regionu" # todo: NEW TRANSLATION
+  CZE_the_question_of_the_silesia_region_desc: "Část slezského regionu byla po první světové válce zabrána Polsku. Tento region je bohatý na přírodní zdroje a má velký rozvojový potenciál. Musíme najít způsob, jak jej přivést zpět do naší země a znovu učinit součástí národa." # todo: NEW TRANSLATION
+  CZE_get_czechs_and_slovaks_closer_to_eachother: "Sbližit Čechy a Slováků" # todo: NEW TRANSLATION
+  CZE_get_czechs_and_slovaks_closer_to_eachother_desc: "Obnovení Československa byl skvělý nápad, ale je tu stále mnoho práce. Musíme konečně znovu sjednotit naše národy, abychom posílili naši pozici ve světě." # todo: NEW TRANSLATION
+  CZE_regional_development: "Regionální rozvoj" # todo: NEW TRANSLATION
+  CZE_regional_development_desc: "Česká republika má velký potenciál pro rozvoj. Musíme investovat do našich regionů a udělat je atraktivnějšími pro investory. To nám pomůže vytvořit nová pracovní místa a zlepšit kvalitu života v zemi." # todo: NEW TRANSLATION
+  CZE_claims_on_silesia: "Nároky na Slezsko" # todo: NEW TRANSLATION
+  CZE_claims_on_silesia_desc: "Polsko se rozhodlo nevrátit nám část slezského regionu. Diplomacie není vždy nejlepší způsob řešení problémů. Vezmeme si, co je naše, silou, pokud to bude nutné." # todo: NEW TRANSLATION
+  CZE_invest_in_new_roads: "Investovat do nových silnic" # todo: NEW TRANSLATION
+  CZE_invest_in_new_roads_desc: "Polsko se rozhodlo podělit se s námi o Slezsko, takže ukažme, že to bylo dobré rozhodnutí. Budeme investovat do nových silnic a infrastruktury, aby byl tento region atraktivnější pro investory a turisty. To zlepší situaci obou zemí." # todo: NEW TRANSLATION
+  CZE_history_is_what_keeps_us_together: "Historie nás drží pohromadě" # todo: NEW TRANSLATION
+  CZE_history_is_what_keeps_us_together_desc: "Češi a Slováci mají dlouhou historii spolupráce a přátelství. Musíme na této historii stavět a vytvořit pevné pouto mezi našimi národy. To nám pomůže vytvořit lepší budoucnost pro obě země." # todo: NEW TRANSLATION
+  CZE_repopulate_silesia_with_czechs_and_slovaks: "Znovuosídlit Slezsko Čechy a Slováky" # todo: NEW TRANSLATION
+  CZE_repopulate_silesia_with_czechs_and_slovaks_desc: "Slezsko je opět součástí naší země, ale populace je stále převážně polská. Musíme tento region znovu osídlit Čechy a Slováky, aby vzniklo pevné a jednotné území." # todo: NEW TRANSLATION
+  CZE_increase_power_of_the_royal_family: "Zvýšit moc královské rodiny" # todo: NEW TRANSLATION
+  CZE_increase_power_of_the_royal_family_desc: "Vyřešili jsme problém se Slezskem a rozdělili společnost. S těmito problémy vyřešenými nová královská rodina ukázala Evropě, že je schopna vládnout. Teď musíme zvýšit jejich moc a učinit je symbolem národa." # todo: NEW TRANSLATION
+  CZE_more_independent_regions: "Více nezávislých regionů" # todo: NEW TRANSLATION
+  CZE_more_independent_regions_desc: "Regiony jsou příliš závislé na centrální vládě. Musíme jim dát více pravomocí a autonomie, aby mohly rozhodovat samy o sobě." # todo: NEW TRANSLATION
+  CZE_expand_local_industry: "Rozšířit místní průmysl" # todo: NEW TRANSLATION
+  CZE_expand_local_industry_desc: "S novými silnicemi ve Slezsku se nyní můžeme soustředit na rozšíření místního průmyslu. Slezsko je bohaté na přírodní zdroje a má velký rozvojový potenciál, proto jej musíme rozvíjet dál." # todo: NEW TRANSLATION
+  CZE_grants_for_farmers: "Dotace pro zemědělce" # todo: NEW TRANSLATION
+  CZE_grants_for_farmers_desc: "Zemědělci jsou páteří naší ekonomiky. Musíme je podpořit a pomoci jim rozvíjet jejich podniky. Dotace pro zemědělce jim pomohou investovat do nového vybavení a technologií, což zlepší jejich produktivitu a konkurenceschopnost." # todo: NEW TRANSLATION
+  CZE_dust_off_the_crown_jewels: "Vyčistit korunovační klenoty" # todo: NEW TRANSLATION
+  CZE_dust_off_the_crown_jewels_desc: "Po tolika letech prachu na královských klenotech může nastat čas je vrátit do jejich slávy." # todo: NEW TRANSLATION
+  CZE_prepare_for_the_coronation: "Připravit speciální událost" # todo: NEW TRANSLATION
+  CZE_prepare_for_the_coronation_desc: "Král si musí najít podporu u všech stran v zemi, takže nejlepší možností může být připravit královskou událost." # todo: NEW TRANSLATION
+  CZE_rule_of_karl_of_habsburg: "Kronování Karla von Habsburg" # todo: NEW TRANSLATION
+  CZE_rule_of_karl_of_habsburg_desc: "Po této nečekané řadě událostí vzrostla Karlovi von Habsburgovi popularita díky jeho slibům o stabilitě a ekonomice." # todo: NEW TRANSLATION
+  CZE_two_nations_one_crown: "Dvě národy pod jednou korunou" # todo: NEW TRANSLATION
+  CZE_two_nations_one_crown_desc: "Král chce znovu sjednotit naše staré přátele, ale naše reputace není dobrá. Možná pokud vykonáme některé společné politiky, můžeme se znovu sjednotit a tím znovu vytvořit Československo." # todo: NEW TRANSLATION
+  CZE_austrian_monarchists: "Rakouští monarchisté" # todo: NEW TRANSLATION
+  CZE_austrian_monarchists_desc: "Rakušané byli součástí Rakousko-Uherské říše, očekáváme, že pochopí problémy své demokracie a dosadí Habsburského vůdce, aby tyto problémy vyřešil." # todo: NEW TRANSLATION
+  CZE_hungarian_monarchists: "Maďarští monarchisté" # todo: NEW TRANSLATION
+  CZE_hungarian_monarchists_desc: "Maďaři byli součástí Rakousko-Uherska, očekáváme, že objeví tyranii politické strany Fidesz a stanou se svobodnější zemí s Habsburským králem." # todo: NEW TRANSLATION
+  CZE_royal_alliance: "Královská aliance" # todo: NEW TRANSLATION
+  CZE_royal_alliance_desc: "Nyní má Evropa další zemi s Habsburským králem, proto musíme spojit síly, abychom se bránili proti našim nepřátelům." # todo: NEW TRANSLATION
+  CZE_seperation_of_powers: "Dělba moci" # todo: NEW TRANSLATION
+  CZE_seperation_of_powers_desc: "Od pádu Rakousko-Uherska se naše země vydaly různými cestami, měli bychom se pokusit tyto rozdíly stranou a znovu se sjednotit, ale vyřešit problémy, které jsme měli. Nejprve bychom však měli ustanovit zákony, které pomohou s integrací." # todo: NEW TRANSLATION
+  CZE_the_new_austro-hungary_project: "Projekt Nové Rakousko-Uhersko" # todo: NEW TRANSLATION
+  CZE_the_new_austro-hungary_project_desc: "Od pádu Rakousko-Uherska se naše země vydaly různými cestami a všechny, s výjimkou Československa, vedly ke špatnému státu. Chceme je anektovat, abychom mohli kontrolovat a zlepšit všechny jejich slabiny. Nejprve bychom však měli ustanovit zákony, které pomohou s integrací." # todo: NEW TRANSLATION
+  CZE_reach_to_the_house_of_habsburg-lorraine: "Vymáhat majetky rodu Habsburg-Lotrinských" # todo: NEW TRANSLATION
+  CZE_reach_to_the_house_of_habsburg-lorraine_desc: "Po vyhlášení rakouské republiky byl většině majetku Habsburků zabrán přístup. Nyní s Habsburským králem budeme tlačit jejich vládu, aby je vrátila." # todo: NEW TRANSLATION
+  CZE_gain_influence_in_the_austrian_government: "Získat vliv v rakouské vládě" # todo: NEW TRANSLATION
+  CZE_gain_influence_in_the_austrian_government_desc: "Nyní, když máme některé civilní skupiny shromažďující se proti vládě, můžeme zkusit více tlačit a prosadit pro-monarchistické prvky ve federální vládě. To je jen krok blíže k tomu, aby byl v Rakousku dosazen Habsburský král." # todo: NEW TRANSLATION
+  CZE_encourage_british_royal_family_support: "Připravit setkání se všemi evropskými monarchiemi" # todo: NEW TRANSLATION
+  CZE_encourage_british_royal_family_support_desc: "Evropa se sjednocuje, ale královské domy mají různé cíle a problémy. Měli bychom uspořádat setkání, kde bychom o těchto problémech hovořili a následovali společnou cestu k jejich řešení. Možná bychom měli naléhat na britskou královskou rodinu, aby to uskutečnila v Anglii." # todo: NEW TRANSLATION
+  CZE_visit_belgium: "Královská návštěva v Belgii" # todo: NEW TRANSLATION
+  CZE_visit_belgium_desc: "Po královském setkání je dalším krokem přesvědčit prince Belgie, aby uplatnil své právo na rakouský trůn; návštěva je jen zdvořilostní akcí k přípravě jeho návratu, nejprve do Prahy a až budou Rakušané připraveni, i do Rakouska." # todo: NEW TRANSLATION
+  CZE_initiate_the_return_of_the_archduke_lorenz_of_austria-este: "Iniciovat návrat arcivévodu Lorenze" # todo: NEW TRANSLATION
+  CZE_initiate_the_return_of_the_archduke_lorenz_of_austria-este_desc: "Po skvělé návštěvě v Belgii a dokonalých jednáních s princem můžeme začít připravovat kampaň na sociálních sítích k posílení podpory mezi lidmi v Rakousku." # todo: NEW TRANSLATION
+  CZE_kingdom_of_austria: "Království Rakousko." # todo: NEW TRANSLATION
+  CZE_kingdom_of_austria_desc: "Dokázali jsme to, lidé projevili ochotu pro krále, stačí poslat arcivévodu do Rakouska. V současné době se republika rozpadá, takže nebudou mít sílu proti jeho návratu, a možná jeho příchod bude konečným úderem k jejich pádu." # todo: NEW TRANSLATION
+  CZE_the_problem_with_fidesz: "Problém s Fideszem" # todo: NEW TRANSLATION
+  CZE_the_problem_with_fidesz_desc: "Fidesz získal velkou popularitu mezi maďarským lidem, pokud chceme dosadit Habsburga v Maďarsku, musíme potlačit popularitu Fidesze." # todo: NEW TRANSLATION
+  CZE_support_the_opposition: "Podpořit opozici" # todo: NEW TRANSLATION
+  CZE_support_the_opposition_desc: "S počátečním pádem Fidesze musíme posílit naši stranu a opozici." # todo: NEW TRANSLATION
+  CZE_cooperate_with_the_habsburg_lorraine: "Spolupráce s rodem Habsburg-Lotrinských" # todo: NEW TRANSLATION
+  CZE_cooperate_with_the_habsburg_lorraine_desc: "Po rozpadu Rakousko-Uherska byl větší majetek Habsburků zabaven. Nyní máme Habsburského krále, měli bychom tlačit jejich vládu, aby vrátila všechny majetky, které jsme ztratili." # todo: NEW TRANSLATION
+  CZE_manipulate_the_elections: "Manipulovat volbami" # todo: NEW TRANSLATION
+  CZE_manipulate_the_elections_desc: "Konečný gambit proti Fideszu a demokratickým stranám, musíme zajistit, aby strana krále získala dost hlasů k vytvoření vlády." # todo: NEW TRANSLATION
+  CZE_meeting_with_romania: "Setkání v Bukurešti" # todo: NEW TRANSLATION
+  CZE_meeting_with_romania_desc: "Měli bychom s rumunskou vládou projednat důležitá témata o bezpečnosti a spolupráci. Měli bychom soustředit úsilí na našeho společného nepřítele, Maďarsko." # todo: NEW TRANSLATION
+  CZE_visit_archduke_joseph_arpad: "Návštěva arcivévody Josefa Árpáda" # todo: NEW TRANSLATION
+  CZE_visit_archduke_joseph_arpad_desc: "Pokud se nám podaří, aby arcivévoda přijel do hlavního města, získáme dost podpory a krále ke korunovaci v Maďarsku." # todo: NEW TRANSLATION
+  CZE_kingdom_of_hungary: "Království Maďarsko" # todo: NEW TRANSLATION
+  CZE_kingdom_of_hungary_desc: "Všechno je připraveno ke korunovaci, lidé schválili monarchii a nelíbí se jim současná vláda, musíme jen poslat rozkaz." # todo: NEW TRANSLATION
+  CZE_manipulate_hungarian_trade_with_russia: "Manipulovat maďarský obchod" # todo: NEW TRANSLATION
+  CZE_manipulate_hungarian_trade_with_russia_desc: "Jedním z hlavních obchodních partnerů je Rusko, které je vnímáno jako nepřítel Evropy; možná pokud se pokusíme manipulovat jejich obchodem, můžeme získat část bez toho, aby si někdo stěžoval." # todo: NEW TRANSLATION
   CZE_coherent_political_goals_shortcut: "Politický strom" # todo: NEW TRANSLATION
   CZE_a_soldier_and_a_politician_shortcut: "Větev Petra Pavla" # todo: NEW TRANSLATION
   CZE_bohemia_shortcut: "Ekonomika + Škoda" # todo: NEW TRANSLATION
@@ -2515,6 +2627,7 @@
   CZE_new_labor_code_idea: "§RKSČM§! - Nový pracovní řád" # todo: NEW TRANSLATION
   CZE_strong_cooperation_idea: "§tČSSD§!, §RKSČM§! - Silná spolupráce" # todo: NEW TRANSLATION
   CZE_trade_boom_idea: "§RKSČM§! - Růst obchodu" # todo: NEW TRANSLATION
+  CZE_christianity_loses_popularity_idea: "§RKSČM§! - Křesťanství ztrácí popularitu" # todo: NEW TRANSLATION
   CZE_work_in_sunday_idea: "§RKSČM§! - Pracovat v neděli" # todo: NEW TRANSLATION
   CZE_ods_criticized_idea: "§RKSČM§! - Kritika ODS" # todo: NEW TRANSLATION
   CZE_vojtech_filip_leadership_idea: "§RKSČM§! - Vojtěch Filip novým lídrem" # todo: NEW TRANSLATION
@@ -2788,6 +2901,63 @@
   CZE_airborneform_idea: "Reforma výsadkových jednotek" # todo: NEW TRANSLATION
   CZE_methanol_poisoning_idea: "Otrava metanolem" # todo: NEW TRANSLATION
   CZE_petr_pavel_helps_against_usa_idea: "Petr Pavel pomáhá proti USA" # todo: NEW TRANSLATION
+  CZE_koruna_ceska_program_idea: "Koruna Česká" # todo: NEW TRANSLATION
+  CZE_traditional_family_system_idea: "Tradiční rodinný systém" # todo: NEW TRANSLATION
+  CZE_growing_nationalist_sentiment_idea: "Rostoucí nacionalistické sentimenty" # todo: NEW TRANSLATION
+  CZE_tolerant_society_idea: "Tolerantní společnost" # todo: NEW TRANSLATION
+  CZE_the_peoples_extended_trust_idea: "Rozšířená důvěra lidu" # todo: NEW TRANSLATION
+  CZE_parliamentary_cooperation_idea: "Parlamentní spolupráce" # todo: NEW TRANSLATION
+  CZE_a_party_opposed_to_democracy_idea: "Strana odporující demokracii" # todo: NEW TRANSLATION
+  CZE_foreign_political_support_idea: "Zahraniční politická podpora" # todo: NEW TRANSLATION
+  CZE_declassification_of_capitalism_idea: "Degradace kapitalismu" # todo: NEW TRANSLATION
+  CZE_old_management_system_idea: "Starý systém řízení" # todo: NEW TRANSLATION
+  CZE_a_balanced_ideology_idea: "Vyvážená ideologie" # todo: NEW TRANSLATION
+  CZE_a_significant_change_in_the_parliament_idea: "Významná změna v parlamentu" # todo: NEW TRANSLATION
+  CZE_democratic_country_integration_idea: "Integrace demokratických zemí" # todo: NEW TRANSLATION
+  CZE_decentralized_economy_idea: "Decentralizovaná ekonomika" # todo: NEW TRANSLATION
+  CZE_a_lesson_from_history_idea: "Ponaučení z historie" # todo: NEW TRANSLATION
+  CZE_silesian_migration_idea: "Slezská migrace" # todo: NEW TRANSLATION
+  CZE_czechs_and_slovaks_closer_together_idea: "Češi a Slováci blíž spolu" # todo: NEW TRANSLATION
+  CZE_a_powerful_royal_family_idea: "Silná královská rodina" # todo: NEW TRANSLATION
+  CZE_regional_development1_idea: "Regionální rozvoj" # todo: NEW TRANSLATION
+  CZE_regional_development2_idea: "Regionální rozvoj" # todo: NEW TRANSLATION
+  CZE_farmers_association_idea: "Spolek zemědělců" # todo: NEW TRANSLATION
+  CZE_ods_koruna_ceska_cooperation_idea: "§1ODS§! - Spolupráce s Korunou Českou" # todo: NEW TRANSLATION
+  CZE_kdu_csl_koruna_ceska_cooperation_idea: "§3KDU-ČSL§! - Spolupráce s Korunou Českou" # todo: NEW TRANSLATION
+  CZE_silesian_research_center_idea: "Slezské výzkumné centrum" # todo: NEW TRANSLATION
+  CZE_multicultural_president_idea: "Multikulturní prezident" # todo: NEW TRANSLATION
+  CZE_president_scientist_idea: "Prezident vědec" # todo: NEW TRANSLATION
+  CZE_foreign_monarchy_intromision: "Zahraniční investice do politických skupin" # todo: NEW TRANSLATION
+  CZE_target_foreign_monarchy_intromision: "Zahraniční mocnosti manipulují naší politikou" # todo: NEW TRANSLATION
+  CZE_AUS_payment_to_habsburgs_in_CZE: "Platby rodu Habsburg-Lotrinských v ČR" # todo: NEW TRANSLATION
+  CZE_AUS_payment_to_habsburgs: "Platby rodu Habsburg-Lotrinských" # todo: NEW TRANSLATION
+  CZE_AUS_cooperation_with_the_habsburgs: "Monarchisté infiltrující naši vládu" # todo: NEW TRANSLATION
+  CZE_future_of_monarchies: "Budoucnost monarchistů v Evropě" # todo: NEW TRANSLATION
+  CZE_BEL_habsburgs_plan: "Tajný plán" # todo: NEW TRANSLATION
+  CZE_BEL_habsburgs_royal_visit: "Královská návštěva v Belgii" # todo: NEW TRANSLATION
+  CZE_traditional_christians: "Křesťanské tradice" # todo: NEW TRANSLATION
+  CZE_HUN_big_investigation: "Velké šetření voleb" # todo: NEW TRANSLATION
+  CZE_HUN_medium_investigation: "Pravidelné šetření voleb" # todo: NEW TRANSLATION
+  CZE_HUN_smal_investigation: "Malé šetření voleb" # todo: NEW TRANSLATION
+  CZE_HUN_fallen_government: "Pád vlády" # todo: NEW TRANSLATION
+  CZE_increase_border_patrols: "Zvýšené hraniční hlídky" # todo: NEW TRANSLATION
+  CZE_HUN_receive_additional_income_from_hungary_1: "Manipulace maďarského obchodu" # todo: NEW TRANSLATION
+  CZE_HUN_manipulating_national_media: "Manipulace národními médii" # todo: NEW TRANSLATION
+  CZE_HUN_manipulating_internation_media: "Manipulace mezinárodními médii" # todo: NEW TRANSLATION
+  CZE_HUN_manipulating_our_commerce: "Manipulace našeho obchodu" # todo: NEW TRANSLATION
+  CZE_HUN_pro_monarchists_riots: "Protimonarchistické nepokoje" # todo: NEW TRANSLATION
+  CZE_shared_military_intel_idea: "Sdílené vojenské zpravodajství" # todo: NEW TRANSLATION
+  CZE_common_education_plan_idea: "Společný vzdělávací plán" # todo: NEW TRANSLATION
+  CZE_common_police_action_plan_idea: "Společný policejní akční plán" # todo: NEW TRANSLATION
+  CZE_common_welfare_plan_idea: "Společný sociální plán" # todo: NEW TRANSLATION
+  CZE_monarchy_fanatic_president_idea: "Fanatický prezident monarchie" # todo: NEW TRANSLATION
+  CZE_the_family_reunited_idea: "Rodina znovu sjednocena" # todo: NEW TRANSLATION
+  CZE_the_kings_congress_idea: "Králův kongres" # todo: NEW TRANSLATION
+  CZE_HUN_foreign_support_to_democratics: "Zahraniční podpora pro prozápadní strany" # todo: NEW TRANSLATION
+  CZE_HUN_support_to_democratics: "Podpora prozápadních stran" # todo: NEW TRANSLATION
+  CZE_HUN_spy_wars_fidesz: "Zahraniční špióni cílení na naši politiku" # todo: NEW TRANSLATION
+  CZE_HUN_spy_wars_fidesz_desc: "Jiné země se snaží manipulovat naší politikou, musíme připravit naše agenty, aby bránili naši zemi." # todo: NEW TRANSLATION
+  CZE_HUN_spy_wars: "Rozšíření národní zpravodajské agentury" # todo: NEW TRANSLATION
   CZE_engine_tech: "Vylepšený R4 benzínový motor" # todo: NEW TRANSLATION
   CZE_engine_tech_2: "Pokročilý V6 benzínový motor" # todo: NEW TRANSLATION
   CZE_engine_tech_2_desc: "V-typ motory jsou obecně lepší než řadové R-typy. Stojí za zmínku, že spotřebovávají více paliva, což může být problém v případě války, ale musíme vybavit naše vozidla tím nejlepším možným vybavením." # todo: NEW TRANSLATION
@@ -2900,6 +3070,14 @@
   CZE_czech_warms_relations_two: "Česko zlepšilo vztahy" # todo: NEW TRANSLATION
   CZE_czech_brings_our_governemnts_closer: "Česko přibližuje naše vlády" # todo: NEW TRANSLATION
   CZE_czech_improves_relations_with_iraq: "Česko zlepšuje vztahy s Irákem" # todo: NEW TRANSLATION
+  CZE_hungary_supports_us: "Maďarsko podporuje českou monarchii" # todo: NEW TRANSLATION
+  CZE_austria_supports_us: "Rakousko podporuje českou monarchii" # todo: NEW TRANSLATION
+  CZE_integrates_with_us: "Korunová česká strana se s námi integruje" # todo: NEW TRANSLATION
+  CZE_keeps_poles_in_silesia: "Česko ponechává Poláky ve Slezsku" # todo: NEW TRANSLATION
+  CZE_keeps_poles_in_silesia_trade: "Česko ponechává Poláky ve Slezsku" # todo: NEW TRANSLATION
+  CZE_deports_poles_from_silesia: "Česko deportuje Poláky ze Slezska" # todo: NEW TRANSLATION
+  CZE_czechia_turns_to_christian: "Česko se stává křesťanským" # todo: NEW TRANSLATION
+  CZE_hate_to_hungary: "Česko se staví proti naší vládě" # todo: NEW TRANSLATION
   CZE_vop_cz_tooltip: "§YOdemkne rozhodnutí zlepšit vojenskou konverzi starého vybavení§!\n\n§GPřidá§! §Y1§! §GŠkodův technologický slot§! " # todo: NEW TRANSLATION
   CZE_quick_modernization_tooltip: "§RObdobí obnovy: 45 dní§!" # todo: NEW TRANSLATION
   CZE_research_grants_tooltip: "§TToto rozhodnutí poskytuje trvalý buff pro určitou kategorii výzkumu, zrychlující až o§! §Y30%§! §Tvýzkum.§!" # todo: NEW TRANSLATION
@@ -3076,6 +3254,8 @@
   25_percent_ods_strength_TT: "§1ODS§! má popularitu alespoň §Y25%§!" # todo: NEW TRANSLATION
   10_percent_cssd_strength_TT: "§tČSSD§! má popularitu alespoň §Y10%§!" # todo: NEW TRANSLATION
   20_percent_cssd_strength_TT: "§tČSSD§! má popularitu alespoň §Y20%§!" # todo: NEW TRANSLATION
+  20_percent_koruna_strength_TT: "§9Koruna§! má popularitu alespoň §Y20%§!" # todo: NEW TRANSLATION
+  40_percent_koruna_strength_TT: "§9Koruna§! má popularitu alespoň §Y40%§!" # todo: NEW TRANSLATION
   10_percent_top_strength_TT: "§CTOP 09§! má popularitu alespoň §Y10%§!" # todo: NEW TRANSLATION
   15_percent_top_strength_TT: "§CTOP 09§! má popularitu alespoň §Y15%§!" # todo: NEW TRANSLATION
   20_percent_ano_strength_TT: "§2ANO§! má popularitu alespoň §Y20%§!" # todo: NEW TRANSLATION
@@ -3198,6 +3378,46 @@
   CZE_petr_pavel_operation_enduring_freedom_mission: "§GOdemkne misi §YOperace Enduring Freedom§!§!" # todo: NEW TRANSLATION
   czechoslovakia_restored_TT: "§YCzechoslovakia§! existuje" # todo: NEW TRANSLATION
   CZE_a_soldier_and_a_politician_warning_TT: "§RTato větev celé větve zmizí, pokud Petr Pavel už nebude spojen s [CZE.GetName]§!" # todo: NEW TRANSLATION
+  CZE_old_way_of_country_management_TT: "§YTato národní idea bude nahrazena trvalou §RStarý systém řízení§!, poskytující mnoho ekonomických bonusů.§!\n§R Doba trvání této národní idey se však prodlouží o 1 rok každých 5 let (2005, 2010 atd.) až do roku 2020.§!" # todo: NEW TRANSLATION
+  CZE_democratic_feudalism_TT: "§YTato národní idea je dostupná, pokud je vaše vládnoucí režim buď demokratický nebo monarchistický.§!" # todo: NEW TRANSLATION
+  CZE_promote_presidential_elections_TT: "§YPo příštích volbách získáte:§!\n- §G+10%§! popularity Koruny České\n- §G+5%§! popularity nacionalistického názoru\n- §G+50§! politické moci\n- §GNárodní idea§! \"Významná změna v parlamentu\"" # todo: NEW TRANSLATION
+  CZE_poles_deportation_warning_TT: "§RTýdně ztratí slezské státy 2000 obyvatel po dobu 12 týdnů.§!" # todo: NEW TRANSLATION
+  CZE_poles_deportation_from_silesia: "Poláci jsou deportováni ze Slezska" # todo: NEW TRANSLATION
+  CZE_regional_development_TT: "§GPřidává národní ideu §YRegionální rozvoj§!, která zmizí poté, co Česká republika dosáhne alespoň §Y900 produktivity§! a upgradne se.\n\nMůžete ji okamžitě upgradovat na druhou národní ideu dalším fókusovým krokem, která zcela zmizí po dosažení §Y1300 produktivity§!." # todo: NEW TRANSLATION
+  CZE_claims_on_silesia_TT: "Polsko odmítlo vrátit část slezského regionu." # todo: NEW TRANSLATION
+  CZE_invest_in_new_roads_TT: "Polsko souhlasilo, že nám dá část slezského regionu." # todo: NEW TRANSLATION
+  CZE_poland_accept_if_friend_TT: "§YPolsko bude ochotnější přijmout, pokud budeme §Gve stejné frakci§! s nimi a máme nad §G40% vlivu§!. Také nárok na Dolní Slezsko má větší šanci na úspěch kvůli nižší hodnotě zdrojů.§!" # todo: NEW TRANSLATION
+  CZE_prague_castle_renovation_TT: "§GOdemkne rozhodnutí k renovaci Pražského hradu.§!" # todo: NEW TRANSLATION
+  CZE_prague_castle_renovation_event_delay_TT: "§YPo několika týdnech se objeví nové události pokračující v přípravách pro nového krále.§!" # todo: NEW TRANSLATION
+  CZE_royal_events_weeks_TT: "§YPo několika týdnech se objeví nová královská událost.§!" # todo: NEW TRANSLATION
+  CZE_royal_events_days_TT: "§YPo několika dnech se objeví nová královská událost.§!" # todo: NEW TRANSLATION
+  CZE_royal_coronation_ready_TT: "§YKronování Karla von Habsburg se stává dostupné.§!" # todo: NEW TRANSLATION
+  additional_expense_CZE_monarchy_intromision_TT: "Dodatečné výdaje: $$[?0.5|-3]\n" # todo: NEW TRANSLATION
+  CZE_AUS_return_of_archduke_tt: "§GObjevila se nová rozhodnutí k rozšíření podpory arcivévody v Rakousku§!" # todo: NEW TRANSLATION
+  CZE_HUN_monarchy_intromision: "§SCesta Maďarskem§! je aktivní" # todo: NEW TRANSLATION
+  CZE_AUS_monarchy_intromision: "§SRakouská cesta§! je aktivní" # todo: NEW TRANSLATION
+  CZE_the_new_entente: "Nová entente" # todo: NEW TRANSLATION
+  COLLECTION_AMOUNT_POTENTIAL_HABSBURG_COUNTRIES_TOTAL_COLLECTION: "§YČlenové frakce§!, kteří jsou potenciálními podporovateli Habsburků." # todo: NEW TRANSLATION
+  the_family_reunited_goal_name: "Rodina znovu sjednocena" # todo: NEW TRANSLATION
+  the_family_reunited_goal_desc: "Nastal čas, aby se Habsburkové znovu sjednotili a shromáždili své bývalé země pod jednou korunou." # todo: NEW TRANSLATION
+  CZE_seperation_of_powers_TT: "§YNová kategorie rozhodnutí \"Pražská konference\" se stane dostupnou, pokud bude [CZE.GetName] monarchií a Československo bude existovat.§!" # todo: NEW TRANSLATION
+  CZE_the_prague_conference_ongoing_decision_flag: "§YRozhodnutí §RPražská konference§! je v procesu" # todo: NEW TRANSLATION
+  CZE_prague_conference_separated_powers_TT: "§YRozhodnutí §RPražská konference§! dokončeno alespoň §Y7 rozhodnutí§!. Aktuálně: §Y[?the_prague_conference_var]§!" # todo: NEW TRANSLATION
+  CZE_prague_conference_separated_powers_2_TT: "§YRozhodnutí §RPražská konference§! dokončeno alespoň §Y14 rozhodnutí§!. Aktuálně: §Y[?CZE_the_prague_conference_var]§!" # todo: NEW TRANSLATION
+  CZE_unify_the_nations_TT: "§YČím nižší názor země na nás, tím nižší šance na úspěch události.§!" # todo: NEW TRANSLATION
+  CZE_SLO_no_more_dividing_TT: "Dokončeno rozhodnutí §Y$CZE_SLO_border_removal_1$§!" # todo: NEW TRANSLATION
+  CZE_ended_the_manipulation: "§GBudeme moci pokračovat maďarskou cestou, až bude tento fókus dokončen§!" # todo: NEW TRANSLATION
+  CZE_branch_locked_AUS: "§RFokus §!§YMaďarští monarchisté§! bude zablokován, dokud nedokončíme fokus §YKrálovství Rakousko§!" # todo: NEW TRANSLATION
+  CZE_branch_locked_HUN: "§RFokus §!§YRakouští monarchisté§! bude zablokován, dokud nedokončíme fokus §YKrálovství Maďarsko§!" # todo: NEW TRANSLATION
+  CZE_completed_8_decision_ROM_TT: "§Y[?THIS.GetName]§! dokončila alespoň §Y8 rozhodnutí§! na setkání v Bukurešti. Aktuálně §Y[?CZE_ROM_decisions_completed] rozhodnutí§! dokončeno" # todo: NEW TRANSLATION
+  CZE_fidesz_decisions: "Následující akce zvýší/sníží efekt tohoto rozhodnutí: \n   §YZákladní hodnota§!: §G-1%§! popularity \n   §YZpravodaj budující síť§!: §G-1%§! popularity (až do §Y2 operativců§!)\n   §YSíla zpravodajské sítě§!: §G-1%§! popularity za §Y50%§! síly\n   §YZpravodaj dělající kontra-inteligenci§!: §R+2%§! popularity (§R-1%§! pokud pracují §Y2 agenti§!)" # todo: NEW TRANSLATION
+  CZE_HUN_receive_additional_income_from_hungary_1_tt: "Krádež 1% z maďarského obchodního příjmu. Aktuálně získáváte: §G[?CZE_HUN_gain_income_trade]§!" # todo: NEW TRANSLATION
+  CZE_HUN_receive_additional_income_from_hungary_2_tt: "Krádež 2% z maďarského obchodního příjmu. Aktuálně získáváte: §G[?CZE_HUN_gain_income_trade]§!" # todo: NEW TRANSLATION
+  CZE_HUN_receive_additional_income_from_hungary_3_tt: "Krádež 3% z maďarského obchodního příjmu. Aktuálně získáváte: §G[?CZE_HUN_gain_income_trade]§!" # todo: NEW TRANSLATION
+  CZE_HUN_receive_additional_income_from_hungary_5_tt: "Krádež 5% z maďarského obchodního příjmu. Aktuálně získáváte: §G[?CZE_HUN_gain_income_trade]§!" # todo: NEW TRANSLATION
+  CZE_HUN_manipulating_our_commerce_tt: "Ztráta 10% z našich obchodních příjmů. Aktuálně ztrácíme: §R[?CZE_HUN_stolen_income]§!" # todo: NEW TRANSLATION
+  additional_income_stolen_from_hungarian_trade_tt: "Krádež maďarských obchodních příjmů" # todo: NEW TRANSLATION
+  additional_expense_stolen_from_hungarian_trade_tt: "Ztráta obchodních příjmů" # todo: NEW TRANSLATION
   CZE_skoda_superb_cars_sell_german_button_TT: "§YNěmecko§!" # todo: NEW TRANSLATION
   CZE_skoda_superb_cars_sell_german_button_delayed_scripted_loc_TT: "[CZE_skoda_superb_cars_sell_german_button_delayed_scripted_loc_TT]" # todo: NEW TRANSLATION
   CZE_skoda_superb_cars_sell_german_button_delayed_TT: "Nebude dostupné, pokud nastane některá z těchto situací:\n§G- [GER.GetName] nás embargoje\n- My embargojeme [GER.GetName]\n- [GER.GetName] neexistuje\n- Už jsme nabídli transakci [GER.GetName]§!" # todo: NEW TRANSLATION
@@ -3446,3 +3666,646 @@
   CZE_political_leaders_ods_description_text_2021: "Popularita strany: [?THIS.party_pop_array^1|%1Y]\n§gSoučasné efekty popularity strany:§!\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničním vlivům:§! [?CZE_ods_foreign_influence_defense_modifier|%.2+]\n£construction_speed_texticon §YZrychlení produkce:§! [?CZE_ods_production_speed_buildings_factor|%.2+]\n\n§1ODS§! vytvořila koaliční vládu s §3KDU-ČSL§! a §CTOP 09§!. Koalice §0SPOLU§! byla vytvořena a brzy pozve Piráty a Starosty. Petr Fiala se stal novým vůdcem koalice a připraví 5 nových politiků do vlády." # todo: NEW TRANSLATION
   CZE_political_leaders_cssd_title_text_text: "§tČeská strana sociálně demokratická§!" # todo: NEW TRANSLATION
   CZE_political_leaders_cssd_description_text_text: "[CZE_political_leaders_cssd_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2000: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nDíky Zemanovi získala §tČSSD§! rychle obrovskou popularitu před volbami v roce 1998.\n§tČSSD§! vyhrála parlamentní volby a byla první, kdo vedl Českou republiku v novém miléniu. Kontroverzně držela moc s největší opoziční stranou, jejíž názory se od jejich lišily, §1ODS§!." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2002: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nNáhrada Miloše Zemana Vladimírem Špidlou se podařila odříznout skandály předchozí vlády. Dnes musí zvolit, zda opustit stranu, nebo pokračovat v programu, který přiláká zahraniční investory a modernizuje kancelářský sektor. Pokud se rozhodne odejít, přijde Stanislav Gross se svým anti-§RKSČM§! programem." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2006: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nPřed parlamentními volbami v roce 2006 čelila §tČSSD§! opět mnoha aférám. Zaměří se na reformy boje proti korupci a byrokracii. Kromě toho se blíží senátní volby v roce 2008 a veškerá pozornost se soustředí na tuto událost. §tČSSD§! se bude silně soustředit na růst produktivity." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2010: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nV roce 2011 se stal předsedou §tČSSD§! Bohuslav Sobotka. Nový program cílí na sektor obnovitelných zdrojů energie ze všech možných zdrojů s cílem snížit náklady výroby fosilních paliv. Program je také zaměřen na nové infrastrukturní dotace a intenzivní výstavbu." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2013: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\n§2ANO§! roste na síle, což znamená, že je dobrý čas vytvořit s nimi koalici. Nový program §tČSSD§! zvýší zdanění a přiláká více lidí do země obnovou kulturních a náboženských památek. Díky zájmu o obnovu kostelů je §3KDU-ČSL§! více ochotná zahájit spolupráci." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2017: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nPřicházejí nestabilní časy pro svět. §tČSSD§! přišla s větším zaměřením na průmysl a zemědělství a plánuje vybudovat nové civilní továrny a zemědělské oblasti. Když udeří krize, §tČSSD§! bude připravena čelit jí a rychle připravit protiofenzívy." # todo: NEW TRANSLATION
+  CZE_political_leaders_cssd_description_text_2021: "Popularita strany: [?THIS.party_pop_array^3|%1Y]\n§gAktuální efekty popularity strany:§!\n£western_outlook_campaign_cost_modifier_texticon  §YDenní podpora demokratů:§! [?CZE_cssd_democratic_drift|+]\n£GFX_stability_popularity_texticon §YStabilita:§! [?CZE_cssd_stability|%.2+]\n\nEpidemie v roce 2020 výrazně zvýšila viditelnost předsedy strany a ministra vnitra Jana Hamáčka. Strana se snažila využít Hamáčkovy popularity během podzimních krajských a senátních voleb; heslem strany se stalo 'V krizi vás ochráníme'. §Y§tČSSD§! je připravena čelit onemocnění.§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_title_text_text: "§3Křesťanská a demokratická unie - Československá strana lidová§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_text: "[CZE_political_leaders_kdu_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2000: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\n§3KDU-ČSL§! je křesťansko-demokratická politická strana. Je jednou z nejstarších českých politických stran, založenou v lednu 1919 sloučením několika katolických stran. Strana považuje za důležité podporu rodiny, kvalitní vzdělání, venkov, zemědělství a malé podniky, šíření křesťanských hodnot a péči o životní prostředí." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2002: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\nV červenci 2002 se §3KDU-ČSL§! pokusí stát partnerem §tČSSD§!, §GUS-DEU§! a §1ODS§!. Tento plán zvýší popularitu každé strany i §3KDU-ČSL§! samotné, což jim pomůže dále postoupit v příštích programech." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2006: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\nPo volbách §3KDU-ČSL§! zahajuje spolupráci se §7Stranou zelených§! a §1ODS§!. Jiří Čunek, nový předseda strany, oznámil, že další program bude zahrnovat další obnovu kostelů a změny v sociálních výdajích, zpřísnění některých zákonů za účelem zvýšení pocitu bezpečí." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2010: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\nJak ostatní strany začaly věnovat větší pozornost obnovitelné energii a ochraně životního prostředí, §3KDU-ČSL§! nezaostává a přišla se svým vlastním ekologickým programem. Slibují vyvinout efektivnější paliva, nové technologie obnovitelné energie, dokončit některé sociální reformy a zlepšit výrobu jaderné energie." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2013: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\n§3KDU-ČSL§! pokračuje ve svém předchozím programu, který zahrnuje změny v energetice a ochraně životního prostředí. Strana si připravila nové politiky, kteří by se mohli stát ministry. Aby to bylo možné, §3KDU-ČSL§! bude potřebovat popularitu. Naštěstí se blíží volby do EU. Pokud uspějí, §3KDU-ČSL§! může získat dost popularity k dokončení svého programu." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2017: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\nKongres schválil oficiální změnu názvu strany, kterým je současná zkratka §3KDU-ČSL§!. Nové vedení §3KDU-ČSL§! označilo podporu rodičů za hlavní bod své politiky. Ochrana životního prostředí a boj proti změně klimatu byly identifikovány jako další priority." # todo: NEW TRANSLATION
+  CZE_political_leaders_kdu_description_text_2021: "Popularita strany: [?THIS.party_pop_array^14|%1Y]\n§gAktuální efekty popularity strany:§!\n£GFX_corporate_tax_income_multiplier_modifier_texticon  §YProduktivita zemědělství:§! [?CZE_kdu_agricolture_productivity_modifier|%.2+]\n£foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu:§! [?CZE_kdu_foreign_influence_defense_modifier|%.2+]\n\nV říjnu 2020 oznámili lídři §3KDU-ČSL§!, §1ODS§! a §CTOP 09§! vytvoření koalice pro parlamentní volby 2021, kterou pojmenovali §0SPOLU§! (čes. §0SPOLU§!). §1Petr Fiala§! se stal předsedou, předseda §3KDU-ČSL§! a předseda §CTOP 09§! pak obsadili posty místopředsedů." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_title_text_text: "§RKomunistická strana Čech a Moravy§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_text: "[CZE_political_leaders_kscm_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2000: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\n§RKSČM§! byla založena v roce 1990 jako nástupce §RKomunistické strany Československa§!, přičemž pokračovala v činnosti v rámci federace stran až do dubna 1992. Rozpuštění federace stran proběhlo před rozdělením Československa, kdy se strana rozdělila na českou §RKSČM§! a slovenskou Stranu demokratické levice." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2002: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\nTentokrát se §RKSČM§! silně soustředí na zlepšení daňového systému, snižování popularity §3KDU-ČSL§! a §1ODS§! a opětovné zlepšení vztahů s Ruskem. Tento pohled učiní Českou republiku více závislou na ruských zdrojích, ale také zvýší příjmy z obchodu a pomůže posílit vztahy." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2006: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\n§RKSČM§! pokračuje ve svém předchozím programu, tentokrát je však více orientovaná na průmyslový sektor. S pomocí §tČSSD§! budou schopni postavit novou infrastrukturu, rozšířit těžební sektor a pomoci rozvoji zemědělství." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2010: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\nS nástupem nové dekády přichází §RKSČM§! s zbrusu novým programem. Hlavním cílem je silná podpora vývoje technologií obnovitelné energie a podpora růstu národní produktivity se zvláštním zaměřením na zlepšení zemědělského sektoru." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2013: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\nPoslední skutečně významná komunistická strana čelí velmi silné krizi. Nicméně pro §RKSČM§! stále existuje naděje, pokud se jim podaří získat vedení v evropských komunistických stranách." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2017: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\nTímto končí strom zaměření §RKSČM§!. Příběh je v současnosti dokončen. Strana udržuje dobré vztahy s §tČSSD§! a snaží se dokončit své další programy." # todo: NEW TRANSLATION
+  CZE_political_leaders_kscm_description_text_2021: "Popularita strany: [?THIS.party_pop_array^4|%1Y]\n§gAktuální efekty popularity strany:§!\n£emerging_outlook_campaign_cost_modifier_texticon §YDenní vznikající podpora:§! [?CZE_kscm_communist_drift_modifier|+]\n£construction_speed_texticon §YFaktor rychlosti výroby:§! [?CZE_kscm_production_speed_modifier|%.2+]\n\nPředseda strany Vojtěch Filip rezignoval. K 23. říjnu 2021 se předsedkyní strany stala Kateřina Konečná, která se tak stala první ženou v čele §RKSČM§!." # todo: NEW TRANSLATION
+  CZE_political_leaders_us_title_text_text: "§GUnie svobody - Demokratická unie§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_us_description_text_text: "[CZE_political_leaders_us_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_us_description_text_2000: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£social_cost_multiplier_modifier_texticon  §YNásobitel nákladů na sociální dávky:§! [?CZE_us_social_cost_multiplier_modifier|%.2-]\n£police_cost_multiplier_modifier_texticon  §YNásobitel nákladů na policii:§! [?CZE_us_police_cost_multiplier_modifier|%.2-]\n\n§GUnie svobody§! byla založena v lednu 1998 bývalými členy strany §1ODS§!, kteří byli nespokojeni s vedením Václava Klause.\n§GUnie svobody§! se po volbách v roce 1998 ocitla v opozici. V opozici se sloučila s stranou §GDemokratická unie§! a vytvořila koalici se §3KDU-ČSL§!." # todo: NEW TRANSLATION
+  CZE_political_leaders_us_description_text_2002: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£social_cost_multiplier_modifier_texticon  §YNásobitel nákladů na sociální dávky:§! [?CZE_us_social_cost_multiplier_modifier|%.2-]\n£police_cost_multiplier_modifier_texticon  §YNásobitel nákladů na policii:§! [?CZE_us_police_cost_multiplier_modifier|%.2-]\n\nPo volbách v roce 2002 se něco změnilo. Strana utrpěla v mnoha kontroverzích, například ve věci katarského prince. Pro volby v roce 2006 přijdou s velmi nekonvenčním programem, aby přilákali nové voliče..." # todo: NEW TRANSLATION
+  CZE_political_leaders_us_description_text_2006: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£social_cost_multiplier_modifier_texticon  §YNásobitel nákladů na sociální dávky:§! [?CZE_us_social_cost_multiplier_modifier|%.2-]\n£police_cost_multiplier_modifier_texticon  §YNásobitel nákladů na policii:§! [?CZE_us_police_cost_multiplier_modifier|%.2-]\n\nPro volby v roce 2006 §GUS-DEU§! radikálně změnila svůj image a s pentagramem jako emblémem se pokusila získat hlasy mladých voličů s ultra-liberálním až anarchistickým smýšlením. Nyní se zaměří na výstavbu nových budov a zlepšení daňového systému." # todo: NEW TRANSLATION
+  CZE_political_leaders_us_description_text_2010: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£social_cost_multiplier_modifier_texticon  §YNásobitel nákladů na sociální dávky:§! [?CZE_us_social_cost_multiplier_modifier|%.2-]\n£police_cost_multiplier_modifier_texticon  §YNásobitel nákladů na policii:§! [?CZE_us_police_cost_multiplier_modifier|%.2-]\n\nVe volbách v roce 2010 §GUS-DEU§! nekandidovala a vyjádřila podporu §1ODS§!. §GUS-DEU§! formálně přestala existovat 1. ledna 2011. Nicméně strana nadále podává každoroční finanční zprávy, včetně té za rok 2015 (to byla zpráva z budoucnosti)." # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_title_text_text: "§2Akce Nespokojených Občanů 2011§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_description_text_text: "[CZE_political_leaders_ano_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_description_text_2011: "Popularita strany: [?THIS.party_pop_array^13|%1Y]\n§gAktuální efekty popularity strany:§!\n£tax_gain_multiplier_modifier_texticon §YPříjmy z korporátní daně:§! [?CZE_ano_corporate_tax_income_multiplier_modifier|%.2+]\n£construction_speed_texticon §YFaktor rychlosti výstavby:§! [?CZE_ano_production_speed_buildings_factor|%.2+]\n\n§2ANO§! byla založena na podzim 2011. Hnutí se zaměřilo na voliče nespokojené s etablovanými politickými subjekty. Cílem hnutí je účast v volbách na všech úrovních a podpora přívětivějšího prostředí pro podnikatele a řemeslníky, eliminace korupce, politických machinací a podpora růstu zaměstnanosti." # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_description_text_2013: "Popularita strany: [?THIS.party_pop_array^13|%1Y]\n§gAktuální efekty popularity strany:§!\n£tax_gain_multiplier_modifier_texticon §YPříjmy z korporátní daně:§! [?CZE_ano_corporate_tax_income_multiplier_modifier|%.2+]\n£construction_speed_texticon §YFaktor rychlosti výstavby:§! [?CZE_ano_production_speed_buildings_factor|%.2+]\n\n§2ANO§! přišlo s novým Etickým kodexem, kterým se musí všichni členové strany řídit. Strana také zamýšlí vytvořit koalici s §tČSSD§! a §3KDU-ČSL§!, což jim pomůže dostat se do vlády, provést důležité reformy a připravit se na další volební program." # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_description_text_2017: "Popularita strany: [?THIS.party_pop_array^13|%1Y]\n§gAktuální efekty popularity strany:§!\n£tax_gain_multiplier_modifier_texticon §YPříjmy z korporátní daně:§! [?CZE_ano_corporate_tax_income_multiplier_modifier|%.2+]\n£construction_speed_texticon §YFaktor rychlosti výstavby:§! [?CZE_ano_production_speed_buildings_factor|%.2+]\n\nProgram §2ANO§! pro rok 2017 zahrnoval růst ekonomiky, omezení předražených státních zakázek, rychlou výstavbu a digitalizaci země, dotace na nové technologie. Tyto rozhodné kroky jim pomohly získat obrovskou popularitu." # todo: NEW TRANSLATION
+  CZE_political_leaders_ano_description_text_2021: "Popularita strany: [?THIS.party_pop_array^13|%1Y]\n§gAktuální efekty popularity strany:§!\n£tax_gain_multiplier_modifier_texticon §YPříjmy z korporátní daně:§! [?CZE_ano_corporate_tax_income_multiplier_modifier|%.2+]\n£construction_speed_texticon §YFaktor rychlosti výstavby:§! [?CZE_ano_production_speed_buildings_factor|%.2+]\n\nDne 30. října 2022 oznámil Andrej Babiš v televizi Nova svůj úmysl kandidovat na post prezidenta České republiky. Původně měl být oficiální kandidát oznámen 26. října, kvůli nemoci Andreje Babiše byl termín přesunut na 31. října 2022, kdy se konala i tisková konference." # todo: NEW TRANSLATION
+  CZE_political_leaders_top_title_text_text: "§CTradice Odpovědnost Prosperita§!" # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_text: "[CZE_political_leaders_top_description_text_text]" # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_2009: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£health_cost_multiplier_modifier_texticon §YNásobitel nákladů na zdravotnictví:§! [?CZE_top_health_cost_multiplier_modifier|%.2-]\n£under_construction_texticon §YPožadavek pracovníků na budovy:§! [?CZE_top_buildings_worker_requirement_modifier|%.2-]\n\n§CTOP 09§! byla založena 11. června 2009 Miroslavem Kalouskem, který odešel ze strany §3KDU-ČSL§!. Strana zdůrazňuje evropskost a dědictví staré a křesťansko-židovské kultury.\nJe jednou z nejsilně proevropských stran na české politické scéně." # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_2010: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£health_cost_multiplier_modifier_texticon §YNásobitel nákladů na zdravotnictví:§! [?CZE_top_health_cost_multiplier_modifier|%.2-]\n£under_construction_texticon §YPožadavek pracovníků na budovy:§! [?CZE_top_buildings_worker_requirement_modifier|%.2-]\n\n§CTOP 09§! prosazuje rozsáhlé environmentální reformy k záchraně zelených ploch a přírodního prostředí. Vynakládají velké úsilí na podporu zemědělství, zlepšení obnovitelných zdrojů energie a přiblížení se Evropské unii." # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_2013: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£health_cost_multiplier_modifier_texticon §YNásobitel nákladů na zdravotnictví:§! [?CZE_top_health_cost_multiplier_modifier|%.2-]\n£under_construction_texticon §YPožadavek pracovníků na budovy:§! [?CZE_top_buildings_worker_requirement_modifier|%.2-]\n\nNoví vládní zástupci, zejména předseda hnutí §2ANO§! Andrej Babiš, vedli pomlouvačnou kampaň proti §CTOP 09§!. Strana se musela bránit proti §2ANO§! a pokračovat ve svém programu, který zahrnoval velký regionální rozvoj a přilákání více obyvatel do země." # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_2017: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£health_cost_multiplier_modifier_texticon §YNásobitel nákladů na zdravotnictví:§! [?CZE_top_health_cost_multiplier_modifier|%.2-]\n£under_construction_texticon §YPožadavek pracovníků na budovy:§! [?CZE_top_buildings_worker_requirement_modifier|%.2-]\n\nDne 27. října 2020 podepsali předsedové stran §1ODS§! a §3KDU-ČSL§! memorandum o spolupráci před parlamentními volbami a svou koalici pojmenovali §0SPOLU§!. Kromě toho strana nadále přitahovala nové členy a zvyšovala průmyslový sektor, přičemž stále upřednostňovala péči o životní prostředí." # todo: NEW TRANSLATION
+  CZE_political_leaders_top_description_text_2021: "Popularita strany: [?THIS.party_pop_array^2|%1Y]\n§gAktuální efekty popularity strany:§!\n£health_cost_multiplier_modifier_texticon §YNásobitel nákladů na zdravotnictví:§! [?CZE_top_health_cost_multiplier_modifier|%.2-]\n£under_construction_texticon §YPožadavek pracovníků na budovy:§! [?CZE_top_buildings_worker_requirement_modifier|%.2-]\n\nKoalice §0SPOLU§! vyhrála parlamentní volby v říjnu 2021 s 27,79 % hlasů. Následně začala koalice §0SPOLU§! vyjednávat o vládě s koalicí §gPiráti a Starostové§!." # todo: NEW TRANSLATION
+  CZE_petr_pavel_open_button_TT: "§YCesta Petra Pavla§!" # todo: NEW TRANSLATION
+  CZE_gen1_grey_TT: "Brigádní generál" # todo: NEW TRANSLATION
+  CZE_gen2_grey_TT: "Generálmajor" # todo: NEW TRANSLATION
+  CZE_gen3_grey_TT: "Generálporučík" # todo: NEW TRANSLATION
+  CZE_gen4_grey_TT: "Armádní generál" # todo: NEW TRANSLATION
+  CZE_gen1_yel_TT: "§YBrigádní generál§!" # todo: NEW TRANSLATION
+  CZE_gen2_yel_TT: "§YGenerálmajor§!" # todo: NEW TRANSLATION
+  CZE_gen3_yel_TT: "§YGenerálporučík§!" # todo: NEW TRANSLATION
+  CZE_gen4_yel_TT: "§YArmádní generál§!" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_tt: "[CZE_pavel_progress_bar_tt]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_normal_tt: "Aktuální pokrok tréninku: [?THIS.petr_pavel_training_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_extended_tt: "Aktuální pokrok tréninku: §Y100%§! (Extra body: [?THIS.petr_pavel_extra_training_points|.0%%Y]/§Y20%§!)" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_one_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_one_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_two_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_two_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_three_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_three_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_four_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_four_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_five_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_five_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_pavel_progress_bar_card_six_tt: "Aktuální pokrok tréninku karty: [?THIS.petr_pavel_card_six_points|%%Y]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_training_button_text_text: "TRÉNINK" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_main_button_text_text: "KARIÉRA" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_missions_button_text_text: "MISE" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_politics_button_text_text: "POLITIKA" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_training_button_text_TT: "Přepne do sekce tréninku" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_training_button_TT: "TRÉNINK" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_main_button_text_TT: "Přepne do sekce kariéry" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_main_button_TT: "KARIÉRA" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_politics_button_TT: "Přepne na politické mise" # todo: NEW TRANSLATION
+  CZE_petr_pavel_switch_to_missions_button_TT: "Přepne na vojenské mise" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_one_text_text: "Spojovací důstojník" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_two_text_text: "Speciální síly" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_three_text_text: "Trénink v poušti" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_four_text_text: "Defenzivní styl" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_five_text_text: "Ofenzivní styl" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_six_text_text: "Expert plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_one_button_TT: "§GSpojovací důstojník§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_one_button_delayed_TT: "Petr Pavel je dlouhodobě spojovacím důstojníkem. Už prošel mnoha školeními, ale stále jsou tu nové výzvy. Vojenská technika se neustále vyvíjí a zastaralé vybavení už není účinné proti modernímu nepříteli.\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_liaison_officer_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_two_button_TT: "§GSpeciální síly§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_two_button_delayed_TT: "Účast ve speciálních operacích vyžaduje velkou koncentraci, zkušenost a koordinaci s družstvem. Toto školení zlepší spolupráci s dalšími zkušenými vojáky a učiní z Petra Pavla ještě lepšího velitele.\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_special_forces_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_three_button_TT: "§GTrénink v poušti§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_three_button_delayed_TT: "Trénink v poušti dosud nehrál klíčovou roli. Nicméně to se může velmi brzy změnit. Afghánistán je pohlcen občanskou válkou a Blízký východ zůstává nestabilní. Není dobré tento typ výcviku podceňovat, protože se může za několik let hodit...\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_desert_training_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_four_button_TT: "§GDefenzivní styl§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_four_button_delayed_TT: "Petr Pavel je spojovací důstojník, expert na plánování, ale především stále hledá lepší způsoby, jak zajistit bezpečí své země. Armáda by měla být silná, aby chránila před jakýmkoli nepřítelem, a to je smyslem tohoto výcviku.\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_defensive_style_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_five_button_TT: "§GOfenzivní styl§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_five_button_delayed_TT: "I skvělý obránce a stratég musí umět dovést své vojáky k vítězství na bojišti. Tento trénink ukáže Petru Pavlovi, jak efektivně vést vojáky a prolomit obrannou linii nepřítele.\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_offensive_style_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_six_button_TT: "§GExpert plánování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_card_six_button_delayed_TT: "Petr Pavel je odborníkem na přípravu strategií a často spolupracuje s generály vyšších hodností na důležitých školeních a operacích. Je důležité vědět, jak udržet zemi v bezpečí, a to je možné jen s dokonalou strategií odstrašení.\n\nSoučasné zkušenosti poskytují následující výhody:\n[CZE_petr_pavel_planning_expert_loc]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_liaison_officer_loc_one: "§Y+3%§! §RSnížení organizace při pohybu§!\n§Y-2%§! §RPrůzkum§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_liaison_officer_loc_two: "§Y-2%§! §GSnížení organizace při pohybu§!\n§Y+2%§! §GPrůzkum§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_liaison_officer_loc_three: "§Y-4%§! §GSnížení organizace při pohybu§!\n§Y+5%§! §GPrůzkum§!\n§Y+1§! §GLogistická dovednost§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_liaison_officer_loc_four: "§Y-5%§! §GSnížení organizace při pohybu§!\n§Y+7%§! §GPrůzkum§!\n§Y+2§! §GLogistická dovednost§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_special_forces_loc_one: "§Y-6%§! §RSíla útoku speciálních sil§!\n§Y-4%§! §RSíla obrany speciálních sil§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_special_forces_loc_two: "§Y+1%§! §GSíla útoku speciálních sil§!\n§Y+2%§! §GSíla obrany speciálních sil§!\n§Y-1%§! §GSpotřeba zásob§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_special_forces_loc_three: "§Y+3%§! §GSíla útoku speciálních sil§!\n§Y+5%§! §GSíla obrany speciálních sil§!\n§Y-3%§! §GSpotřeba zásob§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_special_forces_loc_four: "§Y+4%§! §GSíla útoku speciálních sil§!\n§Y+8%§! §GSíla obrany speciálních sil§!\n§Y-5%§! §GSpotřeba zásob§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_desert_training_loc_one: "§Y+2%§! §HRychlost pohybu v poušti§!\n§Y+1%§! §HUtok v poušti§!\n§Y+1%§! §HObrana v poušti§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_desert_training_loc_two: "§Y+4%§! §HRychlost pohybu v poušti§!\n§Y+2%§! §HUtok v poušti§!\n§Y+3%§! §HObrana v poušti§!\n§Y+2%§! §HVysoká aklimatizace§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_desert_training_loc_three: "§Y+8%§! §HRychlost pohybu v poušti§!\n§Y+3%§! §HUtok v poušti§!\n§Y+5%§! §HObrana v poušti§!\n§Y+3%§! §HVysoká aklimatizace§!\n§Y+2%§! §HRedukce penalizace terénu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_desert_training_loc_four: "§Y+10%§! §HRychlost pohybu v poušti§!\n§Y+4%§! §HUtok v poušti§!\n§Y+7%§! §HObrana v poušti§!\n§Y+4%§! §HVysoká aklimatizace§!\n§Y+4%§! §HRedukce penalizace terénu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_defensive_style_loc_one: "§Y+2%§! §HObrana§!\n§Y+3%§! §HMaximální zarytí§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_defensive_style_loc_two: "§Y+3%§! §HSnížení organizace při pohybu§!\n§Y+5%§! §HPrůzkum§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_defensive_style_loc_three: "§Y+4%§! §HSnížení organizace při pohybu§!\n§Y+7%§! §HPrůzkum§!\n§Y+1§! §HDovednost obrany§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_defensive_style_loc_four: "§Y+5%§! §HSnížení organizace při pohybu§!\n§Y+9%§! §HPrůzkum§!\n§Y+2§! §HDovednost obrany§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_offensive_style_loc_one: "§Y-3%§! §RPrůlom§!\n§Y-4%§! §RTempo doplňování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_offensive_style_loc_two: "§Y+2%§! §HPrůlom§!\n§Y+1%§! §HTempo doplňování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_offensive_style_loc_three: "§Y+5%§! §HPrůlom§!\n§Y+3%§! §HTempo doplňování§!\n§Y+2§! §HMaximální velikost armády generála§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_offensive_style_loc_four: "§Y+7%§! §HPrůlom§!\n§Y+5%§! §HTempo doplňování§!\n§Y+4§! §HMaximální velikost armády generála§!\n§Y+1§! §HDovednost útoku§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_planning_expert_loc_one: "§Y-4%§! §RMaximální plánování§!\n§Y-8%§! §RRychlost plánování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_planning_expert_loc_two: "§Y-1%§! §RMaximální plánování§!\n§Y-2%§! §RRychlost plánování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_planning_expert_loc_three: "§Y+4%§! §HMaximální plánování§!\n§Y+7%§! §HRychlost plánování§!\n§Y+1§! §HDovednost plánování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_planning_expert_loc_four: "§Y+5%§! §HMaximální plánování§!\n§Y+11%§! §HRychlost plánování§!\n§Y+2§! §HDovednost plánování§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_training_info_text_text: "§YSekce tréninku§! slouží ke zvýšení Pavlových dovedností na bojišti. Každá §Ytréninková karta§! má různé bonusy, které se zvyšují s množstvím nabytých zkušeností. Zkušenosti s §Ytréninkovými kartami§! se zvyšují pouze, když je karta aktivní nebo je dokončen fokus/mise, která dává zkušenosti tomuto typu dovednosti. Když jsou aktivní, §Ytréninkové karty§! také zvyšují celkovou §Yúroveň tréninku§! ale pomaleji." # todo: NEW TRANSLATION
+  CZE_petr_pavel_training_info_two_text_text: "Petr Pavel má zavedený §Ysystém stárnutí§!. To znamená, že každý měsíc ztrácí body zkušeností v §Ysekci tréninku§!. Toto můžete kompenzovat neustálým tréninkem Petra Pavla a plněním misí/politických operací." # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_one: "Spojovací důstojník" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_two: "Spojovací důstojník" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_three: "Spojovací důstojník" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_four: "Spojovací důstojník" # todo: NEW TRANSLATION
+  CZE_skill_card_one_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_one: "Speciální síly" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_two: "Speciální síly" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_three: "Speciální síly" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_four: "Speciální síly" # todo: NEW TRANSLATION
+  CZE_skill_card_two_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_one: "Trénink v poušti" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_two: "Trénink v poušti" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_three: "Trénink v poušti" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_four: "Trénink v poušti" # todo: NEW TRANSLATION
+  CZE_skill_card_three_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_one: "Defenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_two: "Defenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_three: "Defenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_four: "Defenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_four_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_one: "Ofenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_two: "Ofenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_three: "Ofenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_four: "Ofenzivní styl" # todo: NEW TRANSLATION
+  CZE_skill_card_five_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_one: "Expert plánování" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_two: "Expert plánování" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_three: "Expert plánování" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_three_desc: "" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_four: "Expert plánování" # todo: NEW TRANSLATION
+  CZE_skill_card_six_trait_four_desc: "" # todo: NEW TRANSLATION
+  CZE_eastern_trait_one: "Plánovač posílené přítomnosti vpředu" # todo: NEW TRANSLATION
+  CZE_eastern_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_usa_trait_one: "Důstojník operace Trvalá svoboda" # todo: NEW TRANSLATION
+  CZE_usa_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_east_west_trait_one: "Podpora mise KFOR" # todo: NEW TRANSLATION
+  CZE_east_west_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_north_trait_one: "Operativní Brunssum" # todo: NEW TRANSLATION
+  CZE_north_trait_one_desc: "" # todo: NEW TRANSLATION
+  CZE_north_trait_two: "Plánovač SHAPE" # todo: NEW TRANSLATION
+  CZE_north_trait_two_desc: "" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_missions_text_text: "[CZE_petr_pavel_scripted_gui_missions_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_missions_scripted_text_one: "Vojenské mise mají silnější dopad na Pavlův trénink, ale také trvají déle. Tento typ misí se zaměřuje na vojenské operace a klíčová rozhodnutí.\n§RMůžete mít pouze 1 aktivní misi!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_politics_text_text: "[CZE_petr_pavel_scripted_gui_politics_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_politics_scripted_text_one: "Politické mise trvají kratší dobu, ale někdy mohou mít i silnější dopad než vojenské. Jsou zaměřeny převážně na plánování strategií a další operace.\n§RMůžete mít pouze 1 aktivní misi!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_button_text_text: "[CZE_petr_pavel_scripted_gui_north_flank_button_one_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_button_one_scripted_text_one: "Program obrany expedičních sil" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_button_one_scripted_text_two: "§GProgram obrany expedičních sil§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_button_delayed_text: "[CZE_petr_pavel_scripted_gui_north_flank_button_one_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_button_one_delayed_scripted_text_one: "Společné expediční síly (JEF) jsou vedené Spojeným královstvím a představují severoevropské vícenárodní vojenské partnerství určené pro rychlou reakci a expediční operace.\n\n§GPožadavky pro přijetí mise:§!\n  Jedna z následujících zemí: §Y[ENG.GetName]§!, §Y[DEN.GetName]§!, §Y[NOR.GetName]§!:\n    Je v alianci se §Y[USA.GetName]§! A je v míru\n\n  §Y[CZE.GetName]§!:\n    Je v alianci se §Y[USA.GetName]§! A je v míru\n\n  Po §Y2014§!\n\n§GDoba dokončení:§! §Y180§! dní\n\n§GOkamžitý efekt:§!\n  §YKaždá země splňující požadavky§!:\n    Obdrží událost [CZE.GetName] Sends Petr Pavel To Help In Exercises\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +9% bodů tréninku, +10% bodů Expert plánování a +6% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +5% Obrany a +5% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_button_one_delayed_scripted_text_two: "Společné expediční síly (JEF) jsou vedené Spojeným královstvím a představují severoevropské vícenárodní vojenské partnerství určené pro rychlou reakci a expediční operace.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_north_flank_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +9% bodů tréninku, +10% bodů Expert plánování a +6% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +5% Obrany a +5% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_button_one_delayed_scripted_text_three: "Společné expediční síly (JEF) jsou vedené Spojeným královstvím a představují severoevropské vícenárodní vojenské partnerství určené pro rychlou reakci a expediční operace.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_text_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_one_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_one_scripted_text_one: "Zástupce v Brunssumu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_one_scripted_text_two: "§GZástupce v Brunssumu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_delayed_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_one_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_one_delayed_scripted_text_one: "Allied Joint Force Command Brunssum (JFCBS) je velení NATO se sídlem v Brunssumu v Nizozemsku. Bylo zřízeno v roce 2004 jako součást reorganizace, která snížila počet velitelství v rámci vojenské struktury NATO.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[HOL.GetName]§! A §Y[CZE.GetName]§!:\n    Jsou ve frakci se §Y[USA.GetName]§!\n    Jsou v míru\n\n§GDoba dokončení:§! §Y120§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku\n    Získá vlastnost s +3% Max plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +4% rychlosti stavby bunkrů a +2% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_one_delayed_scripted_text_two: "Allied Joint Force Command Brunssum (JFCBS) je velení NATO se sídlem v Brunssumu v Nizozemsku. Bylo zřízeno v roce 2004 jako součást reorganizace, která snížila počet velitelství v rámci vojenské struktury NATO.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_north_flank_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku\n    Získá vlastnost s +3% Max plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +4% rychlosti stavby bunkrů a +2% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_one_delayed_scripted_text_three: "Allied Joint Force Command Brunssum (JFCBS) je velení NATO se sídlem v Brunssumu v Nizozemsku. Bylo zřízeno v roce 2004 jako součást reorganizace, která snížila počet velitelství v rámci vojenské struktury NATO.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_two_text_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_two_scripted_text_one: "Zástupce ve Walesu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_two_scripted_text_two: "§GZástupce ve Walesu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_two_delayed_scripted_text_one: "Summit NATO ve Walesu 2014 byl 25. summit hlav států a vlád členských zemí NATO, konaný v Newportu ve Walesu 4. a 5. září 2014. Takové summity jsou konány sporadicky a umožňují představitelům spojenců projednat aktuální záležitosti společného zájmu a plánovat strategické aktivity. Summit 2014 byl popisován admirál J. G. Stavridis jako nejdůležitější od pádu Berlínské zdi.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[CZE.GetName]§! A §Y[ENG.GetName]§!:\n    Jsou v alianci se §Y[USA.GetName]§!\n    Jsou v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YGenerálporučík§!\n\n§GDoba dokončení:§! §Y60§! dní\n\n§GOkamžitý efekt:§!\n  §Y[CZE.GetName]§! získá národní ideu Petr Pavel Zástupce ve Walesu (+10% zisku velení)\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku\n    Získá vlastnost Politicky propojený, pokud ji ještě nemá\n\n  §Y[CZE.GetName]§!:\n    Získá +30 limitu velení" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_two_delayed_scripted_text_two: "Summit NATO ve Walesu 2014 byl 25. summit hlav států a vlád členských zemí NATO, konaný v Newportu ve Walesu 4. a 5. září 2014. Takové summity jsou konány sporadicky a umožňují představitelům spojenců projednat aktuální záležitosti společného zájmu a plánovat strategické aktivity. Summit 2014 byl popisován admirál J. G. Stavridis jako nejdůležitější od pádu Berlínské zdi.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_north_flank_flag_three:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku\n    Získá vlastnost Politicky propojený, pokud ji ještě nemá\n\n  §Y[CZE.GetName]§!:\n    Získá +30 limitu velení" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_two_delayed_scripted_text_three: "Summit NATO ve Walesu 2014 byl 25. summit hlav států a vlád členských zemí NATO, konaný v Newportu ve Walesu 4. a 5. září 2014. Takové summity jsou konány sporadicky a umožňují představitelům spojenců projednat aktuální záležitosti společného zájmu a plánovat strategické aktivity. Summit 2014 byl popisován admirál J. G. Stavridis jako nejdůležitější od pádu Berlínské zdi.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_three_text_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_three_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_three_scripted_text_one: "Zástupce v SHAPE" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_three_scripted_text_two: "§GZástupce v SHAPE§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_flank_politics_button_three_delayed_text: "[CZE_petr_pavel_scripted_gui_north_flank_politics_button_three_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_three_delayed_scripted_text_one: "SHAPE (Supreme Headquarters Allied Powers Europe) je vojenské velení NATO Allied Command Operations (ACO), které řídí všechny operace NATO po celém světě. SHAPE sídlí v obci Casteau u Monsu v Belgii. Od roku 1951 do 2003 bylo SHAPE velitelstvím Allied Command Europe (ACE). Od roku 2003 je SHAPE velitelstvím ACO, které kontroluje operace NATO i mimo Evropu. Přestože se geografický rozsah jeho činnosti rozšířil, SHAPE si ponechalo tradiční název s odkazem na Evropu.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[CZE.GetName]§! A §Y[BEL.GetName]§!:\n    Jsou v alianci se §Y[USA.GetName]§!\n    Jsou v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YZástupce v SHAPE§!\n\n§GDoba dokončení:§! §Y240§! dní\n\n§GOkamžitý efekt:§!\n  žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů tréninku a +10% bodů Expert plánování\n    Získá vlastnost s +1 dovedností plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +6% Max plánování a +4% rychlosti plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_three_delayed_scripted_text_two: "SHAPE (Supreme Headquarters Allied Powers Europe) je vojenské velení NATO Allied Command Operations (ACO), které řídí všechny operace NATO po celém světě. SHAPE sídlí v obci Casteau u Monsu v Belgii. Od roku 1951 do 2003 bylo SHAPE velitelstvím Allied Command Europe (ACE). Od roku 2003 je SHAPE velitelstvím ACO, které kontroluje operace NATO i mimo Evropu. Přestože se geografický rozsah jeho činnosti rozšířil, SHAPE si ponechalo tradiční název s odkazem na Evropu.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_north_flank_flag_four:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů tréninku a +10% bodů Expert plánování\n    Získá vlastnost s +1 dovedností plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +6% Max plánování a +4% rychlosti plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_north_politics_button_three_delayed_scripted_text_three: "SHAPE (Supreme Headquarters Allied Powers Europe) je vojenské velení NATO Allied Command Operations (ACO), které řídí všechny operace NATO po celém světě. SHAPE sídlí v obci Casteau u Monsu v Belgii. Od roku 1951 do 2003 bylo SHAPE velitelstvím Allied Command Europe (ACE). Od roku 2003 je SHAPE velitelstvím ACO, které kontroluje operace NATO i mimo Evropu. Přestože se geografický rozsah jeho činnosti rozšířil, SHAPE si ponechalo tradiční název s odkazem na Evropu.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_button_text_text: "[CZE_petr_pavel_scripted_gui_east_south_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_button_scripted_text_one: "Operace Olivová větev" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_button_scripted_text_two: "§GOperace Olivová větev§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_button_delayed_text: "[CZE_petr_pavel_scripted_gui_east_south_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_button_delayed_scripted_text_one: "Operace Olivová větev byla přeshraniční vojenská operace provedená tureckými ozbrojenými silami a Syrskou národní armádou (SNA) v převážně kurdském distriktu Afrín v severozápadní Sýrii proti Jednotkám lidové ochrany (YPG) Syrských demokratických sil (SDF). Vzdušná válka a použití těžké dělostřelecké síly skončily, když arabské a turkmenské milice SNA vstoupily do města Afrín 18. března 2018 a začalo povstání SDF v severním Aleppu.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[TUR.GetName]§!:\n    Minimálně +35 vztahů s §Y[CZE.GetName]§!\n\n  §Y[SYR.GetName]§!:\n    Minimálně +35 vztahů s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YArmádní generál§!\n\n§GDoba dokončení:§! §Y260§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +20% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[TUR.GetName]§! a +35 vztahů s §Y[SYR.GetName]§!\n\n  §Y[TUR.GetName]§!:\n    Získá +35 vztahů s §Y[SYR.GetName]§!\n\n  §Y[SYR.GetName]§!:\n    Získá +15 vztahů s §Y[TUR.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_button_delayed_scripted_text_two: "Operace Olivová větev byla přeshraniční vojenská operace provedená tureckými ozbrojenými silami a Syrskou národní armádou (SNA) v převážně kurdském distriktu Afrín v severozápadní Sýrii proti Jednotkám lidové ochrany (YPG) Syrských demokratických sil (SDF). Vzdušná válka a použití těžké dělostřelecké síly skončily, když arabské a turkmenské milice SNA vstoupily do města Afrín 18. března 2018 a začalo povstání SDF v severním Aleppu.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_east_south_flank_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +20% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[TUR.GetName]§! a +35 vztahů s §Y[SYR.GetName]§!\n\n  §Y[TUR.GetName]§!:\n    Získá +35 vztahů s §Y[SYR.GetName]§!\n\n  §Y[SYR.GetName]§!:\n    Získá +15 vztahů s §Y[TUR.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_button_delayed_scripted_text_three: "Operace Olivová větev byla přeshraniční vojenská operace provedená tureckými ozbrojenými silami a Syrskou národní armádou (SNA) v převážně kurdském distriktu Afrín v severozápadní Sýrii proti Jednotkám lidové ochrany (YPG) Syrských demokratických sil (SDF). Vzdušná válka a použití těžké dělostřelecké síly skončily, když arabské a turkmenské milice SNA vstoupily do města Afrín 18. března 2018 a začalo povstání SDF v severním Aleppu.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_text_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_scripted_text_one: "Bílá kniha o obraně" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_scripted_text_two: "§GBílá kniha o obraně§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_delayed_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_delayed_scripted_text_one: "Bílá kniha poskytuje pokyny, návrhy a strategie, jak by země měla rozvíjet svůj obranný systém. Petr Pavel byl jedním z generálů, kteří se podíleli na psaní Bílé knihy pro obranný program České republiky. S ohledem na naše spojence můžeme požádat Maďarsko a Slovensko, zda by naše plány měly zahrnovat i jejich bezpečnost.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[HUN.GetName]§!:\n    Minimálně +25 vztahů s §Y[CZE.GetName]§!\n\n  §Y[SLO.GetName]§!:\n    Minimálně +25 vztahů s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Je v míru\n    Dokončil fokus §YWhite Book§!\n\n§GDoba dokončení:§! §Y75§! dní\n\n§GOkamžitý efekt:§!\n  §Y[HUN.GetName]§! a §Y[SLO.GetName]§! obdrží událost The New White Paper\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +4% bodů Defenzivního stylu a +6% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +6% obrany na jádrovém území, +5% Max plánování a +0.5 očekávaných výdajů na obranu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_delayed_scripted_text_one_two: "Bílá kniha poskytuje pokyny, návrhy a strategie, jak by země měla rozvíjet svůj obranný systém. Petr Pavel byl jedním z generálů, kteří se podíleli na psaní Bílé knihy pro obranný program České republiky. S ohledem na naše spojence můžeme požádat Maďarsko a Slovensko, zda by naše plány měly zahrnovat i jejich bezpečnost.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[HUN.GetName]§!:\n    Minimálně +25 vztahů s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Je v míru\n    Dokončil fokus §YWhite Book§!\n\n§GDoba dokončení:§! §Y75§! dní\n\n§GOkamžitý efekt:§!\n  §Y[HUN.GetName]§! a §Y[SLO.GetName]§! obdrží událost The New White Paper\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +4% bodů Defenzivního stylu a +6% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +6% obrany na jádrovém území, +5% Max plánování a +0.5 očekávaných výdajů na obranu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_delayed_scripted_text_two: "Bílá kniha poskytuje pokyny, návrhy a strategie, jak by země měla rozvíjet svůj obranný systém. Petr Pavel byl jedním z generálů, kteří se podíleli na psaní Bílé knihy pro obranný program České republiky. S ohledem na naše spojence můžeme požádat Maďarsko a Slovensko, zda by naše plány měly zahrnovat i jejich bezpečnost.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_east_south_flank_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +4% bodů Defenzivního stylu a +6% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +6% obrany na jádrovém území, +5% Max plánování a +0.5 očekávaných výdajů na obranu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_delayed_scripted_text_three: "Bílá kniha poskytuje pokyny, návrhy a strategie, jak by země měla rozvíjet svůj obranný systém. Petr Pavel byl jedním z generálů, kteří se podíleli na psaní Bílé knihy pro obranný program České republiky. S ohledem na naše spojence můžeme požádat Maďarsko a Slovensko, zda by naše plány měly zahrnovat i jejich bezpečnost.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_two_text_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_two_scripted_text_one: "Podpořit operaci KFOR" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_two_scripted_text_two: "§GPodpořit operaci KFOR§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_two_delayed_scripted_text_one: "Kosovské síly (KFOR) jsou misí NATO vedenou mezinárodními jednotkami v Kosovu. Jejich operace se postupně snižují, dokud se Kosovské bezpečnostní síly nestanou soběstačnými. KFOR vstoupil do Kosova 12. června 1999, den poté, co Rada bezpečnosti OSN přijala rezoluci 1244. V té době Kosovo čelilo vážné humanitární krizi, s vojenskými silami Jugoslávie zapojenými proti Osvobozenecké armádě Kosova (UÇK) v denních střetech.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[KOS.GetName]§!:\n    Minimálně +15 vztahů s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YGenerálmajor§!\n\n§GDoba dokončení:§! §Y80§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +17% bodů tréninku, +10% bodů Speciálních sil\n    Získá vlastnost s +6% rychlosti obnovy divize\n\n  §Y[CZE.GetName]§!:\n    Získá +35 vztahů s §Y[KOS.GetName]§!\n    Získá +7% zisku vztahů a +6% zisku armádních zkušeností" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_two_delayed_scripted_text_two: "Kosovské síly (KFOR) jsou misí NATO vedenou mezinárodními jednotkami v Kosovu. Jejich operace se postupně snižují, dokud se Kosovské bezpečnostní síly nestanou soběstačnými. KFOR vstoupil do Kosova 12. června 1999, den poté, co Rada bezpečnosti OSN přijala rezoluci 1244. V té době Kosovo čelilo vážné humanitární krizi, s vojenskými silami Jugoslávie zapojenými proti Osvobozenecké armádě Kosova (UÇK) v denních střetech.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_east_south_flank_flag_three:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +17% bodů tréninku, +10% bodů Speciálních sil\n    Získá vlastnost s +6% rychlosti obnovy divize\n\n  §Y[CZE.GetName]§!:\n    Získá +35 vztahů s §Y[KOS.GetName]§!\n    Získá +7% zisku vztahů a +6% zisku armádních zkušeností" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_two_delayed_scripted_text_three: "Kosovské síly (KFOR) jsou misí NATO vedenou mezinárodními jednotkami v Kosovu. Jejich operace se postupně snižují, dokud se Kosovské bezpečnostní síly nestanou soběstačnými. KFOR vstoupil do Kosova 12. června 1999, den poté, co Rada bezpečnosti OSN přijala rezoluci 1244. V té době Kosovo čelilo vážné humanitární krizi, s vojenskými silami Jugoslávie zapojenými proti Osvobozenecké armádě Kosova (UÇK) v denních střetech.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_three_text_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_three_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_three_scripted_text_one: "Operace Althea" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_three_scripted_text_two: "§GOperace Althea§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_flank_politics_button_three_delayed_text: "[CZE_petr_pavel_scripted_gui_east_south_politics_button_three_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_three_delayed_scripted_text_one: "Operace Althea, formálně Evropské síly pro Bosnu a Hercegovinu (EUFOR), je vojenské nasazení v Bosně a Hercegovině, které dohlíží na vojenskou realizaci Daytonské dohody. Je nástupcem sil NATO SFOR a IFOR. Přechod ze SFOR na EUFOR byl z velké části změnou názvu a velení: 80 % jednotek zůstalo na místě. SFOR byla nahrazena EUFOR 2. prosince 2004.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[BOS.GetName]§!:\n    Minimálně +10 vztahů s §Y[CZE.GetName]§!\n    Je v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YEUFOR Operation Althea§!\n\n§GDoba dokončení:§! §Y100§! dní\n\n§GOkamžitý efekt:§!\n  §Y[BOS.GetName]§! obdrží událost §Y[CZE.GetName]§! Interviews In The Althea Operation\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +4% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[BOS.GetName]§!\n    Získá +4% branné povinnosti" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_three_delayed_scripted_text_two: "Operace Althea, formálně Evropské síly pro Bosnu a Hercegovinu (EUFOR), je vojenské nasazení v Bosně a Hercegovině, které dohlíží na vojenskou realizaci Daytonské dohody. Je nástupcem sil NATO SFOR a IFOR. Přechod ze SFOR na EUFOR byl z velké části změnou názvu a velení: 80 % jednotek zůstalo na místě. SFOR byla nahrazena EUFOR 2. prosince 2004.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_east_south_flank_flag_four:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +4% bodů Defenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[BOS.GetName]§!\n    Získá +4% branné povinnosti" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_east_south_politics_button_three_delayed_scripted_text_three: "Operace Althea, formálně Evropské síly pro Bosnu a Hercegovinu (EUFOR), je vojenské nasazení v Bosně a Hercegovině, které dohlíží na vojenskou realizaci Daytonské dohody. Je nástupcem sil NATO SFOR a IFOR. Přechod ze SFOR na EUFOR byl z velké části změnou názvu a velení: 80 % jednotek zůstalo na místě. SFOR byla nahrazena EUFOR 2. prosince 2004.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_text_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_scripted_text_one: "Posílená přítomnost vpředu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_scripted_text_two: "§GPosílená přítomnost vpředu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_delayed_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_delayed_scripted_text_one: "Posílená přítomnost vpředu je nasazení aliančních sil NATO rozmístěných vpředu v severní, střední a východní Evropě jako obranná a odstrašující síla. Po ruské invazi na Krym se členové NATO dohodli na Varšavském summitu 2016 na rozmístění čtyř vícenárodních praporových skupin v oblastech nejvíce ohrožených útokem.\n\n§GPožadavky pro přijetí mise:§!\n  Jedna z následujících zemí: §Y[POL.GetName]§!, §Y[LIT.GetName]§!, §Y[LAT.GetName]§!, §Y[EST.GetName]§!:\n    Je ve frakci s §Y[CZE.GetName]§! a §Y[USA.GetName]§!\n    Je v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YArmádní generál§!\n\n  §Y[SOV.GetName]§!:\n    Není ve frakci s §Y[USA.GetName]§!\n    Plně ovládá [669.GetName]\n\n  Světové napětí je alespoň 20\n\n§GDoba dokončení:§! §Y280§! dní\n\n§GOkamžitý efekt:§!\n  §YKaždá země východního křídla splňující požadavky§!:\n    Obdrží událost [CZE.GetName] Sends Petr Pavel To Help Prepare Enhanced Forward Presence\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů Defenzivního stylu a +15% bodů Expert plánování\n    Získá vlastnost s +6% obrany a +6% rychlosti plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +8% rychlosti stavby bunkrů a +5% Obrany" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_delayed_scripted_text_two: "Posílená přítomnost vpředu je nasazení aliančních sil NATO rozmístěných vpředu v severní, střední a východní Evropě jako obranná a odstrašující síla. Po ruské invazi na Krym se členové NATO dohodli na Varšavském summitu 2016 na rozmístění čtyř vícenárodních praporových skupin v oblastech nejvíce ohrožených útokem.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_eastern_flank_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů Defenzivního stylu a +15% bodů Expert plánování\n    Získá vlastnost s +6% obrany a +6% rychlosti plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +8% rychlosti stavby bunkrů a +5% Obrany" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_delayed_scripted_text_three: "Posílená přítomnost vpředu je nasazení aliančních sil NATO rozmístěných vpředu v severní, střední a východní Evropě jako obranná a odstrašující síla. Po ruské invazi na Krym se členové NATO dohodli na Varšavském summitu 2016 na rozmístění čtyř vícenárodních praporových skupin v oblastech nejvíce ohrožených útokem.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_text_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_scripted_text_one: "Operace Atlantic Resolve" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_scripted_text_two: "§GOperace Atlantic Resolve§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_delayed_scripted_text_one: "Operace Atlantic Resolve byla financována v rámci European Deterrence Initiative. USA a Spojené království podnikly několik okamžitých kroků k posílení odstrašovací pozice podél východního křídla NATO, včetně zvýšení letecké, pozemní a námořní přítomnosti v regionu a rozšíření plánovaných cvičení.\nUSA popsaly tyto aktivity jako kroky ke zlepšení vojenských plánů NATO a obranných schopností a udržení trvalé přítomnosti ve střední a východní Evropě. Rotace Atlantic Resolve jsou řízeny regionálně přiděleným velitelstvím.\n\n§GPožadavky pro přijetí mise:§!\n  Jedna z následujících zemí: §Y[POL.GetName]§!, §Y[LIT.GetName]§!, §Y[LAT.GetName]§!, §Y[EST.GetName]§!:\n    Je ve frakci s §Y[CZE.GetName]§! a §Y[USA.GetName]§!\n    Je v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YGenerálporučík§!\n\n  §Y[SOV.GetName]§!:\n    Není ve frakci s §Y[USA.GetName]§!\n\n  Světové napětí je alespoň 20\n\n§GDoba dokončení:§! §Y280§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +16% bodů tréninku, +12% bodů Defenzivního stylu a +12% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +25 armádních a leteckých zkušeností\n    Získá +6% zisku armádních zkušeností, +4% Max plánování a +4% Obrany" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_delayed_scripted_text_two: "Operace Atlantic Resolve byla financována v rámci European Deterrence Initiative. USA a Spojené království podnikly několik okamžitých kroků k posílení odstrašovací pozice podél východního křídla NATO, včetně zvýšení letecké, pozemní a námořní přítomnosti v regionu a rozšíření plánovaných cvičení.\nUSA popsaly tyto aktivity jako kroky ke zlepšení vojenských plánů NATO a obranných schopností a udržení trvalé přítomnosti ve střední a východní Evropě. Rotace Atlantic Resolve jsou řízeny regionálně přiděleným velitelstvím.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_eastern_flank_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +16% bodů tréninku, +12% bodů Defenzivního stylu a +12% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +25 armádních a leteckých zkušeností\n    Získá +6% zisku armádních zkušeností, +4% Max plánování a +4% Obrany" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_button_two_delayed_scripted_text_three: "Operace Atlantic Resolve byla financována v rámci European Deterrence Initiative. USA a Spojené království podnikly několik okamžitých kroků k posílení odstrašovací pozice podél východního křídla NATO, včetně zvýšení letecké, pozemní a námořní přítomnosti v regionu a rozšíření plánovaných cvičení.\nUSA popsaly tyto aktivity jako kroky ke zlepšení vojenských plánů NATO a obranných schopností a udržení trvalé přítomnosti ve střední a východní Evropě. Rotace Atlantic Resolve jsou řízeny regionálně přiděleným velitelstvím.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_text_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_political_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_scripted_text_one: "Podpora baltského hlídkování vzdušného prostoru" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_scripted_text_two: "§GPodpora baltského hlídkování vzdušného prostoru§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_delayed_text: "[CZE_petr_pavel_scripted_gui_eastern_flank_political_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_delayed_scripted_text_one: "Mise baltského hlídkování vzdušného prostoru je operace NATO Quick Reaction Alert (QRA) k ochraně vzdušného prostoru nad třemi baltskými státy Estonskem, Lotyšskem a Litvou.\n\n§GPožadavky pro přijetí mise:§!\n  Jedna z následujících zemí: §Y[LIT.GetName]§!, §Y[LAT.GetName]§!, §Y[EST.GetName]§!:\n    Je ve frakci s §Y[CZE.GetName]§! a §Y[USA.GetName]§!\n    Je v míru\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YBrigádní generál§!\n\n§GDoba dokončení:§! §Y120§! dní\n\n§GOkamžitý efekt:§!\n  §YKaždá země východního křídla splňující požadavky§!:\n    Obdrží událost [CZE.GetName] Sends Petr Pavel To Help Coordinate Baltic Air Policing\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů tréninku, +5% bodů Defenzivního stylu a +4% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +30 leteckých zkušeností\n    Získá jednorázově -15% snížení nákladů na letecké doktríny" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_delayed_scripted_text_two: "Mise baltského hlídkování vzdušného prostoru je operace NATO Quick Reaction Alert (QRA) k ochraně vzdušného prostoru nad třemi baltskými státy Estonskem, Lotyšskem a Litvou.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_eastern_flank_flag_three:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +15% bodů tréninku, +5% bodů Defenzivního stylu a +4% bodů Expert plánování\n\n  §Y[CZE.GetName]§!:\n    Získá +30 leteckých zkušeností\n    Získá jednorázově -15% snížení nákladů na letecké doktríny" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_eastern_flank_political_button_delayed_scripted_text_three: "Mise baltského hlídkování vzdušného prostoru je operace NATO Quick Reaction Alert (QRA) k ochraně vzdušného prostoru nad třemi baltskými státy Estonskem, Lotyšskem a Litvou.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_text_text: "[CZE_petr_pavel_scripted_gui_usa_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_scripted_text_one: "Spojenecký důstojník CENTCOM" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_scripted_text_two: "§GSpojovací důstojník CENTCOM§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_delayed_text: "[CZE_petr_pavel_scripted_gui_usa_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_delayed_scripted_text_one: "United States Central Command (USCENTCOM nebo CENTCOM) je jedním z jedenácti sjednocených bojových velitelství Ministerstva obrany USA. Byl založen v roce 1983. Jeho oblast odpovědnosti zahrnuje Blízký východ (včetně Egypta v Africe), Střední Asii a části jižní Asie. Velení bylo hlavní americkou přítomností v mnoha vojenských operacích, včetně operace Pouštní bouře v roce 1991, války v Afghánistánu i války v Iráku v letech 2003–2011.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[USA.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Má válku s §Y[IRQ.GetName]§! NEBO je jeho loutkou\n    Má alespoň +20 vztahů s §Y[CZE.GetName]§!\n\n§GDoba dokončení:§! §Y60§! dní\n\n§GOkamžitý efekt:§!\n  §Y[USA.GetName]§! obdrží událost [CZE.GetName] Sends Petr Pavel To Coordinate 2nd Gulf War Efforts\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku a +8% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[USA.GetName]§!\n    Získá +6% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_delayed_scripted_text_two: "United States Central Command (USCENTCOM nebo CENTCOM) je jedním z jedenácti sjednocených bojových velitelství Ministerstva obrany USA. Byl založen v roce 1983. Jeho oblast odpovědnosti zahrnuje Blízký východ (včetně Egypta v Africe), Střední Asii a části jižní Asie. Velení bylo hlavní americkou přítomností v mnoha vojenských operacích, včetně operace Pouštní bouře v roce 1991, války v Afghánistánu i války v Iráku v letech 2003–2011.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_usa_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku a +8% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[USA.GetName]§!\n    Získá +6% Max plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_delayed_scripted_text_three: "United States Central Command (USCENTCOM nebo CENTCOM) je jedním z jedenácti sjednocených bojových velitelství Ministerstva obrany USA. Byl založen v roce 1983. Jeho oblast odpovědnosti zahrnuje Blízký východ (včetně Egypta v Africe), Střední Asii a části jižní Asie. Velení bylo hlavní americkou přítomností v mnoha vojenských operacích, včetně operace Pouštní bouře v roce 1991, války v Afghánistánu i války v Iráku v letech 2003–2011.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_text_text: "[CZE_petr_pavel_scripted_gui_usa_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_scripted_text_one: "Operace Trvalá svoboda" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_scripted_text_two: "§GOperace Trvalá svoboda§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_usa_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_delayed_scripted_text_one: "Operace Trvalá svoboda (OEF) byla oficiální název užívaný vládou USA pro první fázi (2001–2014) války v Afghánistánu (2001–2021) a širší válku proti terorismu. 7. října 2001 prezident George W. Bush oznámil, že byly zahájeny letecké údery cílící na Al-Káidu a Tálibán v Afghánistánu v reakci na útoky 11. září 2001.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[USA.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Došlo k velkému teroristickému útoku\n\n  §Y[TAL.GetName]§!:\n    Není ve frakci s §Y[CZE.GetName]§! ANO s §Y[USA.GetName]§!\n    Jedna z následujících možností:\n      Má válku s §Y[AFG.GetName]§!\n      Má salafistický výhled\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YOperation Enduring Freedom§!\n\n§GDoba dokončení:§! §Y360§! dní\n\n§GOkamžitý efekt:§!\n  §Y[USA.GetName]§! obdrží událost [CZE.GetName] Helps In War on Terror\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +22% bodů tréninku a +18% bodů Tréninku v poušti\n    Získá vlastnost s +5% vysoké aklimatizace a +5% rychlosti pohybu v poušti\n\n  §Y[CZE.GetName]§!:\n    Získá +35 vztahů s §Y[USA.GetName]§!\n    Získá +5% vysoké aklimatizace a -40 Salafistické akceptace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_delayed_scripted_text_two: "Operace Trvalá svoboda (OEF) byla oficiální název užívaný vládou USA pro první fázi (2001–2014) války v Afghánistánu (2001–2021) a širší válku proti terorismu. 7. října 2001 prezident George W. Bush oznámil, že byly zahájeny letecké údery cílící na Al-Káidu a Tálibán v Afghánistánu v reakci na útoky 11. září 2001.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_usa_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +22% bodů tréninku a +18% bodů Tréninku v poušti\n    Získá vlastnost s +5% vysoké aklimatizace a +5% rychlosti pohybu v poušti\n\n  §Y[CZE.GetName]§!:\n    Získá +35 vztahů s §Y[USA.GetName]§!\n    Získá +5% vysoké aklimatizace a -40 Salafistické akceptace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_button_two_delayed_scripted_text_three: "Operace Trvalá svoboda (OEF) byla oficiální název užívaný vládou USA pro první fázi (2001–2014) války v Afghánistánu (2001–2021) a širší válku proti terorismu. 7. října 2001 prezident George W. Bush oznámil, že byly zahájeny letecké údery cílící na Al-Káidu a Tálibán v Afghánistánu v reakci na útoky 11. září 2001.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_text_text: "[CZE_petr_pavel_scripted_gui_usa_politics_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_scripted_text_one: "Setkání na Pentagonu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_scripted_text_two: "§GSetkání na Pentagonu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_delayed_text: "[CZE_petr_pavel_scripted_gui_usa_politics_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_delayed_scripted_text_one: "Pentagon je sídlem Ministerstva obrany Spojených států ve Virginii u Washingtonu. Je to jedna z největších administrativních budov na světě s charakteristickým pětiúhelníkovým tvarem. Byla dokončena v roce 1943 během druhé světové války a sloužila jako operační centrum amerických ozbrojených sil.\n\nObsahuje vojenské i civilní kanceláře ministerstva a také velitelství nejdůležitějších amerických vojenských příkazů. Je to klíčové centrum strategického plánování.\n\nPetr Pavel je schopen spolupracovat s nejdůležitějšími americkými stratégy, což mu bezpochyby pomůže se dále zlepšit.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[USA.GetName]§!:\n    Je ve frakci s §Y[CZE.GetName]§!\n\n§GDoba dokončení:§! §Y45§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +5% bodů tréninku a +6% bodů Expert plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_delayed_scripted_text_two: "Pentagon je sídlem Ministerstva obrany Spojených států ve Virginii u Washingtonu. Je to jedna z největších administrativních budov na světě s charakteristickým pětiúhelníkovým tvarem. Byla dokončena v roce 1943 během druhé světové války a sloužila jako operační centrum amerických ozbrojených sil.\n\nObsahuje vojenské i civilní kanceláře ministerstva a také velitelství nejdůležitějších amerických vojenských příkazů. Je to klíčové centrum strategického plánování.\n\nPetr Pavel je schopen spolupracovat s nejdůležitějšími americkými stratégy, což mu bezpochyby pomůže se dále zlepšit.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_usa_flag_three:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +5% bodů tréninku a +6% bodů Expert plánování" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_usa_politics_button_delayed_scripted_text_three: "Pentagon je sídlem Ministerstva obrany Spojených států ve Virginii u Washingtonu. Je to jedna z největších administrativních budov na světě s charakteristickým pětiúhelníkovým tvarem. Byla dokončena v roce 1943 během druhé světové války a sloužila jako operační centrum amerických ozbrojených sil.\n\nObsahuje vojenské i civilní kanceláře ministerstva a také velitelství nejdůležitějších amerických vojenských příkazů. Je to klíčové centrum strategického plánování.\n\nPetr Pavel je schopen spolupracovat s nejdůležitějšími americkými stratégy, což mu bezpochyby pomůže se dále zlepšit.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_text_text: "[CZE_petr_pavel_scripted_gui_russia_politics_button_one_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_one_scripted_text_one: "Ulehčení vztahů" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_one_scripted_text_two: "§GUlehčení vztahů§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_delayed_text: "[CZE_petr_pavel_scripted_gui_russia_politics_button_one_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_one_delayed_scripted_text_one: "Rusko opět znovu projevuje agresivnější kroky. Nemůžeme dovolit, aby se situace dále vyostřovala, a dobrým krokem je udržet s touto zemí alespoň solidní vztahy.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[SOV.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Není ve frakci s §Y[CZE.GetName]§!\n    Plně ovládá §Y[669.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YGenerálporučík§!\n\n§GDoba dokončení:§! §Y60§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku\n    Získá vlastnost Expert delegátor (pokud ji ještě nemá)\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[SOV.GetName]§!\n    Získá +15 vynořené akceptace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_one_delayed_scripted_text_two: "Rusko opět znovu projevuje agresivnější kroky. Nemůžeme dovolit, aby se situace dále vyostřovala, a dobrým krokem je udržet s touto zemí alespoň solidní vztahy.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_russia_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku\n    Získá vlastnost Expert delegátor (pokud ji ještě nemá)\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[SOV.GetName]§!\n    Získá +15 vynořené akceptace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_politics_button_one_delayed_scripted_text_three: "Rusko opět znovu projevuje agresivnější kroky. Nemůžeme dovolit, aby se situace dále vyostřovala, a dobrým krokem je udržet s touto zemí alespoň solidní vztahy.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_text_text: "[CZE_petr_pavel_scripted_gui_russia_button_one_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_one_scripted_text_one: "Diplomatická delegace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_one_scripted_text_two: "§GDiplomatická delegace§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_delayed_text: "[CZE_petr_pavel_scripted_gui_russia_button_one_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_one_delayed_scripted_text_one: "Rusko je země, kterou je třeba neustále sledovat. Pošleme Petra Pavla na diplomatickou misi, aby udržoval naše vztahy na dobré úrovni.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[SOV.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YGenerálmajor§!\n\n§GDoba dokončení:§! §Y40§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +7% bodů tréninku\n    Získá vlastnost Expert delegátor (pokud ji ještě nemá)\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[SOV.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_one_delayed_scripted_text_two: "Rusko je země, kterou je třeba neustále sledovat. Pošleme Petra Pavla na diplomatickou misi, aby udržoval naše vztahy na dobré úrovni.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_russia_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +7% bodů tréninku\n    Získá vlastnost Expert delegátor (pokud ji ještě nemá)\n\n  §Y[CZE.GetName]§!:\n    Získá +30 vztahů s §Y[SOV.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_russia_button_one_delayed_scripted_text_three: "Rusko je země, kterou je třeba neustále sledovat. Pošleme Petra Pavla na diplomatickou misi, aby udržoval naše vztahy na dobré úrovni.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_text_text: "[CZE_petr_pavel_scripted_gui_qatar_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_scripted_text_one: "Druhá válka v zálivu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_scripted_text_two: "§GDruhá válka v zálivu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_delayed_text: "[CZE_petr_pavel_scripted_gui_qatar_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_delayed_scripted_text_one: "Druhá válka v zálivu byla rychlou invazí do Iráku, která později způsobila osmiletou válku na okupovaném území. Během invaze spolupracoval Petr Pavel s americkými silami z Kataru jako spojovací důstojník. Byl také tím, kdo varoval vysoké velení před možností útoku s biologickými zbraněmi ze strany Iráku.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[USA.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Má válku s §Y[IRQ.GetName]§!\n\n  §Y[QAT.GetName]§!:\n    Minimálně +10 vztahů s §Y[CZE.GetName]§!\n\n  §YPetr Pavel§!:\n    Nekompletně misi §RHelp In 2nd Gulf War Efforts§!\n\n§GDoba dokončení:§! §Y20§! dní\n\n§GOkamžitý efekt:§!\n  §Y[USA.GetName]§! a §Y[QAT.GetName]§! obdrží událost [CZE.GetName] Sends Petr Pavel To Qatar\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku, +8% bodů Tréninku v poušti a +8% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[QAT.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_delayed_scripted_text_two: "Druhá válka v zálivu byla rychlou invazí do Iráku, která později způsobila osmiletou válku na okupovaném území. Během invaze spolupracoval Petr Pavel s americkými silami z Kataru jako spojovací důstojník. Byl také tím, kdo varoval vysoké velení před možností útoku s biologickými zbraněmi ze strany Iráku.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_qatar_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +12% bodů tréninku, +8% bodů Tréninku v poušti a +8% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[QAT.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_button_delayed_scripted_text_three: "Druhá válka v zálivu byla rychlou invazí do Iráku, která později způsobila osmiletou válku na okupovaném území. Během invaze spolupracoval Petr Pavel s americkými silami z Kataru jako spojovací důstojník. Byl také tím, kdo varoval vysoké velení před možností útoku s biologickými zbraněmi ze strany Iráku.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_text_text: "[CZE_petr_pavel_scripted_gui_qatar_politics_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_scripted_text_one: "Udržet vztahy po 2. válce v zálivu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_scripted_text_two: "§GUdržet vztahy po 2. válce v zálivu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_delayed_text: "[CZE_petr_pavel_scripted_gui_qatar_politics_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_delayed_scripted_text_one: "Po 2. válce v zálivu by bylo dobré udržet dobré vztahy s Katarem, pro případ, že by nastaly neočekávané události.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[QAT.GetName]§!:\n    Minimálně +20 vztahů s §Y[CZE.GetName]§!\n\n  §YPetr Pavel§!:\n    Nekompletně misi §RHelp In 2nd Gulf War Efforts§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YBrigádní generál§!\n\n  Po §Y2003.1.1§!\n\n§GDoba dokončení:§! §Y30§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +4% bodů tréninku\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[QAT.GetName]§!\n    Získá +5% zisku vztahů" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_delayed_scripted_text_two: "Po 2. válce v zálivu by bylo dobré udržet dobré vztahy s Katarem, pro případ, že by nastaly neočekávané události.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_qatar_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +4% bodů tréninku\n\n  §Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[QAT.GetName]§!\n    Získá +5% zisku vztahů" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_qatar_politics_button_delayed_scripted_text_three: "Po 2. válce v zálivu by bylo dobré udržet dobré vztahy s Katarem, pro případ, že by nastaly neočekávané události.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_text_text: "[CZE_petr_pavel_scripted_gui_iraq_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_button_scripted_text_one: "Pomoc v úsilí 2. války v zálivu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_button_scripted_text_two: "§GPomoc v úsilí 2. války v zálivu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_delayed_text: "[CZE_petr_pavel_scripted_gui_iraq_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_button_delayed_scripted_text_one: "Amerika neměla právo napadnout Irák. Naše vláda má stejný názor a bez ohledu na to, zda jsou našimi spojenci nebo ne, je třeba toto agresivní chování zastavit.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[IRQ.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Má válku se §Y[USA.GetName]§!\n    Minimálně +25 vztahů s §Y[CZE.GetName]§!\n\n  §YPetr Pavel§!:\n    Nekompletně misi §R2nd Gulf War§!\n\n§GDoba dokončení:§! §Y20§! dní\n\n§GOkamžitý efekt:§!\n  §Y[USA.GetName]§! a §Y[IRQ.GetName]§! obdrží událost [CZE.GetName] Sends Petr Pavel To Iraq\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +14% bodů Tréninku v poušti a +12% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[IRQ.GetName]§! a -40 vztahů s §Y[USA.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_button_delayed_scripted_text_two: "Amerika neměla právo napadnout Irák. Naše vláda má stejný názor a bez ohledu na to, zda jsou našimi spojenci nebo ne, je třeba toto agresivní chování zastavit.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_iraq_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +6% bodů tréninku, +14% bodů Tréninku v poušti a +12% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[IRQ.GetName]§! a -40 vztahů s §Y[USA.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_button_delayed_scripted_text_three: "Amerika neměla právo napadnout Irák. Naše vláda má stejný názor a bez ohledu na to, zda jsou našimi spojenci nebo ne, je třeba toto agresivní chování zastavit.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_text_text: "[CZE_petr_pavel_scripted_gui_iraq_politics_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_button_scripted_text_one: "Blízký pohled na vlády" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_button_scripted_text_two: "§GBlízký pohled na vlády§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_delayed_text: "[CZE_petr_pavel_scripted_gui_iraq_politics_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_button_delayed_scripted_text_one: "Irák hodně utrpěl v důsledku této války. Měli by vědět, že mají naši podporu. Petr Pavel již dříve dobře spolupracoval během Druhé války v zálivu, tak ho tam pošleme znovu.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[IRQ.GetName]§!:\n    Je v míru\n    Minimálně +25 vztahů s §Y[CZE.GetName]§!\n\n  §YPetr Pavel§!:\n    Dokončil misi §GPomoc v úsilí 2. války v zálivu§!\n\n§GDoba dokončení:§! §Y45§! dní\n\n§GOkamžitý efekt:§!\n  Žádný\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +7% bodů tréninku, +2% bodů Tréninku v poušti a +5% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[IRQ.GetName]§! a -30 vztahů s §Y[USA.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_button_delayed_scripted_text_two: "Irák hodně utrpěl v důsledku této války. Měli by vědět, že mají naši podporu. Petr Pavel již dříve dobře spolupracoval během Druhé války v zálivu, tak ho tam pošleme znovu.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_iraq_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +7% bodů tréninku, +2% bodů Tréninku v poušti a +5% bodů Spojovacího důstojníka\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[IRQ.GetName]§! a -30 vztahů s §Y[USA.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_iraq_politics_button_delayed_scripted_text_three: "Irák hodně utrpěl v důsledku této války. Měli by vědět, že mají naši podporu. Petr Pavel již dříve dobře spolupracoval během Druhé války v zálivu, tak ho tam pošleme znovu.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_text_text: "[CZE_petr_pavel_scripted_gui_afghanistan_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_scripted_text_one: "Mezinárodní síly pro podporu bezpečnosti" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_scripted_text_two: "§GMezinárodní síly pro podporu bezpečnosti§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_delayed_text: "[CZE_petr_pavel_scripted_gui_afghanistan_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_delayed_scripted_text_one: "International Security Assistance Force (ISAF) je vícenárodní vojenská mise v Afghánistánu. Hlavním cílem ISAF bylo školit Afghánské národní bezpečnostní síly (ANSF) a pomoci Afghánistánu při obnově klíčových vládních institucí; postupně se zapojila i do širší války proti povstalcům Tálibánu.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[AFG.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Nemá salafistický výhled\n    Má válku s §Y[TAL.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YBrigádní generál§!\n\n§GDoba dokončení:§! §Y260§! dní\n\n§GOkamžitý efekt:§!\n  §Y[AFG.GetName]§! obdrží událost [CZE.GetName] Sends Petr Pavel To Help In The War\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku a +12% bodů Tréninku v poušti\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[AFG.GetName]§!\n    Získá +4% redukce penalizace terénu a +4% vysoké aklimatizace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_delayed_scripted_text_two: "International Security Assistance Force (ISAF) je vícenárodní vojenská mise v Afghánistánu. Hlavním cílem ISAF bylo školit Afghánské národní bezpečnostní síly (ANSF) a pomoci Afghánistánu při obnově klíčových vládních institucí; postupně se zapojila i do širší války proti povstalcům Tálibánu.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_afghanistan_flag_one:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku a +12% bodů Tréninku v poušti\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[AFG.GetName]§!\n    Získá +4% redukce penalizace terénu a +4% vysoké aklimatizace" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_delayed_scripted_text_three: "International Security Assistance Force (ISAF) je vícenárodní vojenská mise v Afghánistánu. Hlavním cílem ISAF bylo školit Afghánské národní bezpečnostní síly (ANSF) a pomoci Afghánistánu při obnově klíčových vládních institucí; postupně se zapojila i do širší války proti povstalcům Tálibánu.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_text_text: "[CZE_petr_pavel_scripted_gui_afghanistan_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_scripted_text_one: "Plán proti Tálibanu" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_scripted_text_two: "§GPlán proti Tálibanu§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_afghanistan_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_delayed_scripted_text_one: "Navzdory našim snahám Afghánistán stále potřebuje pomoc. Předchozí školení umožní Petru Pavlovi naplánovat velkou útočnou operaci. To bude důležitý test v Pavlově kariéře a pokud ho projde, válka by mohla skončit mnohem rychleji.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[AFG.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Nemá salafistický výhled\n    Má válku s §Y[TAL.GetName]§!\n\n  §YPetr Pavel§!:\n    Dokončil politickou misi §YStrategy To Win Against Talibans§!, kde §Y[AFG.GetName]§! přijal Pavlův nový plán\n\n§GDoba dokončení:§! §Y220§! dní\n\n§GOkamžitý efekt:§!\n  §Y[AFG.GetName]§! obdrží událost Petr Pavel Připravuje Útočný Plán\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku, +12% bodů Expert plánování a +8% bodů Ofenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[AFG.GetName]§! a -50 vztahů s §Y[TAL.GetName]§!\n    Získá +30 velení" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_delayed_scripted_text_two: "Navzdory našim snahám Afghánistán stále potřebuje pomoc. Předchozí školení umožní Petru Pavlovi naplánovat velkou útočnou operaci. To bude důležitý test v Pavlově kariéře a pokud ho projde, válka by mohla skončit mnohem rychleji.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_afghanistan_flag_two:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +14% bodů tréninku, +12% bodů Expert plánování a +8% bodů Ofenzivního stylu\n\n  §Y[CZE.GetName]§!:\n    Získá +25 vztahů s §Y[AFG.GetName]§! a -50 vztahů s §Y[TAL.GetName]§!\n    Získá +30 velení" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_button_two_delayed_scripted_text_three: "Navzdory našim snahám Afghánistán stále potřebuje pomoc. Předchozí školení umožní Petru Pavlovi naplánovat velkou útočnou operaci. To bude důležitý test v Pavlově kariéře a pokud ho projde, válka by mohla skončit mnohem rychleji.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_text_text: "[CZE_petr_pavel_scripted_gui_afghanistan_political_button_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_scripted_text_one: "Operace Resolute Support" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_scripted_text_two: "§GOperace Resolute Support§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_delayed_text: "[CZE_petr_pavel_scripted_gui_afghanistan_political_button_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_delayed_scripted_text_one: "Resolute Support Mission (RSM) nebo Operace Resolute Support byla mise NATO vedená jako nástupce ISAF. Začala 1. ledna 2015 jako následnická mise a byla nebojovou operací zaměřenou na poradenství a výcvik afghánských bezpečnostních sil pro dlouhodobou bezpečnost země.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[AFG.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Nemá salafistický výhled\n    Má alespoň +30 vztahů s §Y[CZE.GetName]§!\n\n  §Y[CZE.GetName]§!:\n    Dokončil fokus §YArmádní generál§!\n\n  Po §Y2015.1.1§!\n\n§GDoba dokončení:§! §Y120§! dní\n\n§GOkamžitý efekt:§!\n  §Y[CZE.GetName]§! získá +10% zisku vztahů\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +10% bodů tréninku, +12% bodů Expert plánování\n    Získá vlastnost Organizátor (pokud ji ještě nemá)\n\n§Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[AFG.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_delayed_scripted_text_two: "Resolute Support Mission (RSM) nebo Operace Resolute Support byla mise NATO vedená jako nástupce ISAF. Začala 1. ledna 2015 jako následnická mise a byla nebojovou operací zaměřenou na poradenství a výcvik afghánských bezpečnostních sil pro dlouhodobou bezpečnost země.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_afghanistan_flag_three:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +10% bodů tréninku, +12% bodů Expert plánování\n    Získá vlastnost Organizátor (pokud ji ještě nemá)\n\n§Y[CZE.GetName]§!:\n    Získá +20 vztahů s §Y[AFG.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_delayed_scripted_text_three: "Resolute Support Mission (RSM) nebo Operace Resolute Support byla mise NATO vedená jako nástupce ISAF. Začala 1. ledna 2015 jako následnická mise a byla nebojovou operací zaměřenou na poradenství a výcvik afghánských bezpečnostních sil pro dlouhodobou bezpečnost země.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_text_text: "[CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_scripted_text_one: "Strategie jak porazit Tálibán" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_scripted_text_two: "§GStrategie jak porazit Tálibán§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_delayed_text: "[CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_delayed_scripted_text]" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_delayed_scripted_text_one: "Válka proti Tálibanu nekončí. Je čas začít připravovat novou strategii, jak Tálibán znovu zatlačit. Bohužel potřebujeme souhlas afghánského velení, aby jsme mohli takovou operaci provést. Pokud odmítnou, Petr Pavel bude muset po této misi ukončit svůj výcvik v Afghánistánu.\n\n§GPožadavky pro přijetí mise:§!\n  §Y[AFG.GetName]§!:\n    Je v míru s §Y[CZE.GetName]§!\n    Nemá salafistický výhled\n    Má alespoň +25 vztahů s §Y[CZE.GetName]§!\n\n§GDoba dokončení:§! §Y75§! dní\n\n§GOkamžitý efekt:§!\n  §Y[AFG.GetName]§! obdrží událost Petr Pavel Chce Připravit Novou Strategii\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +8% bodů tréninku a +12% bodů Expert plánování\n\n§Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[AFG.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_delayed_scripted_text_two: "Válka proti Tálibanu nekončí. Je čas začít připravovat novou strategii, jak Tálibán znovu zatlačit. Bohužel potřebujeme souhlas afghánského velení, aby jsme mohli takovou operaci provést. Pokud odmítnou, Petr Pavel bude muset po této misi ukončit svůj výcvik v Afghánistánu.\n\n§GDoba dokončení:§! [?CZE_petr_pavel_afghanistan_flag_four:days_left|0Y] dní\n\n§GEfekt po dokončení:§!\n  §YPetr Pavel§!:\n    Získá +8% bodů tréninku a +12% bodů Expert plánování\n\n§Y[CZE.GetName]§!:\n    Získá +15 vztahů s §Y[AFG.GetName]§!" # todo: NEW TRANSLATION
+  CZE_petr_pavel_scripted_gui_afghanistan_political_button_two_delayed_scripted_text_three: "Válka proti Tálibanu nekončí. Je čas začít připravovat novou strategii, jak Tálibán znovu zatlačit. Bohužel potřebujeme souhlas afghánského velení, aby jsme mohli takovou operaci provést. Pokud odmítnou, Petr Pavel bude muset po této misi ukončit svůj výcvik v Afghánistánu.\n\n§GUKONČENO!§!" # todo: NEW TRANSLATION
+  CZE_debt_unification: "Toto rozhodnutí bude mít efekt, když se sjednotíme s Maďarskem a Rakouskem" # todo: NEW TRANSLATION
+  CZE_adaptation_to_urban_fight_tactics_modifier: "Adaptace na taktiky městského boje" # todo: NEW TRANSLATION
+  CZE_skoda_laboratories_modifier: "Laboratoře Škoda" # todo: NEW TRANSLATION
+  CZE_skoda_superb_productivity_modifier: "£GFX_CZE_skoda_small Produktivita vozů Škoda Superb" # todo: NEW TRANSLATION
+  CZE_petr_pavel_modifier: "Mise Petra Pavla" # todo: NEW TRANSLATION
+  CZE_642_name: "Kraj Královecký" # todo: NEW TRANSLATION
+  CZE_SLO_open_political_court: "Otevřít politický soud" # todo: NEW TRANSLATION
+  CZE_SLO_open_political_court_desc: "Po rozpadu Československa se Česká republika a Slovensko staly nezávislými státy. Obě země sdílejí kulturu, historii a vztahy. Jejich současné politické cíle se mohou lišit, ale stále sdílejí některé společné programy. Jedna země může ovlivňovat obě, a možná jednoho dne bude reintegrace znovu možná." # todo: NEW TRANSLATION
+  CZE_SLO_start_looking_into_the_future: "Začít se dívat do budoucnosti" # todo: NEW TRANSLATION
+  CZE_SLO_start_looking_into_the_future_desc: "Komunismus byl z Evropy zcela vyřazen, je čas opustit staré tradice a směřovat k demokratickým a nezávislým postojům." # todo: NEW TRANSLATION
+  CZE_SLO_question_divide: "Zpochybnit rozdělení" # todo: NEW TRANSLATION
+  CZE_SLO_question_divide_desc: "Komunistický režim oslaboval náš národ, což nás donutilo se rozdělit a téměř úplně zkolabovat... Možná když se opravdu snažíme, můžeme se znovu stát jednou zemí." # todo: NEW TRANSLATION
+  CZE_SLO_close_up_of_the_governments: "Blízký pohled na vlády" # todo: NEW TRANSLATION
+  CZE_SLO_close_up_of_the_governments_desc: "Obě vlády sdílejí společné cíle a jen mírně odlišné názory. Můžeme se pokusit více se navzájem sladit." # todo: NEW TRANSLATION
+  CZE_SLO_economic_aid: "Hospodářská pomoc" # todo: NEW TRANSLATION
+  CZE_SLO_economic_aid_desc: "Posílení průmyslu vyžaduje mnoho prostředků. Náš soused má potíže, tak mu pomozme penězi." # todo: NEW TRANSLATION
+  CZE_SLO_upgrade_industrial_sector: "Modernizovat průmyslový sektor" # todo: NEW TRANSLATION
+  CZE_SLO_upgrade_industrial_sector_desc: "Náš průmysl byl velmi zaměřen na vojenský sektor. Měli bychom se místo toho zaměřit na civilní průmysl." # todo: NEW TRANSLATION
+  CZE_SLO_stop_border_controls: "Zrušit hraniční kontroly" # todo: NEW TRANSLATION
+  CZE_SLO_stop_border_controls_desc: "Není potřeba naše národy dál oddělovat. Hraniční omezení jsou zbytečná." # todo: NEW TRANSLATION
+  CZE_SLO_d1_highway_construction: "Výstavba dálnice D1" # todo: NEW TRANSLATION
+  CZE_SLO_d1_highway_construction_desc: "Technicky existují 2 dálnice D1. Jedna v České republice, druhá na Slovensku. Společně je konečně dokončíme." # todo: NEW TRANSLATION
+  CZE_SLO_discuss_about_european_union: "Diskuse o Evropské unii" # todo: NEW TRANSLATION
+  CZE_SLO_discuss_about_european_union_desc: "Známá Evropská unie. Je to dobré, ale možná bychom měli zvážit neutrálnější cestu." # todo: NEW TRANSLATION
+  CZE_SLO_protect_democratic_values: "Chránit demokratické hodnoty" # todo: NEW TRANSLATION
+  CZE_SLO_protect_democratic_values_desc: "Lépe je zůstat s ostatní Evropou. Obě země z toho budou mít prospěch." # todo: NEW TRANSLATION
+  CZE_SLO_stay_neutral: "Zůstat neutrální" # todo: NEW TRANSLATION
+  CZE_SLO_stay_neutral_desc: "Naše národy se dobře rozvíjejí bez pomoci EU. Budeme v pořádku." # todo: NEW TRANSLATION
+  CZE_SLO_further_eu_integration: "Další integrace s EU" # todo: NEW TRANSLATION
+  CZE_SLO_further_eu_integration_desc: "Čím více budeme přátelští s zeměmi EU, tím větší šance, že budou přijati naši členství v budoucnu." # todo: NEW TRANSLATION
+  CZE_SLO_focus_on_internal_sphere: "Zaměřit se na vnitřní oblast" # todo: NEW TRANSLATION
+  CZE_SLO_focus_on_internal_sphere_desc: "Naše národy mají nepřátele zvenčí, ale také uvnitř hranic. Musíme zůstat silní a nenechat nepřátele ovlivňovat naše rozhodnutí." # todo: NEW TRANSLATION
+  CZE_SLO_secure_common_interests: "Zajistit společné zájmy" # todo: NEW TRANSLATION
+  CZE_SLO_secure_common_interests_desc: "Měli bychom ušetřit peníze a snížit dluhy. Pomůže nám to v dalším rozvoji." # todo: NEW TRANSLATION
+  CZE_SLO_nato_problem: "Problém NATO" # todo: NEW TRANSLATION
+  CZE_SLO_nato_problem_desc: "NATO je aliance, která vyvíjí vysoký tlak na rozvoj armády, zvláště v větších zemích. Ale mít velkou armádu není nutné. Měli bychom zvážit více vnitřní řešení." # todo: NEW TRANSLATION
+  CZE_SLO_mutual_army_training: "Společné vojenské cvičení" # todo: NEW TRANSLATION
+  CZE_SLO_mutual_army_training_desc: "Češi a Slováci bojovali společně v mnoha konfliktech. Měli bychom se znovu spojit a bojovat společně." # todo: NEW TRANSLATION
+  CZE_SLO_join_nato_conflicts: "Zapojit se do konfliktů NATO" # todo: NEW TRANSLATION
+  CZE_SLO_join_nato_conflicts_desc: "Síly NATO zasahují v mnoha dnešních konfliktech. Můžeme se k nim připojit a získat mnoho vojenských zkušeností." # todo: NEW TRANSLATION
+  CZE_SLO_regional_protectionism: "Regionální protekcionismus" # todo: NEW TRANSLATION
+  CZE_SLO_regional_protectionism_desc: "Československo vždy preferovalo defenzivní řešení. Měli bychom se soustředit na regionální protekcionismus místo zapojení do globálních konfliktů." # todo: NEW TRANSLATION
+  CZE_SLO_connect_army_doctrines: "Propojit vojenské doktríny" # todo: NEW TRANSLATION
+  CZE_SLO_connect_army_doctrines_desc: "Naše doktríny jsou podobné, ale mírně odlišné. To lze snadno vyřešit zavedením společné doktríny." # todo: NEW TRANSLATION
+  CZE_SLO_re_integration_project: "Projekt reintegrace" # todo: NEW TRANSLATION
+  CZE_SLO_re_integration_project_desc: "Jsme rozděleni už příliš dlouho. Je čas to vzít vážně a začít projekt reintegrace, který umožní našim národům znovu se spojit pod jednou vlajkou." # todo: NEW TRANSLATION
+  CZE_SLO_begin_reforming_czechoslovakia: "Zahájit reformu Československa" # todo: NEW TRANSLATION
+  CZE_SLO_begin_reforming_czechoslovakia_desc: "Náš plán předpokládá pokojné sjednocení obou zemí. Musíme přesvědčit lidi, že je to dobrý nápad, připravit nová zákonná opatření a získat podporu v armádě, aby to nevypadalo jako zrada... Máme mnoho práce, tak pojďme na to!" # todo: NEW TRANSLATION
+  CZE_SLO_no_more_dividing: "Ukončit rozdělování" # todo: NEW TRANSLATION
+  CZE_SLO_no_more_dividing_desc: "Jsme konečně připraveni sjednotit naše národy. Poslední krok je na našem sousedovi. Pokud přijme naši nabídku, Československo znovu povstane." # todo: NEW TRANSLATION
+  CZE_SLO_defensive_posture: "Defenzivní postoj" # todo: NEW TRANSLATION
+  CZE_SLO_defensive_posture_desc: "Československo vždy preferovalo defenzivní doktríny. Důležitější je chránit náš národ než napadat jiné země." # todo: NEW TRANSLATION
+  CZE_SLO_bring_back_sudetenland_forts: "Vrátit pevnosti Sudetska" # todo: NEW TRANSLATION
+  CZE_SLO_bring_back_sudetenland_forts_desc: "Německo je... komplikovaný soused. Předchozí Československo ztratilo kontrolu nad Sudetskem dříve, než moglo použít jejich vynikající obrannou linii. To se už nebude opakovat." # todo: NEW TRANSLATION
+  CZE_SLO_improve_strategic_targets: "Zlepšit strategické cíle" # todo: NEW TRANSLATION
+  CZE_SLO_improve_strategic_targets_desc: "Naše zahraniční hlavní města jsou nyní nejdůležitější strategické body k obraně. Zajistíme, aby nikdo nemohl překonat jejich opevnění." # todo: NEW TRANSLATION
+  CZE_SLO_advantage_of_mountain_areas: "Využití horských oblastí" # todo: NEW TRANSLATION
+  CZE_SLO_advantage_of_mountain_areas_desc: "Sudetsko v Česku a Karpaty na Slovensku. Máme ideální krajinu pro výcvik horolezců a posílení těžko průchodných horských průsmyků." # todo: NEW TRANSLATION
+  CZE_SLO_homeland_defence: "Obrana vlasti" # todo: NEW TRANSLATION
+  CZE_SLO_homeland_defence_desc: "Naši vojáci se dříve cvičili pouze na území své země. Teď máme dvě země v jedné. Krajina je podobná, ale naše armáda se musí naučit chránit každý kousek naší země." # todo: NEW TRANSLATION
+  CZE_SLO_power_of_the_two_economies: "Síla dvou ekonomik" # todo: NEW TRANSLATION
+  CZE_SLO_power_of_the_two_economies_desc: "Česká republika má silné průmyslové společnosti jako Škoda a Tatra. Slovensko také rozvíjí automobilový průmysl. Pokud naše firmy začnou spolupracovat, můžeme mít větší dopad na trh než německé Volkswagen." # todo: NEW TRANSLATION
+  CZE_SLO_blur_industrial_differences: "Zatarasit průmyslové rozdíly" # todo: NEW TRANSLATION
+  CZE_SLO_blur_industrial_differences_desc: "Některé regiony se rozvinuly rychleji než jiné. Nový stavební program pomůže rozvinout slabší regiony a rozptýlit průmysl, což ztíží nepříteli zničit naši ekonomiku v případě války." # todo: NEW TRANSLATION
+  CZE_SLO_slovakian_nuclear_reactors: "Slovenské jaderné reaktory" # todo: NEW TRANSLATION
+  CZE_SLO_slovakian_nuclear_reactors_desc: "S pomocí českých vědců může slovenský region zlepšit své jaderné reaktory a připravit se na výstavbu nového reaktorového bloku." # todo: NEW TRANSLATION
+  CZE_SLO_take_advantage_of_green_energy: "Využít zelenou energii" # todo: NEW TRANSLATION
+  CZE_SLO_take_advantage_of_green_energy_desc: "Obnovitelná energie je budoucností naší země i celého světa. Jaderné reaktory jsou skvělým nízko až bezemisním zdrojem energie. Musíme se snažit propagovat tento způsob výroby energie." # todo: NEW TRANSLATION
+  CZE_SLO_intensify_coal_extraction: "Intenzivně dolovat uhlí" # todo: NEW TRANSLATION
+  CZE_SLO_intensify_coal_extraction_desc: "Stále máme mnoho uhlí, plynu a dalších přírodních zdrojů pod nohama. Než přejdeme na zelenou energii, stojí za to vytěžit tyto doly a neplýtvat těmito zdroji." # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakian_army: "Československá armáda" # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakian_army_desc: "Vždy jsme stáli za vnitřní bezpečností a strategií odstrašení. A co jsme tím získali? Německou a sovětskou okupaci. Defenzivní styl nás zklamal, takže je čas udělat obrat o 180 stupňů a připravit armádu na ofenzivní přístup." # todo: NEW TRANSLATION
+  CZE_SLO_military_concerns: "Vojenské obavy" # todo: NEW TRANSLATION
+  CZE_SLO_military_concerns_desc: "VOP CZ je známým výrobcem vojenských vozidel v Česku. Pomůžeme jim vyvinout lepší a rychlejší systémy, aby naše armáda také rostla rychleji." # todo: NEW TRANSLATION
+  CZE_SLO_always_be_ready_for_war: "Vždy být připraven na válku" # todo: NEW TRANSLATION
+  CZE_SLO_always_be_ready_for_war_desc: "Nepřítel může zaútočit, když to nečekáme. Odteď nás nic nepřekvapí." # todo: NEW TRANSLATION
+  CZE_SLO_begin_smaller_demands: "Začít s menšími požadavky" # todo: NEW TRANSLATION
+  CZE_SLO_begin_smaller_demands_desc: "Všichni něco požadovali od nás, teď budeme něco požadovat od NICH. Pokusíme se získat naše dávno ztracené území." # todo: NEW TRANSLATION
+  CZE_SLO_claim_zaolzi: "Požadovat Zaolzí" # todo: NEW TRANSLATION
+  CZE_SLO_claim_zaolzi_desc: "Polsko, Polsko, Polsko... Zaolzí by mělo být naše, stejně jako polovina vašeho jižního regionu." # todo: NEW TRANSLATION
+  CZE_SLO_forever_together: "Navždy spolu" # todo: NEW TRANSLATION
+  CZE_SLO_forever_together_desc: "Nedávné reformy a vojenské změny skvěle sedly na náš společný styl. Československo je skutečně reformované a nic nás už nerozdělí." # todo: NEW TRANSLATION
+  CZE_SLO_regional_dominance: "Regionální dominance" # todo: NEW TRANSLATION
+  CZE_SLO_regional_dominance_desc: "Jsme lepší než náš soused. Sdílení moci s nimi by pro nás bylo příliš problematické, musíme převzít iniciativu." # todo: NEW TRANSLATION
+  CZE_SLO_diplomatic_proposition: "Diplomatická nabídka" # todo: NEW TRANSLATION
+  CZE_SLO_diplomatic_proposition_desc: "Než je přesvědčíme ke sjednocení, můžeme jim navrhnout, aby se vzdali bez boje." # todo: NEW TRANSLATION
+  CZE_SLO_rapid_intervention: "Rychlá intervence" # todo: NEW TRANSLATION
+  CZE_SLO_rapid_intervention_desc: "Diplomacie nám s tímto projektem nepomůže. Je čas použít surovější metody." # todo: NEW TRANSLATION
+  CZE_SLO_new_dawn_of_czechoslovakia: "Nový úsvit Československa" # todo: NEW TRANSLATION
+  CZE_SLO_new_dawn_of_czechoslovakia_desc: "Naše země se znovu spojily. Je čas reformovat naše dávno ztracené Československo, tentokrát s novým vedením." # todo: NEW TRANSLATION
+  CZE_SLO_far_reaching_ambitions: "Dalekosáhlé ambice" # todo: NEW TRANSLATION
+  CZE_SLO_far_reaching_ambitions_desc: "Co nám teď brání získat zpět naše stará území a jít ještě dál? Pokojný úsvit tisíciletí je dávno pryč." # todo: NEW TRANSLATION
+  CZE_SLO_demand_zaolzie: "Požadovat Zaolzí" # todo: NEW TRANSLATION
+  CZE_SLO_demand_zaolzie_desc: "Polsko si toto území nárokovalo před desetiletími. To bylo nespravedlivé, ale nebojte. Zaolzí vrátíme!" # todo: NEW TRANSLATION
+  CZE_SLO_restore_sudetenland_forts: "Obnovit pevnosti Sudetska" # todo: NEW TRANSLATION
+  CZE_SLO_restore_sudetenland_forts_desc: "Německu nelze věřit. Jeden z předchozích... ehm, vlád Československa nedokázal bránit zemi před cizími nájezdníky. Nikdo už nebude požadovat naši podmanění bez následků!" # todo: NEW TRANSLATION
+  CZE_SLO_western_charge: "Západní útok" # todo: NEW TRANSLATION
+  CZE_SLO_western_charge_desc: "NATO zaplatí za to, že nás ponechalo pod komunistickým režimem téměř 41 let! Připravte se, Západní Evropo, přicházíme!" # todo: NEW TRANSLATION
+  CZE_SLO_ensure_dominance_in_the_center_europe: "Zajistit dominanci ve střední Evropě" # todo: NEW TRANSLATION
+  CZE_SLO_ensure_dominance_in_the_center_europe_desc: "Naši nejbližší sousedé nás mnohokrát napadli. Porazili jsme Maďarsko, ale nikdo nevrátí naše padlé vojáky a civilisty. Každý zaplatí za chyby svých předchozích vlád!" # todo: NEW TRANSLATION
+  CZE_SLO_protect_the_karpaty_mountains: "Chránit Karpaty" # todo: NEW TRANSLATION
+  CZE_SLO_protect_the_karpaty_mountains_desc: "Ukrajina je silná země, ale region Karpat není velký a při útoku z více stran může být snadno dobyt. Musíme posílit horské průsmyky." # todo: NEW TRANSLATION
+  CZE_SLO_eastern_charge: "Východní útok" # todo: NEW TRANSLATION
+  CZE_SLO_eastern_charge_desc: "41 let... 41 let komunistického režimu. Rusko vždy mělo imperialistické ambice. Ať už to byla SSSR nebo Ruská federace, nová vláda je vždy horší než ta předchozí. Už žádné utlačování, čas jim konečně oplatit!" # todo: NEW TRANSLATION
+  CZE_SLO_post_unification_chaos: "Chaotické období po sjednocení" # todo: NEW TRANSLATION
+  CZE_SLO_post_unification_chaos_desc: "Naše agresivní diplomacie zanechala mnoho nespokojených a nevyřízených dokumentů. Asi bychom měli ten chaos napravit..." # todo: NEW TRANSLATION
+  CZE_SLO_media_propaganda: "Mediální propaganda" # todo: NEW TRANSLATION
+  CZE_SLO_media_propaganda_desc: "Lidé uvěří všemu, co jim televize ukáže. Můžeme také použít internet k ovlivnění důvěryhodných stránek." # todo: NEW TRANSLATION
+  CZE_SLO_form_new_parliament: "Zformovat nový parlament" # todo: NEW TRANSLATION
+  CZE_SLO_form_new_parliament_desc: "Pokud do parlamentu dosadíme politiky z našeho připojeného souseda, získáme více přijetí z jejich strany a pomohou nám stabilizovat administrativu." # todo: NEW TRANSLATION
+  CZE_SLO_ensure_loyalty_in_the_army: "Zajistit loajalitu v armádě" # todo: NEW TRANSLATION
+  CZE_SLO_ensure_loyalty_in_the_army_desc: "Existuje jistý český generál, Petr Pavel. Nechce se účastnit našeho zásahu, ale mám pocit, že by v budoucnu mohl způsobit mnoho problémů... Armáda se bouří a musíme tomu zabránit, pokud nechceme být svrženi." # todo: NEW TRANSLATION
+  CZE_SLO_return_of_the_heavy_industry: "Návrat těžkého průmyslu" # todo: NEW TRANSLATION
+  CZE_SLO_return_of_the_heavy_industry_desc: "Český region má mnoho vojenských podniků, které v minulém století vyráběly vojenskou techniku. Kontaktujme je a obnovme některé jejich továrny." # todo: NEW TRANSLATION
+  CZE_SLO_new_skoda_works_factory: "Nová továrna Škoda Works" # todo: NEW TRANSLATION
+  CZE_SLO_new_skoda_works_factory_desc: "Škoda dříve vyráběla vojenská vozidla a mechanizované nákladní vozy. Uvidíme, zda si stále pamatují, jak tento typ techniky vyrábět." # todo: NEW TRANSLATION
+  CZE_SLO_restoration_of_the_zbrojovka_brno: "Obnova Zbrojovky Brno" # todo: NEW TRANSLATION
+  CZE_SLO_restoration_of_the_zbrojovka_brno_desc: "Zbrojovka Brno je výrobce malorážných zbraní v Brně, vlastněný skupinou Colt-CZ. V minulosti vyráběla i lehké dělostřelectvo, automobily, motocykly, traktory a různá nářadí, jako psací stroje a rané počítače." # todo: NEW TRANSLATION
+  CZE_SLO_modernized_tanks_production: "Výroba modernizovaných tanků" # todo: NEW TRANSLATION
+  CZE_SLO_modernized_tanks_production_desc: "Díky starým plánům Škody můžeme modernizovat jejich prototypy a přizpůsobit je nejnovějším podmínkám války." # todo: NEW TRANSLATION
+  CZE_SLO_cooperation_with_vop_cz: "Spolupráce s VOP CZ" # todo: NEW TRANSLATION
+  CZE_SLO_cooperation_with_vop_cz_desc: "VOP CZ stále působí v České republice. Tato společnost nikdy neopustila výrobu zbraní a budou skvělými partnery ke spolupráci." # todo: NEW TRANSLATION
+  CZE_SLO_mass_equipment_production: "Hromadná výroba vybavení" # todo: NEW TRANSLATION
+  CZE_SLO_mass_equipment_production_desc: "Někdy musíme naše továrny zrychlit za cenu zvýšené doby výstavby." # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakia_category: "Situace Československa" # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakia_category_desc: "Československo bylo vytvořeno po kapitulaci Ústředních mocností na konci první světové války. Rychle se stalo jednou z stabilnějších zemí v Evropě, než bylo anektováno III. říší rok před druhou světovou válkou. To bylo první rozdělení, když byly vytvořeny země Protektorát Čechy a Morava a Slovenská republika. Válka opět skončila porážkou Německa a Československo bylo obnoveno jako Třetí československá republika.\n\nV roce 1948 Sovětský svaz umožnil zavedení svého vlivu a nastolil komunistický režim, přejmenoval Třetí československou republiku na Československou socialistickou republiku. Země následovala protikomunistické protesty v roce 1989, které vyústily v sametovou revoluci a svržení komunismu. 61 let komunistického podrobení destabilizovalo zemi a rozdělilo lidi, což vedlo k rozpadu Československa 31. prosince 1992. Česká republika a Slovensko se staly nezávislými státy s dvěma rozdílnými vládami, hranicemi a diplomacií.\n\nAle lidé zůstali stejní, stejně jako jejich kultura a historie. Rozdělení bylo nevyhnutelné o několik let dříve, ale dnes, když se situace opět stabilizuje, možná je příležitost k opětovnému spojení a s malým rozhodným tlakem se dvě země mohou stát opět jednou." # todo: NEW TRANSLATION
+  CZE_SLO_stop_reunification: "Zastavit znovusjednocení" # todo: NEW TRANSLATION
+  CZE_SLO_stop_reunification_desc: "Návrat Československa nepřinese našim národům nic dobrého. Zastavme tento proces dříve, než bude pozdě." # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector: "§COtevřený sektor sociální péče§!" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_desc: "Lidé se rozdělili kvůli rozdělení. Musíme spolupracovat, pokud chceme znovu vytvořit jednotný národ." # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_close: "§UZavřít sektor sociální péče§!" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_announce_cooperation_in_media: "Ohlásit spolupráci v médiích" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_organize_common_events: "Uspořádat společné akce" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_increase_culture_expenditure: "Zvýšit výdaje na kulturu" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_decrease_opinion_mission: "§RKlesnutí podpory obyvatel§!" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_decrease_opinion_mission_desc: "Naše vynucené zásahy udělaly lidem radost... Možná bude potřeba uklidnit masy." # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_seek_support_among_politicians: "Hledat podporu mezi politiky" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_sector_media_propaganda: "Mediální propaganda" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector: "§OOtevřený právní sektor§!" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_desc: "Máme dvě ústavy, ale jsou velmi podobné. Naše země vytvořily různé vlády a zavedly odlišné zákony. Musíme tyto rozdíly rozmazat a sjednotit právo." # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_close: "§OZavřít právní sektor§!" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_change_the_criminal_law: "Sloučit trestní právo" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_change_the_constitutional_law: "Upravit ústavní právo" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_change_the_civil_law: "Změnit občanské právo" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_change_the_labor_law: "Nový zákoník práce" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_decrease_opinion_mission: "§RKlesnutí podobnosti zákonů§!" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_decrease_opinion_mission_desc: "Protože jsme připojili souseda bez sloučení zákonů, administrativa je nyní v totálním chaosu. Pokud neuspořádáme úřady a parlament, proměníme se v anarchii!" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_quick_law_change: "Rychlá změna zákonů" # todo: NEW TRANSLATION
+  CZE_SLO_law_sector_reform_the_administration: "Reforma administrativy" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector: "§GOtevřený vojenský sektor§!" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_close: "§GZavřít vojenský sektor§!" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_organize_new_training_program: "Zorganizovat nový výcvikový program" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_mutual_officer_trainings: "Vzájemné výcviky důstojníků" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_decrease_opinion_mission: "§RKlesnutí vojenské podpory§!" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_real_enemy_is_outside_our_borders: "Skutečný nepřítel je za hranicemi" # todo: NEW TRANSLATION
+  CZE_SLO_military_sector_organize_military_structure: "Přeorganizovat vojenskou strukturu" # todo: NEW TRANSLATION
+  CZE_SLO_slovakian_nuclear_research: "Česko-slovenský jaderný výzkum" # todo: NEW TRANSLATION
+  CZE_SLO_slovakian_nuclear_research_desc: "Region České republiky má mnohem lepší reaktory než slovenský. Aby se slovenské reaktory přiblížily české technologii, čeští jaderní vědci budou spolupracovat se Slovákem na jejich vylepšení." # todo: NEW TRANSLATION
+  CZE_SLO_improved_slovakian_nuclear_fuel: "Vylepšené slovenské jaderné palivo" # todo: NEW TRANSLATION
+  CZE_SLO_begin_construction_of_new_nuclear_reactor: "Zahájit výstavbu nového jaderného reaktoru" # todo: NEW TRANSLATION
+  CZE_SLO_event.1.t: "Nabídka vzájemné garance" # todo: NEW TRANSLATION
+  CZE_SLO_event.1.d: "Sousední vláda se snaží pokračovat ve společných vztazích mezi našimi zeměmi a chce zajistit, že zůstaneme přátelé i po rozdělení Československa. Nabízejí nám pakt o neútočení, který zahrnuje záruku nezávislosti." # todo: NEW TRANSLATION
+  CZE_SLO_event.1.a: "Jistě" # todo: NEW TRANSLATION
+  CZE_SLO_event.1.b: "Máme jiné plány" # todo: NEW TRANSLATION
+  CZE_SLO_event.2.t: "Program další spolupráce s NATO" # todo: NEW TRANSLATION
+  CZE_SLO_event.2.d: "Naše země se musí konečně rozhodnout, na které straně stát. NATO se zaměřuje na vojenský výcvik a regionální ochranu, ale Evropa je v současnosti téměř kontinentem míru, takže možná je lepší investovat více do policie než do armády." # todo: NEW TRANSLATION
+  CZE_SLO_event.2.a: "Naše armáda by měla být silnější" # todo: NEW TRANSLATION
+  CZE_SLO_event.2.b: "Policie je dnes důležitější" # todo: NEW TRANSLATION
+  CZE_SLO_event.3.t: "[FROM.GetName] Volí Zvýšené vojenské výcviky" # todo: NEW TRANSLATION
+  CZE_SLO_event.3.d: "[FROM.GetName] se rozhodla více integrovat s členskými zeměmi NATO a zvýšit intenzitu vojenských výcviků, aby byla lépe připravena v případě války. Měli bychom zvolit tuto doktrínu taky?" # todo: NEW TRANSLATION
+  CZE_SLO_event.3.a: "Přidáme se k nim" # todo: NEW TRANSLATION
+  CZE_SLO_event.3.b: "Blbost" # todo: NEW TRANSLATION
+  CZE_SLO_event.4.t: "[FROM.GetName] Volí Zvýšenou podporu policejních sil" # todo: NEW TRANSLATION
+  CZE_SLO_event.4.d: "[FROM.GetName] se rozhodla rozvíjet policejní síly místo integrace s jinými členskými státy NATO. Pro ně je vnitřní bezpečnost důležitější než příprava na válku, která možná nikdy nepřijde. Přidáme se k nim?" # todo: NEW TRANSLATION
+  CZE_SLO_event.4.a: "Přidáme se k nim" # todo: NEW TRANSLATION
+  CZE_SLO_event.4.b: "Blbost" # todo: NEW TRANSLATION
+  CZE_SLO_event.5.t: "Československo se rozpadlo!" # todo: NEW TRANSLATION
+  CZE_SLO_event.5.d: "Nedávno reformované Československo nezvládlo narůstající napětí vyvolané vynuceným sjednocením. [CZE.GetName] a [SLO.GetName] se opět staly dvěma nezávislými státy a země, která vynutila sjednocení, nyní bojuje s velkým hospodářským kolapsem." # todo: NEW TRANSLATION
+  CZE_SLO_event.5.a: "..." # todo: NEW TRANSLATION
+  CZE_SLO_event.5.b: "To byl hloupý nápad" # todo: NEW TRANSLATION
+  CZE_SLO_event.6.t: "Návrh na reformu Československa!" # todo: NEW TRANSLATION
+  CZE_SLO_event.6.d: "Náš soused převzal iniciativu a rozhodl se uskutečnit společné cíle o obnovení Československa. Jejich vláda říká, že vše připravili a budou řídit nově vzniklý parlament a státní struktury, ale obě země z toho budou těžit. Pokud podepíšeme papír, Československo bude obnoveno a naše národy budou znovu pod jednou vlajkou." # todo: NEW TRANSLATION
+  CZE_SLO_event.6.a: "Čekali jsme na to tak dlouho!" # todo: NEW TRANSLATION
+  CZE_SLO_event.6.b: "Ne, už se nikdy nesjednotíme" # todo: NEW TRANSLATION
+  CZE_SLO_event.7.t: "Československo je zpět na mapě!" # todo: NEW TRANSLATION
+  CZE_SLO_event.7.d: "Česká republika a Slovensko se rozhodly znovu spojit pod jednou vlajkou. Země, která padla po svržení komunistického režimu, je nyní zpět na mapě." # todo: NEW TRANSLATION
+  CZE_SLO_event.7.a: "Po všech těch letech..." # todo: NEW TRANSLATION
+  CZE_SLO_event.7.b: "Wooooooo!!!!!" # todo: NEW TRANSLATION
+  CZE_SLO_event.8.t: "[FROM.GetName] Odmítá sjednocení" # todo: NEW TRANSLATION
+  CZE_SLO_event.8.d: "[FROM.GetName] se rozhodl v tuto chvíli nesjednotit. Česká republika a Slovensko zůstanou rozděleny až do doby, než se jiný politik pokusí je znovu sjednotit." # todo: NEW TRANSLATION
+  CZE_SLO_event.8.a: "Zaplatí za to..." # todo: NEW TRANSLATION
+  CZE_SLO_event.8.b: "Nedá se s tím nic dělat" # todo: NEW TRANSLATION
+  CZE_SLO_event.9.t: "Československo požaduje [701.GetName]" # todo: NEW TRANSLATION
+  CZE_SLO_event.9.d: "Československo je relativně starý stát. [701.GetName] původně patřilo jim, když získali nezávislost po první světové válce. Ztratili toto území po druhé světové válce a bylo připojeno k Sovětskému svazu. Nyní je na našem území, ale možná tento malý kousek území nestojí za další válku." # todo: NEW TRANSLATION
+  CZE_SLO_event.9.a: "Je to jejich" # todo: NEW TRANSLATION
+  CZE_SLO_event.9.b: "No né" # todo: NEW TRANSLATION
+  CZE_SLO_event.10.t: "Československo znovu získává [701.GetName]!" # todo: NEW TRANSLATION
+  CZE_SLO_event.10.d: "Československo získalo kontrolu nad bývalým územím, které jim bylo násilně odebráno před dekádami. Někteří lidé říkají, že je to jen začátek jejich požadavků, ale momentálně to nevypadá nebezpečně..." # todo: NEW TRANSLATION
+  CZE_SLO_event.10.a: "Perfektní" # todo: NEW TRANSLATION
+  CZE_SLO_event.10.b: "Dobře?" # todo: NEW TRANSLATION
+  CZE_SLO_event.11.t: "[FROM.GetName] Odmítá!" # todo: NEW TRANSLATION
+  CZE_SLO_event.11.d: "[FROM.GetName] odmítl naši nabídku převést naše dávno ztracené území [701.GetName] pod naši správu. Napětí mezi Československem a [FROM.GetName] je velmi vysoké a tento malý konflikt se může rozvinout až v plnohodnotnou válku." # todo: NEW TRANSLATION
+  CZE_SLO_event.11.a: "Ještě to nekončí!" # todo: NEW TRANSLATION
+  CZE_Army_2000.01.t: "Modernizovat český park BVP" # todo: NEW TRANSLATION
+  CZE_Army_2000.01.d: "Modernizace Armády České republiky se stala naléhavou záležitostí a naše zastaralé podvozky obrněných transportérů (BVP) je třeba nahradit. Musíme nyní rozhodnout, zda zajistit špičkové modely od našich sousedů, nebo vyvinout vlastní domácí konstrukci. Každá volba má své strategické výhody a kompromise. Měli bychom spoléhat na rakouskou vojenskou technologii, obrátit se na Polsko pro blízké regionální partnerství, nebo investovat do vývoje vlastní domácí produkce?" # todo: NEW TRANSLATION
+  CZE_divided_society3_idea: "Integrace společnosti" # todo: NEW TRANSLATION
+  CZE_SLO_government_cooperation_idea: "Spolupráce vlád" # todo: NEW TRANSLATION
+  CZE_SLO_industrial_innovations_idea: "Průmyslové inovace" # todo: NEW TRANSLATION
+  CZE_SLO_european_aspirations_idea: "Evropské aspirace" # todo: NEW TRANSLATION
+  CZE_SLO_independent_growth_idea: "Nezávislý růst" # todo: NEW TRANSLATION
+  CZE_SLO_european_export_center_idea: "Evropské exportní centrum" # todo: NEW TRANSLATION
+  CZE_SLO_internal_sphere_protection_idea: "Ochrana vnitřní sféry" # todo: NEW TRANSLATION
+  CZE_SLO_nato_training_idea: "Program výcviku NATO" # todo: NEW TRANSLATION
+  CZE_SLO_bunker_construction_idea: "Výstavba bunkrů" # todo: NEW TRANSLATION
+  CZE_SLO_reinforced_bunkers_idea: "Vyztužené bunkry" # todo: NEW TRANSLATION
+  CZE_SLO_mutual_doctrine_program_idea: "Program vzájemné doktríny" # todo: NEW TRANSLATION
+  CZE_SLO_increased_culture_expenditure_idea: "Zvýšené výdaje na kulturu" # todo: NEW TRANSLATION
+  CZE_SLO_welfare_idea: "Nestabilní populace" # todo: NEW TRANSLATION
+  CZE_SLO_welfare2_idea: "Stabilní populace" # todo: NEW TRANSLATION
+  CZE_SLO_post_collapse_people_idea: "Zkolabovaná společnost" # todo: NEW TRANSLATION
+  CZE_SLO_law_idea: "Rozdělená administrativa" # todo: NEW TRANSLATION
+  CZE_SLO_law2_idea: "Organizovaná administrativa" # todo: NEW TRANSLATION
+  CZE_SLO_post_collapse_law_idea: "Anarchistická správa" # todo: NEW TRANSLATION
+  CZE_SLO_new_administration_idea: "Nový systém správy" # todo: NEW TRANSLATION
+  CZE_SLO_military_idea: "Vzpoura armády" # todo: NEW TRANSLATION
+  CZE_SLO_military2_idea: "Loyalní armáda" # todo: NEW TRANSLATION
+  CZE_SLO_post_collapse_military_idea: "Rozpuštěná armáda" # todo: NEW TRANSLATION
+  CZE_SLO_renovation_of_the_czechoslovakian_maginot_line: "Rekonstrukce československé linie Maginot" # todo: NEW TRANSLATION
+  CZE_SLO_renovation_of_the_czechoslovakian_maginot_line4_idea: "Západní obranná linie" # todo: NEW TRANSLATION
+  CZE_SLO_supreme_motorization_effort_idea: "Vrcholné motorizační úsilí" # todo: NEW TRANSLATION
+  CZE_SLO_industrial_boom_idea: "Průmyslový rozmach" # todo: NEW TRANSLATION
+  CZE_SLO_industrial_boom_idea_desc: "Zmizí, když celkový počet civilních průmyslů, vojenských továren a loděnic překročí 20 budov." # todo: NEW TRANSLATION
+  CZE_SLO_enrichment_uranium_idea: "Obohacené uranové zásoby" # todo: NEW TRANSLATION
+  CZE_SLO_green_energy_idea: "Zelená energie" # todo: NEW TRANSLATION
+  CZE_SLO_extraction_of_fossil_fuels_idea: "Těžba fosilních paliv" # todo: NEW TRANSLATION
+  CZE_SLO_revived_army_idea: "Oživená čs. armáda" # todo: NEW TRANSLATION
+  CZE_SLO_vop_cz_support_idea: "Podpora pro VOP CZ" # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakia_idea: "Československo" # todo: NEW TRANSLATION
+  CZE_APC_Ot_Zubr_idea: "Program Ot Zubr" # todo: NEW TRANSLATION
+  CZE_BREN_development: "Vývoj pušky BREN" # todo: NEW TRANSLATION
+  CZE_SLO_offence_over_defence_idea: "Ofenzíva před obranou" # todo: NEW TRANSLATION
+  CZE_SLO_ready_for_the_west: "Připraven pro Západ" # todo: NEW TRANSLATION
+  CZE_SLO_renovated_forts_idea: "Renovované pevnosti" # todo: NEW TRANSLATION
+  CZE_SLO_eastern_charge_idea: "Připraven pro Východ" # todo: NEW TRANSLATION
+  CZE_SLO_military_industry_idea: "Vojenský průmysl" # todo: NEW TRANSLATION
+  CZE_SLO_modern_tanks_idea: "Moderní tanky" # todo: NEW TRANSLATION
+  CZE_SLO_increased_factory_output: "Zvýšená produkce továren" # todo: NEW TRANSLATION
+  CZE_future_of_monarchies: "Budoucnost monarchistů v Evropě" # todo: NEW TRANSLATION
+  CZE_SLO_future_plans: "Plánování budoucnosti" # todo: NEW TRANSLATION
+  CZE_SLO_having_fun_together: "Sousedi si užívají společně" # todo: NEW TRANSLATION
+  CZE_SLO_chosen_peaceful_path: "Zvolen mírový směr sjednocení" # todo: NEW TRANSLATION
+  CZE_SLO_aggressive_unification: "Začíná agresivní sjednocení" # todo: NEW TRANSLATION
+  CZE_SLO_starts_czechoslovakia: "§Y[ROOT.GetName]§! §Gzahajuje cestu k československému sjednocení. Objeví se nová rozhodnutí pro obě země.§!" # todo: NEW TRANSLATION
+  CZE_SLO_guarantee_if_accept: "§YPokud přijmou, získáme vzájemný pakt o nezávislosti a snížíme migrační omezení.§!" # todo: NEW TRANSLATION
+  CZE_SLO_other_country_gets_factory: "§YDruhá země také získá budovu§!" # todo: NEW TRANSLATION
+  CZE_SLO_doesnt_want_czechoslovakia: "§Y[ROOT.GetName]§! §Rzruší pokojnou integraci obou zemí, což znemožní dosáhnout levé větve stromu rozhodnutí o Československu.§!" # todo: NEW TRANSLATION
+  CZE_SLO_czechoslovakia_stop: "Pokojná integrace je nemožná" # todo: NEW TRANSLATION
+  CZE_SLO_uniting_countries: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! mají alespoň §G25%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_uniting_countries_2: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! mají alespoň §G90%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_dividing_countries: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! mají nejvýše §G50%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_dividing_countries_2: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! mají alespoň §G20%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_add_people_acceptance: "Získat [?CZE_SLO_people_acceptance_temp|+.0] §YPřijetí obyvatel§! " # todo: NEW TRANSLATION
+  CZE_SLO_add_law_similarity: "Získat [?CZE_SLO_law_similarity_temp|+.0] §YPodobnost zákonů§! " # todo: NEW TRANSLATION
+  CZE_SLO_add_military_support: "Získat [?CZE_SLO_military_support_temp|+.0] §YSílu vojenské podpory§! " # todo: NEW TRANSLATION
+  CZE_SLO_add_support: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! získávají §G+7%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_people_are_calm_again: "§YPřijetí obyvatel§! dosáhlo §Y100%§! " # todo: NEW TRANSLATION
+  CZE_SLO_people_anarchy: "§YPřijetí obyvatel§! dosáhlo §Y0%§! " # todo: NEW TRANSLATION
+  CZE_SLO_unlock_mission_media_propaganda: "§GOdemkne rozhodnutí §YMediální propaganda§! v sekci sociální péče§! " # todo: NEW TRANSLATION
+  CZE_SLO_not_doing_this_decision: "Nikdo toto rozhodnutí nezahájil" # todo: NEW TRANSLATION
+  CZE_SLO_one_time_decision: "§RToto je jednorázové rozhodnutí!§! " # todo: NEW TRANSLATION
+  CZE_SLO_law_is_stable_again: "§YPodobnost zákonů§! dosáhla §Y100%§! " # todo: NEW TRANSLATION
+  CZE_SLO_law_anarchy: "§YPodobnost zákonů§! dosáhla §Y0%§! " # todo: NEW TRANSLATION
+  CZE_SLO_military_is_stable_again: "§YSíla vojenské podpory§! dosáhla §Y100%§! " # todo: NEW TRANSLATION
+  CZE_SLO_military_anarchy: "§YSíla vojenské podpory§! dosáhla §Y0%§! " # todo: NEW TRANSLATION
+  CZE_SLO_add_points: "§GZískat §Y+15%§! bodů Přijetí obyvatel a Síly vojenské podpory§! " # todo: NEW TRANSLATION
+  CZE_SLO_reformed_czechoslovakia: "§YMenší pravděpodobnost přijetí, pokud má stát silnější armádu§!, ale §Gvětší pokud má lepší vztahy§! s Československem.§! \n\n   §GPokud přijmou, vaše země bude známa jako §YCzechoslovakia§! a anektuje svého souseda. To také deaktivuje záložku rozhodnutí §YCzechoslovakian Situation§!.§!\n\n   §RA pokud odmítnou, alternativní cesta §YDominantní region§! se může odemknout, což přinutí obě země sjednotit se, pokud se rozhodnete tím směrem jít.§!" # todo: NEW TRANSLATION
+  CZE_SLO_set_variables_to_30: "§YPřijetí obyvatel, Podobnost zákonů§! a §YSíla vojenské podpory§! budou nastaveny na §G30%§! popularity" # todo: NEW TRANSLATION
+  CZE_SLO_slovakia_gains_czech_atom: "§YCzechští vědci začnou pracovat na vylepšení slovenských jaderných reaktorů.§!\n§GNová rozhodnutí se objeví v záložce rozhodnutí.§! " # todo: NEW TRANSLATION
+  CZE_SLO_more_strength_and_opinion: "§YStátní kontrolor méně ochotný přijmout, pokud má silnější armádu§!, ale také §Gvíce přesvědčený pokud má lepší vztahy§! s Československem.§! " # todo: NEW TRANSLATION
+  CZE_SLO_must_annex_second_country: "§YNejdříve musíme integrovat druhou zemi§!" # todo: NEW TRANSLATION
+  CZE_SLO_petr_pavel_may_revolt: "§RPokud český generál Petr Pavel dosáhne významného generálského hodnosti v armádě, může se začít stavět proti novému intervencionistickému systému a vyvolat vlasteneckou válku v naší zemi.§!" # todo: NEW TRANSLATION
+  CZE_SLO_unlock_mission_army_loyalty: "§GOdemkne rozhodnutí §YPřeorganizovat vojenskou strukturu§! v sekci vojenské§! " # todo: NEW TRANSLATION
+  CZE_SLO_unlock_mission_new_parliament: "§GOdemkne rozhodnutí §YReforma administrativy§! v sekci práva§! " # todo: NEW TRANSLATION
+  CZE_SLO_social_progress_bar_tt: "Aktuální Přijetí obyvatel: [?THIS.CZE_SLO_people_acceptance|.0Y]/§Y100§!" # todo: NEW TRANSLATION
+  CZE_SLO_law_progress_bar_tt: "Aktuální Podobnost zákonů: [?THIS.CZE_SLO_law_similarity|.0Y]/§Y100§!" # todo: NEW TRANSLATION
+  CZE_SLO_military_progress_bar_tt: "Aktuální Síla vojenské podpory: [?THIS.CZE_SLO_military_support|.0Y]/§Y100§!" # todo: NEW TRANSLATION
+  CZE_SLO_monarchy_decisions_TT: "§YNová rozhodnutí se stanou dostupnými, tato rozhodnutí budou fungovat jako fokusy bez omezení výběru pouze jednoho současně§!" # todo: NEW TRANSLATION
+  CZE_a_conservative_king: "Konservativní král" # todo: NEW TRANSLATION
+  CZE_a_diplomatic_king: "Diplomatický král" # todo: NEW TRANSLATION
+  CZE_a_puppet_king: "Loutkový král" # todo: NEW TRANSLATION
+  CZE_crush_the_riots: "Potlačení vzpour" # todo: NEW TRANSLATION
+  CZE_BEL_plan: "Tajný plán" # todo: NEW TRANSLATION
+  CZE_manipulating_fidesz: "Provést další rozhodnutí ohledně problému Fidesz" # todo: NEW TRANSLATION
+  CZE_on_going_political_decision_ROM: "Probíhá politické rozhodnutí v jednání" # todo: NEW TRANSLATION
+  CZE_on_going_economical_decision_ROM: "Probíhá ekonomické rozhodnutí v jednání" # todo: NEW TRANSLATION
+  CZE_on_going_military_decision_ROM: "Probíhá vojenské rozhodnutí v jednání" # todo: NEW TRANSLATION

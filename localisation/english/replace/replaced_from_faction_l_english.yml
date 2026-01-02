@@ -997,6 +997,414 @@
   ENEMY_FACTION_STATES_BOMBED: "§YJádrové státy nepřátelské frakce§! bombardovány za posledních 30 dní" # todo: NEW TRANSLATION
   FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YJádrové státy frakce§! nejsou plně kontrolovány §Yčleny frakce§!" # todo: NEW TRANSLATION
   ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YJádrové státy nepřátelské frakce§! kontrolované č%" # todo: NEW TRANSLATION
+  PEACE_CONFERENCE_WINNERS: "Všechny členské země, které byly na mírové konferenci na vítězné straně:" # todo: NEW TRANSLATION
   SHORT_TERM: "Krátkodobé" # todo: NEW TRANSLATION
   MEDIUM_TERM: "Střednědobé" # todo: NEW TRANSLATION
   LONG_TERM: "Dlouhodobé" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_INFLICTED_250K_CASUALTIES: "§YKaždý člen frakce§!, který způsobil více než 250 000 ztrát na nepříteli:" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_NAME_WITH_FACTION: "$FACTIONNAME|H$ $UPGRADENAME|$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_RESEARCH_NAME: "Sdílení výzkumu $INDEX|H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_RESEARCH_DESC: "Bonus k §Hvýzkumu§!, pokud jiný člen frakce už danou §Htechnologii§! prozkoumal; tento bonus získáte tím, že máte ve své §Hfrakci§! §Hzařízení§! s přiřazenými §Hpodpůrnými vědci§!." # todo: NEW TRANSLATION
+  FACTION_UPGRADE_FIRST_DESC: "Přidává $NAME|H$, který uděluje: $VAL|.00H%$ $DESC$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INCREASE: "Vylepšení" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DECREASE: "Snížení" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INCREASE_DESC_PERCENTILE: "Zvyšuje bonus z $OLDVAL|.00H%$ na $VAL|.00H%$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DECREASE_DESC_PERCENTILE: "Snižuje bonus z $OLDVAL|.00H%$ na $VAL|.00H%$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INCREASE_DESC: "Zvyšuje bonus z $OLDVAL|.1H$ na $VAL|.1H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DECREASE_DESC: "Snižuje bonus z $OLDVAL|.1H$ na $VAL|.1H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_BONUS_PERCENTILE: "$VALUE|.00H%$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_BONUS: "$VALUE|.1H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_NOT_ENOUGH_INITIATIVE: "£trigger_no£Nedostatek iniciativy. Požadováno: $VALUE|.0H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_NO_FACTION: "Musíte být ve frakci, abyste přidali vylepšení frakce" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_BELOW_MINIMUM: "Pod minimálními požadavky frakce" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_NO_UPGRADE: "§RNa maximu§!" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INTELLIGENCE: "Sdílení zpravodajství $INDEX|$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INTELLIGENCE_DESC: "Bonus k dokončení vylepšení oddělení agentury, pokud jiný člen frakce již toto vylepšení odemkl." # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INTELLIGENCE_NAME_BONUS: "Sdílení zpravodajství frakce: $BONUS|.0%$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_INTELLIGENCE_BONUS_DESC: "Díky §Hsdílení zpravodajství frakce§! dokončujete §Hvylepšení agentury§! o $BONUS|H.0%$ rychleji, pokud jiný člen frakce již dané §Hvylepšení§! odemkl.\n\nVaše frakce může zvýšit §Hsdílení zpravodajství§! obsazením §Hpozic ve zpravodajství§! ve frakci." # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DOCTRINE: "Sdílení doktrín" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_TITLE: "§HSdílení vojenských doktrín§!" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_FOLDER_TITLE: "§HSdílení vojenských doktrín:§! $FOLDER_NAME$" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_EXPLANATION: "Sdílení doktrín dává £doctrine_mastery §HMistrovství§! bonus ke každé poddoktríně, u které má jiný člen frakce již vyšší mistrovství." # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_TRACK_BONUSES_TITLE: "$TRACK_NAME|H$ - dostupné bonusy:" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_ACTIVE_BONUS: "$COUNTRY_FLAG$ $SUBDOCTRINE_NAME|H$ (až do £doctrine_mastery $MASTERY|H0$)" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DOCTRINE_BONUS: "£doctrine_mastery $VALUE|0H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_DOCTRINE_BONUS_EXPLANATION: "Bonus sdílení doktrín když je aktivní: £doctrine_mastery $VALUE|0H$ §HMistrovství§! za měsíc." # todo: NEW TRANSLATION
+  FACTION_UNLOCK_DOCTRINE_SHARING: "§GKlikněte§! pro odemknutí sdílení $FOLDER_NAME|H$" # todo: NEW TRANSLATION
+  FACTION_UNLOCK_DOCTRINE_SHARING_CANNOT: "§RNelze§! odemknout sdílení $FOLDER_NAME|H$" # todo: NEW TRANSLATION
+  FACTION_UNLOCK_DOCTRINE_SHARING_NOT_UNLOCKED: "§RSdílení doktrín ještě není odemknuto§!" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_ACTIVE: "§GSdílení doktrín je aktivní§!" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_POPUP_DESC: "Opravdu chcete utratit £faction_initiative_texticon£ $COST|H0$ za odemknutí sdílení doktrín pro $FOLDER_NAME|H$?" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_BONUS_FROM_COMMANDERS: "- Od $NUM_COMMANDERS|H$ velitelů divadel: $VALUE|+=0$" # todo: NEW TRANSLATION
+  FACTION_DOCTRINE_SHARING_BONUS_INCREASE_PROMPT: "Velitelé divadel mohou zvýšit bonus o £doctrine_mastery $BONUS_PER_COMMANDER|0H$ za každého velitele." # todo: NEW TRANSLATION
+  FACTION_TOTAL_SUBDOCTRINES: "Poddoktríny ve frakci: $AMOUNT|H$" # todo: NEW TRANSLATION
+  FACTION_TOTAL_SUBDOCTRINES_EXPLANATION: "Členové frakce momentálně rozvíjejí £doctrine_mastery §HMistrovství§! u $AMOUNT|H$ jedinečných poddoktrín:" # todo: NEW TRANSLATION
+  FACTION_TOTAL_SUBDOCTRINES_IN_FOLDER: "$FOLDER_NAME$: $AMOUNT|H$ poddoktrín" # todo: NEW TRANSLATION
+  FACTION_VIEW_OPEN_DOCTRINES: "§GKlikněte§! pro otevření přehledu doktrín" # todo: NEW TRANSLATION
+  INTELLIGENCE_ADDITIONAL_UPGRADE_BONUS: "Snížení doby vylepšení z:" # todo: NEW TRANSLATION
+  INTELLIGENCE_OPPURTUNITIES: "Bonus ke rychlosti vylepšení agentury u následujících vylepšení:" # todo: NEW TRANSLATION
+  INTELLIGENCE_OPPURTUNITIES_ITEM: "$NAME|H$" # todo: NEW TRANSLATION
+  FACTION_RECRUIT_SPIES_BUTTON: "Najmout špiony" # todo: NEW TRANSLATION
+  FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING: "§RVelitel divadla už byl odemknut: $COUNTRY|H$§!" # todo: NEW TRANSLATION
+  FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING_PORTRAIT: "§RVelitele divadla může nastavit pouze: $COUNTRY|H$§!" # todo: NEW TRANSLATION
+  FACTION_COMMANDER_PORTRAIT: "Klikněte pro přiřazení velitele divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_CREATE_BUTTON: "Přidat divadlo £faction_initiative_texticon£ $VALUE$" # todo: NEW TRANSLATION
+  FACTION_COMMANDER_EXT_DESC: "Pouze země, která divadlo odemkla, může přiřadit velitele divadla; vhodnými kandidáty jsou §Hpolní maršálové§! a §Hadmirálové§!." # todo: NEW TRANSLATION
+  FACTION_COMMANDER_DESC: "Velitelé divadla převádějí podíl z £doctrine_mastery §HMistrovství§!, které získali ostatní členové frakce v rámci divadla, do své vlastní země, na základě svých dovedností §HÚtok§! a §HObrana§!.\nTaké snižují §Hspotřebu zásob§! na základě svých dovedností §HLogistika§! a §HPlánování§!.\n\n" # todo: NEW TRANSLATION
+  FACTION_MANPOWER_CONTRIBUTION: "Příspěvek lidských zdrojů" # todo: NEW TRANSLATION
+  FACTION_MANPOWER_CONTRIBUTION_DESC: "Přispějte část svého měsíčního přírůstku lidských zdrojů do fondu §Hposádek§! frakce." # todo: NEW TRANSLATION
+  FACTION_MANPOWER_NO_CONTRIBUTION_DESC: "Přispějte £manpower_texticon $VALUE|H0%$ svého měsíčního počtu lidských zdrojů do fondu §Hposádek§! frakce." # todo: NEW TRANSLATION
+  FACTION_MANPOWER_CONTRIBUTION_VALUE_DESC: "Přispějte £manpower_texticon $VALUE|H0%$ svého měsíčního přírůstku lidských zdrojů do fondu §Hposádek§! frakce." # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER: "Požádat o podporu posádek" # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_BUTTON: "Požádat posádky" # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_DESC: "Lidské zdroje potřebné pro udržení vašich okupacních zákonů: $NEEDED|H*$ \nCelkové lidské zdroje v poolu, které nejsou z vaší země: $FREE|H*$\n\nSkóre příspěvku: $COST|.0+=$" # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_VALUES: "$VAL|^1H$" # todo: NEW TRANSLATION
+  FACTION_MANPOWER_VALUE: "£manpower_texticon£ $VALUE$" # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER: "Není k dispozici žádná lidská síla!" # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED: "Momentálně nepotřebujete žádnou podporu posádek." # todo: NEW TRANSLATION
+  REQUEST_FACTION_MANPOWER_BUTTON_DESC: "Zde můžeme požádat o lidi na obsazení volných posádek na území, které právě okupujeme, aby naši vlastní vojáci mohli zůstat v armádách." # todo: NEW TRANSLATION
+  FACTION_MANPOWER_DESC: "Celkové lidské zdroje v poolu: $ALL|H*$ \nLidské zdroje, které jste přispěli: $YOUR|H*$\nLidské zdroje, které můžete odebrat: $FREE|H*$\n" # todo: NEW TRANSLATION
+  FACTION_MEMBER_UPGRADE_BELOW_MIN: "§RPod minimálními požadavky frakce.§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_HEADER: "Divadlo frakce" # todo: NEW TRANSLATION
+  FACTION_THEATER_DESC: "Frakční divadla jsou koordinovaná území vedená §Hvelitelem divadla§!. Počet regionů a zúčastněných zemí závisí na úrovni dovedností velitele. Velitelé získávají zkušenosti a jejich země získávají £doctrine_mastery §HMistrovství v doktrínách§! z boje spojenců v rámci jejich divadla." # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_INSTRUCTION: "Přiřaďte členy frakce do regionů" # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_ARMY: "Celkový počet divizí" # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_NAVY: "Celkový počet úderných svazů" # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_NOT_OWNER: "§RFrakční divadla mohou kontrolovat pouze jejich vlastníci§! ($COUNTRY|H$)" # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_DESC: "$THEATER_NAME|H$\n\nJmenujte §Yvelitele divadla§!, aby dohlížel na společné operace v vybraných regionech, zlepšujíc koordinaci a efektivitu jak pozemních, tak námořních sil.\n\n" # todo: NEW TRANSLATION
+  FACTION_STRAT_REGION_DESC_ENTRY: "- $REGION|H$" # todo: NEW TRANSLATION
+  DELETE_FACTION_THEATER: "§ROdstranit§! frakční divadlo" # todo: NEW TRANSLATION
+  ADD_FACTION_THEATER_TITLE: "§HVytvořit nové frakční divadlo§!" # todo: NEW TRANSLATION
+  CREATE_FACTION_THEATER: "Vytvořit £faction_initiative_texticon£ $VALUE|H0$" # todo: NEW TRANSLATION
+  FACTION_COUNTRY_ALREADY_IN_THEATER: "§RJiž přiřazeno k divadlu§!" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_MAX_NUM_COUNTRY_REACHED: "§RVelitel nemůže vést více zemí§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_CLICK_TO_SELECT: "§GKlikněte§! pro výběr divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_MISSING_COMMANDER: "§YVyberte velitele§!, abyste mohli vybrat\nzemě a regiony, na které se\nmají zaměřit.\n\nDostupní členové frakce: $AVAILABLE|H$" # todo: NEW TRANSLATION
+  FACTION_THEATER_NOT_SELECTED_COUNTRIES: "Musí být vybrána alespoň jedna země." # todo: NEW TRANSLATION
+  FACTION_THEATER_NOT_SELECTED_REGION: "Musí být vybrán alespoň jeden region na mapě." # todo: NEW TRANSLATION
+  FACTION_CANT_ASSIGN_SCIENTIST_SAME_COUNTRY: "Nelze přiřadit dalšího vědce k vašemu vlastnímu speciálnímu projektu" # todo: NEW TRANSLATION
+  FACTION_CANT_ASSIGN_SCIENTIST_MORE: "Můžete přiřadit pouze jednoho dalšího vědce" # todo: NEW TRANSLATION
+  FACTION_ASSIGN_SCIENTIST_COST: "£pol_power  $VALUE|0$" # todo: NEW TRANSLATION
+  FACTION_ASSIGN_SCIENTIST_COST_CANNOT_AFFORD: "£pol_power  §R$VALUE|0$§!" # todo: NEW TRANSLATION
+  FACTION_ASSIGN_SCIENTIST: "Klikněte pro přiřazení podpůrného vědce k zařízení" # todo: NEW TRANSLATION
+  FACTION_UNASSIGN_SCIENTIST: "Odebrat podpůrného vědce" # todo: NEW TRANSLATION
+  FACTION_ASSIGN_FACILITY: "§HPřiřadit zařízení§!" # todo: NEW TRANSLATION
+  FACTION_ASSIGN_FACILITY_DESC: "Sdílení vašeho zařízení pro speciální projekty umožňuje ostatním členům frakce přidat $NUMBER|H0$ §Hpodpůrných vědců§!" # todo: NEW TRANSLATION
+  FACTION_UNASSIGN_PROJECT_POPUP_TITLE: "Odebrat zařízení" # todo: NEW TRANSLATION
+  FACTION_UNASSIGN_PROJECT_POPUP_DESC: "Chcete odebrat zařízení ve státě $STATE_NAME|Y$?" # todo: NEW TRANSLATION
+  FACTION_NO_AGENCY: "Žádná zpravodajská agentura" # todo: NEW TRANSLATION
+  FACTION_AGENCY_ADD: "§GKlikněte pro přidání $GROUP|H$§!" # todo: NEW TRANSLATION
+  FACTION_SPY_MASTER: "Šéf špionáže" # todo: NEW TRANSLATION
+  FACTION_HEAD_OF_CRYPTOLOGY: "Vedoucí kryptologie" # todo: NEW TRANSLATION
+  FACTION_HEAD_OF_COUNTER_INTELLIGENCE: "Vedoucí kontrazpravodajství" # todo: NEW TRANSLATION
+  FACTION_HEAD_OF_OPERATIONS: "Vedoucí operací" # todo: NEW TRANSLATION
+  FACTION_UNLOCK_BUTTON: "Odemknout £faction_initiative_texticon£ $VALUE$ " # todo: NEW TRANSLATION
+  VIEW_EXISTING_FACTIONS: "Frakce" # todo: NEW TRANSLATION
+  VIEW_FACTION: "Zobrazit frakce" # todo: NEW TRANSLATION
+  CREATE_FACTION: "Vytvořit frakci" # todo: NEW TRANSLATION
+  TYPE_FACTION_NAME: "Zadejte název frakce" # todo: NEW TRANSLATION
+  FACTION_SETUP_NAME_AND_ICON: "£trigger_no Musíte vybrat §Hnázev frakce§! a §Hhodnostní znamení§!" # todo: NEW TRANSLATION
+  FACTION_RULES_TITLE: "Pravidla frakce" # todo: NEW TRANSLATION
+  FACTION_GOALS_TITLE: "Cíle frakce" # todo: NEW TRANSLATION
+  FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HTento cíl se zruší, pokud:§!" # todo: NEW TRANSLATION
+  FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HÚčinky zrušení:§!" # todo: NEW TRANSLATION
+  FACTION_CHANGE_RULE_ITEM_COST: "£faction_initiative_texticon£ $VALUE|.0$" # todo: NEW TRANSLATION
+  CREATE_FACTION_NO_DLC_DESC: "Vytvořte základy vojenského spojenectví. Pozvěte další země pro posílení frakce. Členové frakce si mohou v válce navzájem pomáhat!" # todo: NEW TRANSLATION
+  FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER: "Frakční politika" # todo: NEW TRANSLATION
+  FOCUS_FILTER_INTERNAL_CONSOLIDATION: "Vnitřní konsolidace" # todo: NEW TRANSLATION
+  FOCUS_FILTER_INTERNAL_CONSOLIDATION_FACTION_GOAL_FILTER: "Vnitřní konsolidace" # todo: NEW TRANSLATION
+  FOCUS_FILTER_INTERNAL_AFFAIRS_FACTION_GOAL_FILTER: "Vnitřní záležitosti" # todo: NEW TRANSLATION
+  FOCUS_FILTER_RESEARCH_FACTION_GOAL_FILTER: "Frakční výzkum" # todo: NEW TRANSLATION
+  FOCUS_FILTER_INDUSTRY_FACTION_GOAL_FILTER: "Průmyslové rozšíření" # todo: NEW TRANSLATION
+  FOCUS_FILTER_WAR_SUPPORT_FACTION_GOAL_FILTER: "Přípravy na válku" # todo: NEW TRANSLATION
+  FOCUS_FILTER_ANNEXATION_FACTION_GOAL_FILTER: "Dobytí" # todo: NEW TRANSLATION
+  FOCUS_FILTER_ARMY_XP_FACTION_GOAL_FILTER: "Rozšíření armády" # todo: NEW TRANSLATION
+  FOCUS_FILTER_NAVY_XP_FACTION_GOAL_FILTER: "Námořní nadvláda" # todo: NEW TRANSLATION
+  FOCUS_FILTER_AIR_XP_FACTION_GOAL_FILTER: "Vzdušná nadvláda" # todo: NEW TRANSLATION
+  FOCUS_FILTER_POLITICAL_CHARACTER_FACTION_GOAL_FILTER: "Organizace frakce" # todo: NEW TRANSLATION
+  FOCUS_FILTER_CONSOLIDATION_FACTION_GOAL_FILTER: "Konsolidace" # todo: NEW TRANSLATION
+  resources_to_market_icon_FACTION_GOAL_FILTER: "Zdroje" # todo: NEW TRANSLATION
+  FACTION_FACILITY_NAME: "Společné výzkumné zařízení" # todo: NEW TRANSLATION
+  FACTION_ACCESS_TO_RESEARCH_TAB: "Musí dokončit cíl $CATEGORY|H$: $NAME|H$" # todo: NEW TRANSLATION
+  FACTION_ACCESS_TO_MILITARY_TAB: "Musí dokončit cíl $CATEGORY|H$: $NAME|H$" # todo: NEW TRANSLATION
+  faction_goal_unlock_research_name: "Rozvíjet společné výzkumné postupy" # todo: NEW TRANSLATION
+  faction_goal_unlock_research_desc: "Vývoj pokročilých technologií není zbytečná činnost, ale závod proti těm, kteří by je využili k naší zkáze. Sdílení našich zdrojů je jediný způsob, jak zajistit, aby naše výhoda zůstala konkurenceschopná." # todo: NEW TRANSLATION
+  faction_goal_unlock_military_name: "Zřídit společnou velitelskou strukturu" # todo: NEW TRANSLATION
+  faction_goal_unlock_military_desc: "Schopnost reagovat na vývoj událostí dobře strukturovanými společnými úkolovými sbory bude s prohlubováním našich aliancí klíčová. Měli bychom ihned začít plánovat na tuto eventualitu." # todo: NEW TRANSLATION
+  FACTION_ACCESS_TAB_UNLOCK: "Odemknout $NAME|H$ pro vaši frakci" # todo: NEW TRANSLATION
+  FACTION_ACCESS_TAB_LOCK: "Uzamknout $NAME|H$ pro vaši frakci" # todo: NEW TRANSLATION
+  FACTION_ACCESS_TAB_REASEARCH: "Frakční výzkum" # todo: NEW TRANSLATION
+  FACTION_ACCESS_TAB_MILITARY: "Frakční vojenské operace" # todo: NEW TRANSLATION
+  FACTION_BUTTON_FACTION_NAME: "$NAME|H$" # todo: NEW TRANSLATION
+  FACTION_BUTTON_NAME: "§HFrakce§!" # todo: NEW TRANSLATION
+  FACTION_BUTTON_NO_FACTION: "§RNejsi ve frakci§!" # todo: NEW TRANSLATION
+  FACTION_BUTTON_JOIN_FACTION: "Frakční tlačítko odemknete vytvořením frakce v politickém menu nebo připojením k existující." # todo: NEW TRANSLATION
+  FACTION_BUTTON_DESC: "Spravujte a formujte svou frakci, abyste pomáhali spojencům a získávali bonusy za příspěvky" # todo: NEW TRANSLATION
+  FACTION_BUTTON_COMPLETED_HEADER: "£trigger_yes Dokončené cíle frakce:" # todo: NEW TRANSLATION
+  FACTION_BUTTON_CANCELED_HEADER: "£trigger_no Neúspěšné cíle frakce:" # todo: NEW TRANSLATION
+  FACTION_BUTTON_GOAL_NAME: "$GOALNAME|H$" # todo: NEW TRANSLATION
+  FACTION_BUTTON_GO_TO_GOALS_TAB: "Přejít na kartu Cíle frakce pro nahrazení cíle" # todo: NEW TRANSLATION
+  FACTION_BUTTON_INITIATIVE: "Iniciativy frakce: $VAL|H$" # todo: NEW TRANSLATION
+  FACTION_INTEL_NO_ADVISOR: "Žádný zpravodajský poradce není přiřazen" # todo: NEW TRANSLATION
+  FACTION_INTEL_ADVISOR_NOT_ENOUGH_INITIATIVE: "§RNedostatek iniciativy§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEADER_SPYMASTER: "Šéf špionáže" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEADER_CRYPTOLOGY: "Kryptologie" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEADER_COUNTER: "Kontrazpravodajství" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEADER_OPERATIONS: "Operace" # todo: NEW TRANSLATION
+  FACTION_INTEL_OPEN_AGENCY_UPGRADES: "Otevřít vylepšení agentury" # todo: NEW TRANSLATION
+  FACTION_INTEL_NO_DEPARTMENT_CREATED: "§RŽádné oddělení nebylo vytvořeno§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_NO_DEPARTMENT_CREATED_VISIBILITY: "Nelze přispívat, dokud nevytvoříte §Hzpravodajskou agenturu§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_NOT_OWN_POSTION: "§RNezastáváte tuto pozici§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_ADVISOR: "Zpravodajský poradce" # todo: NEW TRANSLATION
+  FACTION_INTEL_TAKE_OVER: "Převzít £faction_initiative_texticon£ $VALUE$" # todo: NEW TRANSLATION
+  FACTION_INTEL_SHARING_BONUS: "§HBonus sdílení zpravodajství:§! $NUM|+=%.0$" # todo: NEW TRANSLATION
+  FACTION_INTEL_OWNER: "§HPro zemi, která tuto pozici drží:§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_OTHERS: "§HPro ostatní členy frakce při obsazení pozice:§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEAD_OF_SPYMASTER: "§HŠéf špionáže§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEAD_OF_CRYPTOLOGY: "Vedoucí kryptologie" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEAD_OF_COUNTER: "Vedoucí kontrazpravodajství" # todo: NEW TRANSLATION
+  FACTION_INTEL_HEAD_OF_OPERATIONS: "Vedoucí operací" # todo: NEW TRANSLATION
+  DIPLOMACY_NOT_FACTION_LEADER_KICK: "Musíte být vůdcem frakce" # todo: NEW TRANSLATION
+  FACTION_INTEL_OPEN_AGENCY_WINDOW: "Otevřít zpravodajskou agenturu" # todo: NEW TRANSLATION
+  FACTION_INTEL_UNLOCK_SPYMASTER: "Stát se šéfem špionáže £faction_initiative_texticon£ $VALUE$" # todo: NEW TRANSLATION
+  FACTION_INTEL_CLICK: "§GKlikněte pro přechod do panelu frakce§!" # todo: NEW TRANSLATION
+  FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$" # todo: NEW TRANSLATION
+  FACTION_INTEL_SPYMASTER_BONUS: "Můžete ovládat více operativců, přičemž jejich počet závisí na velikosti vaší frakce." # todo: NEW TRANSLATION
+  FACTION_INTEL_HEAD_OF_BONUS: "Sloty pro operativce:$NUM|+=$" # todo: NEW TRANSLATION
+  FACTION_INTEL_FROM_ADIVSOR: "§HOd poradce:§!" # todo: NEW TRANSLATION
+  CREATE_FACTION_INVITE_TITLE: "Pozvat země" # todo: NEW TRANSLATION
+  RECRUITABILITY_SORT: "Možnost náboru" # todo: NEW TRANSLATION
+  INFLUENCE_SORT: "Vliv" # todo: NEW TRANSLATION
+  FACTION_INVITE_BUTTON: "Odeslat pozvánku" # todo: NEW TRANSLATION
+  FACTION_MEMBER_LIST_TITLE: "Členové frakce" # todo: NEW TRANSLATION
+  FACTION_INVITE_SHOW_UNAVAILABLE: "Zobrazit nedostupné země" # todo: NEW TRANSLATION
+  CREATE_FACTION_INVITE_ALL: "Pozvat všechny země, které by schválily" # todo: NEW TRANSLATION
+  CREATE_FACTION_INVITE_AMOUNT: "($VAL|$ zemí)" # todo: NEW TRANSLATION
+  CREATE_FACTION_FACTION_LEADER: "Vůdce frakce: $LEADER|H$" # todo: NEW TRANSLATION
+  CREATE_FACTION_FACTION_INFLUENCE: "Odhadovaný počáteční $VAL|H$ §HVliv frakce§!:\n" # todo: NEW TRANSLATION
+  CREATE_FACTION_FACTION_INFLUENCE_ENTRY: "$ENTRY|$ ($VAL|.0H%$)\n" # todo: NEW TRANSLATION
+  CREATE_FACTION_IDENTITY_TITLE: "Identita frakce" # todo: NEW TRANSLATION
+  CREATE_FACTION_TEMPLATE_TITLE: "Šablona frakce: $TEMPLATE|H$" # todo: NEW TRANSLATION
+  FACTION_GOAL_MODIFIERS: "\n§HAktuální modifikátory:§!" # todo: NEW TRANSLATION
+  NO_MODIFIERS: "§gŽádné aktivní modifikátory. Zvyšte postup manifestu!§!" # todo: NEW TRANSLATION
+  CHANGE_RULE_WINDOW_SUBTITLE: "Nahradit pravidlo frakce?" # todo: NEW TRANSLATION
+  CHANGE_GOAL_WINDOW_SUBTITLE: "§HVyberte nový cíl§!" # todo: NEW TRANSLATION
+  FACTION_GOAL_COMPLETION: "§HK dokončení§!:" # todo: NEW TRANSLATION
+  FACTION_SP_OPEN_RESEARCH_WINDOW: "§GKlikněte§! pro otevření §Hfrakčního výzkumu§!" # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_TOOLTIP: "§HIniciativa frakce§!\n\nUtrácejte §Yiniciativu frakce§!, abyste přetvořili frakci změnou §Hcílů§!, nastavením §Hpravidel§!, vytvořením §Hfrakčních divadel§! a dalšími možnostmi." # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_EXPLANATION: "§gIniciativy se získávají především plněním cílů. Zaměření, události a jiné světové situace je také mohou někdy udělit.§!" # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_PROGRESS_TOOLTIP: "Postup k dalšímu bodu: $PROGRESS|.3H$" # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_PASSIVE_GENERATION_TOOLTIP: "Momentálně generujete $DAILYPROGRESS|.3H$ denně\nDalší bod iniciativy obdržíte za $DAYS|.0H$ dní." # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gIniciativa frakce se také pasivně generuje na základě postupu manifestu a bude rozdělena mezi členy podle vlivu§!" # todo: NEW TRANSLATION
+  FACTION_RESEARCH_BUTTON: "Otevřít výzkum" # todo: NEW TRANSLATION
+  FACTION_RESEARCH_OPPORTUNITIES_NO_BONUS: "§RFrakce momentálně nesdílí výzkum§!" # todo: NEW TRANSLATION
+  FACTION_RESEARCH_OPPORTUNITIES: "($VAL|H$ příležitostí)" # todo: NEW TRANSLATION
+  FACTION_MANPOWERPOOL_LABEL: "FMP:" # todo: NEW TRANSLATION
+  FACTION_POWER_PROJECTION: "Projekce síly frakce: $VAL|0H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE: "Vliv: $VAL|H$" # todo: NEW TRANSLATION
+  LEAVE_FACTION_BUTTON: "Opustit frakci" # todo: NEW TRANSLATION
+  DISMANTLE_FACTION_BUTTON: "Rozpustit frakci" # todo: NEW TRANSLATION
+  FACTION_PING_CONFIRM_BUTTON: "Potvrdit" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_TITLE: "Vliv frakce" # todo: NEW TRANSLATION
+  FACTION_LEADER_TITLE: "§HVůdce frakce§!" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_TITLE: "Velitel divadla" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_POPUP_TITLE: "Přiřadit velitele divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_LEADER_POPUP_DESC_LOWER_SKILL_LEADER: "$NAME|H$ nemůže vést více než $REGION_LIMIT|H$ regionů a $COUNTRY_LIMIT|H$ zemí." # todo: NEW TRANSLATION
+  FACTION_THEATER_MORE_IN_UI: "Momentálně je vybráno $REGION_CURRENT|H$ regionů a $COUNTRY_CURRENT|H$ zemí" # todo: NEW TRANSLATION
+  FACTION_THEATER_MORE_IN_THEATER: "V divadle je momentálně $REGION_CURRENT|H$ regionů a $COUNTRY_CURRENT|H$ zemí" # todo: NEW TRANSLATION
+  FACTION_THEATER_CONTINUE: " Vybrané regiony a země budou vymazány. Chcete pokračovat?" # todo: NEW TRANSLATION
+  FACTION_MEMBERS_LIST_BUTTON: "Členové" # todo: NEW TRANSLATION
+  FACTION_INVITE_COUNTRIES_BUTTON: "Pozvat země" # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_COST: "£faction_initiative_texticon£ $VALUE|0$" # todo: NEW TRANSLATION
+  FACTION_INITIATIVE_COST_CANT_AFFORD: "§RNelze si dovolit £faction_initiative_texticon£ $VALUE|0$§!" # todo: NEW TRANSLATION
+  FACTION_PP_COST: "£pol_power£ $VALUE|0$" # todo: NEW TRANSLATION
+  FACTION_RULE_CONFRIMATION: "Změnit pravidlo" # todo: NEW TRANSLATION
+  FACTION_RULE_CONFRIMATION_REMOVE: "Odstranit pravidlo" # todo: NEW TRANSLATION
+  FACTION_RULE_ALREADY_SET: "§RPravidlo je již nastaveno§!" # todo: NEW TRANSLATION
+  FACTION_RULE_CONFRIMATION_DESC: "Opravdu chcete změnit pravidlo frakce z $OLDRULENAME|H$ na $NEWRULENAME|H$? Bude to stát £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$\n\n$OLDRULEDESC$" # todo: NEW TRANSLATION
+  FACTION_RULE_CONFRIMATION_DESC_REMOVE: "Opravdu chcete odstranit $CURRENTRULENAME|H$ z vaší frakce? Bude to stát £faction_initiative_texticon£ $COST|.0H$.\n\n$CURRENTRULEDESC$" # todo: NEW TRANSLATION
+  FACTION_RULE_CONFRIMATION_DESC_ADD: "Opravdu chcete přidat $NEWRULENAME|H$ do vaší frakce? Bude to stát £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$" # todo: NEW TRANSLATION
+  FACTION_RULE_EDIT_ALL: "Všechna pravidla" # todo: NEW TRANSLATION
+  FACTION_RULE_AVAILABLE: "Dostupnost pravidla:" # todo: NEW TRANSLATION
+  FACTION_RULE_CAN_REMOVE: "Pravidlo lze odstranit pokud:" # todo: NEW TRANSLATION
+  FACTION_RULE_CANNOT_REMOVE: "§RNelze odstranit:§!" # todo: NEW TRANSLATION
+  FACTION_RULE_TYPE_GROUP_TITLE: "$TYPE|$ - $GROUP|H$" # todo: NEW TRANSLATION
+  FACTION_RULE_SHOW_COMPLETED: "Zobrazit dokončené cíle" # todo: NEW TRANSLATION
+  FACTION_RULE_SHOW_UNAVAILABLE: "Zobrazit nedostupné cíle" # todo: NEW TRANSLATION
+  FACTION_GOAL_EDIT_ALL: "Všechny cíle" # todo: NEW TRANSLATION
+  FACTION_SP_FACILITIES: "Zařízení pro speciální projekty" # todo: NEW TRANSLATION
+  FACTION_SP_OPEN_FACILITY: "Otevřít zařízení: $COST|H$" # todo: NEW TRANSLATION
+  FACTION_BECOME_LEADER_BUTTON: "Převzít vedení" # todo: NEW TRANSLATION
+  FACTION_LEADER_ALREADY: "§R$COUNTRY|$ je již vůdcem frakce§!" # todo: NEW TRANSLATION
+  FACTION_LEADER_INFLUENCE_RATIO_TOO_LOW: "Poměr vlivu frakce je příliš nízký" # todo: NEW TRANSLATION
+  FACTION_ICON: "Ikona" # todo: NEW TRANSLATION
+  FACTION_COLOR: "Barva" # todo: NEW TRANSLATION
+  ADD_FACILITY_BUTTON: "Přidat zařízení" # todo: NEW TRANSLATION
+  ADD_FACILITY_DESCRIPTION: "Opravdu chcete utratit £faction_initiative_texticon $COST|.0$ za to, aby vaše $FACILITYNAME|H$ ve státě $STATE|H$ byla přidána do $FACTIONNAME|H$ pro ostatní, aby mohli podporovat váš výzkum?" # todo: NEW TRANSLATION
+  INTELLIGENCE_POPUP_DESCRIPTION: "Opravdu chcete utratit £faction_initiative_texticon $COST|H$ za přiřazení $GROUP|H$?" # todo: NEW TRANSLATION
+  ADD_GOAL_TITLE: "Přidat cíl" # todo: NEW TRANSLATION
+  ADD_GOAL_CANNOT_AFFORD: "§RNemůžete si dovolit přidat cíl, stojí to £faction_initiative_texticon $COST|.0$§!" # todo: NEW TRANSLATION
+  REPLACE_GOAL_TT_ALREADY_SELECTED: "§RCíl je již aktivní§!" # todo: NEW TRANSLATION
+  ADD_GOAL_TT_ALREADY_COMPLETED: "§RCíl již byl dokončen§!" # todo: NEW TRANSLATION
+  ADD_GOAL_TT_ALREADY_ATTEMPTED: "§RCíl již byl pokusně splněn§!" # todo: NEW TRANSLATION
+  REPLACE_GOAL_LOCKED: "§R$GOALNAME|H$ nemůže být nahrazen, dokud nebude dokončen!§!" # todo: NEW TRANSLATION
+  ADD_GOAL_TT_LOCK_WARNING: "§YCíl nelze změnit, dokud nebude dokončen poté, co byl přidán!§!" # todo: NEW TRANSLATION
+  REPLACE_GOAL_TT: "§GKlikněte pro nahrazení§! $GOALNAME|H$" # todo: NEW TRANSLATION
+  REPLACE_GOAL_TT_COST: "Nahrazení by stálo £faction_initiative_texticon $COST|H.0$" # todo: NEW TRANSLATION
+  REPLACE_GOAL_TT_COST_CANNOT_AFFORD: "§RNemůžete nahradit cíl, stojí to £faction_initiative_texticon $COST|.0$ §!" # todo: NEW TRANSLATION
+  ADD_GOAL_DESCRIPTION: "Opravdu chcete přidat $GOALNAME|H$? Nahradit ho bude stát £faction_initiative_texticon $COST|.0$." # todo: NEW TRANSLATION
+  ADD_GOAL_DESCRIPTION_FREE: "Opravdu chcete přidat $GOALNAME|H$?" # todo: NEW TRANSLATION
+  GOAL_CONFIRMATION_DESCRIPTION_LOCKED: "§RNemůžete tento cíl nahradit, dokud nebude dokončen§!" # todo: NEW TRANSLATION
+  ADD_GOAL: "§GKlikněte pro přidání cíle§!" # todo: NEW TRANSLATION
+  REPLACE_GOAL_DESCRIPTION: "Opravdu chcete nahradit $OLDGOALNAME|H$ s $GOALNAME|H$?" # todo: NEW TRANSLATION
+  REPLACE_GOAL_DESCRIPTION_COST: "Opravdu chcete nahradit $OLDGOALNAME|H$ s $GOALNAME|H$? Bude to stát £faction_initiative_texticon $COST|.0$" # todo: NEW TRANSLATION
+  FACTION_FACILITY_COUNT: "Sloty zařízení: $COUNT|H$/$MAX|H$" # todo: NEW TRANSLATION
+  FACTION_RESEARCH_FACILITY_NOT_ENOUGH_INITIATIVE: "§RNedostatek iniciativy k otevření nového výzkumného zařízení§!" # todo: NEW TRANSLATION
+  FACTION_RESEARCH_FACILITY_MAX_REACHED: "§RDosažen maximální počet výzkumných zařízení§!" # todo: NEW TRANSLATION
+  FACTION_SCIENTIST_ALREADY_ASSIGNED_AS_SUPPORT: "£trigger_no Již přiřazen k zařízení ve státě $STATE|Y$ jako podpůrný vědec" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_TYPE_SORT_ALL: "Zobrazuje polní maršály i admirály" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_TYPE_SORT_FM: "Zobrazuje pouze polní maršály" # todo: NEW TRANSLATION
+  FACTION_SUPREME_COMMANDER_TYPE_SORT_AD: "Zobrazuje pouze admirály" # todo: NEW TRANSLATION
+  FACTION_UNIT_IS_SUPREME_COMMANDER: "§RJe používán jako velitel divadla§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_MARSHAL_ADMIRAL_FILTER: "Filtrování podle §Hpolních maršálů§! nebo §Hadmirálů§!" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_TITLE: "Vyberte §Hšablonu frakce§!" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_SHOW_UNAVAILABLE_CHECKBOX: "Zobrazit nedostupné šablony" # todo: NEW TRANSLATION
+  FACTION_CONFIRM_BECOME_LEADER_DESC: "Převzít vedení frakce $FACTION|H$.\nPřevzetí bude stát £pol_power£ $COST|G$ a ostatním členům frakce bude po dobu následujících $COOLDOWN|Y$ dní zablokováno převzetí vedení." # todo: NEW TRANSLATION
+  FACTION_SETUP_WINDOW_TITLE: "Vytvořit frakci" # todo: NEW TRANSLATION
+  FACTION_SETUP_CREATE_FACTION_BUTTON: "Vytvořit frakci" # todo: NEW TRANSLATION
+  FACTION_SETUP_INVITE_COUNTRIES_BUTTON: "Pozvat země" # todo: NEW TRANSLATION
+  FACTION_CHOOSE_ICON: "Vybrat insignii" # todo: NEW TRANSLATION
+  FACTION_CHOOSE_COLOR: "Vybrat barvu mapy" # todo: NEW TRANSLATION
+  CANNOT_REMOVE_FACTION_RULE: "§RNelze odstranit $RULE|H$§!" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_GOAL: "Cíle: $VALUE|H$" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_RULES: "Pravidla: $VALUE|H$" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_MANIFEST: "Manifest:\n$NAME|H$" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_RULES_TOOLTIP: "§HZákladní pravidla:§!" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_RULES_TOOLTIP_ENTRY: "$TYPE|H$\n- $NAME|$" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_GOALS_TOOLTIP: "§HZákladní cíle:§!" # todo: NEW TRANSLATION
+  NEW_FACTION_WINDOW_GOALS_TOOLTIP_ENTRY: "- $NAME|$" # todo: NEW TRANSLATION
+  SETUP_FACTION_WINDOW_MANIFEST: "Manifest: $NAME|H$" # todo: NEW TRANSLATION
+  SEE_FACTIONS_BUTTON: "Zobrazit frakce" # todo: NEW TRANSLATION
+  FACTION_NO_MANIFEST: "Žádný manifest§R!§!" # todo: NEW TRANSLATION
+  RULES_TAB_LABEL: "Pravidla" # todo: NEW TRANSLATION
+  RESEARCH_TAB_LABEL: "Výzkum" # todo: NEW TRANSLATION
+  ARMY_TAB_LABEL: "Ozbrojené síly" # todo: NEW TRANSLATION
+  INDUSTRY_TAB_LABEL: "Průmysl" # todo: NEW TRANSLATION
+  INTELLIGENCE_TAB_LABEL: "Zpravodajství" # todo: NEW TRANSLATION
+  FACTION_ADD_GOAL: "Přidat cíl $CATEGORY|H$" # todo: NEW TRANSLATION
+  POWER_PROJECTION_FROM_EFFECTS: "Projekce síly z efektů a cílů: $VAL|0H$" # todo: NEW TRANSLATION
+  INDUSTRIAL_POWER_PROJECTION: "Projekce průmyslové síly: $VAL|0H$" # todo: NEW TRANSLATION
+  ARMY_POWER_PROJECTION: "Projekce síly armády: $VAL|0H$" # todo: NEW TRANSLATION
+  NAVAL_POWER_PROJECTION: "Projekce námořní síly: $VAL|0H$" # todo: NEW TRANSLATION
+  AIR_POWER_PROJECTION: "Projekce vzdušné síly: $VAL|0H$" # todo: NEW TRANSLATION
+  POWER_PROJECTION_IN_FACTION_RATIO: "Podíl na celkovém přínosu: $VAL|H%$" # todo: NEW TRANSLATION
+  TOTAL_POWER_PROJECTION: "Celková projekce síly: $VAL|0H$" # todo: NEW TRANSLATION
+  CONTRIBUTION_INFLUENCE: "Vliv z příspěvku: $VAL|H$ $MOD$" # todo: NEW TRANSLATION
+  WAR_SCORE_INFLUENCE: "Vliv z válečného skóre: $VAL|H$ $MOD$" # todo: NEW TRANSLATION
+  FROM_EFFECTS_INFLUENCE: "Vliv z událostí: $VAL|H$ $MOD$" # todo: NEW TRANSLATION
+  INDUSTRIAL_CAPACITY_INFLUENCE: "Vliv z průmyslové kapacity: $VAL|H$ $MOD$" # todo: NEW TRANSLATION
+  FACTION_LEADER_BONUS_INFLUENCE: "Výchozí vliv vůdce frakce: $VAL|H$ $MOD$" # todo: NEW TRANSLATION
+  TOTAL_INFLUENCE: "Celkový vliv: $VAL|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_PERCENTAGE: "($VAL|.0%$)" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_TOOLTIP_HEADER: "$NAME$ §H($VAL|.2H%$)§!" # todo: NEW TRANSLATION
+  CONTRIBUTION_INFLUENCE_EXPECTED_GAIN: "§HOčekávaný zisk z příspěvku:\n§!" # todo: NEW TRANSLATION
+  CONTRIBUTION_SUPPORTIVE_SCIENTIST_EXPECTED_GAIN: "Podpůrní vědci: $VAL|H$ §Hdenně§!" # todo: NEW TRANSLATION
+  CONTRIBUTION_MANPOWER_EXPECTED_GAIN: "Příspěvek lidských zdrojů: $VAL|H$ §Hměsíčně§!" # todo: NEW TRANSLATION
+  CONTRIBUTION_EXPIDITIONARY_FORCES_EXPECTED_GAIN: "Expediční síly: $VAL|H$ §Hdenně§!" # todo: NEW TRANSLATION
+  CONTRIBUTION_SUBJECT_SCALER_EXPECTED_GAIN: "§RZisk z příspěvku škálován na §!$VAL|H%$ §Rz toho, že jste subjekt§!" # todo: NEW TRANSLATION
+  DR_FACTION_POWER_PROJECTION: "Projekce síly frakce: " # todo: NEW TRANSLATION
+  FACTION_THEATER_DEFAULT_NAME: "Frakční divadlo $NUM$" # todo: NEW TRANSLATION
+  FACTION_THEATER_SELECT_ALL: "Vybrat maximální kapacitu" # todo: NEW TRANSLATION
+  FACTION_THEATER_NEW_THEATER_BUTTON: "Nové divadlo" # todo: NEW TRANSLATION
+  FACTION_THEATER_REGION_COUNT: "£state  $NUM$" # todo: NEW TRANSLATION
+  FACTION_THEATER_EXECUTION_MODE_LABEL: "Režim provedení:" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP: "$THEATER|H$\nVlastník @$OWNER_TAG$ $OWNER_NAME|H$\n$COMMANDER$\n\nVybrané $NUM_REGIONS$ regionů:\n$REGIONS$\n\nPřiřazeno $NUM_COUNTRIES$ zemí:\n$COUNTRIES$" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_COUNTRY: "@$TAG$ $NAME|H$" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_REGION: "$NAME|H$" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_COMMANDER: "Velí $TITLE$ $NAME|H$" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_NO_COMMANDER: "§RŽádný velitel!§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_NO_REGIONS: "§RŽádné vybrané regiony!§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_NO_COUNTRIES: "§RŽádné přiřazené země!§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_TOOLTIP_DELAYED: "§GKlikněte§! pro výběr frakčního divadla" # todo: NEW TRANSLATION
+  FACTION_MAX_NUMBER_OF_THEATERS: "§RNemůžete vytvořit více než $NUM$ divadel!§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_AMOUNT: "Frakční divadla: §H$UNLOCKED$/$MAX$§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_NO_OWNER: "§RNejste vlastníkem tohoto frakčního divadla.§! Pouze vlastník může přidávat strategické regiony." # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_ADD: "§GKlikněte§! pro přidání $NAME|H$ do divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_REMOVE: "§GKlikněte§! pro odebrání $NAME|H$ z divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_MAX_REACHED: "§RDosažen maximální počet regionů§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_ADJACENT: "§RRegiony musí být sousední§!" # todo: NEW TRANSLATION
+  FACTIONS_THEATER_MAP_MODE_IN_OTHER_THEATER: "$NAME|H$ §RJiž přiřazeno k jinému divadlu§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_NO_COMMANDER: "§RNení přiřazen velitel divadla§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_MAP_MODE_CANNOT_REMOVE_CUTPOINT: "§RRegiony musí být sousední, takže ho nelze odstranit§!" # todo: NEW TRANSLATION
+  FACTION_THEATER_REGION_COUNT_TOOLTIP: "Maximálně $MAX|H$ regionů lze přidat do divadla na základě úrovně dovedností §Hvelitele divadla§!. \nAktuálně je do divadla přidáno $ADDED|H$ regionů.\n\nRegion může být přidán pouze do jednoho divadla." # todo: NEW TRANSLATION
+  FACTION_THEATER_COUNTRY_COUNT_TOOLTIP: "Maximálně $MAX|H$ zemí lze přidat do divadla na základě úrovně dovedností §Hvelitele divadla§!. \nAktuálně je do divadla přidáno $ADDED|H$ zemí.\n\nZemě může být přidána pouze do jednoho divadla." # todo: NEW TRANSLATION
+  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP: "Vybrané země v divadle získávají $VAL$ k §Hspotřebě zásob§! na základě dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$).\n\n§HAdmirál§! poskytne vyšší bonus ke spotřebě zásob u námořnictva, zatímco §Hpolní maršál§! poskytne lepší bonus ke spotřebě zásob u pozemních sil." # todo: NEW TRANSLATION
+  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY: "- $COUNTRY|H$" # todo: NEW TRANSLATION
+  FACTION_THEATER_MASTERY_GAIN_TOOLTIP: "Země velitele obdrží $VAL|.1G%$ z £doctrine_mastery §HMistrovství§!, které získali ostatní členové frakce v divadle, na základě dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$)." # todo: NEW TRANSLATION
+  THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$" # todo: NEW TRANSLATION
+  FACTION_THEATER_SWITCH_TO_FACTION_VIEW_TOOLTIP: "Zobrazit frakční divadla" # todo: NEW TRANSLATION
+  FACTION_THEATER_SWITCH_TO_THEATER_VIEW_TOOLTIP: "Zobrazit národní divadla" # todo: NEW TRANSLATION
+  RULES_SORT_NAME: "§GKlikněte§! pro seřazení podle jména" # todo: NEW TRANSLATION
+  dismissal_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HOdvolání§!" # todo: NEW TRANSLATION
+  change_leader_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HZměna vedení§!" # todo: NEW TRANSLATION
+  member_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HČlenství§!" # todo: NEW TRANSLATION
+  contribution_rule_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HPříspěvek lidských zdrojů§!" # todo: NEW TRANSLATION
+  joining_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HPřipojování§!" # todo: NEW TRANSLATION
+  peace_conference_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HMírové konference§!" # todo: NEW TRANSLATION
+  war_declaration_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HVyhlášení války§!" # todo: NEW TRANSLATION
+  call_to_war_rules_filter_tooltip: "§GKlikněte§! pro přepnutí filtru §HVýzva k válce§!" # todo: NEW TRANSLATION
+  FACTION_GOALS_TAB_TT: "§HCíle frakce§!\nZobrazit a změnit vaše aktivní cíle." # todo: NEW TRANSLATION
+  FACTION_RULES_TAB_TT: "§HPravidla frakce§!\nZobrazit a změnit pravidla, kterými se vaše frakce musí řídit." # todo: NEW TRANSLATION
+  FACTION_RESEARCH_TAB_TT: "§HFrakční výzkum§!\nNastavte sdílení výzkumu a společná výzkumná zařízení." # todo: NEW TRANSLATION
+  FACTION_INTELLIGENCE_TAB_TT: "§HZpravodajství frakce§!\nNastavte sdílení zpravodajství a změňte šéfa špionáže frakce." # todo: NEW TRANSLATION
+  FACTION_INTELLIGENCE_TAB: "Zpravodajství frakce" # todo: NEW TRANSLATION
+  FACTION_RANKING: "Globální pořadí: $VAL|H$" # todo: NEW TRANSLATION
+  FACTION_POWER_RANKING_TOOLTIP: "§HPořadí frakcí§!\n\nNa základě naší §Hprojekce síly frakce§! $VAL|0H$, je naše frakce na světě na pořadí $RANK|H$." # todo: NEW TRANSLATION
+  RANK_TEXT_FACTION: "$VALUE|H$" # todo: NEW TRANSLATION
+  POWER_PROJECTION_BLURB: "\n§gProjekce síly frakce ovlivňuje, jak pravděpodobné je, že země přijmou pozvánky do frakce, a slouží jako rozhodující faktor při mírových konferencích.§!" # todo: NEW TRANSLATION
+  COUNTRY_FPP_ITEM: "$VALUE|0%H$" # todo: NEW TRANSLATION
+  THEATER_ASSIGNED_COUNTRIES: "$NUM$/$MAX$" # todo: NEW TRANSLATION
+  THEATER_ASSIGNED_REGIONS: "$NUM$/$MAX$" # todo: NEW TRANSLATION
+  THEATER_SUPPLY_USAGE_MODIFIER: "$VAL|1%-$" # todo: NEW TRANSLATION
+  THEATER_COMMANDER_MODIFIER: "$NAME|H$ ($FACTION|H$ v $THEATER|H$): $VAL|0%-$" # todo: NEW TRANSLATION
+  THEATER_COMMANDER_SUPPLY_SKILL_DESC: "Tento velitel snižuje spotřebu zásob o $VAL|H$ díky svým dovednostem v plánování a logistice" # todo: NEW TRANSLATION
+  FACTION_THEATER_POPUP_DESC: "Opravdu chcete utratit £faction_initiative_texticon£ $COST|0H$ za vytvoření nového frakčního divadla?" # todo: NEW TRANSLATION
+  FACTION_THEATER_SHOW_PIN_TOOLTIP: "Přepnout zobrazení §Hfrakčních divadel§! v mapových režimech §HVýchozí§!, §HStrategické námořnictvo§! a §HStrategické letectvo§!." # todo: NEW TRANSLATION
+  FACTION_EXECUTE_CAREFUL_DESC: "Když je plán proveden, jednotky nebudou útočit na silně opevněná místa, pokud nejsou bez posádky, a budou se vyhýbat útokům na provincie, které by oslabily frontu prodloužením její délky.\n\n§gUpozorňujeme, že toto bude ovlivňovat pouze spojenecké jednotky řízené AI v rámci divadla, nikoli jednotky ovládané hráčem.§!" # todo: NEW TRANSLATION
+  FACTION_EXECUTE_BALANCED_DESC: "Platí standardní pravidla pro provádění bojových plánů. Jednotky se pokusí postupovat tak, aby byla fronta co nejkratší, a mohou útočit na opevněné lokace.\n\n§gUpozorňujeme, že toto ovlivní pouze spojenecké jednotky řízené AI v rámci divadla, nikoli jednotky ovládané hráčem.§!" # todo: NEW TRANSLATION
+  FACTION_EXECUTE_RUSH_DESC: "Jednotky budou útočit na provincie, pokud jsou součástí plánu, i když to může znamenat prodloužení fronty nebo vystavení jednotek nebezpečí.\n\n§gUpozorňujeme, že toto ovlivní pouze spojenecké jednotky řízené AI v rámci divadla, nikoli jednotky ovládané hráčem.§!" # todo: NEW TRANSLATION
+  theater_western_europe: "Západní Evropa" # todo: NEW TRANSLATION
+  theater_eastern_europe: "Východní Evropa" # todo: NEW TRANSLATION
+  theater_barbarossa_north: "Skupina armád Sever" # todo: NEW TRANSLATION
+  theater_barbarossa_center: "Skupina armád Střed" # todo: NEW TRANSLATION
+  theater_barbarossa_south: "Skupina armád Jih" # todo: NEW TRANSLATION
+  theater_north_sea_region: "Region Severního moře" # todo: NEW TRANSLATION
+  theater_southern_europe: "Jižní Evropa" # todo: NEW TRANSLATION
+  theater_black_sea_region: "Region Černého moře" # todo: NEW TRANSLATION
+  theater_scandinavia: "Skandinávské divadlo" # todo: NEW TRANSLATION
+  theater_north_africa: "Severní Afrika" # todo: NEW TRANSLATION
+  theater_west_africa: "Západní Afrika" # todo: NEW TRANSLATION
+  theater_south_africa: "Jižní Afrika" # todo: NEW TRANSLATION
+  theater_persia: "Persie" # todo: NEW TRANSLATION
+  theater_central_pacific: "Středopacifické divadlo" # todo: NEW TRANSLATION
+  theater_us_west_coast: "Západní pobřeží USA" # todo: NEW TRANSLATION
+  theater_south_pacific: "Jihopacifické divadlo" # todo: NEW TRANSLATION
+  theater_japanese_home_islands: "Domovské ostrovy Japonska" # todo: NEW TRANSLATION
+  theater_chinese_coastline: "Čínské pobřeží" # todo: NEW TRANSLATION
+  theater_chinese_mainland: "Vnitrozemí Číny" # todo: NEW TRANSLATION
+  theater_south_east_asia: "Jihovýchodní Asie" # todo: NEW TRANSLATION
+  theater_us_east_coast: "Východní pobřeží USA" # todo: NEW TRANSLATION
+  theater_central_america: "Střední Amerika" # todo: NEW TRANSLATION
+  theater_bengal: "Bengálské divadlo" # todo: NEW TRANSLATION
+  theater_northern_india: "Divadlo severní Indie" # todo: NEW TRANSLATION
+  theater_brazil: "Brazilské divadlo" # todo: NEW TRANSLATION
+  theater_south_south_america: "Jižní část Jižní Ameriky" # todo: NEW TRANSLATION
+  theater_gran_columbia: "Divadlo Gran Columbia" # todo: NEW TRANSLATION
+  GARRISON_SUPPORT_SEND: "Požadované lidské zdroje budou doručeny přímo do našich posádek na území, které okupujeme." # todo: NEW TRANSLATION
+  FOREIGN_MANIFEST_ENTRY: "§HManifest§!: $MANIFEST$" # todo: NEW TRANSLATION
+  FOREIGN_GOAL_ITEM_ENTRY: "§HCíl§!: $NAME$" # todo: NEW TRANSLATION
+  SCALING_MODIFIER_SECTION_TITLE: "$faction_divider_dashes$\n\n§HPři 100% postupu manifestu (škálováno):§!" # todo: NEW TRANSLATION
+  SCALING_MODIFIER_SECTION_TITLE_REVERSED: "$faction_divider_dashes$\n\n§HPři 0% postupu manifestu (škálováno):§!" # todo: NEW TRANSLATION
+  faction_divider_dashes: "--------------" # todo: NEW TRANSLATION
+  TRIGGER_HAS_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ má aktivní pravidlo $RULE|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ nemá aktivní pravidlo $RULE|H$" # todo: NEW TRANSLATION

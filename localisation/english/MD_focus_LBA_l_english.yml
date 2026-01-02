@@ -14,6 +14,8 @@
   libya_develop_west_waha_fields_desc: "Ropná pole Waha v pánvi Sirte produkují 90 % libyjské ropy, čímž jsou nejcennějším regionem v zemi. Ropa získaná ze západních polí Waha je posílána do Sirte a Lanufu k dalšímu zpracování a skladování. S větším úsilím můžeme rozšířit produkci na západních polích Waha.\n\nAbychom rozšířili existující ropná pole, musíme připravit zařízení k uskladnění ropy a najít efektivní metody těžby." # todo: NEW TRANSLATION
   libya_develop_east_waha_fields: "Rozvíjejte východní ropná pole Waha" # todo: NEW TRANSLATION
   libya_develop_east_waha_fields_desc: "Ropná pole Waha v pánvi Sirte produkují 90 % libyjské ropy, čímž jsou nejcennějším regionem v zemi. Ropa získaná z východních polí Waha je posílána do Brega a Adjabiya pro zpracování a skladování. S větším úsilím můžeme rozšířit produkci východních Waha.\n\nAbychom rozšířili existující ropná pole, musíme připravit zařízení k uskladnění ropy a najít efektivní metody těžby." # todo: NEW TRANSLATION
+  libya_develop_oil_fields_with_foreign_aid: "Rozvíjet ropná pole za zahraniční pomoci" # todo: NEW TRANSLATION
+  libya_develop_oil_fields_with_foreign_aid_desc: "Existuje několik nadnárodních ropných společností, které působí po celém světě. Mají know-how a technologii, jak těžit ropu prakticky kdekoli. Musíme je využít k rozšíření libyjského ropného průmyslu.\n\n§YToto rozhodnutí lze provést jednou ročně§!" # todo: NEW TRANSLATION
   libya_dig_wadi_ash_shati: "Těžba železné rudy ve Wadi Ash-Shati'" # todo: NEW TRANSLATION
   libya_dig_wadi_ash_shati_desc: "Říká se, že údolí Wadi Ash-Shati' poblíž Sabby ukrývá největší světová ložiska železné rudy. Dosud jsme našli jen málo, ale kdo ví, co skrývají písečné duny pouště? Musíme oblast prozkoumat, abychom našli tuto železnou rudu." # todo: NEW TRANSLATION
   libya_dig_wadi_ash_shati_capacity: "Existuje potenciál pro nové železné doly (aktuálně: [?wadi_ash_shati_current] z 60)" # todo: NEW TRANSLATION
@@ -145,7 +147,9 @@
   libya_gaddafi_family_abolish_switzerland_gaddafi_tt: "Pokud souhlasí, získají §YClaim§! na švýcarský stát a my na ně získáme vliv. Pokud jsou §YNacionalista§!, budou pravděpodobněji souhlasit\n\n" # todo: NEW TRANSLATION
   libya_gaddafi_family_anti_government_protests: "Protesty proti Gaddáfímu" # todo: NEW TRANSLATION
   libya_gaddafi_family_anti_government_protests_desc: "Lidé mají dost vládnoucí rodině Gaddáfího. Špatné životní podmínky, špatná ekonomika a omezené politické svobody přiměly lidi vyjít na ulice. Pokud se situace rychle nezlepší, nebo Gaddáfiho režim převezme moc, dojde k otevřenému povstání proti režimu." # todo: NEW TRANSLATION
+  libya_gaddafi_family_anti_government_protests_tt: "§RProtesty přerostou do občanské války a musíme si vybrat stranu!§!" # todo: NEW TRANSLATION
   libya_gaddafi_family_anti_government_protests_join_rebels_tt: "§RNejvětší opoziční strana se ujme moci. Přívrivci Gaddáfího začnou občanskou válku proti nám!§!" # todo: NEW TRANSLATION
+  LBA_first_libyan_civil_war_tension: "První libyjská občanská válka" # todo: NEW TRANSLATION
   libya_gaddafi_family_deploy_military: "Nasadit Revoluční gardový sbor" # todo: NEW TRANSLATION
   libya_gaddafi_family_deploy_military_desc: "Musíme nasadit Revoluční gardový sbor, abychom se vypořádali s protestujícími. Musíme co nejdříve uhasit plameny revoluce." # todo: NEW TRANSLATION
   libya_gaddafi_family_deploy_military_tt: "§RPokud protesty povedou k občanské válce, povstalci budou silnější! Použití síly proti protestujícím by mohlo vést k zahraniční intervenci!§!" # todo: NEW TRANSLATION
@@ -163,12 +167,26 @@
   LBA_tribalism_disabled_tt: "§Y$libya_libyan_tribalism$§! mechanika byla vypnuta" # todo: NEW TRANSLATION
   libya_tribalism_decentralise_state: "Decentralizovat moc" # todo: NEW TRANSLATION
   libya_tribalism_decentralise_state_desc: "Nejúčinější způsob, jak potěšit všechny libyjské kmeny, je prostě snížit moc centrální vlády. Zvýšená autonomie, i když jen na omezenou dobu, dá kmenovým vůdcům určitou moc." # todo: NEW TRANSLATION
+  libya_tribalism_decentralise_state_tt: "§YDecentralizujeme každých 6 měsíců!§!" # todo: NEW TRANSLATION
   libya_tribalism_placate_tripolitanians: "Uklidněte [TRP.GetNameWithFlag]" # todo: NEW TRANSLATION
   libya_tribalism_placate_tripolitanians_desc: "Pozemkové dotace, finanční výhody, vojenské posty a vládní místa jsou klíčové způsoby, jak udržet místní separatisty v souladu s centrální vládou. Dokud chápou, že zůstání součástí Libye má více výhod než nevýhod, je vše v pořádku." # todo: NEW TRANSLATION
   libya_tribalism_placate_cyrenaicans: "Uklidněte [CYR.GetNameWithFlag]" # todo: NEW TRANSLATION
   libya_tribalism_placate_cyrenaicans_desc: "Pozemkové dotace, finanční výhody, vojenské posty a vládní místa jsou klíčové způsoby, jak udržet místní separatisty v souladu s centrální vládou. Dokud chápou, že zůstání součástí Libye má více výhod než nevýhod, je vše v pořádku." # todo: NEW TRANSLATION
   libya_tribalism_placate_fezzans: "Uklidněte [FEZ.GetNameWithFlag]" # todo: NEW TRANSLATION
   libya_tribalism_placate_fezzans_desc: "Pozemkové dotace, finanční výhody, vojenské posty a vládní místa jsou klíčové způsoby, jak udržet místní separatisty v souladu s centrální vládou. Dokud chápou, že zůstání součástí Libye má více výhod než nevýhod, je vše v pořádku." # todo: NEW TRANSLATION
+  libya_tribalism_military_crackdown: "Nařídit vojenské potlačení v regionu" # todo: NEW TRANSLATION
+  libya_tribalism_military_crackdown_desc: "Abychom zamezili povstáním, musíme nařídit našim ozbrojeným silám tvrdě potlačit veškerou opoziční činnost v [FROM.GetName]." # todo: NEW TRANSLATION
+  libya_tribalism_use_military_as_workforce: "Využít armádu jako pracovní sílu v regionu" # todo: NEW TRANSLATION
+  libya_tribalism_use_military_as_workforce_desc: "Mohli bychom využít naši armádu k pomocným stavebním pracím v [FROM.GetName], abychom region rychleji rozvinuli." # todo: NEW TRANSLATION
+  libya_tribalism_use_military_as_security: "Poskytnout dodatečnou ochranu ropných polí v regionu" # todo: NEW TRANSLATION
+  libya_tribalism_use_military_as_security_desc: "Většina ropných polí v Libyi má nějaké soukromé bezpečnostní síly. Můžeme nasadit armádu k zajištění dodatečné ochrany v [FROM.GetName]. To uvolní více zdrojů pro samotnou těžbu." # todo: NEW TRANSLATION
+  libya_tribalism_demobilise_soldiers: "Demobilizovat vojáky v regionu" # todo: NEW TRANSLATION
+  libya_tribalism_demobilise_soldiers_desc: "Mnoho vojáků v naší armádě pochází z [FROM.GetName]. Možná je čas některé z nich uvolnit z vojenské služby a nechat je vrátit se domů. To by nám pomohlo vybudovat důvěru v místním regionu." # todo: NEW TRANSLATION
+  libya_tribalism_end_tribalism: "Ukončit kmenovost" # todo: NEW TRANSLATION
+  libya_tribalism_end_tribalism_desc: "S věrností kmenů zajištěnou můžeme konečně přestat mít obavy z možného povstání a rozkladu Libye." # todo: NEW TRANSLATION
+  libya_tribalism_end_tribalism_trp_tt: "Věrnost [TRP.GetNameWithFlag] > 99% (Aktuálně: [?tripolitania_loyalty|%0])\n" # todo: NEW TRANSLATION
+  libya_tribalism_end_tribalism_cyr_tt: "Věrnost [CYR.GetNameWithFlag] > 99% (Aktuálně: [?cyrenaica_loyalty|%0])\n" # todo: NEW TRANSLATION
+  libya_tribalism_end_tribalism_fez_tt: "Věrnost [FEZ.GetNameWithFlag] > 99% (Aktuálně: [?fezzan_loyalty|%0])\n" # todo: NEW TRANSLATION
   libya_tribalism_tripolitanian_revolt: "[TRP.GetFlag] [TRP.GetAdjective] Revolt" # todo: NEW TRANSLATION
   libya_tribalism_tripolitanian_revolt_desc: "V kmenovém prostředí Tripolitánie vzniká hnutí. Pokud bude jejich špatné zacházení centrální vládou nadále pokračovat, zavázali se oddělit od Libye." # todo: NEW TRANSLATION
   TT_tripolitania_loyalty_more_than_10: "Loajalita [TRP.GetNameWithFlag] > 10%" # todo: NEW TRANSLATION
@@ -258,6 +276,32 @@
   generic_occupy_aouzou_strip: "Obsadit Aouzou Strip" # todo: NEW TRANSLATION
   generic_occupy_aouzou_strip_desc: "Stav [580.owner.GetNameDef] je takový, že není schopen efektivně rozšířit kontrolu nad [580.GetName]. Měli bychom poslat malý kontingent vojáků k zajištění oblasti. Není pravděpodobné, že [580.owner.GetName] odolá." # todo: NEW TRANSLATION
   generic_occupy_aouzou_strip_tt: "§R[580.owner.GetNameDef] by nám mohl vyhlásit válku!§!" # todo: NEW TRANSLATION
+  libya_demand_tuareg_territory: "Požadovat tuaregské území od [FROM.GetNameDef]" # todo: NEW TRANSLATION
+  libya_demand_tuareg_territory_desc: "[FROM.GetNameDef] v současnosti drží území obývané Tuaregy. Tuaregové jsou součástí libyjského národa a musíme je osvobodit." # todo: NEW TRANSLATION
+  libya_aftermath_of_civil_war: "Následky občanské války" # todo: NEW TRANSLATION
+  libya_aftermath_of_civil_war_desc: "\n£LBA_desctext_aftermath_of_civil_war \n\n\n\nS koncem občanské války je čas vybudovat novou Libyi. Nicméně mocenské vakuum po Gaddafím vytvořilo vratkou rovnováhu sil v zemi. Džihádisté a islamisté z Muslimského bratrstva chtějí uplatnit šáriu v zemi, nově formovaná Libyjská národní armáda má mnoho ambiciózních vojenských velitelů a v zemi je stále dost podporovatelů Gaddáfího. Pokud k frakcím nepřistoupíme vyváženě nebo je zcela neprotlačíme, je pravděpodobné, že Libye bude opět rozdrolena." # todo: NEW TRANSLATION
+  libya_integrate_militias_mission: "Integrace milicí" # todo: NEW TRANSLATION
+  libya_integrate_militias_mission_desc: "Integrace různých milicí potrvá kvůli protichůdným ideologiím, loajalitám a velitelským řetězcům. Nicméně s každou integrovanou milicí zvyšujeme kontrolu, kterou má naše vláda." # todo: NEW TRANSLATION
+  libya_integrate_militias_mission_create_LNA_tt: "§Y$LBA.Nat_Autocracy_rebels$§! bude známa jako §Y$LBA.Nat_Autocracy_LNA$§!\n" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_benghazi: "Odříznout hlavu hada v §Y$STATE_395$§!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_benghazi_desc: "[ASL.GetNameDef] se opevnili v $STATE_395$. Město je druhé největší v Libyi a slouží jako hlavní bašta této frakce. Vytlačit je z města bude obtížné, ale musíme tuto hrozbu eliminovat." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_derna: "Vyčistit §Y$STATE_396$§!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_derna_desc: "§Y$STATE_396$§! je hlavním zdrojem mužstva pro [ASL.GetNameDef]. Podle USA pochází většina libyjských islamistických bojovníků v zahraničí právě z tohoto města. Musíme ho vyčistit, abychom měli dobrý výchozí bod proti $STATE_395$." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_derna_tt: "Naše šance na úspěch závisí na §YVěrnosti [CYR.GetNameWithFlag]§!. Zlepšením vztahů s místními je pravděpodobnější, že vyčistíme $VICTORY_POINTS_1204$\n" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_ajdabiya: "Získat zpět ropná pole Wahat" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_ajdabiya_desc: "S ovládáním $VICTORY_POINTS_1127$ [ASL.GetNameDef] se ropa z ropných polí Wahat nemůže kam dostat. Musíme provést vojenskou operaci a získat zpět přístavní město. To také uvolní cestu směrem k $STATE_395$." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_ajdabiya_tt: "Naše šance na úspěch závisí na §YVěrnosti [CYR.GetNameWithFlag]§!. Zlepšením vztahů s místními je pravděpodobnější, že vyčistíme $VICTORY_POINTS_1127$\n" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_kufra: "Chránit §Y$VICTORY_POINTS_1057$§!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_kufra_desc: "Město §Y$VICTORY_POINTS_1057$§! je jediné větší sídlo v $STATE_1100$. Měli bychom tam nasadit dodatečné jednotky, abychom město udrželi v bezpečí. Možná pokud islámistům zůstane jen poušť, nakonec se rozpadnou." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sirte: "Prodrat se přes §Y$STATE_919$§!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sirte_desc: "S $STATE_919$ pod kontrolou [ASL.GetName] je naše schopnost přesouvat se mezi Západní a Východní Libyi vážně omezená. Musíme vytlačit islamisty z regionu, abychom opět spojili naše síly." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sirte_tooltip: "Protože §Y[ASL.GetNameDef]§! stále ovládají §Y$VICTORY_POINTS_6295$§!, obdržíme §R-50% penalizaci§! k jakýmkoli útokům proti §Y$STATE_919$§!!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sabha: "Získat zpět §Y$VICTORY_POINTS_6295$§!" # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sabha_desc: "Pozemní útok proti $VICTORY_POINTS_6295$ by islámisté z dálky zpozorovali, proto musíme provést překvapivý útok. Naše speciální jednotky spolu s letectvem přistanou přímo na letišti a převezmou kontrolu." # todo: NEW TRANSLATION
+  libya_attack_ansar_al_sharia_in_sabha_tt: "Naše šance na úspěch závisí na §YVěrnosti [FEZ.GetNameWithFlag]§!. Zlepšením vztahů s místními je pravděpodobnější, že vyčistíme $VICTORY_POINTS_6295$. §RPokud útok selže, naše letectvo letiště bombarduje, čímž ho učiní nepoužitelným, ale alespoň přinutí islamisty ustoupit§!.\n" # todo: NEW TRANSLATION
+  libya_operation_dignity_mission: "Haftar zahajuje Operaci Důstojnost" # todo: NEW TRANSLATION
+  libya_operation_dignity_mission_desc: "Khalifa Haftar a další vlivní aktéři v Libyjské národní armádě jsou frustrovaní nečinností naší vlády vůči islamistům v naší zemi. Pokud Ansar al-Sharia z Libye nevytlačíme, Haftar vezme věci do svých rukou..." # todo: NEW TRANSLATION
+  libya_operation_dignity_mission_tooltip: "§Y[LBA_khalifa_haftar.GetName]§! mobilizuje vojáky věrné §Y$LBA.Nat_Autocracy_LNA$§! a veřejně odsoudí naši vládu, aby islamisty sám zničil." # todo: NEW TRANSLATION
   libya_oil_nationalisation_dynamic_modifier: "Ropná nacionalizace" # todo: NEW TRANSLATION
   TT_libya_oil_nationalisation_dynamic_modifier: "Úroveň nacionalizace: §Y[?lba_oil_nationalisation|%0]§!\nDalší příjem: $$[?oil_nationalisation_income|+3] miliard za §Yropa vytěžená§!\n" # todo: NEW TRANSLATION
   libya_oil_nationalisation_dynamic_modifier_desc: "Většina ropné produkce v Libyi je kontrolována Národní ropnou korporací. Ačkoli je to pro stát prospěšné, mezinárodní investice ze zahraničních firem jsou omezené. Vyšší úroveň nacionalizace poškodí náš růst produktivity a ztíží vývoj nových ropných polí." # todo: NEW TRANSLATION
@@ -448,6 +492,108 @@
   LBA_emancipator_of_women_desc: "Gaddáfího poslední přednáška o islámu pro skupinu žen v Itálii vyvolala masovou konverzi žen k islámu a migraci do Líbie." # todo: NEW TRANSLATION
   LBA_oppressor_of_women: "Utlačovatel žen" # todo: NEW TRANSLATION
   LBA_oppressor_of_women_desc: "Gaddáfího poslední přednáška o islámu pro skupinu žen v Itálii vedla lidi k vidění velkého vůdce jako jen utlačovatele žen. Lidé opouštějí Líbií ve velkém, protože nechtějí žít v zemi řízené takovým mužem." # todo: NEW TRANSLATION
+  LBA_green_resistance_1: "Zelené hnutí" # todo: NEW TRANSLATION
+  LBA_green_resistance_1_desc: "Zelené hnutí, nebo gaddáfovské loajalistické síly, jsou v Libyi stále silné. Využívané současným autokratem, Zelené hnutí mu pomáhá posilovat jeho jednotky.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [Western_Autocracy_L], [Conservative_L], [Autocracy_L], [Nat_Populism_L] nebo [Nat_Fascism_L]§!" # todo: NEW TRANSLATION
+  LBA_green_resistance_2: "Gaddáfovští loajalisté" # todo: NEW TRANSLATION
+  LBA_green_resistance_2_desc: "Vláda zaměstnala gaddáfovské loajalisty v administrativě a armádě místo toho, aby je prohnala, v naději, že jejich loajalita bude za to stát.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [Western_Autocracy_L], [Conservative_L], [Autocracy_L], [Nat_Populism_L] nebo [Nat_Fascism_L]§!" # todo: NEW TRANSLATION
+  LBA_green_resistance_3: "Pozůstatky starého režimu" # todo: NEW TRANSLATION
+  LBA_green_resistance_3_desc: "Libyjská vláda plně využívá Zelené hnutí, tedy gaddáfovské loajalisty, zatímco začíná budovat Libyi podle svého obrazu.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [Western_Autocracy_L], [Conservative_L], [Autocracy_L], [Nat_Populism_L] nebo [Nat_Fascism_L]§!" # todo: NEW TRANSLATION
+  LBA_moderated_quran_and_sunnah: "Umírněný Korán a Sunna" # todo: NEW TRANSLATION
+  LBA_moderated_quran_and_sunnah_desc: "Vládnoucí establishment se rozhodl cenzurovat a umírňovat některé extrémnější výklady Koránu a Sunny v naději, že omezí přítomnost radikálních názorů.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [Western_Autocracy_L], [Conservative_L], [Autocracy_L], [Nat_Populism_L] nebo [Nat_Fascism_L]§!" # todo: NEW TRANSLATION
+  LBA_loyalist_purges: "Čistky loajalistů" # todo: NEW TRANSLATION
+  LBA_loyalist_purges_desc: "Gaddáfovští loajalisté a bývalí příznivci byli vyčištěni z libyjské správy. Lidem byla slíbena změna a vítají ji." # todo: NEW TRANSLATION
+  LBA_ramadan_asswehly_remembrance: "Vzpomínka na Ramadana Asswehlyho" # todo: NEW TRANSLATION
+  LBA_ramadan_asswehly_remembrance_desc: "Ramadan Asswehly byl jedním ze zakládajících členů Tripolitánské republiky. Když se Libye obrací k demokracii, vzpomíná své hrdiny.\n\n§RTento nápad bude odstraněn, pokud nebudeme mít volby!§!" # todo: NEW TRANSLATION
+  LBA_tribal_assembly_created: "Kmenová rada" # todo: NEW TRANSLATION
+  LBA_tribal_assembly_created_desc: "Libye vytvořila kmenovou radu, jejíž odpovědností je řešení konfliktů mezi kmeny a sledování vlády kvůli možnému zneužívání nebo maltretování.\n\n§RTento nápad bude odstraněn, pokud nebudeme mít volby!§!" # todo: NEW TRANSLATION
+  LBA_tripolitania_elite_soldiers: "Elitní síly Tripolitanie" # todo: NEW TRANSLATION
+  LBA_tripolitania_elite_soldiers_desc: "Tripolitáňané jsou masově nabíráni do nové libyjské armády.\n\n§RTento nápad bude odstraněn, pokud [TRP.GetNameWithFlag] existuje§!" # todo: NEW TRANSLATION
+  LBA_cyrenaican_oil_expertise: "Odbornost v ropném průmyslu Kyrenaiky" # todo: NEW TRANSLATION
+  LBA_cyrenaican_oil_expertise_desc: "Libyjská vláda využívá veškeré znalosti o vrtání ropy, které Kyrenaikané mají.\n\n§RTento nápad bude odstraněn, pokud [CYR.GetNameWithFlag] existuje§!" # todo: NEW TRANSLATION
+  LBA_fezzani_desert_expertise: "Fezzanské karavany" # todo: NEW TRANSLATION
+  LBA_fezzani_desert_expertise_desc: "Využitím znalostí fezzanského putování pouští, libyjská armáda cvičí své vojáky, aby přežili s malým množstvím jídla či vody.\n\n§RTento nápad bude odstraněn, pokud [FEZ.GetNameWithFlag] existuje§!" # todo: NEW TRANSLATION
+  LBA_tribal_union: "Kmenové sjednocení" # todo: NEW TRANSLATION
+  LBA_tribal_union_desc: "Libyjská vláda dokázala potlačit separatistické myšlenky v zemi tím, že využila rozdíly mezi kmeny ve svůj prospěch.\n\n§RTento nápad bude odstraněn, pokud [TRP.GetNameWithFlag], [CYR.GetNameWithFlag] nebo [FEZ.GetNameWithFlag] existuje§!" # todo: NEW TRANSLATION
+  LBA_multiple_parties_in_cabinet: "Více-stranný kabinet" # todo: NEW TRANSLATION
+  LBA_multiple_parties_in_cabinet_desc: "Aby se snížilo napětí, pozvala libyjská vládnoucí strana do kabinetu několik menších stran. Doufají, že to sníží politické dělení v zemi.\n\nTento nápad bude odstraněn, pokud nebudeme mít volby nebo nejsme v koalici s jinou stranou." # todo: NEW TRANSLATION
+  LBA_guaranteed_freedom: "Zaručené svobody" # todo: NEW TRANSLATION
+  LBA_guaranteed_freedom_desc: "Nová libyjská vláda slíbila svobodu všem lidem bez ohledu na etnicitu, rasu či pohlaví." # todo: NEW TRANSLATION
+  LBA_private_agriculture_encouraged: "Podpora soukromého zemědělství" # todo: NEW TRANSLATION
+  LBA_private_agriculture_encouraged_desc: "Vláda povzbuzuje malé farmáře a majitele půdy, aby rozšiřovali své pozemky a získávali více půdy." # todo: NEW TRANSLATION
+  LBA_indian_workers: "Indičtí dělníci" # todo: NEW TRANSLATION
+  LBA_indian_workers_desc: "Indičtí migrující pracovníci byli najati do libyjských továren, aby kompenzovali nízké obyvatelstvo země.\n\n§RTento nápad bude odstraněn, pokud [RAJ.GetNameDef] neexistuje nebo jsme s nimi ve válce.§!" # todo: NEW TRANSLATION
+  LBA_swiss_financial_advisors: "Švýcarští finanční poradci" # todo: NEW TRANSLATION
+  LBA_swiss_financial_advisors_desc: "Švýcarští finanční poradci byli najati, aby radili vládě, jak optimalizovat ekonomický růst.\n\n§RTento nápad bude odstraněn, pokud [SWI.GetNameDef] neexistuje nebo jsme s nimi ve válce.§!" # todo: NEW TRANSLATION
+  LBA_french_nuclear_support: "Francouzská podpora jaderné energie" # todo: NEW TRANSLATION
+  LBA_french_nuclear_support_desc: "Francouzské energetické společnosti pomáhají Libyi na její cestě k vybudování vlastní jaderné energetiky.\n\n§RTento nápad bude odstraněn, pokud [FRA.GetNameDef] neexistuje nebo jsme s nimi ve válce.§!" # todo: NEW TRANSLATION
+  LBA_gaddafist_military: "Gaddáfovská armáda" # todo: NEW TRANSLATION
+  LBA_gaddafist_military_desc: "Libyjská armáda je plná lidí, kteří dříve sloužili za Gaddáfího. Armáda může využít jejich zkušenosti.\n\n§RTento nápad bude odstraněn, pokud nemáme $no_military$§!" # todo: NEW TRANSLATION
+  LBA_free_officers_movement: "Hnutí svobodných důstojníků" # todo: NEW TRANSLATION
+  LBA_free_officers_movement_desc: "Stejně jako v roce 1969, důstojníci libyjské armády svrhli své zkorumpované vládců.\n\n§RTento nápad bude odstraněn, pokud nejsme nacionalisté§!" # todo: NEW TRANSLATION
+  LBA_islamist_crackdown: "Tvrdé potlačení islamistů" # todo: NEW TRANSLATION
+  LBA_islamist_crackdown_desc: "Vláda zaujala tvrdý postoj vůči jakékoli straně či skupině, která mluví o šárii nebo nadřazenosti islámu.\n\n§RTento nápad bude odstraněn, pokud jsme salafisté nebo vládnuti [Neutral_Muslim_Brotherhood_L]§!" # todo: NEW TRANSLATION
+  LBA_islamist_cooperation: "Spolupráce s islamisty" # todo: NEW TRANSLATION
+  LBA_islamist_cooperation_desc: "Vláda zaujala shovívavý přístup vůči islamistickým milicím a na určité úrovni s nimi dokonce spolupracuje." # todo: NEW TRANSLATION
+  LBA_turkish_drone_support: "Turecká podpora dronů" # todo: NEW TRANSLATION
+  LBA_turkish_drone_support_desc: "Libyjská vláda spolupracuje s Tureckem na modernizaci svého arzenálu dronů.\n\n§RTento nápad bude odstraněn, pokud [TUR.GetNameDef] neexistuje nebo jsme s nimi ve válce.§!" # todo: NEW TRANSLATION
+  LBA_military_crackdown_modifier: "Vojenské potlačení" # todo: NEW TRANSLATION
+  LBA_military_as_workforce_modifier: "Armáda jako pracovní síla" # todo: NEW TRANSLATION
+  LBA_military_as_security_modifier: "Dodatečná bezpečnost ropných polí" # todo: NEW TRANSLATION
+  LBA_special_economic_zone: "Speciální ekonomická zóna" # todo: NEW TRANSLATION
+  LBA_minimum_wage_centralised: "Vynucená minimální mzda" # todo: NEW TRANSLATION
+  LBA_minimum_wage_centralised_desc: "Vláda vynucuje úroveň minimální mzdy v naději podpořit domácí spotřebu a snížit zátěž na sociální služby." # todo: NEW TRANSLATION
+  LBA_private_insurance_centralised: "Poskytování soukromého zdravotního pojištění" # todo: NEW TRANSLATION
+  LBA_private_insurance_centralised_desc: "Zdravotnický systém byl posílen zavedením privatizovaného zdravotního pojištění. To znamená, že stát utratí méně za poskytování zdravotní péče, ale lidé budou muset utrácet peníze za soukromé pojištění.\n\n§RTento nápad bude odstraněn, pokud máme $health_05$ nebo $health_06$§!" # todo: NEW TRANSLATION
+  LBA_dinar_tied_to_dollar: "Dinar vázaný na dolar" # todo: NEW TRANSLATION
+  LBA_dinar_tied_to_dollar_desc: "Libyjský dinár byl vázán na americký dolar v naději, že libyjské zboží bude na zahraničních trzích atraktivnější.\n\n§RTento nápad bude odstraněn, pokud [USA.GetNameDef] neexistuje§!" # todo: NEW TRANSLATION
+  LBA_chinese_construction: "Čínské stavební společnosti" # todo: NEW TRANSLATION
+  LBA_chinese_construction_desc: "Čínské stavební společnosti byly zaměstnány libyjským státem k budování infrastruktury.\n\n§RTento nápad bude odstraněn, pokud [CHI.GetNameDef] neexistuje nebo jsme s [CHI.GetNameDef] ve válce§!" # todo: NEW TRANSLATION
+  LBA_protected_middle_class: "Chráněná střední třída" # todo: NEW TRANSLATION
+  LBA_protected_middle_class_desc: "Libyjská vláda se rozhodla podporovat střední třídu, lidi s relativním komfortem." # todo: NEW TRANSLATION
+  LBA_protected_lower_class: "Chráněná nižší třída" # todo: NEW TRANSLATION
+  LBA_protected_lower_class_desc: "Libyjská vláda se rozhodla podporovat nižší třídu, lidi, kteří vykonávají většinu manuální práce v zemi." # todo: NEW TRANSLATION
+  LBA_marxism_leninism_adopted: "Přijetí marxismu-leninismu" # todo: NEW TRANSLATION
+  LBA_marxism_leninism_adopted_desc: "Vláda začala v každodenním řízení státu zavádět marxisticko-leninské politiky.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [socialism_L], [Communist-State_L], [anarchist_communism_L], [Neutral_green_L], [neutral_Social_L] nebo [Neutral_Communism_L]§!" # todo: NEW TRANSLATION
+  LBA_afrosocialism_adopted: "Přijetí afrosocialistické ideologie" # todo: NEW TRANSLATION
+  LBA_afrosocialism_adopted_desc: "Vláda začala v každodenním řízení státu zavádět afrosocialistické politiky.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [socialism_L], [Communist-State_L], [anarchist_communism_L], [Neutral_green_L], [neutral_Social_L] nebo [Neutral_Communism_L]§!" # todo: NEW TRANSLATION
+  LBA_eurocommunism_adopted: "Přijetí eurokomunistické ideologie" # todo: NEW TRANSLATION
+  LBA_eurocommunism_adopted_desc: "Vláda začala v každodenním řízení státu zavádět eurokomunistické politiky.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [socialism_L], [Communist-State_L], [anarchist_communism_L], [Neutral_green_L], [neutral_Social_L] nebo [Neutral_Communism_L]§!" # todo: NEW TRANSLATION
+  LBA_women_enfrachised: "Zmocnění žen" # todo: NEW TRANSLATION
+  LBA_women_enfrachised_desc: "Libyjská vláda přijala postoj k posílení postavení žen v zemi.\n\n§RTento nápad bude odstraněn, pokud jsme salafisté nebo vládnuti [Neutral_Muslim_Brotherhood_L]§!" # todo: NEW TRANSLATION
+  LBA_nordic_model_followed: "Nordická sociální demokracie" # todo: NEW TRANSLATION
+  LBA_nordic_model_followed_desc: "Libyjská vláda se snaží znovu vytvořit nordický model blahobytu v Libyi.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [socialism_L], [Communist-State_L], [anarchist_communism_L], [Neutral_green_L], [neutral_Social_L] nebo [Neutral_Communism_L]§!" # todo: NEW TRANSLATION
+  LBA_workers_republic_created: "Vytvoření republiky dělníků" # todo: NEW TRANSLATION
+  LBA_workers_republic_created_Desc: "Libyjská vláda vytvořila republiku dělníků ve snaze vytvořit dělnický ráj.\n\n§RTento nápad bude odstraněn, pokud nás neřídí [socialism_L], [Communist-State_L], [anarchist_communism_L], [Neutral_green_L], [neutral_Social_L] nebo [Neutral_Communism_L]§!" # todo: NEW TRANSLATION
+  LBA_european_tech_companies: "Spolupráce s evropskými technologickými firmami" # todo: NEW TRANSLATION
+  LBA_european_tech_companies_desc: "Libye spolupracuje s evropskými technologickými firmami, aby zlepšila svůj technologický pokrok.\n\n§RTento nápad bude odstraněn, pokud jsme ve válce s některou zemí EU§!" # todo: NEW TRANSLATION
+  LBA_polygamy_allowed: "Polygamie povolena" # todo: NEW TRANSLATION
+  LBA_polygamy_allowed_desc: "Libye povolila polygamii v naději zvýšit populační růst.\n\n§RTento nápad bude odstraněn, pokud je naše hodnota Sociální konzervatismu - Vláda pod 50%§!" # todo: NEW TRANSLATION
+  LBA_ali_al_sallabi_sponsored: "Sponzorování knih Aliho al-Sallabiho" # todo: NEW TRANSLATION
+  LBA_ali_al_sallabi_sponsored_desc: "Libyjská vláda oficiálně schválila knihy Aliho al-Sallabiho o islámu a sponzoruje jejich šíření po světě." # todo: NEW TRANSLATION
+  LBA_tuareg_militias_in_country: "Tuaregské milice" # todo: NEW TRANSLATION
+  LBA_tuareg_militias_in_country_desc: "Tuaregské milice operují na jihozápadě země. Tuaregové z Mali, Alžírska a Nigeru přecházejí hranice, aby se připojili k boji. Údajně nám pomáhají porazit nepřátele, ale jejich loajalita může ležet jinde." # todo: NEW TRANSLATION
+  LBA_toubou_militias_in_country: "Toubouské milice" # todo: NEW TRANSLATION
+  LBA_toubou_militias_in_country_desc: "Toubouské milice operují na jižních částech země. I když nejsou příliš početné, jejich vojenské operace snížily tok migrantů ze Střední Afriky." # todo: NEW TRANSLATION
+  LBA_tribal_militias: "Kmenové milice" # todo: NEW TRANSLATION
+  LBA_tribal_militias_desc: "Jak občanská válka zuří a bezpečnost v zemi klesá, stále více kmenů se mobilizuje a vytváří vlastní milice, aby chránily členy kmene nebo podpořily povstalce. I když jejich milice posilují naše síly, vytváří to vrstvu nejistoty, protože snižuje kontrolu rebelů nad zemí." # todo: NEW TRANSLATION
+  LBA_jihadist_militias: "Džihádistické milice" # todo: NEW TRANSLATION
+  LBA_jihadist_militias_desc: "S počátkem občanské války se Libyjská islámská bojová skupina reorganizovala do „legitimnější“ organizace pod Národním přechodným výborem. Tvrdí, že jsou umírněnější, ale i jejich vůdci přiznali, že mnoho jejich bojovníků má vazby na Al-Káidu. Čím více získají na moci, tím více naše země sklouzává k extremismu." # todo: NEW TRANSLATION
+  LBA_islamist_militias: "Islamistické milice" # todo: NEW TRANSLATION
+  LBA_islamist_militias_desc: "Gaddáfí během své vlády mnohé islámské prvky potlačoval. To nyní vytvořilo kontrarevoluční hnutí, kde mnoho Libyjců doufá v více islámocentrickou vládu. Zvláště Muslimské bratrstvo s katarskými podporovateli získává stále větší roli mezi islamistickými milicemi." # todo: NEW TRANSLATION
+  LBA_secularist_militias: "Sekulární milice" # todo: NEW TRANSLATION
+  LBA_secularist_militias_desc: "Mnoho milicí pod Národním přechodným výborem má původ v Libyjských ozbrojených silách. Mnoho z nich se obává, že přílišná moc islamistů by zničila Libyi. Jak jejich moc roste, Ozbrojené síly budou schopny kontrolovat zemi stále pevněji." # todo: NEW TRANSLATION
+  LBA_reformist_militias: "Reformistické milice" # todo: NEW TRANSLATION
+  LBA_reformist_militias_desc: "Někteří lidé v Libyi chtějí, aby země byla přeměněna na západní styl demokracie. Tito lidé jsou však máločetní. Je nepravděpodobné, že získají dost podpory, ale jejich přítomnost dělá naše příznivce podezřívavými ohledně vlastních cílů." # todo: NEW TRANSLATION
+  LBA_military_desertion_government: "Vojenské dezertování" # todo: NEW TRANSLATION
+  LBA_military_desertion_government_desc: "Každý den máme zprávy o vojcích a celých jednotkách, které přecházejí z libyjské armády na stranu rebelů. Je těžké, aby gaddáfovská vláda držela pozice, když je možné je prostě ztratit kvůli tomu, že vojáci opouštějí své posty a přidávají se k nepříteli." # todo: NEW TRANSLATION
+  LBA_aftermath_of_the_civil_war: "Následky občanské války" # todo: NEW TRANSLATION
+  LBA_aftermath_of_the_civil_war_desc: "I když byla občanská válka relativně krátká, způsobila určité škody zemi. Největší dopad na společnost má rozbití režimu Gaddáfího a milicí. Organizace režimu zasahovala až na úroveň okresů, a nahrazení gaddáfovských loajalistů novými úředníky bude trvat. Navíc v zemi stále operuje několik nezávislých milicí, které buď musí být odstraněny, nebo integrovány do Libyjské národní armády." # todo: NEW TRANSLATION
+  LBA_shura_council_of_derna: "Šúra rada mudžáhidů v Derně" # todo: NEW TRANSLATION
+  LBA_shura_council_of_derna_desc: "Místní islamisté v Derně se spojili a vytvořili šúra radu, aby řídili město a zaplnili mocenské vakuum po vládě. Derna je jedno z početnějších měst v Libyi a je hlavním zdrojem mužstva pro globální libyjské džihádisty." # todo: NEW TRANSLATION
+  LBA_shura_council_of_ajdabiya: "Šúra rada revolucionářů Ajdabiya" # todo: NEW TRANSLATION
+  LBA_shura_council_of_ajdabiya_desc: "Místní islamisté v Ajdabiya se spojili a vytvořili šúra radu, aby řídili město a zaplnili mocenské vakuum po vládě. Ztráta kontroly nad Ajdabiya významně snížila naši schopnost vyvážet ropu z ropných polí Wahat." # todo: NEW TRANSLATION
+  LBA_southern_insurgency: "Povstání v Kufře" # todo: NEW TRANSLATION
+  LBA_southern_insurgency_desc: "Povstalci věrní islamistům v Benghází, brigádě Rafallah al-Sahati, operují v Kufře a narušují místní populaci. Nejsou vážnou hrozbou, ale jejich existence může provokovat místní Toubou k akci." # todo: NEW TRANSLATION
   LBA_revise_green_book_current_reform_value: "Aktuální hodnota §YReforma§!: [?libya_green_book_reform]" # todo: NEW TRANSLATION
   lba_increase_reform_tt: "§YReforma§!: +1 (Aktuální hodnota §YReforma§!: §Y[?libya_green_book_reform]§!)" # todo: NEW TRANSLATION
   lba_decrease_reform_tt: "§YReforma§!: -1 (Aktuální hodnota §YReforma§!: §Y[?libya_green_book_reform]§!)" # todo: NEW TRANSLATION
@@ -463,6 +609,16 @@
   libya_green_book_3_28_reform_effect_tt: "Upravit §Y$LBA_new_green_book$§! o\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LBA_new_green_book_construction_speed_effect_temp|=+%]\n$health_cost_multiplier_modifier$: [?LBA_new_green_book_health_cost_effect_temp|=-%]" # todo: NEW TRANSLATION
   LBA_release_new_green_book_tt: "§RTímto se uzamkne úprava zbývajících kapitol!§!\n\nUpravte §Y$LBA_new_green_book$§! podle\nDenní vznikající podpora: §G+0.10§!\n\nKvůli aktuální hodnotě §YReforma§! (§Y[?libya_green_book_reform]§!)" # todo: NEW TRANSLATION
   LBA_gaddafi_dictator_retirement_tt: "§RProtože Gaddafi vládne nad nedemokratickou Libyí, jeho dřívější odchod z politiky destabilizuje režim§!" # todo: NEW TRANSLATION
+  libya_add_tribal_independence_1_tt: "$MODIFIER_STABILITY_FACTOR$: §R-1.00%§!\n$MODIFIER_CONSCRIPTION_FACTOR$:§R-1%§!\n$neutrality_drift$: §G+0.01§!" # todo: NEW TRANSLATION
+  libya_add_tribal_independence_2_tt: "Modifikovat §Y$LBA_tribal_militias$§! o\n$MODIFIER_STABILITY_FACTOR$: [?LBA_tribal_militias_stability_effect_temp|=+%2]\n$MODIFIER_CONSCRIPTION_FACTOR$: [?LBA_tribal_militias_political_conscription_factor_effect_temp|=+%0]\n$neutrality_drift$: [?LBA_tribal_militias_neutrality_drift_effect_temp|=+2]" # todo: NEW TRANSLATION
+  libya_add_jihadist_independence_1_tt: "$MODIFIER_STABILITY_FACTOR$: §R-1.00%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$:§R-2.00%§!\n$fascism_drift$: §G+0.01§!" # todo: NEW TRANSLATION
+  libya_add_jihadist_independence_2_tt: "Modifikovat §Y$LBA_jihadist_militias$§! o\n$MODIFIER_STABILITY_FACTOR$: [?LBA_jihadist_militias_stability_effect_temp|=+%2]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LBA_jihadist_militias_construction_speed_effect_temp|=+%2]\n$fascism_drift$: [?LBA_jihadist_militias_fascism_drift_effect_temp|=+2]" # todo: NEW TRANSLATION
+  libya_add_islamist_independence_1_tt: "$MODIFIER_STABILITY_FACTOR$: §R-1.00%§!\n$tax_gain_multiplier_modifier$:§R-1.00%§!\n$neutrality_drift$: §G+0.01§!" # todo: NEW TRANSLATION
+  libya_add_islamist_independence_2_tt: "Modifikovat §Y$LBA_islamist_militias$§! o\n$MODIFIER_STABILITY_FACTOR$: [?LBA_islamist_militias_stability_effect_temp|=+%2]\n$tax_gain_multiplier_modifier$: [?LBA_islamist_militias_tax_gain_effect_temp|=+%2]\n$neutrality_drift$: [?LBA_islamist_militias_neutrality_drift_effect_temp|=+2]" # todo: NEW TRANSLATION
+  libya_add_secularist_independence_1_tt: "$MODIFIER_STABILITY_FACTOR$: §R-1.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$:§R-1.5%§!\n$neutrality_drift$: §G+0.01§!" # todo: NEW TRANSLATION
+  libya_add_secularist_independence_2_tt: "Modifikovat §Y$LBA_secularist_militias$§! o\n$MODIFIER_STABILITY_FACTOR$: [?LBA_secularist_militias_stability_effect_temp|=+%2]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?LBA_secularist_militias_political_power_effect_temp|=+%1]\n$nationalist_drift$: [?LBA_secularist_militias_nationalist_drift_effect_temp|=+2]" # todo: NEW TRANSLATION
+  libya_add_reformist_independence_1_tt: "$MODIFIER_STABILITY_FACTOR$: §R-1.00%§!\n$MODIFIER_ARMY_ORG_FACTOR$:§R-2.0%§!\n$democratic_drift$: §G+0.01§!" # todo: NEW TRANSLATION
+  libya_add_reformist_independence_2_tt: "Modifikovat §Y$LBA_reformist_militias$§! o\n$MODIFIER_STABILITY_FACTOR$: [?LBA_reformist_militias_effect_temp|=+%2]\n$MODIFIER_ARMY_ORG_FACTOR$: [?LBA_reformist_militias_army_org_effect_temp|=+%1]\n$democratic_drift$: [?LBA_reformist_militias_democratic_drift_effect_temp|=+2]" # todo: NEW TRANSLATION
   LBA_is_ruled_by_a_gaddafi_tt: "[LBA.GetNameDef] je ovládána rodinou Gaddafi" # todo: NEW TRANSLATION
   LBA_not_ruled_by_gaddafi_tt: "[LBA.GetNameDef] není ovládána rodinou Gaddafi" # todo: NEW TRANSLATION
   muammar_gaddafi_portrait_tooltip: "§YMuammar Gaddafi§!\n[mUmmar_gaddafi_ruler][muammar_gaddafi_exile][muammar_gaddafi_dead]" # todo: NEW TRANSLATION
@@ -541,6 +697,11 @@
   LBA_fezzani: "Fezzanský" # todo: NEW TRANSLATION
   LBA_anti_colonial_faction: "Legie Odporu a Osvobození" # todo: NEW TRANSLATION
   LBA_west_sahara_task_force: "Západo-saharská úderná skupina" # todo: NEW TRANSLATION
+  LBA_society_of_muslim_brothers: "Společnost muslimských bratří" # todo: NEW TRANSLATION
+  muslim_brotherhood_faction_member: "Člen Společnosti muslimských bratří" # todo: NEW TRANSLATION
+  muslim_brotherhood_faction_member_desc: "Společnost muslimských bratří, běžně známá jako Muslimské bratrstvo, je politická a náboženská skupina, která věří v pan-islámismus a zavedení šárie jako obecného práva. Několik zemí podporujících Bratrstvo se rozhodlo vytvořit vojenský spojenectví, aby lépe prosazovaly své zájmy." # todo: NEW TRANSLATION
+  muslim_brotherhood_faction_member_tt: "Při ovlivňování zemí, které jsou §Y$sunni$§!:\n$foreign_influence_modifier$: §G+10.00%§!" # todo: NEW TRANSLATION
+  muslim_brotherhood_faction_member_tt2: "§RSpecialní pravidlo frakce§!:\n-Do frakce se mohou připojit pouze země řízené Muslimským bratrstvem" # todo: NEW TRANSLATION
   head_of_gptc: "Předseda Generální pošty a telekomunikační společnosti" # todo: NEW TRANSLATION
   uninterested_in_politics: "Nezajímá se o politiku" # todo: NEW TRANSLATION
   vain_football_star: "Marná fotbalová hvězda" # todo: NEW TRANSLATION
@@ -560,6 +721,9 @@
   illegitimate_king: "Nelegitimní král" # todo: NEW TRANSLATION
   king_of_kings_of_africa: "Král králů Afriky" # todo: NEW TRANSLATION
   fatherly_leader: "Otec vůdce a průvodce revoluce Velké socialistické lidové Libyjské arabské Džamahírijy" # todo: NEW TRANSLATION
+  shadow_of_gaddafi: "Ve stínu Gaddáfího" # todo: NEW TRANSLATION
+  marshall_of_libya: "Maršál Libye" # todo: NEW TRANSLATION
+  defence_minister_of_libya: "Ministr obrany Libye" # todo: NEW TRANSLATION
   LBA_current_valid_targets_tt: "Bude přidáno do platných cílů" # todo: NEW TRANSLATION
   LBA_malta_islamic_name: "Malitah" # todo: NEW TRANSLATION
   libya_increase_nationalisation_5_tt: "Úroveň nacionalizace: §Y+5%§!" # todo: NEW TRANSLATION
@@ -585,6 +749,16 @@
   LBA_unit_leader_trait_tuareg_desc: "Tento velitel pochází z jednoho z tuarežských kmenů Libye. Při konfliktu mezi centrální vládou a jejich kmenem je možné, že si vybere svůj kmen před národem." # todo: NEW TRANSLATION
   LBA_unit_leader_trait_toubou: "Tribální afinitou: Toubou" # todo: NEW TRANSLATION
   LBA_unit_leader_trait_toubou_desc: "Tento velitel pochází z jednoho z kmenů Toubou v Libyi. Při konfliktu mezi centrální vládou a jejich kmenem je možné, že si vybere svůj kmen před národem." # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_tribal_commander: "Kmenový velitel" # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_tribal_commander_desc: "Tento velitel se vypracoval na národní velení tím, že zahájil kariéru velením jedné z kmenových milicí v zemi. Několik kmenů v zemi založilo a financovalo vlastní milice, aby chránily své komunity v zemi, která se pomalu stává stále více bezprávnou." # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_jihadist_commander: "Džihádistický velitel" # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_jihadist_commander_desc: "Tento velitel začínal vedením džihádistů v Libyi i mimo ni. S vazbami na Al-Káidu a Libyjskou islámskou bojovou skupinu zažil mnoho bojů po celém světě." # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_islamist_commander: "Islamistický velitel" # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_islamist_commander_desc: "Tento velitel vede jednu z místních milicí s islamistickými tendencemi. Mnoho komunit zřídilo rady pro místní obranu ve formě milicí. Vzhledem k tomu, že v Libyi je mnoho konzervativních muslimů, mnohé z těchto milicí a rad usilují alespoň částečně o zavedení šaría." # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_secularist_commander: "Sekulární velitel" # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_secularist_commander_desc: "Tento velitel je silně spojen s Libyjskou národní armádou. Mnozí v LNA si přejí vidět více sekulární Libyi bez místa pro islamistické prvky. Je pravděpodobné, že je tento velitel také velmi blízko Khalifovi Haftarovi, sebeproklamovanému vůdci LNA." # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_reformist_commander: "Reformní velitel" # todo: NEW TRANSLATION
+  LBA_unit_leader_trait_reformist_commander_desc: "Tento velitel je libyjský exilový bojovník, který se vrátil domů. Mají západní vzdělání; velitel a milice, které vede, by chtěly, aby byla Libye reformována v západním liberálním demokratickém stylu." # todo: NEW TRANSLATION
   LBA_muammar_gaddafi_desc: "Muammar Gaddáfí se chopil moci v Libyi poté, co svrhl libyjskou monarchii v roce 1969. Rychle získal kontrolu nad celým vládním aparátem a prosadil mix politik mezi anti-západními ideály, islámským socialismem a šaríou a arabským nacionalismem. Nakonec soustředil své myšlenky do Zelené knihy, která načrtla jeho Třetí mezinárodní teorii. Zpočátku byl doma i v zahraničí populárním vůdcem, Gaddáfí se však postupně od politiky mezinárodně odklonil. Neustálé financování teroristů, revolucionářů a ozbrojenců mu zanechalo na mezinárodní scéně jen málo spojenců. Gaddáfího činy Libyi, kdysi bohaté na ropu, vystavily mezinárodnímu tlaku a sankcím a hrozí jí stát se mezinárodním pariem." # todo: NEW TRANSLATION
   LBA_abdulrahman_sewehli_desc: "Abdulrahman Sewehli je vnuk Ramadan Asswehly, zakladatele Tripolitánské republiky. Tripolitánská republika byla krátkodobý stát, jenž vyhlásil nezávislost na italské Libyi na konci první světové války. Byla to první republikánská forma vlády v arabském světě." # todo: NEW TRANSLATION
   LBA_ali_zeidan_desc: "Ali Zeidan byl libyjským diplomatem a pracoval pod velvyslance v Indii Mohammedem Magariafem v 70. letech. Oba muži se v roce 1980 defektovali a založili Národní frontu pro záchranu Libye. Ali Zeidan žil v exile v Ženevě jako lidskoprávní právník, dokud se nevrátil do Libye. Někteří ho popisují jako energického liberála." # todo: NEW TRANSLATION
@@ -606,6 +780,7 @@
   LBA_mohammed_magariaf_desc: "Mohammed Magariafova kariéra v Libyi začala jako předseda dozorčí rady Libyjského daňového soudu. Kvůli jeho silnému postoji proti korupci byl rychle převeden na jiné povinnosti. Pokračoval jako libyjský diplomat v Indii, až do defektu do Maroka v roce 1980, protože se obával, že bude vládou očerněn. Na exilu založil Národní frontu pro záchranu, odbojovou skupinu proti Gaddáfímu. Většinu svého exilu prožil ve Spojených státech a tam přežil tři pokusy o atentát. Až po pádu Gaddáfího se mohl vrátit do země. Je výrazným zastáncem demokratických principů v zemi." # todo: NEW TRANSLATION
   LBA_mustafa_a_g_abushagur_desc: "Mustafa Abushagur opustil Libyi v 70. letech, aby studoval elektrotechniku ve Spojených státech. Získal doktorát v roce 1984, po kterém působil jako profesor na University of Alabama v Huntsville. Během pobytu v USA obdržel několik výzkumných ocenění od NASA, NSF, DoD a FAA. Hlavním zaměřením Abushagura je optoelektronika a publikoval několik knih na toto téma. Zatímco žil v exile ve Spojených státech, aktivně spolupracoval s dalšími vyhnanci na organizování anti-Gaddáfího hnutí." # todo: NEW TRANSLATION
   LBA_ahmed_shebani_desc: "Ahmed Shebani je zakladatelem Demokratické strany Libye. Věří, že USA (a další západní mocnosti) by měly přijmout program pomoci ve stylu Marshallova plánu pro Libyi, aby ji stabilizovaly. Chce také zlepšit vztahy se Izraelem a přivést zpět Židy, kteří zemi byli vyhnáni." # todo: NEW TRANSLATION
+  LBA_khalifa_haftar_desc: "Khalifa Haftar zahájil kariéru v libyjské armádě, kde absolvoval výcvik v Libyi, Sovětském svazu a Egyptě. Haftar pomohl Muammaru Gaddáfímu svrhnout krále Idrise, po čemž se stal náčelníkem štábu libyjské armády. Vedení složité války proti Čadu, během níž byl zajat čadskými silami a Gaddáfím odmítnut, vedlo k tomu, že Spojené státy přepravil Haftara a jeho zajaté vojáky do Zairu, kde založil ozbrojené odporové hnutí proti Gaddáfímu. Nakonec s pomocí CIA se dostal do USA. V roce 1996 Haftar zahájil povstání proti Gaddáfímu ve východní Libyi, ale po neúspěchu se vrátil do USA. Po pádu Gaddáfího převzal kontrolu nad novými libyjskými ozbrojenými silami, vystoupal v žebříčku na vlivnou politickou pozici a stal se de facto vůdcem země." # todo: NEW TRANSLATION
   LBA_ignore_lifg: "Ignorovat LIFG" # todo: NEW TRANSLATION
   LBA_ignore_lifg_desc: "Před několika lety se Libyjská islámská bojová skupina (LIFG) pokusila zavraždit Gaddáfiho. Naše armáda rychle zlikvidovala většinu jejich sil a již nepředstavují hrozbu. Měli bychom stáhnout naše jednotky a zaměřit se na vybudování naší země." # todo: NEW TRANSLATION
   LBA_crush_lifg: "Zničit LIFG" # todo: NEW TRANSLATION
@@ -930,6 +1105,8 @@
   LBA_expand_benghazi_port_desc: "Přístav Benghází byl založen Řeky v 6. století př. n. l. V současnosti slouží jako významný uzel pro export našich ropných produktů. Je důležité pokračovat v jeho rozšiřování, aby podpořil další růst." # todo: NEW TRANSLATION
   LBA_organize_desert_trips: "Organizovat pouštní výlety" # todo: NEW TRANSLATION
   LBA_organize_desert_trips_desc: "Libye má co nabídnout turistům: písečné duny a oázy Sahary, řecké a římské ruiny, ottomanské pevnosti a bojiště z druhé světové války. Musíme využít tyto prodejní body a přilákat více turistů." # todo: NEW TRANSLATION
+  LBA_organize_desert_trips_tt: "\n§RPokud se zapojíme do války, pak§!" # todo: NEW TRANSLATION
+  LBA_organize_desert_trips_tt_2: "§RPoté, co myšlenka vyprší a již nebudeme ve válce, obdržíme zpět předchozí bonusy. Pokud budeme stále ve válce, negativní modifikátory budou pokračovat další rok.§!" # todo: NEW TRANSLATION
   LBA_derna_windpark: "Derna větrná farma" # todo: NEW TRANSLATION
   LBA_derna_windpark_desc: "Libye má velmi vysoké průměrné rychlosti větru. Například u pobřeží Derna je průměrná rychlost větru 7,5 m/s. To dělá z Derny perfektní místo pro větrnou farmu. Větrné mlýny se používají k čerpání vody z oáz už od 40. let, takže s nimi máme rozhodně zkušenosti." # todo: NEW TRANSLATION
   LBA_expand_tourism: "Rozšířit turistiku" # todo: NEW TRANSLATION
@@ -1204,6 +1381,225 @@
   LBA_overthrow_saudis_desc: "Saúdiové nás obvinili z pokusu o vraždu [SAU.GetLeader]. To je samozřejmě naprostý nesmysl. Vedou proti nám očerňovací kampaň, aby zakryli svůj krutý a temný režim. Musíme je zničit." # todo: NEW TRANSLATION
   LBA_overthrow_kuwaitis: "Svrhnout Kuvajťany" # todo: NEW TRANSLATION
   LBA_overthrow_kuwaitis_desc: "Nastal čas svrhnout vládu Al-Sabah nad našimi Kuvajtskými bratry." # todo: NEW TRANSLATION
+  LBA_end_of_gaddafi: "Konec Gaddáfího" # todo: NEW TRANSLATION
+  LBA_end_of_gaddafi_desc: "Gaddáfí byl svržen a libyjský lid si nyní může zvolit vlastní cestu!" # todo: NEW TRANSLATION
+  LBA_just_another_gaddafi: "Jenom další Gaddáfí" # todo: NEW TRANSLATION
+  LBA_just_another_gaddafi_desc: "Vyhodili jsme jednoho diktátora, abychom skončili s dalším. Libye prostě není stvořena pro demokracii, to je zřejmé z naší historie. [ROOT.GetLeader] bude lepším vládcem než Gaddáfí kdy byl!" # todo: NEW TRANSLATION
+  LBA_just_another_gaddafi_tt: "Nejsme ve válce s frakcí podporující Gaddáfího" # todo: NEW TRANSLATION
+  LBA_green_resistance: "Zelené hnutí" # todo: NEW TRANSLATION
+  LBA_green_resistance_desc: "I když Gaddáfí zmizel, jeho stoupenci nikoli. Formuje se nové hnutí kolem jeho Třetí teorie. Tito loajalisté nás budou ochotně následovat, pokud si budou myslet, že bojujeme za Gaddáfího." # todo: NEW TRANSLATION
+  LBA_employ_gaddafi_loyalists: "Zaměstnat gaddáfovské loajalisty" # todo: NEW TRANSLATION
+  LBA_employ_gaddafi_loyalists_desc: "Správa a armáda jsou stále plné lidí, kteří pracovali za režimu Gaddáfího. Tito lidé nám mohou stále být užiteční a rádi přijmou nižší plat ze samotné loajality." # todo: NEW TRANSLATION
+  LBA_moderate_islamism: "Umírnit Korán a Sunnu" # todo: NEW TRANSLATION
+  LBA_moderate_islamism_desc: "Největší problém v islámu jsou interpretace učení. Islám je jedním ze stavebních kamenů Libye, nemůžeme ho tedy úplně opustit. Můžeme však lidem zprostředkovat a učit umírněnější verzi Koránu a Sunny." # todo: NEW TRANSLATION
+  LBA_expand_tribes: "Rozšířit kmeny" # todo: NEW TRANSLATION
+  LBA_expand_tribes_desc: "Libye se skládá ze tří hlavních kmenů: Kyrenaika, Tripolitanie a Fezzan. Nicméně v našich hranicích žije také mnoho Toubou a Tuaregů. Tito lidé jsou stejně libyjští jako hlavní tři kmeny. Nemají svůj vlastní stát, tak uděláme Libyi i jejich státem." # todo: NEW TRANSLATION
+  LBA_expand_tribes_threat: "Libyjský expanzionismus v Saháře" # todo: NEW TRANSLATION
+  LBA_maintain_territorial_integrity: "Udržet územní integritu" # todo: NEW TRANSLATION
+  LBA_maintain_territorial_integrity_desc: "Území Libye je nedělitelné. Všechny myšlenky separatismu musí být potlačeny a všechna ztracená území musí být přivedena zpět." # todo: NEW TRANSLATION
+  LBA_liberate_tuareg: "Osvobodit Tuaregy" # todo: NEW TRANSLATION
+  LBA_liberate_tuareg_desc: "Tuaregové jsou kočovný kmen na západní straně Sahary bez vlastního státu. Musíme je sjednotit s libyjským národem." # todo: NEW TRANSLATION
+  LBA_liberate_tuareg_tt: "Můžeme požadovat od našich §Ysousedů§! jakékoliv oprávněné §YTuaregské§! území" # todo: NEW TRANSLATION
+  LBA_liberate_toubou: "Osvobodit Toubou" # todo: NEW TRANSLATION
+  LBA_liberate_toubou_desc: "Toubou jsou kočovný kmen ve východní části Sahary bez vlastního státu. Musíme je sjednotit s libyjským národem." # todo: NEW TRANSLATION
+  LBA_liberate_toubou_tt: "Můžeme požadovat od našich §Ysousedů§! jakékoliv oprávněné §YToubou§! území" # todo: NEW TRANSLATION
+  LBA_ties_with_nato: "Vztahy s NATO" # todo: NEW TRANSLATION
+  LBA_ties_with_nato_desc: "I když nejsme příliš demokratické, západní země mají historii spolupráce s silnými vůdci. Potřebují naši sílu a armádu, aby ochránily své země před extremisty." # todo: NEW TRANSLATION
+  LBA_ties_with_csto: "Vztahy s CSTO" # todo: NEW TRANSLATION
+  LBA_ties_with_csto_desc: "Západu nelze důvěřovat. Oni byli ti, kteří se zbavili Gaddáfího, a je jen otázkou času, než přijdou i pro nás. Musíme hledat východ, Rusko, jako našeho přítele." # todo: NEW TRANSLATION
+  LBA_new_libyan_nation: "Nový libyjský národ" # todo: NEW TRANSLATION
+  LBA_new_libyan_nation_desc: "Narozen je nový libyjský národ! Společně s Tuaregy a Toubou je libyjská identita nyní kompletní." # todo: NEW TRANSLATION
+  LBA_control_the_media: "Ovládnout média" # todo: NEW TRANSLATION
+  LBA_control_the_media_desc: "Lidé si myslí, že jen proto, že Gaddáfí zmizel, mohou nyní svobodně kritizovat vládu. To je nesmysl. My musíme lidem říkat, co si mají myslet!" # todo: NEW TRANSLATION
+  LBA_arms_deals: "Mezinárodní obchod se zbraněmi" # todo: NEW TRANSLATION
+  LBA_arms_deals_desc: "Abychom zajistili stát, potřebujeme dobře zásobenou armádu. Náš spojenec nám může poskytnout špičkové vybavení a my nemusíme ztrácet čas jejich vývojem sami." # todo: NEW TRANSLATION
+  LBA_echoes_of_the_past: "Ozvěny minulosti" # todo: NEW TRANSLATION
+  LBA_echoes_of_the_past_desc: "Po první světové válce se Tripolitánská republika pokusila odtrhnout od Itálie, ale nakonec selhala. Byli prvním demokratickým státem na Blízkém východě. Nyní máme šanci přinést skutečnou rovnou demokracii do Libye znovu." # todo: NEW TRANSLATION
+  LBA_purge_gaddafi_loyalists: "Prohnat gaddáfovské loajalisty" # todo: NEW TRANSLATION
+  LBA_purge_gaddafi_loyalists_desc: "Správa je plná lidí, kteří ochotně pracovali pro Gaddáfího. Potřebujeme je vykázat a zatknout ty, kteří našemu lidu uškodili. To je nezbytný krok k novému začátku a zabezpečení demokracie." # todo: NEW TRANSLATION
+  LBA_memory_of_ramadan_asswehly: "Vzpomínka na Ramadana Asswehlyho" # todo: NEW TRANSLATION
+  LBA_memory_of_ramadan_asswehly_desc: "Ramadan Asswehly byl jedním ze zakladatelů a walíů Tripolitánské republiky. Bojoval proti Italům na obranu republiky. Sama republika fungovala jako tetrarchie, vládnuta čtyřmi walíy, což zaručovalo rovnováhu sil mezi frakcemi." # todo: NEW TRANSLATION
+  LBA_soothe_tribal_tension: "Uklidnit kmenové napětí" # todo: NEW TRANSLATION
+  LBA_soothe_tribal_tension_desc: "Všichni lidé jsou si rovni. Je hloupé hrát kmeny proti sobě. Místo toho bychom měli využívat síly jednotlivých kmenů ve svůj prospěch." # todo: NEW TRANSLATION
+  LBA_tribal_assembly: "Vytvořit kmenovou radu" # todo: NEW TRANSLATION
+  LBA_tribal_assembly_desc: "Musíme vytvořit vládní orgán, který bude řešit spory mezi kmeny a zajistí, že všichni budou spravedlivě zacházeni." # todo: NEW TRANSLATION
+  LBA_invest_in_tripolitania: "Investovat do Tripolitanie" # todo: NEW TRANSLATION
+  LBA_invest_in_tripolitania_desc: "Tripolitanie je ekonomickým centrem země. Hostí většinu našich technologických center. Investice tam přinesou bohatství Tripolitanianům." # todo: NEW TRANSLATION
+  LBA_invest_in_cyrenaica: "Investovat do Kyrenaiky" # todo: NEW TRANSLATION
+  LBA_invest_in_cyrenaica_desc: "Kyrenaika je hlavním zdrojem naší ropy a jedním z důležitých dopravních uzlů. Měli bychom využít námořní know-how regionu a investovat do loděnic." # todo: NEW TRANSLATION
+  LBA_invest_in_fezzan: "Investovat do Fezzanu" # todo: NEW TRANSLATION
+  LBA_invest_in_fezzan_desc: "Fezzan je velmi odlehlý, ale má oblast s mnoha nalezišti nerostů. Můžeme investovat do těžby, abychom nalezli více zásob." # todo: NEW TRANSLATION
+  LBA_tripolitanian_soldiers: "Tripolitánští válečníci" # todo: NEW TRANSLATION
+  LBA_tripolitanian_soldiers_desc: "Tripolitanie je nejlidnatějším z našich regionů. Je rozumné vybírat z jejich populace nejvhodnější vojáky." # todo: NEW TRANSLATION
+  LBA_cyrenaican_oil: "Ropa z Kyrenaiky" # todo: NEW TRANSLATION
+  LBA_cyrenaican_oil_desc: "Kyrenaikané mají odbornost v těžbě ropy. Měli bychom využít jejich zkušenosti k nalezení lepších způsobů vrtání." # todo: NEW TRANSLATION
+  LBA_fezzani_caravans: "Fezzanské karavany" # todo: NEW TRANSLATION
+  LBA_fezzani_caravans_desc: "Fezzani se dlouho účastnili transsaharského obchodu. Mají bohaté zkušenosti s přežitím v poušti. Měli bychom využít jejich dovedností k výcviku našich vojáků v drsných podmínkách." # todo: NEW TRANSLATION
+  LBA_tribal_unification: "Kmenové sjednocení" # todo: NEW TRANSLATION
+  LBA_tribal_unification_desc: "Vytvořili jsme vyvážený systém, kde se všechny kmeny mohou cítit v bezpečí. Už se nemusíme bát separatismu v Libyi." # todo: NEW TRANSLATION
+  LBA_free_libya: "Svobodná Libye" # todo: NEW TRANSLATION
+  LBA_free_libya_desc: "Musíme zahájit rychlý proces vytváření sociálních, politických a ekonomických svobod v Libyi, abychom se co nejrychleji zbavili pozůstatků gaddáfovského režimu." # todo: NEW TRANSLATION
+  LBA_emergency_privatisation: "Nouzová privatizace" # todo: NEW TRANSLATION
+  LBA_emergency_privatisation_desc: "Potřebujeme peníze. Měli bychom prodat velkou část ropných polí kontrolovaných Národním ropným podnikem soukromým společnostem." # todo: NEW TRANSLATION
+  LBA_emergency_privatisation_tt: "Úroveň nacionalizace: §Y-20%§!" # todo: NEW TRANSLATION
+  LBA_multi_party_cabinet: "Více-stranný kabinet" # todo: NEW TRANSLATION
+  LBA_multi_party_cabinet_desc: "Konec Gaddáfího způsobil vzestup mnoha politických stran a organizací, které usilují o moc. Pokud máme udržet stabilitu, musíme do kabinetu zahrnout rozmanité hlasy." # todo: NEW TRANSLATION
+  LBA_guarantee_freedoms: "Zaručit ústavní svobody" # todo: NEW TRANSLATION
+  LBA_guarantee_freedoms_desc: "Libyjští lidé nikdy opravdu necítili svobodu. Pod naší vládou bude více svobody, než kdo zvládne." # todo: NEW TRANSLATION
+  LBA_attract_private_oil_companies: "Přitáhnout soukromé ropné společnosti" # todo: NEW TRANSLATION
+  LBA_attract_private_oil_companies_desc: "Libye má dobré zásoby ropy, ale ne technologii ani podnikatelské prostředí pro její těžbu. Musíme přilákat soukromé ropné společnosti, aby v Libyi investovaly." # todo: NEW TRANSLATION
+  LBA_attract_private_oil_companies_tt: "Zakáže rozhodnutí: §Y$libya_develop_el_sahara_fields$§!, §Y$libya_develop_west_waha_fields$§! a §Y$libya_develop_east_waha_fields$§!" # todo: NEW TRANSLATION
+  LBA_allow_private_farming: "Povolit soukromé zemědělství" # todo: NEW TRANSLATION
+  LBA_allow_private_farming_desc: "Islámské dědické zákony vytvořily mozaiku malých statků, které nemohou efektivně zásobovat potravinami. Měli bychom povolit jednotlivcům kupovat farmy od sebe navzájem, což umožní vznik větších, efektivnějších farem." # todo: NEW TRANSLATION
+  LBA_freedom_of_conscience: "Svoboda svědomí" # todo: NEW TRANSLATION
+  LBA_freedom_of_conscience_desc: "Nikdo by neměl být pronásledován pro své náboženství. I když je důležité zakládat mnoho našich zákonů na islámu jako součásti našeho dědictví, neměli bychom diskriminovat žádné jiné náboženské skupiny." # todo: NEW TRANSLATION
+  LBA_free_prisoners: "Propustit nespravedlivě obviněné" # todo: NEW TRANSLATION
+  LBA_free_prisoners_desc: "Předchozí vláda poslala do vězení příliš mnoho lidí pouze za jejich názory. Ti lidé musí být propuštěni, aby se znovu mohli zapojit do společnosti." # todo: NEW TRANSLATION
+  LBA_dismantle_noc: "Rozebrat NOC" # todo: NEW TRANSLATION
+  LBA_dismantle_noc_desc: "Národní ropná korporace je neefektivní kolos, který fungoval jen jako zdroj peněz pro starý režim. Musíme systém zbourat a rozdělit společnost na menší části." # todo: NEW TRANSLATION
+  LBA_dismantle_noc_tt: "Mechanika §YOil Nationalisation§! bude deaktivována" # todo: NEW TRANSLATION
+  libya_noc_dismantled: "§YNárodní ropná korporace§! byla rozebrána" # todo: NEW TRANSLATION
+  LBA_approach_india: "Navázat kontakt s [RAJ.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_india_desc: "[RAJ.GetName] byl klíčovým partnerem během studené války, ale vztahy se ochladily. Měli bychom je znovu oslovit a obnovit vztahy." # todo: NEW TRANSLATION
+  LBA_approach_switzerland: "Navázat kontakt s [SWI.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_switzerland_desc: "Mnoho liberálních politiků a aktivistů za lidská práva strávilo svůj exil v [SWI.GetName]. Je přirozené, že vybudujeme bližší vazby na tento skvělý příklad demokracie." # todo: NEW TRANSLATION
+  LBA_approach_france: "Navázat kontakt s [FRA.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_france_desc: "[FRA.GetName] byl vždy velmi zainteresován v Libyi, i když s nimi nesdílíme koloniální minulost. Francouzi byli velmi hlasití v opozici proti Gaddáfímu, a tak jim můžeme důvěřovat, že nám pomohou." # todo: NEW TRANSLATION
+  LBA_hire_indian_workers: "Zaměstnat [RAJ.GetAdjective] dělníky" # todo: NEW TRANSLATION
+  LBA_hire_indian_workers_desc: "Mnoho zemí z oblasti Perského zálivu zaměstnává velký počet zahraničních pracovníků z Indie, protože jejich vlastní pracovní síla není dostatečná. Měli bychom učinit totéž, abychom rychleji zvýšili ekonomický potenciál." # todo: NEW TRANSLATION
+  LBA_hire_swiss_advisors: "Najmout [SWI.GetAdjective] finanční poradce" # todo: NEW TRANSLATION
+  LBA_hire_swiss_advisors_desc: "[SWI.GetAdjective] banky jsou známé po celém světě. Měli bychom je požádat o pomoc s řízením naší ekonomiky." # todo: NEW TRANSLATION
+  LBA_hire_french_energy_advisors: "Využít [FRA.GetAdjective] energetické společnosti" # todo: NEW TRANSLATION
+  LBA_hire_french_energy_advisors_desc: "[FRA.GetName] je vedoucí mocností v jaderné energetice. Měli bychom požádat francouzské společnosti o podporu při výstavbě našich jaderných elektráren." # todo: NEW TRANSLATION
+  LBA_libyan_national_army: "Libyjská národní armáda" # todo: NEW TRANSLATION
+  LBA_libyan_national_army_desc: "Politici selhali v ochraně libyjského lidu. Nyní je to na armádě, aby odvedla svou práci." # todo: NEW TRANSLATION
+  LBA_rely_on_gaddafists: "Spoléhat se na gaddáfisty v armádě" # todo: NEW TRANSLATION
+  LBA_rely_on_gaddafists_desc: "Většina armády je plná lidí, kteří byli loajální Gaddáfímu. Nedává smysl se jich zbavovat, protože mají desetiletí zkušeností." # todo: NEW TRANSLATION
+  LBA_call_back_haftar: "Návrat Haftara" # todo: NEW TRANSLATION
+  LBA_call_back_haftar_desc: "Khalifa Haftar byl plukovníkem během libyjsko-čadské války, kdy byl zajat čadskými silami. Gaddáfímu byl odmítnut, on a jeho spolu-muži byli přepraveni do Zairu USA a s pomocí CIA se nakonec dostali do USA. Haftar byl desetiletí v opozici vůči Gaddáfímu a nyní, když Gaddáfí padl, se může vrátit a převzít kontrolu nad armádou." # todo: NEW TRANSLATION
+  LBA_legacy_of_the_free_officers: "Dědictví hnutí svobodných důstojníků" # todo: NEW TRANSLATION
+  LBA_legacy_of_the_free_officers_desc: "Hnutí svobodných důstojníků je to, co vedl Gaddáfí ke svržení libyjské monarchie. Lidé byli unaveni režimem, který byl loutkou cizích mocností a zneužíval ropné bohatství země. Stejné jsme nyní udělali my, a musíme zajistit, aby Libye znovu nespadla pod cizí vliv." # todo: NEW TRANSLATION
+  LBA_no_room_for_islamists: "Žádný prostor pro islamisty" # todo: NEW TRANSLATION
+  LBA_no_room_for_islamists_desc: "I když islám tvoří páteř Libye, islamisté nikoli. Pokoušejí se zneužít náboženství ke svým potřebám. Neměli bychom jim dávat žádné útočiště." # todo: NEW TRANSLATION
+  LBA_limited_cooperation: "Omezená spolupráce" # todo: NEW TRANSLATION
+  LBA_limited_cooperation_desc: "Fakt je, že si práve nemůžeme vybírat spojence. Můžeme mít určitou spolupráci s různými islamistickými milicemi, abychom posílili naše síly. Později je ze scény odstraníme." # todo: NEW TRANSLATION
+  LBA_improved_training: "Zlepšený výcvik" # todo: NEW TRANSLATION
+  LBA_improved_training_desc: "Stav libyjské armády je hrozný. Gaddáfího režim moc času nevěnoval výcviku běžného vojáka ani moderním strategickým poznatkům. Měli bychom pro naše vojáky uspořádat výcviky." # todo: NEW TRANSLATION
+  LBA_expand_al_saiqa: "Rozšířit Al-Saiqa" # todo: NEW TRANSLATION
+  LBA_expand_al_saiqa_desc: "Al-Saiqa je libyjská speciální jednotka složená z výsadkářů, polovojenských jednotek a komandos. Měli bychom ji rozšířit." # todo: NEW TRANSLATION
+  LBA_expand_al_saiqa_tt: "Jednotka §YSpecial Forces§! bude vytvořena v §Y$VICTORY_POINTS_11954$§!" # todo: NEW TRANSLATION
+  LBA_establish_military_zones: "Zřídit vojenské zóny" # todo: NEW TRANSLATION
+  LBA_establish_military_zones_desc: "Abychom kontrolovali různé regiony Libye, musíme zřídit vojenské zóny s vlastními guvernéry." # todo: NEW TRANSLATION
+  LBA_approach_turkey: "Navázat kontakt s [TUR.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_turkey_desc: "V posledních letech se [TUR.GetName] stal aktivnějším na Blízkém východě. Hledají přátelské vlády v regionu, a my jimi určitě jsme." # todo: NEW TRANSLATION
+  LBA_approach_russia: "Navázat kontakt s [SOV.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_russia_desc: "[SOV.GetName] byl dlouho proti Západu. Je to vina Západu, že Libye je v současné situaci. Měli bychom spolupracovat s [SOV.GetName], abychom vybudovali lepší Libyi." # todo: NEW TRANSLATION
+  LBA_acquire_turkish_drones: "[TUR.GetAdjective] drony" # todo: NEW TRANSLATION
+  LBA_acquire_turkish_drones_desc: "Turci mají vynikající technologii dronů. Měli bychom je požádat o pomoc při jejich výrobě." # todo: NEW TRANSLATION
+  LBA_acquire_russian_weapons: "Požádat o zbraně od [SOV.GetName]" # todo: NEW TRANSLATION
+  LBA_acquire_russian_weapons_desc: "Většina zbraní, které používáme, pochází z [SOV.GetName]. Měli bychom požádat o další vybavení, aby naše armáda lépe bojovala." # todo: NEW TRANSLATION
+  LBA_military_exercises: "Vojenská cvičení" # todo: NEW TRANSLATION
+  LBA_military_exercises_desc: "Musíme pořádat válečné hry, aby se zlepšila způsobilost našeho generálního štábu a lépe operovali na bojišti." # todo: NEW TRANSLATION
+  LBA_factory_mobilisation: "Nouzová mobilizace" # todo: NEW TRANSLATION
+  LBA_factory_mobilisation_desc: "Musíme rychle přeměnit část našeho průmyslu pro vojenské použití. Může nás to finančně poškodit, ale je to nutné." # todo: NEW TRANSLATION
+  LBA_mobilise_the_tribes: "Mobilizovat kmenové milice" # todo: NEW TRANSLATION
+  LBA_mobilise_the_tribes_desc: "Musíme mobilizovat různé kmeny, aby za nás bojovaly. Nebudou dobře vycvičeni, ale můžeme jich získat dost na zaplnění mezer." # todo: NEW TRANSLATION
+  LBA_mobilise_the_tribes_tripolitania_tt: "§YTři brigády milicí§! budou mobilizovány v §YTripolitanii§!" # todo: NEW TRANSLATION
+  LBA_mobilise_the_tribes_cyrenaica_tt: "§YDvě brigády milicí§! budou mobilizovány v §YKyrénaice§!" # todo: NEW TRANSLATION
+  LBA_mobilise_the_tribes_fezzan_tt: "§YJedna motorizovaná rota milicí§! bude mobilizována v §YFezzanu§!" # todo: NEW TRANSLATION
+  LBA_employ_mercenaries: "Zaměstnat žoldnéře" # todo: NEW TRANSLATION
+  LBA_employ_mercenaries_desc: "Nemůžeme se spoléhat na vlastní lidi, aby bojovali. Musíme najmout elitní zahraniční žoldnéře." # todo: NEW TRANSLATION
+  LBA_employ_mercenaries_tt: "§YJedna uzamčená brigáda speciálních sil§! bude najata v §Y[ROOT.Capital.GetName]§!" # todo: NEW TRANSLATION
+  LBA_the_libyan_elite: "Libyjská elita" # todo: NEW TRANSLATION
+  LBA_the_libyan_elite_desc: "Libye by měla být řízena těmi nahoře. Lidé, kteří umějí vést podnik i stát. Co je dobré pro nás, bude dobré pro Libyi." # todo: NEW TRANSLATION
+  LBA_begin_centralisation: "Zvýšená centralizace" # todo: NEW TRANSLATION
+  LBA_begin_centralisation_desc: "Abychom měli efektivní stát, musíme zvýšit kontrolu, kterou má hlavní region." # todo: NEW TRANSLATION
+  LBA_begin_centralisation_tt: "§YZvýšením centralizace budou všechny zaměřovací stromy v této větvi silnější, ale také budou stát více!§!" # todo: NEW TRANSLATION
+  LBA_begin_decentralisation: "Snížená centralizace" # todo: NEW TRANSLATION
+  LBA_begin_decentralisation_desc: "Je nejlepší delegovat některé úkoly řízení vlády na regionální rady." # todo: NEW TRANSLATION
+  LBA_begin_decentralisation_tt: "§YSnížením centralizace budou všechny zaměřovací stromy v této větvi slabší, ale také budou stát méně!§!" # todo: NEW TRANSLATION
+  LBA_increased_centralization_tooltip: "Pokud jsme dokončili fokus §Y$LBA_begin_centralisation$§!:\n" # todo: NEW TRANSLATION
+  LBA_decreased_centralization_tooltip: "Pokud jsme dokončili fokus §Y$LBA_begin_decentralisation$§!:\n" # todo: NEW TRANSLATION
+  LBA_build_infrastructure: "Investice do infrastruktury" # todo: NEW TRANSLATION
+  LBA_build_infrastructure_desc: "Silnice za režimu Gaddáfího byly opuštěny v zoufalém stavu. Musíme zvýšit úroveň infrastruktury v naší zemi. Dobré silnice jsou základem dobré ekonomiky." # todo: NEW TRANSLATION
+  LBA_create_special_economic_zones: "Vytvořit speciální ekonomické zóny" # todo: NEW TRANSLATION
+  LBA_create_special_economic_zones_desc: "Měli bychom vytvořit speciální ekonomické zóny v některých oblastech Libye. Tyto zóny by měly uvolněnou regulaci, což by poskytlo pobídky zahraničním společnostem, aby do Libye přišly." # todo: NEW TRANSLATION
+  LBA_introduce_minimum_wage: "Zavést minimální mzdu" # todo: NEW TRANSLATION
+  LBA_introduce_minimum_wage_desc: "Libye nemá definovanou minimální mzdu, což znamená, že pracovníci mohou být placeni nejnižšími sazbami. Měli bychom vynutit nějakou podobu minimální mzdy. To by pomohlo vyprostit lidi z chudoby a snížit zatížení našich sociálních služeb. Trochu to ovlivní korporátní sektor, ale v dlouhodobém pohledu to může stát za to." # todo: NEW TRANSLATION
+  LBA_attract_foreign_investment: "Přitáhnout zahraniční investice" # todo: NEW TRANSLATION
+  LBA_attract_foreign_investment_desc: "Nyní, když jsme vytvořili vhodné podnikatelské prostředí, měli bychom pozvat zahraniční společnosti, aby do nás investovaly." # todo: NEW TRANSLATION
+  LBA_friends_in_high_places: "Přátelé na vysokých místech" # todo: NEW TRANSLATION
+  LBA_friends_in_high_places_desc: "S našimi obchodními kontakty můžeme začít tvarovat Libyi více přátelsky vůči podnikání. Pokud dostanou velké korporace trochu více moci, přinese nám to více zisku." # todo: NEW TRANSLATION
+  LBA_private_insurance: "Zavést soukromé zdravotní pojištění" # todo: NEW TRANSLATION
+  LBA_private_insurance_desc: "Měli bychom zavést systém soukromého zdravotního pojištění fungující vedle státních služeb. Tím můžeme přesunout část finanční zátěže na soukromé dodavatele a občany. Lidé budou samozřejmě mít méně disponibilního (a zdanitelného) příjmu." # todo: NEW TRANSLATION
+  LBA_approach_usa: "Navázat kontakt s [USA.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_usa_desc: "[USA.GetNameDef] je hlavním příkladem toho, čeho může země s volným trhem dosáhnout. Navázáním těsnějších vztahů s nimi budeme moci vybudovat podobný ráj." # todo: NEW TRANSLATION
+  LBA_tie_dinar_to_dollar: "Vázat dinár na dolar" # todo: NEW TRANSLATION
+  LBA_tie_dinar_to_dollar_desc: "Vázání naší měny na dolar by umožnilo naší ekonomice stát se stabilnější a sledovat USA. S fixním směnným kurzem bude výroba v Libyi lepší investicí na globálním trhu. Nicméně protože naše ekonomika je relativně slabá vůči USA, dovoz bude pro naše spotřebitele a firmy dražší." # todo: NEW TRANSLATION
+  LBA_approach_china: "Navázat kontakt s [CHI.GetName]" # todo: NEW TRANSLATION
+  LBA_approach_china_desc: "Čína je rostoucí mocnost a v poslední době věnovala Africe větší pozornost. Měli bychom s nimi navázat dobré vztahy a využít jejich průmyslovou základnu." # todo: NEW TRANSLATION
+  LBA_employ_chinese_construction_companies: "Zaměstnat čínské stavební společnosti" # todo: NEW TRANSLATION
+  LBA_employ_chinese_construction_companies_desc: "[CHI.GetName] aktivně buduje infrastrukturní projekty po celé Africe. Měli bychom zaměstnat [CHI.GetAdjective] stavební společnosti, aby investovaly do naší infrastruktury." # todo: NEW TRANSLATION
+  LBA_national_democracy: "Národní demokracie" # todo: NEW TRANSLATION
+  LBA_national_democracy_desc: "Národní demokracie je ideologie, kde jsou chudí postaráni, stát je svobodný od cizího vměšování a vůdci vládnou se souhlasem lidu." # todo: NEW TRANSLATION
+  LBA_protect_the_lower_class: "Chránit nižší třídu" # todo: NEW TRANSLATION
+  LBA_protect_the_lower_class_desc: "Nižší třídy - dělníci a zemědělci - jsou páteří každé průmyslové země. Musíme udělat vše pro to, aby nebyli utlačováni kapitalistickým systémem." # todo: NEW TRANSLATION
+  LBA_protect_the_middle_class: "Chránit střední třídu" # todo: NEW TRANSLATION
+  LBA_protect_the_middle_class_desc: "Libye nemá skutečnou průmyslovou sílu, naše ekonomika je postavena na přepravě ropy a obchodě. Proto musíme chránit střední třídu; kancelářské pracovníky a dělníky v přístavech, kteří přinášejí peníze do země." # todo: NEW TRANSLATION
+  LBA_absolute_national_independence: "Absolutní národní nezávislost" # todo: NEW TRANSLATION
+  LBA_absolute_national_independence_desc: "Neměli bychom být podřízeni žádné cizí mocnosti. Libye musí mít autonomii rozhodovat o svých záležitostech." # todo: NEW TRANSLATION
+  LBA_give_power_to_central_committee: "Převést moc na ústřední výbor" # todo: NEW TRANSLATION
+  LBA_give_power_to_central_committee_desc: "Ústřední výbor strany by měl mít většinu moci v zemi, nebo alespoň velmi silný vliv na politiku země." # todo: NEW TRANSLATION
+  LBA_empower_the_noc: "Posílit NOC" # todo: NEW TRANSLATION
+  LBA_empower_the_noc_desc: "Gaddáfí nikdy nevyužil Libyjskou ropu dostatečně. Musíme zvýšit vliv Národního ropného podniku nad našimi ropnými zásobami a odcizit je od rukou jiných zemí." # todo: NEW TRANSLATION
+  LBA_empower_the_noc_tt: "Úroveň nacionalizace: §Y+15%§!" # todo: NEW TRANSLATION
+  LBA_improve_infrastructure: "Zlepšit silnice" # todo: NEW TRANSLATION
+  LBA_improve_infrastructure_desc: "Pro zemi je důležité mít dobré silnice, jinak lidé nemohou zapojit se do ekonomické činnosti." # todo: NEW TRANSLATION
+  LBA_adopt_marxism_leninism: "Přijmout marxismus-leninismus" # todo: NEW TRANSLATION
+  LBA_adopt_marxism_leninism_desc: "Marxismus-leninismus je hlavní formou komunismu, která ve světě zůstala. Vytvořením státu vedeného proletariátem můžeme osvobodit dělníky a bojovat proti kapitalismu." # todo: NEW TRANSLATION
+  LBA_return_to_afrosocialism: "Návrat k afrosocialismu" # todo: NEW TRANSLATION
+  LBA_return_to_afrosocialism_desc: "Třídní boj, o kterém komunisté mluví, v Africe prakticky neexistuje. V Africe je kmenové dědictví, které znamená, že socialismus je v každodenních praktikách. Musíme podporovat africké dědictví a identitu a vybudovat Afriku pro Afričany." # todo: NEW TRANSLATION
+  LBA_shift_to_eurocommunism: "Přechod k eurokomunismu" # todo: NEW TRANSLATION
+  LBA_shift_to_eurocommunism_desc: "Mnoho historických komunistů v Libyi mělo italský původ a v Itálii byl eurokomunismus velmi úspěšný. Eurokomunismus zaujímá umírněnější a anti-východní postoj vůči socialismu a více přijímá střední třídu a nové sociální hnutí než tradiční komunismus." # todo: NEW TRANSLATION
+  LBA_ties_to_italy: "Vztahy s Itálií" # todo: NEW TRANSLATION
+  LBA_ties_to_italy_desc: "[Communist-State_L] byla založena italskými imigranty a mnoho levicových organizací strávilo svůj exil v Itálii. To nám dává silné vazby na italské levicové kruhy." # todo: NEW TRANSLATION
+  LBA_approach_the_eu: "Navázat vztahy s EU" # todo: NEW TRANSLATION
+  LBA_approach_the_eu_desc: "Evropská unie je pro nás důležitý obchodní partner. Většina našich vývozů ropy směřuje tam a s další integrací můžeme výrazně rozšířit naši ekonomiku." # todo: NEW TRANSLATION
+  LBA_secularise_the_state: "Sekularizovat stát" # todo: NEW TRANSLATION
+  LBA_secularise_the_state_desc: "Islám měl příliš silný vliv na řízení Libye. Musíme oddělit náboženské prvky od institucí." # todo: NEW TRANSLATION
+  LBA_womens_rights: "Posílit práva žen" # todo: NEW TRANSLATION
+  LBA_womens_rights_desc: "Islámská tradice Libye je základem útlaku žen v naší zemi. Musíme povzbudit naše ženy, aby se staly aktivními pracovnicemi pro stát." # todo: NEW TRANSLATION
+  LBA_establish_workers_republic: "Zřídit republiku dělníků" # todo: NEW TRANSLATION
+  LBA_establish_workers_republic_desc: "Libyjští dělníci se musí sjednotit, aby vytvořili stát osvobozený od kapitalistické buržoazie." # todo: NEW TRANSLATION
+  LBA_follow_the_nordic_model: "Následovat nordický model" # todo: NEW TRANSLATION
+  LBA_follow_the_nordic_model_desc: "Severské země vytvořily systém, kde lidé ochotně platí daně výměnou za rozsáhlý sociální systém a zdravotní péči. Měli bychom tuto metodu následovat, abychom zlepšili životy našich občanů." # todo: NEW TRANSLATION
+  LBA_european_high_tech: "Získat evropské technologie" # todo: NEW TRANSLATION
+  LBA_european_high_tech_desc: "Evropa je známá svým high-tech průmyslem. Měli bychom spolupracovat s některými evropskými firmami, abychom vybudovali vlastní technologický průmysl." # todo: NEW TRANSLATION
+  LBA_the_brotherhood: "Bratrstvo" # todo: NEW TRANSLATION
+  LBA_the_brotherhood_desc: "Muslimské bratrstvo je pan-islámská nábožensko-politická organizace s členy v každé islámské zemi. Nyní, když jsou u moci v Libyi, může být země vrácena ke svým islámským kořenům." # todo: NEW TRANSLATION
+  LBA_establish_sharia_law: "Zavést šárii" # todo: NEW TRANSLATION
+  LBA_establish_sharia_law_desc: "Šaría by měla být základem naší ústavy a zákonů. Islám nám dává nejlepší nástroje pro morální vedení národa." # todo: NEW TRANSLATION
+  LBA_rehabilitate_lifg_fighters: "Rehabilitovat bojovníky LIFG" # todo: NEW TRANSLATION
+  LBA_rehabilitate_lifg_fighters_desc: "Členové Libyjské islámské bojové skupiny jsou ve vězení nebo v exilu. Měli bychom jim podat ruku a nechat je znovu zapojit se do společnosti." # todo: NEW TRANSLATION
+  LBA_scholars_of_brotherhood: "Učení Bratrstva" # todo: NEW TRANSLATION
+  LBA_scholars_of_brotherhood_desc: "Bratrstvo aktivně působí v komunitě. Dělají charitu a pomáhají vzdělávat lidi. Měli bychom zaměstnat Bratrstvo, aby pomohlo těm, kteří jsou v zemi negramotní, naučit se číst." # todo: NEW TRANSLATION
+  LBA_allow_polygamy: "Povolit polygamii" # todo: NEW TRANSLATION
+  LBA_allow_polygamy_desc: "Jako součást islámu by muži měli mít více manželek. To zaručuje velké a šťastné rodiny." # todo: NEW TRANSLATION
+  LBA_works_of_al_sallabi: "Šířit díla Al-Sallabiho" # todo: NEW TRANSLATION
+  LBA_works_of_al_sallabi_desc: "Ali al-Sallabi je brilantní libyjský učenec a spisovatel. Zatímco Gaddáfí byl u moci, strávil roky v exilu studiem v Saúdské Arábii, Súdánu a Kataru. Je silným zastáncem islámu a napsal několik knih o něm a jeho historii. Měli bychom sponzorovat jeho díla, aby dosáhla širšího publika." # todo: NEW TRANSLATION
+  LBA_ties_to_saudi_arabia: "Vztahy se Saúdskou Arábií" # todo: NEW TRANSLATION
+  LBA_ties_to_saudi_arabia_desc: "Mnoho našich učenců a vůdců Bratrstva v jisté fázi studovalo v Saúdské Arábii. I když Saúdové nejsou největšími fanoušky Bratrstva, oceňují naše závazky k islámu." # todo: NEW TRANSLATION
+  LBA_request_religious_funding: "Požádat o náboženské financování" # todo: NEW TRANSLATION
+  LBA_request_religious_funding_desc: "Saúdové ochotně poskytují financování mešitám a madrásám v jiných muslimských zemích. Měli bychom požádat i my." # todo: NEW TRANSLATION
+  LBA_military_pact_with_qatar: "Vojenský pakt s [QAT.GetName]" # todo: NEW TRANSLATION
+  LBA_military_pact_with_qatar_desc: "[QAT.GetNameDef] je jedním z hlavních podporovatelů Muslimského bratrstva. Podporují boje muslimů po celém Blízkém východě, a proto by dávalo smysl, kdybychom spojili síly." # todo: NEW TRANSLATION
+  LBA_military_pact_with_qatar_tt: "[QAT.GetNameWithFlag] je pravděpodobnější, že přijme, pokud:\n§G-Mají o nás vysoké mínění\n-Saúdové byli převzati Al-Káidou\n-Jsou naším nebo naším subjektovým sousedem§!\n\n[QAT.GetNameWithFlag] je méně pravděpodobné, že přijme, pokud:\n§R-Mají o nás nízké mínění\n-J jsme salafisté\n-J sme ve válce§!" # todo: NEW TRANSLATION
+  LBA_expand_the_alliance: "Rozšířit alianci" # todo: NEW TRANSLATION
+  LBA_expand_the_alliance_desc: "Existují jiné země se sympatiemi k Bratrstvu. Měli bychom usilovat o rozšíření naší aliance o tyto země." # todo: NEW TRANSLATION
+  LBA_expand_the_alliance_trigger_tt: "Je alespoň jedna země, která může být pozvána" # todo: NEW TRANSLATION
+  LBA_expand_the_alliance_tt: "Budou pravděpodobněji přijmout, pokud:\n§G-Mají o nás vysoké mínění\n-Jsou naším nebo naším subjektovým sousedem§!\n\nJsou méně pravděpodobní, pokud:\n§R-Mají o nás nízké mínění\n-J sme salafisté\n-J sme ve válce§!" # todo: NEW TRANSLATION
+  LBA_use_brotherhood_influence: "Využít vliv Bratrstva" # todo: NEW TRANSLATION
+  LBA_use_brotherhood_influence_desc: "Bratrstvo má členy v mnoha muslimských zemích. Měli bychom je využít k získání většího vlivu na místní politiku." # todo: NEW TRANSLATION
   LibyaFocus.1.t: "[FROM.GetNameDef] Allies With Boko Haram" # todo: NEW TRANSLATION
   LibyaFocus.1.desc: "We have received several worrying reports that Boko Haram fighters have been crossing the Northern border and travelling to [FROM.GetNameDef]. The Boko Haram senior leaders have been in discussions with the [FROM.GetAdjective] and Boko Haram fighters have been seen in [FROM.GetAdjective] training camps. It would seem like there are now powerful forces backing the Boko Haram insurgency, and this could prove problematic for us." # todo: NEW TRANSLATION
   LibyaFocus.1.a: "Znepokojující" # todo: NEW TRANSLATION
@@ -1627,6 +2023,36 @@
   LibyaFocus.108.t: "Návrat Friedricha Tinnera" # todo: NEW TRANSLATION
   LibyaFocus.108.d: "Když se Friedrich Tinner objevil na letišti v Tripolii, byli jsme překvapeni. Zdá se, že [FROM.GetAdjective] úřady neměly zájem o jeho další uvěznění a byl mu volně umožněn odjezd z země. Lze jen spekulovat, co je k tomu vedlo." # todo: NEW TRANSLATION
   LibyaFocus.108.a: "Tohle musí být trik, že?" # todo: NEW TRANSLATION
+  LibyaFocus.109.t: "[FROM.GetNameDef] požaduje území" # todo: NEW TRANSLATION
+  LibyaFocus.109.d: "Vláda [FROM.GetNameDef] tvrdí, že populace Tuaregů žijící na našich územích by měla být součástí libyjského národa. Nyní požadují, aby naše vláda postoupila kontrolu nad těmito územími jim." # todo: NEW TRANSLATION
+  LibyaFocus.109.a: "Přijmout jejich požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.109.b: "K tomu nikdy nedojde" # todo: NEW TRANSLATION
+  LibyaFocus.110.t: "[FROM.GetNameDef] přijímá požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.110.d: "Vláda [FROM.GetNameDef] souhlasila s našimi požadavky. To je velké vítězství pro libyjský národ!" # todo: NEW TRANSLATION
+  LibyaFocus.110.a: "Úžasné" # todo: NEW TRANSLATION
+  LibyaFocus.111.t: "[FROM.GetNameDef] odmítá naše požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.111.d: "Vláda [FROM.GetNameDef] odmítla naše územní požadavky. Zdá se, že chtějí nadále utlačovat náš lid." # todo: NEW TRANSLATION
+  LibyaFocus.111.a: "Dostanou, co si zaslouží" # todo: NEW TRANSLATION
+  LibyaFocus.112.t: "[FROM.GetNameDef] požaduje území" # todo: NEW TRANSLATION
+  LibyaFocus.112.d: "Vláda [FROM.GetNameDef] tvrdí, že populace Toubou žijící na našich územích by měla být součástí libyjského národa. Nyní požadují, aby naše vláda postoupila kontrolu nad těmito územími jim." # todo: NEW TRANSLATION
+  LibyaFocus.112.a: "Přijmout jejich požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.112.b: "K tomu nikdy nedojde" # todo: NEW TRANSLATION
+  LibyaFocus.113.t: "[FROM.GetNameDef] přijímá požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.113.d: "Vláda [FROM.GetNameDef] souhlasila s našimi požadavky. To je velké vítězství pro libyjský národ!" # todo: NEW TRANSLATION
+  LibyaFocus.113.a: "Úžasné" # todo: NEW TRANSLATION
+  LibyaFocus.114.t: "[FROM.GetNameDef] odmítá naše požadavky" # todo: NEW TRANSLATION
+  LibyaFocus.114.d: "Vláda [FROM.GetNameDef] odmítla naše územní požadavky. Zdá se, že chtějí nadále utlačovat náš lid." # todo: NEW TRANSLATION
+  LibyaFocus.114.a: "Dostanou, co si zaslouží" # todo: NEW TRANSLATION
+  LibyaFocus.115.t: "[FROM.GetNameDef] žádá o alianci" # todo: NEW TRANSLATION
+  LibyaFocus.115.d: "[FROM.GetNameDef] vytvořila novou alianci, která má spojit Muslimské bratrstvo. Kvůli našim vazbám na Bratrstvo nás požádali, abychom se připojili. Měli bychom přijmout?" # todo: NEW TRANSLATION
+  LibyaFocus.115.a: "Samozřejmě" # todo: NEW TRANSLATION
+  LibyaFocus.115.B: "Ne, děkujeme" # todo: NEW TRANSLATION
+  LibyaFocus.116.t: "[FROM.GetNameDef] se připojuje k Bratrstvu" # todo: NEW TRANSLATION
+  LibyaFocus.116.d: "[FROM.GetNameDef] přijalo naši pozvánku připojit se k Muslimskému bratrstvu." # todo: NEW TRANSLATION
+  LibyaFocus.116.a: "Společně jsme silnější!" # todo: NEW TRANSLATION
+  LibyaFocus.117.t: "[FROM.GetNameDef] odmítá pozvání" # todo: NEW TRANSLATION
+  LibyaFocus.117.d: "[FROM.GetNameDef] odmítlo naši pozvánku připojit se k Muslimskému bratrstvu." # todo: NEW TRANSLATION
+  LibyaFocus.117.a: "Nejsou pravými věřícími" # todo: NEW TRANSLATION
   LibyaRandomEvents.1.t: "Přeskupení kabinetu" # todo: NEW TRANSLATION
   LibyaRandomEvents.1.d: "V roce 2000 Libie provedla významné změny ve své kabinetní struktuře. Celkem bylo nahrazeno dvanáct ministrů, včetně premiéra (také generálního tajemníka Generálního lidového výboru) a ministra zahraničí. Role premiéra přešla z Muhammad Ahmad al-Mangoushe na Imbareka Shamekha, dříve ministra bydlení a veřejných služeb." # todo: NEW TRANSLATION
   LibyaRandomEvents.1.a: "Stabilní vláda pro stabilní národ" # todo: NEW TRANSLATION
@@ -2184,6 +2610,34 @@
   LibyaFamily.74.t: "[FROM.GetNameDef] Vyzývá k naší zkáze" # todo: NEW TRANSLATION
   LibyaFamily.74.d: "Vůdce [FROM.GetAdjective] Muammar Gaddafi vydal prohlášení, že Švýcarsko nemá existovat. Také vyzval sousední země, aby se k tomuto prohlášení připojily. Toto prohlášení je nejspíše důsledkem zadržení jednoho z Gaddího potomků švýcarskou policií." # todo: NEW TRANSLATION
   LibyaFamily.74.a: "Máme právo existovat!" # todo: NEW TRANSLATION
+  LibyaFamily.75.t: "Smrt Muammara Gaddáfího" # todo: NEW TRANSLATION
+  LibyaFamily.75.d: "Jak povstalci získávali více a více území, bylo pro našeho velkého vůdce Muammara Gaddáfího nezbytné přemístit se na bezpečnější místo. Jeho konvoj však byl (nevědomky) přepaden povstalci. Gaddáfí se po útoku pokusil skrýt, ale byl povstalci zajat. Byl bit a mučen povstalci, než podlehl svým zraněním. Videonahrávky a fotografie z toho zabití se rozšířily po celém internetu. Je to konec?" # todo: NEW TRANSLATION
+  LibyaFamily.75.d.airstrike: "Jak povstalci získávali více a více území, bylo pro našeho velkého vůdce Muammara Gaddáfího nezbytné přemístit se na bezpečnější místo. Nicméně při přesunu konvoje byl zasažen leteckým úderem NATO a následně rychle napaden povstaleckými silami. Gaddáfí se po útoku pokusil skrýt, ale byl povstalci zajat. Byl bit a mučen povstalci, než podlehl svým zraněním. Videonahrávky a fotografie z toho zabití se rozšířily po celém internetu. Je to konec?" # todo: NEW TRANSLATION
+  LibyaFamily.75.a: "Nikdy se nevzdáme!" # todo: NEW TRANSLATION
+  LibyaFamily.76.t: "Muhammad zajat povstalci" # todo: NEW TRANSLATION
+  LibyaFamily.76.d: "Z povinnosti vůči svému otci pomáhal Muhammad organizovat obrany Libyjské armády ve jednom menším městě. Během povstaleckého útoku bylo jeho velitelství přemoženo. Podle zpráv se Muhammad pokusil vzdát povstalcům, kteří mu však nechtěli udělit žádné milosti. Po mučení a bití byl vykonán místním povstaleckým velitelem. [LRB.GetNameDef] uvedla, že jejich cílem bylo zajmout Muhammada, ne zabít ho, a že místní velitel jednal na vlastní pěst." # todo: NEW TRANSLATION
+  LibyaFamily.76.a: "Vrazi!" # todo: NEW TRANSLATION
+  LibyaFamily.77.t: "Saif al-Islam zlynčován" # todo: NEW TRANSLATION
+  LibyaFamily.77.d: "V malém městě dělal Saif al-Islam obchůzky, kontroloval otcovy jednotky a sliboval jim lepší zbraně a vybavení. Nevěděl však, že místní jednotka již přešla na stranu rebelů. Byl rychle zajat a zadržován povstalci. Saif se podařilo uprchnout, ale rychle se ocitl v koutě s nikde úniku. V zoufalném pokusu zachránit si život pronesl projev, apeloval na ex-gaddáfíovské vojáky. Tvrdil, že válku vytvořil Západ a že za vše mohou kmenové frakce a islamisté jednající ze svých vlastních zájmů, opilí a drogoví. Zdá se, že jeden z vojáků to považoval za urážku a hodil po Saifovi kámen. Ostatní se rychle přidali a brzy byl Saif v kaluži krve, mrtvý." # todo: NEW TRANSLATION
+  LibyaFamily.77.a: "Vrazi!" # todo: NEW TRANSLATION
+  LibyaFamily.78.t: "Al-Saadi Gaddáfí zemřel při sebevražedném útoku" # todo: NEW TRANSLATION
+  LibyaFamily.78.d: "Al-Saadi pobýval v jedné z Gaddáfího pevností, která měla být posledním postavením režimu. Byl cílem sebevražedného útoku. Rebel pilot jménem Muhammad Mokhtar Osman narazil svým letadlem přímo do budovy. Zatímco Al-Saadi přežil počátečný náraz, později zemřel někde v budově kvůli požárům způsobeným útokem. Není jasné, jak se letadlo dostalo tak blízko, aniž by bylo sestřeleno." # todo: NEW TRANSLATION
+  LibyaFamily.78.a: "Proč to nikdo nesestřelil?!" # todo: NEW TRANSLATION
+  LibyaFamily.79.t: "Mutassim Gaddáfí popraven" # todo: NEW TRANSLATION
+  LibyaFamily.79.d: "Mutassim ustupoval z jednoho z měst nedávno obsazených povstalci, ale na cestě k dalšímu vojenskému stanovišti byl jeho konvoj zachycen povstalci. Mutassim se bránil pistolí, ale byl zraněn do krku a vzdal se povstalcům. Vznikla hádka mezi ním a jeho zajatci a ti ho požádali, aby pronesl šahádu pro odpuštění od Boha. Místo toho Mutassim pohladil svůj náhrdelník, africký magický talisman. Zajatci opět požadovali ‚to je Korán, poslední a první věc‘, ale Mutassim nadále mluvil s talismanem. Znechuceni ho zastřelili a spálili náhrdelník." # todo: NEW TRANSLATION
+  LibyaFamily.79.a: "A tito lidé bojují za 'svobodnou' Libyi..." # todo: NEW TRANSLATION
+  LibyaFamily.80.t: "Hannibal Gaddáfí umírá hladem" # todo: NEW TRANSLATION
+  LibyaFamily.80.d: "Hannibal Gaddáfí byl před pár týdny unesen ze svého hotelu. Únos zorganizovala skupina šíitských militantů, kteří přicestovali z Libanonu až do Libye. Mluvčí militantů řekl, že hledají vrahy Musy al-Sadra, šíitského duchovního a vůdce Hnutí Amal, který zmizel v Libyi v roce 1978. Hannibal nemohl být zapleten, protože mu bylo v době zmizení jen dva roky, ale to pro jeho únosce zřejmě nemělo význam. Když z něj nedostali žádné informace, nechali ho nakonec bloudit po poušti. Nenašel žádná blízká sídla a nakonec zemřel žízní a hladem. Později ho našel vojenský vrtulník, který oblast průzkumně přehlížel." # todo: NEW TRANSLATION
+  LibyaFamily.80.a: "Cože?!" # todo: NEW TRANSLATION
+  LibyaFamily.81.t: "Ayesha Gaddáfí spáchala sebevraždu" # todo: NEW TRANSLATION
+  LibyaFamily.81.d: "Když se povstalci přiblížili ke komplexu, kde se Ayesha nacházela, byla v panice. Strážci ji informovali, že oblast byla obklíčena. Strážci jí navrhli, že nejlepší možností by bylo se prostě vzdát povstalcům. Ayesha se však bála, co by jí mohlo být provedeno v případě zajetí. V zoufalém činu nařídila svým strážcům, aby ji zamknuli společně s dětmi v jedné budově komplexu a tu zapálili. Strážci neochotně splnili rozkaz a budovu zapálili. Poté se vzdali povstalcům a vysvětlili, co se stalo." # todo: NEW TRANSLATION
+  LibyaFamily.81.a: "Cože?!" # todo: NEW TRANSLATION
+  LibyaFamily.82.t: "Saif al-Arab zemřel při leteckém útoku" # todo: NEW TRANSLATION
+  LibyaFamily.82.d: "Saif al-Arab byl zabit při leteckém útoku NATO spolu se třemi vnuky Muammara Gaddáfího. NATO tvrdí, že budovu, kterou zasáhli, používaly velitelské a řídící struktury s podzemním krytem. Kdo by ale dal děti do vojenského krytu? Toto je další útok NATO na libyjské civilisty, a oni umučili jednoho z největších hrdinů Libye." # todo: NEW TRANSLATION
+  LibyaFamily.82.a: "Jak to mohli udělat?" # todo: NEW TRANSLATION
+  LibyaFamily.83.t: "Khamis Gaddáfí zabit v přestřelce" # todo: NEW TRANSLATION
+  LibyaFamily.83.d: "Při organizaci obran na frontě byl Khamis zabit v přestřelce s povstalci. Jeho pozice byly agresivně napadeny povstalci, kteří se ho snažili vytlačit z klíčového postavení. Při pokusu o přesun na lepší pozici byl Khamis zasažen a zraněn. Několik minut pokračoval v boji, než byl znovu zasažen, tentokrát do hlavy." # todo: NEW TRANSLATION
+  LibyaFamily.83.a: "Byl to bojovník" # todo: NEW TRANSLATION
   LibyaCivilWar.1.t: "LNDF se rozšiřuje v Libyi" # todo: NEW TRANSLATION
   LibyaCivilWar.1.d: "LNDF ([socialism_L]) je opoziční skupina se sídlem ve Spojených státech. Doposud působili převážně ve Spojených státech. Od počátku protestů proti Gaddáfímu vládě však našli v Libyi mnohem více podporovatelů. Stále více Libyjců se stává jejich příznivci a touží po tom, aby Spojené státy intervenovaly v Libyi proti Gaddáfímu." # todo: NEW TRANSLATION
   LibyaCivilWar.1.a: "Spojené státy tu nemají co dělat" # todo: NEW TRANSLATION
@@ -2226,6 +2680,136 @@
   LibyaCivilWar.14.t: "Námořníci potopili loď" # todo: NEW TRANSLATION
   LibyaCivilWar.14.d: "Posádka jedné z našich válečných lodí se rozhodla potopit plavidlo, na kterém sloužila. Odmítli použít zbraně proti protestujícím, navedli plavidlo na blízký břeh a naložili ho výbušinami. Poté, co loď shořela, vyjádřili podporu protestujícím.'" # todo: NEW TRANSLATION
   LibyaCivilWar.14.a: "To jsou drahé věci!" # todo: NEW TRANSLATION
+  LibyaCivilWar.15.t: "Libyjská revoluce" # todo: NEW TRANSLATION
+  LibyaCivilWar.15.d: "Pokusy Gaddáfího potlačit protesty selhaly. Násilí eskalovalo, vojenské jednotky dezertovaly a nová koalice opozičních bojovníků převzala kontrolu nad Benghází. Situaci lze nyní vyřešit pouze na bitevním poli." # todo: NEW TRANSLATION
+  LibyaCivilWar.15.a: "Ti 'rebels' jsou jen agenti CIA. Zničit je!" # todo: NEW TRANSLATION
+  LibyaCivilWar.15.b: "Dolů s Gaddáfím! Dolů s diktátorem!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.1.t: "Warfalla kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.1.d: "Kmen Warfalla sídlí v Tripolitanii, soustředěný kolem Tripolisu a Bani Walid, jediného města v Libyi obývaného jedním kmenem. Vzhledem k hrozbě násilí v zemi v důsledku občanské války se kmen mobilizoval a poskytl některé ze svých členů k posílení našich sil." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.1.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.2.t: "Qadhadhfa nabízají podporu [ROOT.GetLeader]" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.2.d: "Qadhadhfa je kmen Gaddáfíovy rodiny. Sídlí převážně v okolí města Sirte a jejich spojení s režimem umožnilo městu vyrůst na úroveň Tripolisu či Benghází. Qadhadhfa byli vždy loajální podporovatelé Gaddáfího a poskytli další bojovníky naší armádě." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.2.a: "Děkujeme jim za jejich loajalitu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.3.t: "Berbeři se bouří proti režimu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.3.d: "Libyjská hranice s Tuniskem je domovem malé komunity Berberů. Za Gaddáfího režimu byla jejich práva silně potlačována a sám Gaddáfí existence berberské etnicity popíral a označoval ji za ‚produkt kolonialismu‘. Nyní se rozhodli povstat proti Gaddáfímu v naději na lepší budoucnost." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.3.a: "Budeme k nim lépe přistupovat" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.4.t: "Berberští rebelové na západě" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.4.d: "Libyjská hranice s Tuniskem je domovem malé komunity Berberů. Za Gaddáfího režimu byla jejich práva silně potlačována a sám Gaddáfí existence berberské etnicity popíral a označoval ji za ‚produkt kolonialismu‘. Nyní se rozhodli povstat proti Gaddáfímu a přísahat věrnost rebelům v naději na lepší budoucnost." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.4.a: "Nejsou ani opravdoví!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.5.t: "Al-Mujabra kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.5.d: "Kmen al-Mujabra žije v západní Libyi, poblíž okresu Jabal al Gharbi. Generál [LBA_abu_bakr_yunis_jabr.GetName], významný člen tohoto kmene, motivoval některé členy kmene k mobilizaci a připojení se na naši stranu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.5.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.6.t: "Magarha kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.6.d: "Kmen Magarha je druhým největším kmenem v Libyi, hned po Warfalla. Přestože kmen pochází z Fezzanu, mnoho jeho členů se přestěhovalo do Sirte a dalších pobřežních oblastí. Spolu s Warfalla byli většina Magarha silně loajální vůči Gaddáfímu. Někteří jeho členové nyní mobilizovali bojovníky, aby nás podpořili." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.6.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.7.t: "Hassawna kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.7.d: "Kmen Hassawna žije ve Fezzanu. Oblast, kterou obývají, poskytuje 60 procent libyjské vody. Obávajíce se možného vandalismu a obsazení studní v oblasti, poskytl kmen některé ze svých bojovníků, aby udržel své země v bezpečí." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.7.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.8.t: "[TUA.TUA_ali_kanna.GetName] se připojuje k boji" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.8.d: "[TUA.TUA_ali_kanna.GetName] velil speciální Maghawir brigádě za Gaddáfího. Brigáda se skládala z tuaregských dobrovolníků z Nigeru a Mali. [TUA.TUA_ali_kanna.GetName] nyní vstoupil do Libye s hostem tuaregských vojáků a prohlásil, že budou bojovat na naší straně." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.8.a: "Díky za pomoc!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.9.t: "TFSL se k nám přidává" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.9.d: "Toubou Fronta za záchranu Libye, nebo TFSL, se postavila proti Gaddáfímu. Několik let organizovali nízkoúrovňový konflikt proti režimu, ale nyní mohou bojovat otevřeněji." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.9.a: "Vezmeme je, tuším" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.10.t: "Farjan kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.10.d: "Kmen Farjan žije převážně západně od Ajdabiya, i když členové kmene lze nalézt po celé libyjské pobřeží. Špatná bezpečnostní situace motivovala kmen k vytvoření místní milice, aby nám pomohli bojovat." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.10.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.11.t: "Misurata kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.11.d: "Největší a nejvlivnější kmen ve východní Libyi, Misurata (podle kterého je pojmenováno město Misrata), mobilizoval některé ze svých vojáků, aby nám pomohli. Kmen má silný vliv v městech Benghází a Derně a obává se, že občanská válka by jim mohla tento vliv uškodit." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.11.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.12.t: "Abaydat kmenová milice" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.12.d: "Jeden z hlavních kmenů v Tobruku, kmen Abaydat, je sdružením asi 15 podkmenů. Aby podpořili kmenovou soudržnost, vytvořili společnou jednotku vojáků z řady jejich podkmenů, aby nám pomohli v boji." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.12.a: "Děkujeme jim za podporu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.13.t: "Revoluce začíná!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.13.d: "Dolů s Gaddáfím! Dolů s diktátorem! Náš lid povstal proti tyranovi a libyjská revoluce může začít! Musíme vyrazit do hlavního města nepřítele a vytvořit svobodnou zemi!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.13.a: "Pro Libyi!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.13.tooltip: "§YS jak válka pokračuje, přidá se stále více milic, soukromých armád a povstaleckých skupin. Pokud chceme udržet kontrolu nad zemí a zabránit dalším konfliktům v budoucnu, měli bychom naše nepřátele rychle porazit!§!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.14.t: "Libyjští lidé v povstání" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.14.d: "Sionisté a CIA za tím stojí, najmuli zahraniční žoldáky, aby rozdmýchali lidi proti našemu režimu. Ach jak budou ti zmatení a nevinní trpět. Musíme rychle udeřit a uťít hlavu hada dřív, než více lidí podlehne ďáblovým pokušením." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.14.a: "Pro Libyi!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.14.tooltip: "§YDélka války zvyšuje počet povstaleckých vojáků, které budou moci mobilizovat. S časem nás pravděpodobně převažují v počtu§!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.15.t: "Formuje se brigáda mučedníků Abu Salim" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.15.d: "Libyjská islámská bojová skupina se dekády stavěla proti Gaddáfímu. Nyní, s populárním povstáním, se skupina přejmenovala na Libyjské islámské hnutí a vytvořila bojovou brigádu zvanou Abu Salim Martyrs Brigade pod vedením Abdel-Hakima al-Hasidiho. Skupina tvrdí, že usiluje o umírněnější přístup, ale vůdci otevřeně přiznali, že jejich bojovníci mají vazby na Al-Káidu. Čas ukáže, zda opravdu usilují o reformu či nikoliv." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.15.a: "Mám z toho špatné tušení..." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.15.tooltip: "§Y[Caliphate_L]§! bude známa jako §Y$LBA.Caliphate_reform$§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.16.t: "Zakládá se Tripolská brigáda" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.16.d: "Libyjský exilant z Irska, Mahdi al-Harati, spolu s dalšími exilanty z anglicky mluvících zemí vytvořili to, co se nazývá Tripoli Revolutionaries Brigade. Většina jejich rekrutů pochází z oblasti Tripolisu, odtud název jednotky. Brigáda dostala rozsáhlý výcvik od katarských speciálních sil. Od začátku války se Katar více angažuje v zemi, pravděpodobně ve snaze rozšířit vliv Muslimského bratrstva v regionu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.16.a: "Konečně nějaké elity pro naši armádu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.17.t: "Vznik Zintanských brigád" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.17.d: "Ve městě Zintan poblíž Tripolisu se revolucionáři spojili jako Zintan Revolutionaries' Military Council a vytvořili jednotku, která bude bojovat proti Gaddáfímu. Vede je Osama al-Juwaili, bývalý kapitán libyjské armády. Podle našich zpravodajských informací se lidé k jejich praporům hrnou v houfech." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.17.a: "Konečně nějaké elity pro naši armádu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.18.t: "Frakcionismus v Libyjské osvobozenecké armádě" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.18.d: "Když jsme zahájili revoluci, mnoho milicí a dobrovolnických praporů muselo být sloučeno pod jeden velení, a tak jsme vytvořili Libyjskou osvobozeneckou armádu. Jmenovali jsme bývalého gaddáfíovského generála jako náčelníka štábu vzhledem k jeho zkušenostem. Nicméně Khalifa Haftar, exilant a vojenský velitel z USA, se vrátil a vyhlásil si velení nad armádou. Naše oficiální podpora stále směřuje na bývalého gaddáfíovského generála, ale Haftar na bojišti ukazuje víc slibů. Muž, který přichází odnikud a tvrdit, že velí armádě, je ambiciózní a mohl by chtít přebrat kontrolu nad celou zemí, pokud dostane příležitost." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.18.a: "Nemůžeme si dovolit rivalitu!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.19.t: "[ROOT.GetName] byl zavražděn!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.19.d: "[ROOT.GetName], kterého jsme jmenovali náčelníkem štábu naší Libyjské osvobozenecké armády, byl zavražděn! Není jasné, jak k tomu došlo, ale jeho tělo spolu s dalšími dvěma důstojníky bylo nalezeno zastřelené a spálené na okraji [FROM.capital.GetCapitalVictoryPointName]. Někteří říkají, že ho zastřelili pro-gaddáfíovští útočníci za zradu vůči Gaddáfímu. Jiní tvrdí, že členové džihádistické milice ho popravili kvůli činům, které podnikl pod Gaddáfího velením. Bez ohledu na to musíme vybrat nového náčelníka štábu. Generál Haftar by mohl být dobrou volbou, ale to by ho jen víc posílilo." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.19.a: "Haftar je nejlepší volba!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.19.b: "Možná někdo jiný" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.19.tooltip: "§YTím snížíme Haftarovu schopnost později podrývat naši vládu!§!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.20.t: "Nová brigáda mučedníků" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.20.d: "Složila se nová skupina džihádistů do vojenské jednotky. Tyto 'Brigády mučedníků' bojují za islámskou Libyi a mnoho bojovníků má silné vazby na Al-Káidu či jiné extremistické organizace. Musíme vládu rychle porazit, než se naše země zaplní potenciálními teroristy." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.20.a: "Odkud se pořád berou?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.20.tooltip: "Vytvořte §YDžihádistickou jednotku§! v §Y[ROOT.capital.GetName]§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.21.t: "Noví spojenci pro Zintanské brigády" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.21.d: "Nová milice se přidala pod prapor Zintanské brigády. Zintanské brigády se pomalu stávají nejsilnější milicí v zemi, a pokud nebudeme opatrní, mohly by se pokusit uchopit moc." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.21.a: "Proč nikdo není na naší straně?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.21.tooltip: "Vytvořte §Yislamistickou jednotku§! v §Y[ROOT.capital.GetName]§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.22.t: "Nábor Libyjské osvobozenecké armády" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.22.d: "Libyjská osvobozenecká armáda vytvořila další prapor milice pro své potřeby. Vojenská vrchnost se skládá převážně z bývalých gaddáfíovských důstojníků, kteří by rádi viděli více sekulární Libyi." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.22.a: "Síla armády roste" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.22.tooltip: "Vytvořte §YSekulární jednotku§! v §Y[ROOT.capital.GetName]§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.23.t: "Pro-západní milice vycvičeny" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.23.d: "Zatímco většina Libyjců touží po více islámocentrické zemi, někteří chtějí mít více západní vládu. S pomocí speciálních sil a instruktorů ze Západu byla vycvičena malá profesionální milice. Jsou nyní připraveni bojovat proti Gaddáfímu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.23.a: "Snaží se Západ nás ovládnout?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.23.tooltip: "Vytvořte §Yreformní jednotku§! v §Y[ROOT.capital.GetName]§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.24.t: "Vítězství v občanské válce!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.24.d: "Gaddáfí byl poražen, konečně jsme se zbavili tyrana! Národní přechodní výbor nyní musí zahájit přechod k legitimní vládě. Mnoho milicí a militantních skupin je třeba integrovat. Musíme rovněž zorganizovat volby, aby rozhodly, kdo bude v budoucnu vládnout Libyi." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.24.a: "Na budoucnost Libye!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.24.b: "Volby? To si nemyslím" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.24.tooltip: "§YVolby uspořádáme za rok§!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.25.t: "Ansar al-Sharia obsazuje Benghází" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.25.d: "Ansar al-Sharia je globální džihádistická organizace. Během občanské války vznikla místní pobočka v Libyi a skupina postupně získává moc. Včera se v Benghází objevila masivní kolona Ansar al-Sharia. S téměř dvěma stovkami pick-upů a těžkými prostředky se skupina shromáždila na náměstí Tahrír, požadovala zavedení šárie a zrušení plánů na volby jako ‚neislámské‘. Skupina zřídila kontrolní stanoviště ve městě a poslala vojáky hlídat důležité administrativní budovy a poskytovatele služeb jako nemocnice. Již oznámili plány na zavedení šaríatských soudů a vykonávání misijní činnosti (Da'wah) pro místní obyvatele, aby získali podporu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.25.a: "Odkud se sakra vzali?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.25.tooltip: "§YAnsar Al-Sharia§! obsazuje §Y$STATE_395$§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.26.t: "V Derně vznikla Šúra rada mudžáhidů" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.26.d: "[ROOT.LBA_abdel_hakim_al_hasidi.GetName] vytvořil brigádu Abu Salim z bývalých členů LIFG, aby bojovali proti Gaddáfímu. Krátce po občanské válce se [ROOT.LBA_abdel_hakim_al_hasidi.GetName] začal více věnovat politice než vedení milice. To umožnilo jednomu z předních velitelů, Salimu Derbyovi, převzít efektivní kontrolu nad jednotkou. Derby nyní přešel se svou jednotkou a obsadil město Derna ve východní Libyi společně s milicí Jaysh al-Islam. Nazvali se Šúra radou mudžáhidů v Derně. Podobně jako Ansar al-Sharia v Benghází skupina začala v městě uplatňovat šárii. Také se spojili se skupinou v Benghází. Východní Libye byla hlavním zdrojem islamistických bojovníků v zemi a zdá se, že jejich příliv neustává." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.26.a: "Nikdy jsme jim neměli věřit" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.26.tooltip1: "Aby lépe reprezentovali různé skupiny islamistů pod svými křídly, §YAnsar al-Sharia§! vytvořili §YShura Council of Benghazi Revolutionaries§!. Jejich cílem je nyní vytvořit podobné rady i v jiných částech země\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.26.tooltip2: "§YLiwa Shuhada Abu Salim§! přechází k §Y[ASL.GetNameDef]§!\n" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.27.t: "$VICTORY_POINTS_1127$ padá do rukou islamistů" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.27.d: "[ASL.GetNameDef] rozšířili svůj vliv do pobřežního města $VICTORY_POINTS_1127$. Město je jedním z klíčových center pro export a rafinaci ropy z ropných polí Wahat. Stejně jako v Benghazi zde islámisté s velkým zápalem uplatňují šáriu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.27.a: "Není možné tuto nemoc zastavit?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.28.t: "Vzniká brigáda Rafallah al-Sahati" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.28.d: "Ve střední Libyi vznikla nová islamistická milice. Složená z členů 17. únorové brigády mučedníků, brigáda Rafallah al-Sahati začala operovat v $STATE_1100$. I když čítají méně než tisíc bojovníků, způsobují velké obavy místní populace Toubou." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.28.a: "Opravdu se o ně staráme?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.29.t: "$STATE_919$ se přiklání k [ASL.GetNameDef]" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.29.d: "Oblast $STATE_919$ byla hlavní oporou Gaddáfího režimu. Po pádu režimu muselo mnoho vojáků, byrokratů a úředníků vrátit se domů s ničím než oblečením na zádech. Tato ztráta postavení je učinila čím dál více nepřátelskými vůči nové vládě. Situace eskalovala a pro-gaddáfíovská milice, která má velký vliv v městě $VICTORY_POINTS_4047$, prohlásila věrnost [ASL.GetNameDef]." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.29.a: "Nestačilo vyhodit Gaddáfího?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.30.t: "[ASL.GetNameDef] obsazuje $VICTORY_POINTS_6295$" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.30.d: "Kontingent [ASL.GetNameDef] včera přesunul velký konvoj vojáků z $STATE_919$ do $VICTORY_POINTS_6295$. Po příjezdu převzali kontrolu nad městem a jeho letištěm a údajně některé místní milice k nim přebrali loajalitu. $VICTORY_POIINTS_6295$ je důležitým vojenským opěrným bodem a i když [ASL.GetNameDef] nemá vlastní letectvo, ovládání letiště jim umožňuje používat menší letouny pro průzkum. To ztěžuje protiútok na město a naše vrchní velení doporučuje letecký útok." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.30.a: "Opravdu potřebujeme to letiště?" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.30.tooltip: "Dokud §Y[ASL.GetNameDef] ovládají letiště§!, budou útoky proti §Y$STATE_919$§! mnohem obtížnější!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.31.t: "[ROOT.LBA_abdel_hakim_al_hasidi.GetName] zvolen do úřadu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.31.d: "Po otevření naší země demokracii kandidovalo [Caliphate_L] několik kandidátů v místních volbách. Nyní byl vůdce brigády Abu Salim, [ROOT.LBA_abdel_hakim_al_hasidi.GetName], zvolen do místního úřadu v Derně. Jak nastupuje do funkce, ponechá většinu správy brigády svému zástupci, Salimu Derbyovi." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.31.a: "Demokracie v praxi" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.31.b: "Stále ho potřebujeme na bojišti" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.32.t: "Nominace ministra obrany" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.32.d: "S obnovou Libyjské národní armády musíme nominovat ministra obrany. Pro nejlepší účinek bychom měli vybrat jednoho z našich generálů, neboť mají potřebné zkušenosti z bojiště k řízení úřadu." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.32.a: "Možná..." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.32.b: "Nebo snad..." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.33.t: "Velel unesen" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.33.d: "Jeden z našich vojenských velitelů byl unesen milicí operující v naší zemi. Nyní požadují výkupné za jeho propuštění. Můžeme zaplatit výkupné, ale to by jen legitimizovalo milici. Můžeme také ignorovat požadavky a velitel bude pravděpodobně propuštěn svými stoupenci. Můžeme také poslat speciální jednotky na záchranu, ale to s sebou nese rizika." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.33.a: "Jen zaplaťte výkupné" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.33.b: "Jeho podporovatelé si s ním poradí" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.33.c: "Poslat speciální jednotky!" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.34.t: "Velitel obviněn z válečných zločinů" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.34.d: "Jeden z našich velitelů byl obžalován z páchaní válečných zločinů Mezinárodním trestním soudem. Na základě několika zveřejněných videí velitel osobně popravoval, nebo nařídil popravu nejméně 33 lidí při velení svým jednotkám v Libyi. USA i EU uvalily na velitele sankce a Interpol vydal červený upozorňovací list. Pokud velitele nevydáme Mezinárodnímu trestnímu soudu, budeme cílem těchto sankcí také." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.34.a: "Musíme ho zatknout" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.34.b: "Nic špatného neudělal" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.35.t: "Velitel plánuje odchod do důchodu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.35.d: "Jeden z našich velitelů oznámil, že plánuje odejít z vojenské služby. Cítí, že nyní, když je Libye svobodná od Gaddáfího, je jeho práce hotová. Plánuje strávit zbytek života pomáháním své komunitě jako místní politik, ne na frontě." # todo: NEW TRANSLATION
+  LibyaCivilWarContent.35.a: "Nech ho odejít do důchodu" # todo: NEW TRANSLATION
+  LibyaCivilWarContent.35.b: "Ještě ho potřebujeme" # todo: NEW TRANSLATION
   LibyaFocusNews.1.t: "Libyjský prezident byl zavražděn" # todo: NEW TRANSLATION
   LibyaFocusNews.1.coup.d: "Dramatické zprávy dnes vypluly z Libye poté, co byl vůdce země zavražděn radikály [LBA.Caliphate_L]. Auta vůdce byla napadena v Libyjské poušti islamisty během jejich útoku. Po úspěšné vraždě rychle obsadili klíčové vládní budovy v Tripolí a Benghází. Bez jasného vůdce nemohl existující režim uspořádat žádný odpor. Èmír [LBA.Caliphate_L], [LBA.GetLeader], prohlásil sám sebe vládcem země. To bezpochyby přinese regionu ještě větší nestabilitu." # todo: NEW TRANSLATION
   LibyaFocusNews.1.civilwar.d: "Dramatické zprávy se dnes objevily z Libye, když byl vůdce země zavražděn radikály [LBA.Caliphate_L]. Vůdcův konvoj byl napaden na Libyjské poušti v útoku islamistů. Po úspěšné vraždě členové skupiny rychle obsadili klíčové vládní budovy v Tripolí a Bengházi. Přestože příznivci starého režimu brzy dokázali postavit protiútok, chyběl jasný vůdce pro organizaci odporu. Émír [LBA.Caliphate_L], [LBA.GetLeader], prohlásil sám sebe vládcem země a prohlásil, že s Bohem Libijští věřící vyjdou vítězně. Pokud islamisté vyhrají, bezpochyby to povede k ještě větší nestabilitě v regionu." # todo: NEW TRANSLATION
@@ -2288,6 +2872,10 @@
   LibyaFocusNews.19.t: "[ENG.GetAdjective] Zásah v Libyi" # todo: NEW TRANSLATION
   LibyaFocusNews.19.d: "Po pokusu o vraždu libyjské královské rodiny v [ENG.GetNameDef], [ENG.GetAdjective] vláda požadovala okamžitou náhradu škody a omluvu od [LBA.GetAdjective] vlády. [ENG.GetNameDef] zjistil, že [LBA.GetNameDef] má silné vazby na útok. Jelikož nepřišla žádná omluva ani náhrada, [ENG.GetNameDef] to považoval za útok na národ. Ještě s šrámy po útoku Lockerbie, [ENG.GetNameDef] měl na výběr jen svrhnout [LBA.GetAdjective] vládu, aby zastavil další útoky." # todo: NEW TRANSLATION
   LibyaFocusNews.19.a: "Zajímavé" # todo: NEW TRANSLATION
+  LibyaFocusNews.20.t: "Smrt Muammara Gaddáfího" # todo: NEW TRANSLATION
+  LibyaFocusNews.20.d.airstrike: "Diktátor Libye, Muammar Gaddáfí, byl zabit. Při pokusu o útěk z povstalců byl jeho konvoj zasažen leteckým útokem NATO. Po zastavení konvoje byl rychle napaden povstaleckými silami. Gaddáfího stráže byly zabity a on byl povstalci nalezen ukrytý v odtokové trubce. Gruesomé záběry z události ukazují krvavého a zbitného Gaddáfího, jak je tažen povstalci, je znásilňován bodákem a zdánlivě má střelnou ránu. Gaddáfího lze slyšet, jak říká svým zajistitelům ‚Bůh to zakazuje‘ a ‚Co jsem vám udělal?‘, než konečné záběry ukazují jeho mrtvého. Zástupci NATO popřeli, že by věděli o tom, že Gaddáfí byl součástí konvoje, a mluvčí povstalců uvedl, že nebyl vydán žádný rozkaz k zabití Gaddáfího. Gaddáfího dědic [GDA.GetLeader] přísahal, že pomstí svého otce a bude pokračovat v boji za Libyi." # todo: NEW TRANSLATION
+  LibyaFocusNews.20.d: "Diktátor Libye, Muammar Gaddáfí, byl zabit. Při pokusu o útěk z povstalců byl jeho konvoj napaden povstaleckými silami. Gaddáfího stráže byly zabity a on byl povstalci nalezen ukrytý v odtokové trubce. Gruesomé záběry z události ukazují krvavého a zbitného Gaddáfího, jak je tažen povstalci, je znásilňován bodákem a zdánlivě má střelnou ránu. Gaddáfího lze slyšet, jak říká svým zajistitelům ‚Bůh to zakazuje‘ a ‚Co jsem vám udělal?‘, než konečné záběry ukazují jeho mrtvého. Mluvčí povstalců uvedl, že nebyl vydán žádný rozkaz k zabití Gaddáfího. Gaddáfího dědic [GDA.GetLeader] přísahal, že pomstí svého otce a bude pokračovat v boji za Libyi." # todo: NEW TRANSLATION
+  LibyaFocusNews.20.a: "Je to konec?" # todo: NEW TRANSLATION
   sp_libya_gmmr_phase3_project: "Velká umělá řeka - Al-Jawfův vodovod" # todo: NEW TRANSLATION
   sp_libya_gmmr_phase3_project_desc: "Velká umělá řeka, která měla přivést vodu do celé Libye, nebyla nikdy dokončena. Potrubí mělo být spojeno také s Al-Jawf v Kufře a nyní máme šanci dokončit tuto část potrubí." # todo: NEW TRANSLATION
   sp_libya_gmmr_phase3_project_reward_al_jawf_agriculture: "Zemědělství posíleno" # todo: NEW TRANSLATION
@@ -2321,3 +2909,11 @@
   sp_libya_reward_improve_fezzan_opinion_desc: "Kmene Fezzanu byly ohromeny tím, že náš projekt byl realizován na jejich území. Jsou překvapeni, že vláda je ochotna investovat do nich tolik." # todo: NEW TRANSLATION
   sp_libya_reward_reduce_fezzan_opinion: "Fezzané Nespokojení S Projektem" # todo: NEW TRANSLATION
   sp_libya_reward_reduce_fezzan_opinion_desc: "Kmene Fezzanu uspořádaly protest proti našemu současnému projektu na jejich území. Tvrdí, že vláda nemá právo používat jejich půdu pro zbytečné stavební projekty." # todo: NEW TRANSLATION
+  LBA_libyas_future_shortcut: "Budoucnost Libye" # todo: NEW TRANSLATION
+  LBA_rise_of_extremism_shortcut: "Vzestup extremismu" # todo: NEW TRANSLATION
+  LBA_dealing_with_sanctions_shortcut: "Řešení sankcí" # todo: NEW TRANSLATION
+  LBA_african_union_shortcut: "Africká unie" # todo: NEW TRANSLATION
+  LBA_military_reform_shortuct: "Vojenská reforma" # todo: NEW TRANSLATION
+  LBA_foreign_policy_shortcut: "Zahraniční vztahy" # todo: NEW TRANSLATION
+  LBA_economic_policy_shortcut: "Ekonomická reforma" # todo: NEW TRANSLATION
+  LBA_post_gaddafi_shortcut: "Politika po Gaddáfím" # todo: NEW TRANSLATION

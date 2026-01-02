@@ -1255,6 +1255,11 @@
   PER_arash_radar_desc: "Abychom ochránili národ před vnějšími hrozbami, nasadíme pokročilé radarové systémy. Arash Radar poskytne včasné varování před cizí invazí a zlepší naši schopnost rychle a rozhodně reagovat." # todo: NEW TRANSLATION
   PER_redirect_money_from_proxies: "Přesměrovat peníze od bývalých zástupců" # todo: NEW TRANSLATION
   PER_redirect_money_from_proxies_desc: "Dlouho jsme financovali proxy války v jiných zemích. Nyní tyto prostředky přesměrujeme zpět do naší vojenské infrastruktury, aby každý rial sloužil posílení dominance Artesh v Íránu." # todo: NEW TRANSLATION
+  SAZ_independence_war: "Válka za nezávislost" # todo: NEW TRANSLATION
+  SAZ_independence_war_desc: "Desítky let persocentrické politiky posunuly náš čestný lid na pokraj vyhynutí. Je čas chopit se zbraní a konečně si vybojovat dlouho zaslouženou nezávislost, silou pokud bude třeba." # todo: NEW TRANSLATION
+  PER_western_satan: "Západní ďáblové" # todo: NEW TRANSLATION
+  PER_eastern_satan: "Východní ďáblové" # todo: NEW TRANSLATION
+  PER_nextdoor_satan: "Sousedští ďáblové" # todo: NEW TRANSLATION
   PER_irgc_black_market_exploits: "Využití černého trhu IRGC" # todo: NEW TRANSLATION
   PER_basij_protest_mobilization: "Basidž - mobilizován" # todo: NEW TRANSLATION
   PER_basij_protest_mobilization_desc: "Basidž byl mobilizován k potlačení jakékoli rostoucí nespokojenosti." # todo: NEW TRANSLATION
@@ -3188,3 +3193,1110 @@
   PER_ir_basij_var: "Procento horlivosti Basidžů" # todo: NEW TRANSLATION
   PER_ir_basij_var_desc: "Toto číslo ukazuje množství horlivosti, které Basidži momentálně mají." # todo: NEW TRANSLATION
   PER_develop_pumped_hydro_TT: "Přidá §G100 GWh§! skladování energie za každé GW §Hvodní energie generované§! z §HDaryan přehrady§!." # todo: NEW TRANSLATION
+  PER_Iranian_prime_ministers_elections: "Volba íránského předsedy vlády" # todo: NEW TRANSLATION
+  PER_Iranian_prime_ministers_elections_desc: "Funkce předsedy vlády musí být obsazena, a naštěstí můžeme vybrat, komu ji svěřit. Ačkoli ji můžeme svěřit prakticky komukoli způsobilému, je nejlepší vybrat někoho, kdo se shoduje s naší vládou a Majlesem, jinak bychom mohli mít nějaké problémy." # todo: NEW TRANSLATION
+  PER_appoint_seyed_hasan_amin: "Jmenovat Seyeda Hassana Amína" # todo: NEW TRANSLATION
+  PER_seyed_gets_appointed: "§HSeyed Hassan Amin§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_hashem_sabbaghian: "Jmenovat Hashema Sabbaghiana" # todo: NEW TRANSLATION
+  PER_sabbaghian_gets_appointed: "§HHashem Sabbaghian§! z §HConservatives§! £generic_conservatism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_hedayatollah_matin_daftari: "Jmenovat Hedayatolláha Matina Daftariho" # todo: NEW TRANSLATION
+  PER_daftari_gets_appointed: "§HHedayatollah Matin Daftari§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_mohammad_tavasoli: "Jmenovat Mohammada Tavasoliho" # todo: NEW TRANSLATION
+  PER_tavasoli_gets_appointed: "§HMohammad Tavasoli§! z §HConservatives§! £generic_conservatism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_mostafa_moein: "Jmenovat Mostafu Moeina" # todo: NEW TRANSLATION
+  PER_moein_gets_appointed: "§HMostafa Moein§! z §HConservatives§! £generic_conservatism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_mostafa_tajzade: "Jmenovat Mostafu Tajzadeho" # todo: NEW TRANSLATION
+  PER_tajzade_gets_appointed: "§HMostafa Tazjade§! z §HConservatives§! £generic_conservatism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_saeed_laylaz: "Jmenovat Saeeda Laylaze" # todo: NEW TRANSLATION
+  PER_laylaz_gets_appointed: "§HSaeed Laylaz§! z §HConservatives§! £generic_conservatism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_ali_khavari: "Jmenovat Aliho Khavariho" # todo: NEW TRANSLATION
+  PER_khavari_gets_appointed: "§HAli Khavari§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_hashem_aghajari: "Jmenovat Hashema Aghajariho" # todo: NEW TRANSLATION
+  PER_aghajari_gets_appointed: "§HHashem Aghajari§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_mohammad_omidvar: "Jmenovat Mohammada Omidvara" # todo: NEW TRANSLATION
+  PER_omidvar_gets_appointed: "§HMohammad Omidvar§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_mohsen_makhmalbaf: "Jmenovat Mohsena Makhmalbafa" # todo: NEW TRANSLATION
+  PER_makhmalbaf_gets_appointed: "§HMohsen Makhmalbaf§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_navid_shomali: "Jmenovat Navida Shomaliho" # todo: NEW TRANSLATION
+  PER_shomali_gets_appointed: "§HNavid Shomali§! z §pLeftists§! £generic_neutral_Social_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_abdolali_bazargan: "Jmenovat Abdolaliho Bazargana" # todo: NEW TRANSLATION
+  PER_bazargan_gets_appointed: "§HAbdolali Bazargan§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_amir_etemadi: "Jmenovat Amira Etemadiho" # todo: NEW TRANSLATION
+  PER_etemadi_gets_appointed: "§HAmir Etemadi§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_esmail_nooriala: "Jmenovat Esmaila Nooriala" # todo: NEW TRANSLATION
+  PER_nooriala_gets_appointed: "§HEsmail Nooriala§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_hassan_shariatmadari: "Jmenovat Hassana Shariatmadariho" # todo: NEW TRANSLATION
+  PER_shariatmadari_gets_appointed: "§HHassan Shariatmadari§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_kazem_mousavi: "Jmenovat Kazema Mousaviho" # todo: NEW TRANSLATION
+  PER_mousavi_gets_appointed: "§HKazem Mousavi§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_roozbeh_farahinpour: "Jmenovat Roozbeha Farahanipoura" # todo: NEW TRANSLATION
+  PER_farahanipour_gets_appointed: "§HRoozbeh Farahanipour§! z §YLiberals§! £generic_liberalism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_abulqasem_porhashmi: "Jmenovat Abolqasema Porhashmiho" # todo: NEW TRANSLATION
+  PER_porhashmi_gets_appointed: "§HAbolqasem Porhashmi§! z §ONationalists§! £generic_Nat_Populism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_alireza_kiani: "Jmenovat Alirezu Kianiho" # todo: NEW TRANSLATION
+  PER_kiani_gets_appointed: "§HAlireza Kiani§! z §ONationalists§! £generic_Nat_Populism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_hamed_sheibanyard: "Jmenovat Taghi Rahmaniho" # todo: NEW TRANSLATION
+  PER_sheibanyard_gets_appointed: "§HTaghi Rahmani§! z §ONationalists§! £generic_Nat_Populism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_appoint_reza_pirzadeh: "Jmenovat Aredshira Zahediho" # todo: NEW TRANSLATION
+  PER_pirzadeh_gets_appointed: "§HAredshir Zahedi§! z §ONationalists§! £generic_Nat_Populism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_amouzegar_gets_appointed: "§HJamshed Amouzegar§! z §ONationalists§! £generic_Nat_Populism_small bude §Hpředsedou vlády§! [PER.GetName] [PER.GetFlag]" # todo: NEW TRANSLATION
+  PER_davoud_minister_name: "Davoud Hermidas-Bavand" # todo: NEW TRANSLATION
+  PER_seyed_hassan_minister_name: "Seyed Hassan Amin" # todo: NEW TRANSLATION
+  PER_hashem_sabbaghian_minister_name: "Hashem Sabbaghian" # todo: NEW TRANSLATION
+  PER_hedayatollah_matin_minister_name: "Hedayatollah Matin" # todo: NEW TRANSLATION
+  PER_mohammad_tavasoli_minister_name: "Mohammad Tavasoli" # todo: NEW TRANSLATION
+  PER_mostafa_moein_minister_name: "Mostafa Moein" # todo: NEW TRANSLATION
+  PER_mostafa_tajzade_minister_name: "Mostafa Tajzade" # todo: NEW TRANSLATION
+  PER_saeed_laylaz_minister_name: "Saeed Laylaz" # todo: NEW TRANSLATION
+  PER_ali_khavari_minister_name: "Ali Khavari" # todo: NEW TRANSLATION
+  PER_hashem_aghajari_minister_name: "Hashem Aghajari" # todo: NEW TRANSLATION
+  PER_mohammad_omidvar_minister_name: "Mohammad Omidvar" # todo: NEW TRANSLATION
+  PER_mohsen_makhmalbaf_minister_name: "Mohsen Makhmalbaf" # todo: NEW TRANSLATION
+  PER_navid_shomali_minister_name: "Navid Shomali" # todo: NEW TRANSLATION
+  PER_abdolali_bazargan_minister_name: "Abdolali Bazargan" # todo: NEW TRANSLATION
+  PER_amir_etemadi_minister_name: "Amir Etemadi" # todo: NEW TRANSLATION
+  PER_esmail_nooriala_minister_name: "Esmail Nooriala" # todo: NEW TRANSLATION
+  PER_hassan_shariatmadari_minister_name: "Hassan Shariatmadari" # todo: NEW TRANSLATION
+  PER_kazem_mousavi_minister_name: "Kazem Mousavi" # todo: NEW TRANSLATION
+  PER_roozbeh_farahinpour_minister_name: "Roozbeh Farahanipour" # todo: NEW TRANSLATION
+  PER_abulqasem_porhashmi_minister_name: "Abolqasem Porhashmi" # todo: NEW TRANSLATION
+  PER_alireza_kiani_minister_name: "Alireza Kiani" # todo: NEW TRANSLATION
+  PER_farhad_baghnani_minister_name: "Farhad Baghbani" # todo: NEW TRANSLATION
+  PER_foad_pashei_minister_name: "Jamshid Amouzegar" # todo: NEW TRANSLATION
+  PER_hamed_sheibanyard_minister_name: "Taghi Rahmani" # todo: NEW TRANSLATION
+  PER_reza_pirzadeh_minister_name: "Ardeshir Zahedi" # todo: NEW TRANSLATION
+  PER_abolish_president_and_majles_TT: "- §RÚřad Majles a prezidentský úřad budou zrušeny, volby již nebudou konány§!" # todo: NEW TRANSLATION
+  PER_lift_fatwa_TT: "§RFatwa bude zrušena§!" # todo: NEW TRANSLATION
+  PER_prohibit_nuclear_TT: "Nebudeme §Rmoci§! změnit naši §HNukleární doktrínu§!\n\n£decision_icon_small §YOdemkne§! Zrušení Fatwy §YRozhodnutí§! v kategorii íránských vnitřních záležitostí" # todo: NEW TRANSLATION
+  PER_principalist_domination_TT: "£decision_icon_small §YOdemkne§! Domination tvrdé linie §YRozhodnutí§! v kategorii íránských vnitřních záležitostí\n- §RPři splnění požadavků budeme moci zrušit úřad prezidenta a Majles§!" # todo: NEW TRANSLATION
+  PER_saberin_TT: "§HTeherán§!: Mobilizuje jednotku §HSaberin§!" # todo: NEW TRANSLATION
+  PER_lor_units_TT: "§HLorestan§!: Mobilizuje §H4 Lor odbojové jednotky§!" # todo: NEW TRANSLATION
+  PER_if_lorestan_occupied_TT: "Pokud je §HLorestan§! obsazen:\n£decision_icon_small §YOdemkne§! Rozhodnutí §YLor Resistance§!\n§RBudeme moci mobilizovat lorovské jednotky v Lorestanu, pokud bude během války někdy obsazen§!" # todo: NEW TRANSLATION
+  PER_zagros_TT: "§HFars, Lorestan, Ilam, Kermanshah, Hamedan, & Kordestan§!:" # todo: NEW TRANSLATION
+  PER_samadi_is_promoted_TT: "§HHoushang Samadi§! bude povýšen na §Hgenerála§!" # todo: NEW TRANSLATION
+  PER_marines_TT: "§HChuzestán§! & §HBušehr§!: Nasazuje §H2§! jednotky námořní pěchoty Artesh" # todo: NEW TRANSLATION
+  PER_likely_backout_TT: "§RMohou mít větší sklony odstoupit z dohody dříve, pokud zvolíme tuto možnost§!" # todo: NEW TRANSLATION
+  PER_extra_year_TT: "§HSmlouva je prodloužena o další rok§!" # todo: NEW TRANSLATION
+  PER_shortened_year_TT: "§HSmlouva je zkrácena o 2 roky§!" # todo: NEW TRANSLATION
+  PER_chance_of_corruption_TT: "§H15%§! šance, že se naše §Rkorupce§! zvýší o §R+1§!" # todo: NEW TRANSLATION
+  PER_chance_of_corruption2_TT: "Kvůli vlastnosti §HCorruptible§!:\nExistuje §H30%§! šance, že se naše §Rkorupce§! zvýší o §R+1§!" # todo: NEW TRANSLATION
+  PER_milad_tower_TT: "Dokončí výstavbu §HTorenu Milad§! v §HTeheránu§!\n\n§HToren Milad§! bude viditelný na mapě" # todo: NEW TRANSLATION
+  PER_research_shahed_136_TT: "Přidat technologii: §YShahed-136 sebevražedný dron§!" # todo: NEW TRANSLATION
+  PER_syria_iran_focuses_TT: "[SYR.GetFlag] [SYR.GetNameDefCap] bude s větší pravděpodobností volit pros [PER.GetFlag] [PER.GetAdjective] směry" # todo: NEW TRANSLATION
+  IRQ_has_shia_civil_war: "[IRQ.GetFlag] [IRQ.GetNameDefCap] nemá vnitřní konflikt s šíitskou frakcí" # todo: NEW TRANSLATION
+  PER_change_party_name_TT: "Zformujeme §H(NRP) Národní odolnostní stranu§!" # todo: NEW TRANSLATION
+  PER_can_negotiate_again_TT: "Můžeme znovu zahájit jednání" # todo: NEW TRANSLATION
+  PER_no_more_nukes_TT: "§HVyprázdníme§! naše zásoby §HICBMů§!\n\n§RNikdy nebudeme moci použít jaderné zbraně, pokud po tomto bodě souhlasíme!§!" # todo: NEW TRANSLATION
+  PER_nuclear_negotiations_TT: "Měli bychom mít alespoň §H+5 vztahů§! se \n§H[USA.GetFlag] Spojenými státy§!, abychom získali příznivou odpověď!\n - Pokud má [USA.GetFlag] §HSpojené státy§! §Hrepublikánského prezidenta§!, můžeme obdržet méně příznivou odpověď" # todo: NEW TRANSLATION
+  PER_steal_russ_TT: "Umožňuje misi §YUkrást ruské ICBM§!.\n(Vyžaduje §YInfiltraci armády§!)" # todo: NEW TRANSLATION
+  PER_missile_nko_TT: "Írán vylepší svou technologii §HICBM§!" # todo: NEW TRANSLATION
+  PER_missile_sov_TT: "Írán vylepší technologii §HJaderného reaktoru§!" # todo: NEW TRANSLATION
+  PER_basiji_decisions_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YBasiji Fervor§!" # todo: NEW TRANSLATION
+  PER_whispers_of_power_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YJaderné ambice§!" # todo: NEW TRANSLATION
+  PER_iraq_reparations_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YOdszkodnění za válku Írán-Irák§!" # todo: NEW TRANSLATION
+  PER_add_FMI_TT: "Přidává £PER_neutral_Social (FMI) Hnutí za svobodu Íránu do naší vládnoucí koalice" # todo: NEW TRANSLATION
+  PER_axis_decisions_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YOsa odolnosti§!" # todo: NEW TRANSLATION
+  PER_bonyad_resources_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YZdroj národa§!" # todo: NEW TRANSLATION
+  PER_endorsement_TT: "£decision_icon_small §YOdemkne§! Rozhodnutí §YPodpořit kandidáta§!\nPoznámka: Toto se objeví v menu prezidentských voleb, když bude aktivní" # todo: NEW TRANSLATION
+  PER_doing_decision_x: "Jiné rozhodnutí je aktivní" # todo: NEW TRANSLATION
+  PER_doing_decision_y: "Jiné rozhodnutí je aktivní" # todo: NEW TRANSLATION
+  PER_doing_decision_z: "Jiné rozhodnutí je aktivní" # todo: NEW TRANSLATION
+  PER_need_productivity_750_TT: "Produktivita je alespoň §H750.00§! (aktuálně: §H[?PER.overall_productivity]§!)" # todo: NEW TRANSLATION
+  PER_willingness_to_accept_TT: "S větší §Hpravděpodobností§! §Hakceptují§! pokud:\n- Máme více než §H20 vztahů§!" # todo: NEW TRANSLATION
+  PER_willingness_to_accept2_TT: "S větší §Hpravděpodobností§! §Hakceptují§! pokud:\n- Máme více než §H40 vztahů§!\n- Jsme stejné §HIdeologie§!" # todo: NEW TRANSLATION
+  PER_willingness_to_accept_strong_TT: "Jejich §Htouha§! přijmout je ve výchozím stavu §Hsílná§!" # todo: NEW TRANSLATION
+  PER_willingness_to_accept_medium_TT: "Jejich §Htouha§! přijmout je ve výchozím stavu §Hstřední§!" # todo: NEW TRANSLATION
+  PER_willingness_to_accept_low_TT: "Jejich §Htouha§! přijmout je ve výchozím stavu §Hnízká§!" # todo: NEW TRANSLATION
+  PER_effect_if_they_accept_TT: "§HEfekt pokud přijmou:§!" # todo: NEW TRANSLATION
+  PER_effect_if_we_accept_TT: "§HEfekt pokud my přijmeme:§!" # todo: NEW TRANSLATION
+  PER_oil_shale_TT: "[JOR.GetFlag] §HJordánsko§! obdrží £oil_texticon §H12 ropy§! v §HAmmanu§!\nTuto £oil_texticon ropu budeme kontrolovat 10 let, a po vypršení smlouvy získá kontrolu Jordánsko." # todo: NEW TRANSLATION
+  PER_shia_clergy_bonus_TT: "Měsíční názor šíitského duchovenstva pokud je oblíbenost vlády nad 60%: §G+1.00§!" # todo: NEW TRANSLATION
+  PER_iran_behave_TT: "[USA.GetFlag] §HSpojené státy§! pravděpodobně §Zuvedou§! hospodářské sankce" # todo: NEW TRANSLATION
+  PER_IRGC_special_forces_cap_tt: "Mění §Y£specops_max_texticon Kapacita zvláštních sil§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_special_forces_cap_change|+%] (aktuálně: [?PER_IRGC_special_forces_cap|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_production_speed_rocket_site_factor_tt: "Mění §Y£construction_speed_texticon §Y$rocket_site$§! Rychlost výstavby§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_production_speed_rocket_site_factor_change|+%] (aktuálně: [?PER_IRGC_production_speed_rocket_site_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_air_accidents_factor_tt: "Mění §Y£air_accidents_texticon Šanci leteckých nehod§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_air_accidents_factor_change|-%] (aktuálně: [?PER_IRGC_air_accidents_factor|-%])" # todo: NEW TRANSLATION
+  PER_IRGC_air_escort_efficiency_tt: "Mění §Y£air_escort_efficiency_texticon Efektivitu doprovodu§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_air_escort_efficiency_change|+%] (aktuálně: [?PER_IRGC_air_escort_efficiency|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_air_superiority_bonus_in_combat_tt: "Mění §Y£air_superiority_texticon Bonus vzdušné nadvlády v boji§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_air_superiority_bonus_in_combat_change|+%] (aktuálně: [?PER_IRGC_air_superiority_bonus_in_combat|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_recon_factor_tt: "Mění §Y£recon_texticon Bonus průzkumu při zákopu§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_recon_factor_change|+%] (aktuálně: [?PER_IRGC_recon_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_dig_in_speed_factor_tt: "Mění §Y£dig_in_speed_texticon Rychlost zákopu§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_dig_in_speed_factor_change|+%] (aktuálně: [?PER_IRGC_dig_in_speed_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_breakthrough_factor_tt: "Mění §Y£attack_texticon Faktor průlomu§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_breakthrough_factor_change|+%] (aktuálně: [?PER_IRGC_breakthrough_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_special_forces_training_time_factor_tt: "Mění §Y£specops_training_speed_texticon Doba výcviku zvláštních sil§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_special_forces_training_time_factor_change|-%] (aktuálně: [?PER_IRGC_special_forces_training_time_factor|-%])" # todo: NEW TRANSLATION
+  PER_IRGC_special_forces_out_of_supply_factor_tt: "Mění §Y£out_of_supply_texticon Ztráty z nedostatku zásob u zvláštních sil§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_special_forces_out_of_supply_factor_change|-%] (aktuálně: [?PER_IRGC_special_forces_out_of_supply_factor|-%])" # todo: NEW TRANSLATION
+  PER_IRGC_navy_max_range_factor_tt: "Mění §Y£navy_anchor_texticon Maximální dosah námořnictva§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_navy_max_range_factor_change|+%] (aktuálně: [?PER_IRGC_navy_max_range_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_convoy_escort_efficiency_tt: "Mění §Y£convoy_escort_texticon Efektivitu eskorty§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_convoy_escort_efficiency_change|+%] (aktuálně: [?PER_IRGC_convoy_escort_efficiency|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_navy_carrier_air_targetting_factor_tt: "Mění §Y£naval_strike_targetting_texticon Námořní cílení z letadlových lodí§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_navy_carrier_air_targetting_factor_change|+%] (aktuálně: [?PER_IRGC_navy_carrier_air_targetting_factor|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_convoy_retreat_speed_tt: "Mění §Y£retreat_texticon Rychlost konvoje při ústupu§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_convoy_retreat_speed_change|+%] (aktuálně: [?PER_IRGC_convoy_retreat_speed|+%])" # todo: NEW TRANSLATION
+  PER_IRGC_invasion_preparation_tt: "Mění §Y£naval_invasion_time_texticon Doba přípravy invaze§! pro §HIslámský sbor revolučních gard§! o [?PER_IRGC_invasion_preparation_change|-%] (aktuálně: [?PER_IRGC_invasion_preparation|-%])" # todo: NEW TRANSLATION
+  PER_sanction_trade_opinion_factor_tt: "Mění §Y£trade_deal_opinion_texticon Faktor názoru na obchodní dohodu§! pro §HEkonomické sankce§! o [?PER_sanction_trade_opinion_factor_change|+%] (aktuálně: [?PER_sanction_trade_opinion_factor|+%])" # todo: NEW TRANSLATION
+  PER_sanction_oil_export_multiplier_modifier_tt: "Mění £resource_export_multiplier_modifier_texticon §YPříjmy z vývozu fosilních paliv§! o [?PER_sanction_oil_export_multiplier_modifier_change|+%] (Aktuálně: [?PER_sanction_oil_export_multiplier_modifier|+%])" # todo: NEW TRANSLATION
+  PER_sanction_trade_laws_cost_factor_tt: "Mění £trade_laws_cost_texticon §HNáklady obchodních zákonů§! pro §HEkonomické sankce§! o [?PER_sanction_trade_laws_cost_factor_change|-%] (Aktuálně: [?PER_sanction_trade_laws_cost_factor|-%])" # todo: NEW TRANSLATION
+  PER_sanction_improve_relations_maintain_cost_factor_tt: "Mění §Y£improve_relations_cost_texticon Náklady na udržení zlepšení vztahů§! pro §HEkonomické sankce§! o [?PER_sanction_improve_relations_maintain_cost_factor_change|-%] (Aktuálně: [?PER_sanction_improve_relations_maintain_cost_factor|-%])" # todo: NEW TRANSLATION
+  PER_sanction_productivity_growth_modifier_tt: "Mění §YMěsíční růst produktivity§! pro §HEkonomické sankce§! o [?PER_sanction_productivity_growth_modifier_change|+] (Aktuálně: [?PER_sanction_productivity_growth_modifier|+])" # todo: NEW TRANSLATION
+  PER_sanction_stability_factor_tt: "Mění §YStabilitu§! pro §HEkonomické sankce§! o [?PER_sanction_stability_factor_change|+%] (Aktuálně: [?PER_sanction_stability_factor|+%])" # todo: NEW TRANSLATION
+  PER_corruption_cost_tt: "Mění §Y£corruption_cost_factor_texticon Politické náklady na změnu korupce§! pro §H$PER_political_modifier$§! o [?PER_corruption_cost_change|-%] (Aktuálně: [?PER_corruption_cost|-%])" # todo: NEW TRANSLATION
+  PER_centralization_cost_tt: "Mění §Y£bureaucracy_cost_multiplier_modifier_texticon Násobitel nákladů byrokracie§! pro §H$PER_economy_modifier$§! o [?PER_centralization_cost_change|-%] (Aktuálně: [?PER_centralization_cost|-%])" # todo: NEW TRANSLATION
+  PER_productivity_cost_tt: "Mění §YMěsíční růst produktivity§! pro §H$PER_political_modifier$§! o [?PER_productivity_cost_change|+] (Aktuálně: [?PER_productivity_growth|+])" # todo: NEW TRANSLATION
+  PER_corporate_tax_cost_tt: "Mění §Y£corporate_tax_income_multiplier_modifier_texticon Násobitel příjmů z korporační daně§! pro §H$PER_economy_modifier$§! o [?PER_corporate_tax_cost_change|+%] (Aktuálně: [?PER_corporate_tax_factor|+%])" # todo: NEW TRANSLATION
+  PER_healthcare_cost_tt: "Mění §Y£health_cost_multiplier_modifier_texticon Násobitel nákladů na zdravotnictví§! pro §H$PER_economy_modifier$§! o [?PER_health_cost_change|-%] (Aktuálně: [?PER_health_cost|-%])" # todo: NEW TRANSLATION
+  PER_welfare_cost_tt: "Mění £social_cost_multiplier_modifier_texticon §YNásobitel nákladů na sociální výdaje§! pro §H$PER_economy_modifier$§! o [?PER_welfare_cost_change|-%] (Aktuálně: [?PER_welfare_cost|-%])" # todo: NEW TRANSLATION
+  PER_political_power_factor_tt: "Mění £political_power_texticon §HZisk politické moci§! pro §H$PER_political_modifier$§! o [?PER_political_power_factor_change|+%] (Aktuálně: [?PER_political_power_factor|+%])" # todo: NEW TRANSLATION
+  PER_industrial_capacity_factory_tt: "Mění £factory_output_texticon §HVýstup továren§! pro §H$PER_economy_modifier$§! o [?PER_industrial_capacity_factory_change|+%] (Aktuálně: [?PER_industrial_capacity_factory|+%])" # todo: NEW TRANSLATION
+  PER_offices_productivity_tt: "Mění §HVýkonnost sektoru kanceláří§! pro §H$PER_economy_modifier$§! o [?PER_offices_productivity_change|+%] (Aktuálně: [?PER_offices_productivity|+%])" # todo: NEW TRANSLATION
+  PER_civilian_factories_productivity_tt: "Mění §HVýkonnost civilních továren§! pro §H$PER_economy_modifier$§! o [?PER_civilian_factories_productivity_change|+%] (Aktuálně: [?PER_civilian_factories_productivity|+%])" # todo: NEW TRANSLATION
+  PER_production_speed_buildings_factor_tt: "Mění §H£construction_speed_texticon Rychlost výstavby§! pro §H$PER_economy_modifier$§! o [?PER_production_speed_buildings_factor_change|+%] (Aktuálně: [?PER_production_speed_buildings_factor|+%])" # todo: NEW TRANSLATION
+  PER_propaganda_campaign_cost_modifier_tt: "Mění £propaganda_campaign_cost_modifier_texticon §YNásobitel nákladů na propagandistickou kampaň§! pro §H$PER_political_modifier$§! o [?PER_propaganda_campaign_cost_modifier_change|-%] (Aktuálně: [?PER_propaganda_campaign_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_agriculture_district_income_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §Y$agriculture_district$§! Násobitel daňových příjmů pro §H$PER_economy_modifier$§! o [?PER_agriculture_district_income_tax_modifier_change|+%] (Aktuálně: [?PER_agriculture_district_income_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_gdp_from_resource_sector_modifier_tt: "Mění §HVýkonnost HDP z odvětví surovin§! pro §H$PER_economy_modifier$§! o [?PER_gdp_from_resource_sector_modifier_change|+%] (Aktuálně: [?PER_gdp_from_resource_sector_modifier|+%])" # todo: NEW TRANSLATION
+  PER_expected_welfare_modifier_tt: "Mění §YOčekávané výdaje na sociální zabezpečení§! pro §H$PER_political_modifier$§! o [?PER_expected_welfare_modifier_change|-] (Aktuálně: [?PER_expected_welfare_modifier|-])" # todo: NEW TRANSLATION
+  PER_population_tax_income_multiplier_modifier_tt: "Mění £population_tax_income_multiplier_texticon §YNásobitel příjmů z daně na obyvatele§! pro §H$PER_economy_modifier$§! o [?PER_population_tax_income_multiplier_modifier_change|+%] (Aktuálně: [?PER_population_tax_income_multiplier_modifier|+%])" # todo: NEW TRANSLATION
+  PER_communism_drift_tt: "Mění §Y£emerging_outlook_campaign_cost_modifier_texticon Denní podporu pro vznikající názory§! pro §H$PER_political_modifier$§! o [?PER_communism_drift_change|+] (Aktuálně: [?PER_communism_drift|+])" # todo: NEW TRANSLATION
+  PER_neutrality_drift_tt: "Mění §Y£nonaligned_outlook_campaign_cost_modifier_texticon Denní podporu nestranných§! pro §H$PER_political_modifier$§! o [?PER_neutrality_drift_change|+] (Aktuálně: [?PER_neutrality_drift|+])" # todo: NEW TRANSLATION
+  PER_democratic_drift_tt: "Mění §Y£western_outlook_campaign_cost_modifier_texticon Denní podporu prozápadní§! pro §H$PER_political_modifier$§! o [?PER_democratic_drift_change|+] (Aktuálně: [?PER_democratic_drift|+])" # todo: NEW TRANSLATION
+  PER_recruitable_population_tt: "Mění §Y£manpower_texticon  Dodatečnou náborovou populaci§! pro §H$PER_political_modifier$§! o [?PER_recruitable_population_change|+%]§G§! (Aktuálně: [?PER_recruitable_population|+])" # todo: NEW TRANSLATION
+  PER_global_building_slots_factor_tt: "Mění §H£civ_factory  Maximální počet továren ve státě§! pro §H$PER_economy_modifier$§! o [?PER_global_building_slots_factor_change|+%] (Aktuálně: [?PER_global_building_slots_factor|+%])" # todo: NEW TRANSLATION
+  PER_monthly_population_tt: "Mění §H£population_texticon  Měsíční populační přírůstek§! pro §H$PER_political_modifier$§! o [?PER_monthly_population_change|+%] (Aktuálně: [?PER_monthly_population|+%])" # todo: NEW TRANSLATION
+  PER_tax_gain_multiplier_modifier_tt: "Mění £tax_gain_multiplier_modifier_texticon §YNásobitel daňových příjmů§! pro §H$PER_economy_modifier$§! o [?PER_tax_gain_multiplier_modifier_change|+%] (Aktuálně: [?PER_tax_gain_multiplier_modifier|+%])" # todo: NEW TRANSLATION
+  PER_interest_rate_multiplier_modifier_tt: "Mění £interest_rate_multiplier_modifier_texticon §YÚrokovou sazbu§! pro §H$PER_economy_modifier$§! o [?PER_interest_rate_multiplier_modifier_change|-] (Aktuálně: [?PER_interest_rate_multiplier_modifier|-])" # todo: NEW TRANSLATION
+  PER_civilian_industry_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §Y$industrial_complex$§! Násobitel daňových příjmů pro §H$PER_economy_modifier$§! o [?PER_civilian_industry_tax_modifier_change|+%] (Aktuálně: [?PER_civilian_industry_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_production_factory_efficiency_gain_factor_tt: "Mění §Y£efficiency_growth_texticon  Růst efektivity výroby§! pro §H$PER_economy_modifier$§! o [?PER_production_factory_efficiency_gain_factor_change|+%] (Aktuálně: [?PER_production_factory_efficiency_gain_factor|+%])" # todo: NEW TRANSLATION
+  PER_dockyard_income_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §HDokovna§! Daňové příjmy pro §H$PER_economy_modifier$§! o [?PER_dockyard_income_tax_modifier_change|+%] (Aktuálně: [?PER_dockyard_income_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_industrial_capacity_dockyard_tt: "Mění £dockyard_output_texticon §HVýstup dokoven§! pro §H$PER_economy_modifier$§! o [?PER_industrial_capacity_dockyard_change|+%] (Aktuálně: [?PER_industrial_capacity_dockyard|+%])" # todo: NEW TRANSLATION
+  PER_production_speed_dockyard_factor_tt: "Mění £construction_speed_texticon §Y$dockyard$§! Rychlost výstavby pro §H$PER_economy_modifier$§! o [?PER_production_speed_dockyard_factor_change|+%] (Aktuálně: [?PER_production_speed_dockyard_factor|+%])" # todo: NEW TRANSLATION
+  PER_police_cost_multiplier_modifier_tt: "Mění £police_cost_multiplier_modifier_texticon §YNásobitel nákladů policie§! pro §H$PER_political_modifier$§! o [?PER_police_cost_multiplier_modifier_change|-%] (Aktuálně: [?PER_police_cost_multiplier_modifier|-%])" # todo: NEW TRANSLATION
+  PER_drift_defence_factor_tt: "Mění §Y£drift_defence_texticon  Obranu proti posunu ideologie§! pro §H$PER_political_modifier$§! o [?PER_drift_defence_factor_change|+%] (Aktuálně: [?PER_drift_defence_factor|+%])" # todo: NEW TRANSLATION
+  PER_resistance_growth_tt: "Mění §Y£political_violence_gain_texticon  Rychlost růstu odporu§! pro §H$PER_political_modifier$§! o [?PER_resistance_growth_change|-%] (Aktuálně: [?PER_resistance_growth|-%])" # todo: NEW TRANSLATION
+  PER_education_cost_multiplier_modifier_tt: "Mění £education_cost_multiplier_modifier_texticon §YNásobitel nákladů na vzdělání§! pro §H$PER_economy_modifier$§! o [?PER_education_cost_multiplier_modifier_change|-%] (Aktuálně: [?PER_education_cost_multiplier_modifier|-%])" # todo: NEW TRANSLATION
+  PER_research_speed_factor_tt: "Mění §Y£research_speed_texticon  Rychlost výzkumu§! pro §H$PER_political_modifier$§! o [?PER_research_speed_factor_change|+%] (Aktuálně: [?PER_research_speed_factor|+%])" # todo: NEW TRANSLATION
+  PER_migration_rate_value_factor_tt: "Mění §YČistá migrační míra§! hodnotový faktor pro §H$PER_economy_modifier$§! o [?PER_migration_rate_value_factor_change|+%] (Aktuálně: [?PER_migration_rate_value_factor|+%])" # todo: NEW TRANSLATION
+  PER_production_factory_max_efficiency_factor_tt: "Mění §Y£prod_eff_cap  Maximální efektivitu výroby§! pro §H$PER_economy_modifier$§! o [?PER_production_factory_max_efficiency_factor_change|+%] (Aktuálně: [?PER_production_factory_max_efficiency_factor|+%])" # todo: NEW TRANSLATION
+  PER_foreign_influence_defense_modifier_tt: "Mění £foreign_influence_defense_modifier_texticon §YObrana proti cizím vlivům§! Násobitel pro §H$PER_political_modifier$§! o [?PER_foreign_influence_defense_modifier_change|+%] (Aktuálně: [?PER_foreign_influence_defense_modifier|+%])" # todo: NEW TRANSLATION
+  PER_oil_export_multiplier_modifier_tt: "Mění £resource_export_multiplier_modifier_texticon §YPříjmy z vývozu fosilních paliv§! Násobitel pro §H$PER_economy_modifier$§! o [?PER_oil_export_multiplier_modifier_change|+%] (Aktuálně: [?PER_oil_export_multiplier_modifier|+%])" # todo: NEW TRANSLATION
+  PER_base_fuel_gain_factor_tt: "Mění §Y£fuel_gain_refinery_texticon  Zisk paliva§! pro §H$PER_economy_modifier$§! o [?PER_base_fuel_gain_factor_change|+%] (Aktuálně: [?PER_base_fuel_gain_factor|+%])" # todo: NEW TRANSLATION
+  PER_max_fuel_factor_tt: "Mění §Y£fuel_texticon  Kapacitu paliva§! pro §H$PER_economy_modifier$§! o [?PER_max_fuel_factor_change|+%] (Aktuálně: [?PER_max_fuel_factor|+%])" # todo: NEW TRANSLATION
+  PER_intel_network_gain_factor_tt: "Mění §Y£spy_network_gain_texticon  Faktor nárůstu síly zpravodajské sítě§! pro §H$PER_political_modifier$§! o [?PER_intel_network_gain_factor_change|+%] (Aktuálně: [?PER_intel_network_gain_factor|+%])" # todo: NEW TRANSLATION
+  PER_production_speed_infrastructure_factor_tt: "Mění £construction_speed_texticon §Y$infrastructure$§! Rychlost výstavby pro §H$PER_economy_modifier$§! o [?PER_production_speed_infrastructure_factor_change|+%] (Aktuálně: [?PER_production_speed_infrastructure_factor|+%])" # todo: NEW TRANSLATION
+  PER_return_on_investment_modifier_tt: "Mění £return_on_investment_modifier_texticon §YNávratnost investic§! pro §H$PER_economy_modifier$§! o [?PER_return_on_investment_modifier_change|+%] (Aktuálně: [?PER_return_on_investment_modifier|+%])" # todo: NEW TRANSLATION
+  PER_projects_cost_modifier_tt: "Mění £projects_cost_modifier_texticon §YNásobitel nákladů projektů§! pro §H$PER_economy_modifier$§! o [?PER_projects_cost_modifier_change|-%] (Aktuálně: [?PER_projects_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_internal_investments_money_cost_modifier_tt: "Mění §YVnitřní investice§! Měnový modifikátor nákladů pro §H$PER_economy_modifier$§! o [?PER_internal_investments_money_cost_modifier_change|-%] (Aktuálně: [?PER_internal_investments_money_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_fossil_pp_fuel_consumption_modifier_tt: "Mění §Y$fossil_powerplant$§! Spotřebu paliva pro §H$PER_economy_modifier$§! o [?PER_fossil_pp_fuel_consumption_modifier_change|-%] (Aktuálně: [?PER_fossil_pp_fuel_consumption_modifier|-%])" # todo: NEW TRANSLATION
+  PER_energy_use_multiplier_tt: "Mění §YSpotřebu všech zdrojů energie§! Násobitel pro §H$PER_economy_modifier$§! o [?PER_energy_use_multiplier_change|-%] (Aktuálně: [?PER_energy_use_multiplier|-%])" # todo: NEW TRANSLATION
+  PER_production_oil_factor_tt: "Mění §Y£oil_texticon  Syntetický olej§! pro §H$PER_economy_modifier$§! o [?PER_production_oil_factor_change|+%] (Aktuálně: [?PER_production_oil_factor|+%])" # todo: NEW TRANSLATION
+  PER_license_production_speed_tt: "Mění §Y£production_licence_speed_texticon  Rychlost výroby licencí§! pro §H$PER_artesh_modifier$§! o [?PER_license_production_speed_change|+%] (Aktuálně: [?PER_license_production_speed|+%])" # todo: NEW TRANSLATION
+  PER_personnel_cost_multiplier_modifier_tt: "Mění §Y£personnel_cost_multiplier_modifier_texticon Násobitel vojenských mezd§! pro §H$PER_artesh_modifier$§! o [?PER_personnel_cost_multiplier_modifier_change|-%] (Aktuálně: [?PER_personnel_cost_multiplier_modifier|-%])" # todo: NEW TRANSLATION
+  PER_out_of_supply_factor_tt: "Mění §Y£out_of_supply_texticon  Sankce za nedostatek zásob mimo boj§! pro §H$PER_artesh_modifier$§! o [?PER_out_of_supply_factor_change|-%] (Aktuálně: [?PER_out_of_supply_factor|-%])" # todo: NEW TRANSLATION
+  PER_international_market_income_modifier_tt: "Mění £tax_gain_multiplier_texticon §YPříjmy z mezinárodního trhu§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_international_market_income_modifier_change|+%] (Aktuálně: [?PER_international_market_income_modifier|+%])" # todo: NEW TRANSLATION
+  PER_send_volunteer_size_tt: "Mění §Y£volunteers_max_texticon Maximální počet divizí intervenční síly§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_send_volunteer_size_change|+] (Aktuálně: [?PER_send_volunteer_size|+])" # todo: NEW TRANSLATION
+  PER_training_time_factor_tt: "Mění §Y£training_speed_texticon  Doba výcviku§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_training_time_factor_change|-%] (Aktuálně: [?PER_training_time_factor|-%])" # todo: NEW TRANSLATION
+  PER_experience_gain_army_tt: "Mění §Y£divisions_texticon  Zisk zkušeností armády§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_experience_gain_army_change|+%] (Aktuálně: [?PER_experience_gain_army|+%])" # todo: NEW TRANSLATION
+  PER_army_attack_factor_tt: "Mění §Y£attack_texticon  Útok divize§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_army_attack_factor_change|+%] (Aktuálně: [?PER_army_attack_factor|+%])" # todo: NEW TRANSLATION
+  PER_army_org_factor_tt: "Mění §Y£organization_texticon  Organizaci divize§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_army_org_factor_change|+%] (Aktuálně: [?PER_army_org_factor|+%])" # todo: NEW TRANSLATION
+  PER_naval_invasion_penalty_tt: "Mění §Y£naval_invasion_texticon  Sankce za námořní invazi§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_naval_invasion_penalty_change|-%] (Aktuálně: [?PER_naval_invasion_penalty|-%])" # todo: NEW TRANSLATION
+  PER_production_speed_arms_factory_factor_tt: "Mění £construction_speed_texticon §Y$arms_factory$§! Rychlost výstavby pro §H$PER_artesh_modifier$§! o [?PER_production_speed_arms_factory_factor_change|+%] (Aktuálně: [?PER_production_speed_arms_factory_factor|+%])" # todo: NEW TRANSLATION
+  PER_production_lack_of_resource_penalty_factor_tt: "Mění §Y£sabotaged_resource_texticon  Sankce za nedostatek zdrojů§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_production_lack_of_resource_penalty_factor_change|-%] (Aktuálně: [?PER_production_lack_of_resource_penalty_factor|-%])" # todo: NEW TRANSLATION
+  PER_military_industry_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §Y$arms_factory$§! Násobitel daňových příjmů pro §H$PER_artesh_modifier$§! o [?PER_military_industry_tax_modifier_change|+%] (Aktuálně: [?PER_military_industry_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_supply_consumption_factor_tt: "Mění §Y£supply_consumption_texticon  Spotřebu zásob§! pro §H$PER_artesh_modifier$§! o [?PER_supply_consumption_factor_change|-%] (Aktuálně: [?PER_supply_consumption_factor|-%])" # todo: NEW TRANSLATION
+  PER_experience_gain_air_tt: "Mění §Y£experience_neutral_combat_texticon  Zisk zkušeností v letectvu§! Modifikátor pro §H$PER_artesh_modifier$§! o [?PER_experience_gain_air_change|+%] (Aktuálně: [?PER_experience_gain_air|+%])" # todo: NEW TRANSLATION
+  PER_land_doctrine_cost_factor_tt: "Mění §Y£army_doctrine_cost_texticon  Náklady na pozemní doktrínu§! pro §H$PER_artesh_modifier$§! o [?PER_land_doctrine_cost_factor_change|-%] (Aktuálně: [?PER_land_doctrine_cost_factor|-%])" # todo: NEW TRANSLATION
+  PER_equipment_conversion_speed_tt: "Mění §Y£equipment_conversion_texticon  Rychlost konverze vybavení§! pro §H$PER_artesh_modifier$§! o [?PER_equipment_conversion_speed_change|+%] (Aktuálně: [?PER_equipment_conversion_speed|+%])" # todo: NEW TRANSLATION
+  PER_surrender_limit_tt: "Mění §Y£surrender_texticon  Limit kapitulace§! pro §H$PER_political_modifier$§! o [?PER_surrender_limit_change|+%] (Aktuálně: [?PER_surrender_limit|+%])" # todo: NEW TRANSLATION
+  PER_master_build_autonomy_factor_tt: "Mění §Y£autonomy_texticon  Autonomii subjektu z výstavby§! pro §H$PER_political_modifier$§! o [?PER_master_build_autonomy_factor_change|-%] (Aktuálně: [?PER_master_build_autonomy_factor|-%])" # todo: NEW TRANSLATION
+  PER_nuclear_energy_generation_modifier_tt: "Mění §Y£nuclear_reactor_texticon §Y$nuclear_reactor$§! Výrobu elektrické energie§! pro §H$PER_political_modifier$§! o [?PER_nuclear_energy_generation_modifier_change|+%] (Aktuálně: [?PER_nuclear_energy_generation_modifier|+%])" # todo: NEW TRANSLATION
+  PER_land_reinforce_rate_tt: "Mění §Y£reinforce_texticon  Rychlost posilování§! pro §H$PER_political_modifier$§! o [?PER_land_reinforce_rate_change|+%] (Aktuálně: [?PER_land_reinforce_rate|+%])" # todo: NEW TRANSLATION
+  PER_max_command_power_mult_tt: "Mění §Y£command_power_max_texticon  Násobitel maximálního zvýšení velení§! pro §H$PER_political_modifier$§! o [?PER_max_command_power_mult_change|+%] (Aktuálně: [?PER_max_command_power_mult|+%])" # todo: NEW TRANSLATION
+  PER_supply_node_range_tt: "Mění §Y£supply_texticon  Dosah zásobování§! pro §H$PER_political_modifier$§! o [?PER_supply_node_range_change|+%] (Aktuálně: [?PER_supply_node_range|+%])" # todo: NEW TRANSLATION
+  PER_foreign_subversive_activites_tt: "Mění §Y£political_violence_texticon  Efektivitu zahraničních subverzivních aktivit§! pro §H$PER_political_modifier$§! o [?PER_foreign_subversive_activites_change|-%] (Aktuálně: [?PER_foreign_subversive_activites|-%])" # todo: NEW TRANSLATION
+  PER_resistance_damage_to_garrison_tt: "Mění §Y£political_violence_damage_texticon  Poškození posádek§! pro §H$PER_political_modifier$§! o [?PER_resistance_damage_to_garrison_change|-%] (Aktuálně: [?PER_resistance_damage_to_garrison|-%])" # todo: NEW TRANSLATION
+  PER_root_out_resistance_effectiveness_factor_tt: "Mění §Y£operatives_root_out_resistance_texticon  Účinky mise na vymýcení odporu§! pro §H$PER_political_modifier$§! o [?PER_root_out_resistance_effectiveness_factor_change|+%] (Aktuálně: [?PER_root_out_resistance_effectiveness_factor|+%])" # todo: NEW TRANSLATION
+  PER_expected_police_modifier_tt: "Mění §YOčekávané výdaje na policii§! pro §H$PER_political_modifier$§! o [?PER_expected_police_modifier_change|-] (Aktuálně: [?PER_expected_police_modifier|-])" # todo: NEW TRANSLATION
+  PER_foreign_influence_modifier_tt: "Mění £foreign_influence_modifier_texticon §YZahraniční vliv§! Násobitel pro §H$PER_political_modifier$§! o [?PER_foreign_influence_modifier_change|+%] (Aktuálně: [?PER_foreign_influence_modifier|+%])" # todo: NEW TRANSLATION
+  PER_popularity_attack_modifier_tt: "Mění £world_tension_wargoal_texticon §HÚtok na politickou popularitu§! Modifikátor pro §H$PER_political_modifier$§! o [?PER_popularity_attack_modifier_change|+] (Aktuálně: [?PER_popularity_attack_modifier|+])" # todo: NEW TRANSLATION
+  PER_conscription_factor_tt: "Mění §Y£manpower_texticon  Náborovou populaci§! pro §H$PER_political_modifier$§! o [?PER_conscription_factor_change|+] (Aktuálně: [?PER_conscription_factor|+])" # todo: NEW TRANSLATION
+  PER_mines_sweeping_by_fleets_factor_tt: "Mění £minesweeping_texticon §HEfektivitu námořního odminování§! pro §H$PER_artesh_modifier$§! o [?PER_mines_sweeping_by_fleets_factor_change|+%] (Aktuálně: [?PER_mines_sweeping_by_fleets_factor|+%])" # todo: NEW TRANSLATION
+  PER_naval_critical_effect_factor_tt: "Mění £critical_hit_texticon  §HEfekty udržených kritických zásahů§! pro §H$PER_artesh_modifier$§! o [?PER_naval_critical_effect_factor_change|-%] (Aktuálně: [?PER_naval_critical_effect_factor|-%])" # todo: NEW TRANSLATION
+  PER_mobilization_speed_tt: "Mění £mobilisation_texticon §HRychlost mobilizace§! pro §H$PER_political_modifier$§! o [?PER_mobilization_speed_change|+%] (Aktuálně: [?PER_mobilization_speed|+%])" # todo: NEW TRANSLATION
+  PER_army_core_defence_factor_tt: "Mění £defence_core_texticon  §HOobrana divizí na jádrovém území§! pro §H$PER_political_modifier$§! o [?PER_army_core_defence_factor_change|+%] (Aktuálně: [?PER_army_core_defence_factor|+%])" # todo: NEW TRANSLATION
+  PER_agricolture_productivity_modifier_tt: "Mění §YProduktivitu $agriculture_district$§! pro §H$PER_economy_modifier$§! o [?PER_agricolture_productivity_modifier_change|+%] (Aktuálně: [?PER_agricolture_productivity_modifier|+%])" # todo: NEW TRANSLATION
+  PER_influence_coup_modifier_tt: "Mění £foreign_influence_auto_influence_cap_modifier_texticon §YFaktor úspěchu puče za zahraničního vlivu§! pro §H$PER_political_modifier$§! o [?PER_influence_coup_modifier_change|+%] (Aktuálně: [?PER_influence_coup_modifier|+%])" # todo: NEW TRANSLATION
+  PER_high_unemployment_threshold_modifier_tt: "Mění §YPráh vysoké nezaměstnanosti§! pro §H$PER_economy_modifier$§! o [?PER_high_unemployment_threshold_modifier_change|+%] (Aktuálně: [?PER_high_unemployment_threshold_modifier|+%])" # todo: NEW TRANSLATION
+  PER_nuclear_fuel_consumption_modifier_tt: "Mění £nuclear_reactor_texticon §YSpotřebu paliva $nuclear_reactor$§! pro §H$PER_economy_modifier$§! o [?PER_nuclear_fuel_consumption_modifier_change|-%] (Aktuálně: [?PER_nuclear_fuel_consumption_modifier|-%])" # todo: NEW TRANSLATION
+  PER_production_speed_supply_node_factor_tt: "Mění £construction_speed_texticon §Y$supply_node$ Rychlost výstavby§! pro §H$PER_economy_modifier$§! o [?PER_production_speed_supply_node_factor_change|+%] (Aktuálně: [?PER_production_speed_supply_node_factor|+%])" # todo: NEW TRANSLATION
+  PER_consumer_goods_factor_tt: "Mění §Y£consumer_goods_texticon  Faktor daňových nákladů§! pro §H$PER_economy_modifier$§! o [?PER_consumer_goods_factor_change|-%] (Aktuálně: [?PER_consumer_goods_factor|-%])" # todo: NEW TRANSLATION
+  PER_resource_export_multiplier_modifier_tt: "Mění £resource_export_multiplier_modifier_texticon §YPříjmy z vývozu surovin§! Násobitel pro §H$PER_economy_modifier$§! o [?PER_resource_export_multiplier_modifier_change|+%] (Aktuálně: [?PER_resource_export_multiplier_modifier|+%])" # todo: NEW TRANSLATION
+  PER_internal_investments_pp_cost_modifier_tt: "Mění §YModifikátor politických nákladů vnitřních investic§! pro §H$PER_economy_modifier$§! o [?PER_internal_investments_pp_cost_modifier_change|-%] (Aktuálně: [?PER_internal_investments_pp_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_civ_facs_worker_requirement_modifier_tt: "Mění §YPožadovanou pracovní sílu $industrial_complex$§! pro §H$PER_economy_modifier$§! o [?PER_civ_facs_worker_requirement_modifier_change|-%] (Aktuálně: [?PER_civ_facs_worker_requirement_modifier|-%])" # todo: NEW TRANSLATION
+  PER_agriculture_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §YNásobitel daňových příjmů z zemědělství§! pro §H$PER_economy_modifier$§! o [?PER_agriculture_tax_modifier_change|+%] (Aktuálně: [?PER_agriculture_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_production_factory_start_efficiency_factor_tt: "Mění £efficiency_base_texticon  §HZáklad efektivity výroby§! pro §H$PER_economy_modifier$§! o [?PER_production_factory_start_efficiency_factor_change|+%] (Aktuálně: [?PER_production_factory_start_efficiency_factor|+%])" # todo: NEW TRANSLATION
+  PER_line_change_production_efficiency_factor_tt: "Mění £production_efficiency_loss_texticon  §HZachování efektivity výroby§! pro §H$PER_economy_modifier$§! o [?PER_line_change_production_efficiency_factor_change|+%] (Aktuálně: [?PER_line_change_production_efficiency_factor|+%])" # todo: NEW TRANSLATION
+  PER_economic_cycles_cost_factor_tt: "Mění £economic_cycles_cost_factor_texticon §HNáklady politické moci na změnu ekonomických cyklů§! pro §H$PER_economy_modifier$§! o [?PER_economic_cycles_cost_factor_change|-%] (Aktuálně: [?PER_economic_cycles_cost_factor|-%])" # todo: NEW TRANSLATION
+  PER_offices_worker_requirement_modifier_tt: "Mění §HPožadovanou pracovní sílu $offices$§! pro §H$PER_economy_modifier$§! o [?PER_offices_worker_requirement_modifier_change|-%] (Aktuálně: [?PER_offices_worker_requirement_modifier|-%])" # todo: NEW TRANSLATION
+  PER_office_park_income_tax_modifier_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §YNásobitel daňových příjmů $offices$§! pro §H$PER_economy_modifier$§! o [?PER_office_park_income_tax_modifier_change|+%] (Aktuálně: [?PER_office_park_income_tax_modifier|+%])" # todo: NEW TRANSLATION
+  PER_receiving_investment_duration_modifier_tt: "Mění £receiving_investment_duration_modifier_texticon §YModifikátor délky přijímání zahraničních investic§! pro §H$PER_economy_modifier$§! o [?PER_receiving_investment_duration_modifier_change|-%] (Aktuálně: [?PER_receiving_investment_duration_modifier|-%])" # todo: NEW TRANSLATION
+  PER_investment_cost_modifier_tt: "Mění £investment_cost_modifier_texticon §YModifikátor nákladů zahraničních investic§! pro §H$PER_economy_modifier$§! o [?PER_investment_cost_modifier_change|-%] (Aktuálně: [?PER_investment_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_special_forces_cap_flat_tt: "Mění £specops_max_texticon §HPlný limit speciálních sil§! pro §H$PER_artesh_modifier$§! o [?PER_special_forces_cap_flat_change|+] (Aktuálně: [?PER_special_forces_cap_flat|+])" # todo: NEW TRANSLATION
+  PER_trade_opinion_factor_tt: "Mění £trade_deal_opinion_texticon §H Faktor názoru na obchodní dohodu§! pro §H$PER_economy_modifier$§! o [?PER_trade_opinion_factor_change|+%] (Aktuálně: [?PER_trade_opinion_factor|+%])" # todo: NEW TRANSLATION
+  PER_experience_gain_army_unit_factor_tt: "Mění £experience_neutral_texticon §HZisk zkušeností divize§! pro §H$PER_artesh_modifier$§! o [?PER_experience_gain_army_unit_factor_change|+%] (Aktuálně: [?PER_experience_gain_army_unit_factor|+%])" # todo: NEW TRANSLATION
+  PER_nationalist_drift_tt: "Mění £nationalist_outlook_campaign_cost_modifier_texticon §HDenní nacionalistickou podporu§! pro §H$PER_political_modifier$§! o [?PER_nationalist_drift_change|+] (Aktuálně: [?PER_nationalist_drift|+])" # todo: NEW TRANSLATION
+  PER_equipment_capture_factor_tt: "Mění £infantry_equipment_texticon  §HModifikátor poměru zajatého vybavení§! pro §H$PER_artesh_modifier$§! o [?PER_equipment_capture_factor_change|+%] (Aktuálně: [?PER_equipment_capture_factor|+%])" # todo: NEW TRANSLATION
+  PER_truck_attrition_factor_tt: "Mění £attrition_supply_truck_texticon  §HZtráty zásobovacích nákladních vozidel§! pro §H$PER_artesh_modifier$§! o [?PER_truck_attrition_factor_change|-%] (Aktuálně: [?PER_truck_attrrition_factor|-%])" # todo: NEW TRANSLATION
+  PER_subjects_autonomy_gain_tt: "Mění £autonomy_texticon  §HPůsobení nadvlády§! pro §H$PER_political_modifier$§! o [?PER_subjects_autonomy_gain_change|-] (Aktuálně: [?PER_subjects_autonomy_gain|-])" # todo: NEW TRANSLATION
+  PER_local_resources_factor_tt: "Mění £resources_texticon  §HEfektivitu zisku zdrojů§! pro §H$PER_economy_modifier$§! o [?PER_local_resources_factor_change|+%] (Aktuálně: [?PER_local_resources_factor|+%])" # todo: NEW TRANSLATION
+  PER_civilian_intel_factor_tt: "Mění £civilian_intel_texticon  §HSílu civilního zpravodajství§! pro §H$PER_political_modifier$§! o [?PER_civilian_intel_factor_change|+%] (Aktuálně: [?PER_civilian_intel_factor|+%])" # todo: NEW TRANSLATION
+  PER_foreign_influence_monthly_domestic_independence_gain_modifier_tt: "Mění £foreign_influence_modifier_texticon §YMěsíční přírůstek domácí nezávislosti§! pro §H$PER_political_modifier$§! o [?PER_foreign_influence_monthly_domestic_independence_gain_modifier_change|+] (Aktuálně: [?PER_foreign_influence_monthly_domestic_independence_gain_modifier|+])" # todo: NEW TRANSLATION
+  PER_justify_war_goal_time_tt: "Mění £war_goal_time_receive_texticon §HDoba odůvodnění válečného cíle§! pro §H$PER_artesh_modifier$§! o [?PER_justify_war_goal_time_change|-%] (Aktuálně: [?PER_justify_war_goal_time|-%])" # todo: NEW TRANSLATION
+  PER_popularity_boost_modifier_tt: "Mění £return_on_investment_modifier_texticon §HPosílení politické popularity§! Modifikátor pro §H$PER_political_modifier$§! o [?PER_popularity_boost_modifier_change|+] (Aktuálně: [?PER_popularity_boost_modifier|+])" # todo: NEW TRANSLATION
+  PER_military_factories_productivity_tt: "Mění §YProduktivitu $arms_factory$§! pro §H$PER_artesh_modifier$§! o [?PER_military_factories_productivity_change|+%] (Aktuálně: [?PER_military_factories_productivity|+%])" # todo: NEW TRANSLATION
+  PER_max_commander_army_size_tt: "Mění §Y£divisions_texticon  Max. velikost armády pro generála§! pro §H$PER_artesh_modifier$§! o [?PER_max_commander_army_size_change|+] (Aktuálně: [?PER_max_commander_army_size|+])" # todo: NEW TRANSLATION
+  PER_production_speed_internet_station_factor_tt: "Mění £construction_speed_texticon §Y$internet_station$ Rychlost výstavby§! pro §H$PER_economy_modifier$§! o [?PER_production_speed_internet_station_factor_change|+%] (Aktuálně: [?PER_production_speed_internet_station_factor|+%])" # todo: NEW TRANSLATION
+  PER_foreign_influence_home_continent_modifier_tt: "Mění £foreign_influence_modifier_texticon §YZahraniční vliv v domácím kontinentu§! pro §H$PER_political_modifier$§! o [?PER_foreign_influence_home_continent_modifier_change|+%] (Aktuálně: [?PER_foreign_influence_home_continent_modifier|+%])" # todo: NEW TRANSLATION
+  PER_improve_relations_maintain_cost_factor_tt: "Mění £improve_relations_cost_texticon §HNáklady na udržení zlepšení vztahů§! pro §H$PER_political_modifier$§! o [?PER_improve_relations_maintain_cost_factor_change|-%] (Aktuálně: [?PER_improve_relations_maintain_cost_factor|-%])" # todo: NEW TRANSLATION
+  PER_opinion_gain_monthly_tt: "Mění £improve_relations_texticon  §HNárůst sympatií zlepšením vztahů§! pro §H$PER_political_modifier$§! o [?PER_opinion_gain_monthly_change|+%] (Aktuálně: [?PER_opinion_gain_monthly|+%])" # todo: NEW TRANSLATION
+  PER_air_volunteer_cap_tt: "Mění £air_volunteers_max_texticon  §HLimit leteckých dobrovolníků§! pro §H$PER_artesh_modifier$§! o [?PER_air_volunteer_cap_change|+] (Aktuálně: [?PER_air_volunteer_cap|+])" # todo: NEW TRANSLATION
+  PER_cic_construction_boost_factor_tt: "Mění £civ_factory §YZákladní rychlost výstavby z civilních továren§! pro §H$PER_economy_modifier$§! o [?PER_cic_construction_boost_factor_change|+%] (Aktuálně: [?PER_cic_construction_boost_factor|+%])" # todo: NEW TRANSLATION
+  PER_receiving_investment_cost_modifier_tt: "Mění £receiving_investment_cost_modifier_texticon §YModifikátor nákladů na přijímání zahraničních investic§! pro §H$PER_economy_modifier$§! o [?PER_receiving_investment_cost_modifier_change|-%] (Aktuálně: [?PER_receiving_investment_cost_modifier|-%])" # todo: NEW TRANSLATION
+  PER_equipment_cost_multiplier_modifier_tt: "Mění £equipment_cost_multiplier_modifier_texticon §YNásobitel nákladů na vybavení§! pro §H$PER_artesh_modifier$§! o [?PER_equipment_cost_multiplier_modifier_change|-%] (Aktuálně: [?PER_equipment_cost_multiplier_modifier|-%])" # todo: NEW TRANSLATION
+  PER_army_morale_factor_tt: "Mění £army_morale_texticon  §HRychlost obnovy divizí§! pro §H$PER_artesh_modifier$§! o [?PER_army_morale_factor_change|+%] (Aktuálně: [?PER_army_morale_factor|+%])" # todo: NEW TRANSLATION
+  PER_naval_morale_factor_tt: "Mění £army_morale_texticon  §HRychlost obnovy plavidel§! pro §H$PER_artesh_modifier$§! o [?PER_naval_morale_factor_change|+%] (Aktuálně: [?PER_naval_morale_factor|+%])" # todo: NEW TRANSLATION
+  PER_navy_org_factor_tt: "Mění £organization_texticon  §HOrganizaci námořnictva§! pro §H$PER_artesh_modifier$§! o [?PER_navy_org_factor_change|+%] (Aktuálně: [?PER_navy_org_factor|+%])" # todo: NEW TRANSLATION
+  PER_military_industrial_organization_funds_gain_tt: "Mění £corporate_tax_income_multiplier_modifier_texticon §HZisk prostředků MIO§! pro §H$PER_artesh_modifier$§! o [?PER_military_industrial_organization_funds_gain_change|+%] (Aktuálně: [?PER_military_industrial_organization_funds_gain|+%])" # todo: NEW TRANSLATION
+  PER_agriculture_workers_modifier_tt: "Mění §YPočet pracovníků potřebných v soběstačném zemědělství§! pro §H$PER_economy_modifier$§! o [?PER_agriculture_workers_modifier_change|-%] (Aktuálně: [?PER_agriculture_workers_modifier|-%])" # todo: NEW TRANSLATION
+  PER_production_cost_industrial_complex_factor_tt: "Mění £construction_speed_civfactory_texticon §Y$industrial_complex$§! §HNáklady na výstavbu§! pro §H$PER_economy_modifier$§! o [?PER_production_cost_industrial_complex_factor_change|-%] (Aktuálně: [?PER_production_cost_industrial_complex_factor|-%])" # todo: NEW TRANSLATION
+  PER_fuel_gain_factor_from_states_tt: "Mění £fuel_gain_refinery_texticon  §HZisk paliva z rafinerií§! pro §H$PER_economy_modifier$§! o [?PER_fuel_gain_factor_from_states_change|+%] (Aktuálně: [?PER_fuel_gain_factor_from_states|+%])" # todo: NEW TRANSLATION
+  PER_army_fuel_consumption_factor_tt: "Mění £fuel_consumption_texticon  §HSpotřebu paliva armády§! pro §H$PER_artesh_modifier$§! o [?PER_army_fuel_consumption_factor_change|-%] (Aktuálně: [?PER_army_fuel_consumption_factor|-%])" # todo: NEW TRANSLATION
+  PER_land_bunker_effectiveness_factor_tt: "Mění §HEfektivitu pozemních opevnění§! pro §H$PER_artesh_modifier$§! o [?PER_land_bunker_effectiveness_factor_change|+%] (Aktuálně: [?PER_land_bunker_effectiveness_factor|+%])" # todo: NEW TRANSLATION
+  PER_static_anti_air_hit_chance_factor_tt: "Mění £anti_air_gun_texticon  §HFaktor šance zásahu statické protiletadlové obrany§! pro §H$PER_artesh_modifier$§! o [?PER_static_anti_air_hit_chance_factor_change|+%] (Aktuálně: [?PER_static_anti_air_hit_chance_factor|+%])" # todo: NEW TRANSLATION
+  PER_terrain_penalty_reduction_tt: "Mění £terrain_penalty_texticon §HZmírnění trestů za terén§! pro §H$PER_artesh_modifier$§! o [?PER_terrain_penalty_reduction_change|+%] (Aktuálně: [?PER_terrain_penalty_reduction|+%])" # todo: NEW TRANSLATION
+  PER_planning_speed_tt: "Mění £planning_speed_texticon  §HRychlost plánování§! pro §H$PER_artesh_modifier$§! o [?PER_planning_speed_change|+%] (Aktuálně: [?PER_planning_speed|+%])" # todo: NEW TRANSLATION
+  PER_recon_factor_while_entrenched_tt: "Mění £recon_texticon  §HPrůzkumný bonus při zakopání§! pro §H$PER_artesh_modifier$§! o [?PER_recon_factor_while_entrenched_change|+%] (Aktuálně: [?PER_recon_factor_while_entrenched|+%])" # todo: NEW TRANSLATION
+  PER_initiative_factor_tt: "Mění £initiative_texticon  §HFaktor iniciativy§! pro §H$PER_artesh_modifier$§! o [?PER_initiative_factor_change|+%] (Aktuálně: [?PER_initiative_factor|+%])" # todo: NEW TRANSLATION
+  PER_dig_in_speed_factor_tt: "Mění £dig_in_speed_texticon  §HRychlost zakopání§! pro §H$PER_artesh_modifier$§! o [?PER_dig_in_speed_factor_change|+%] (Aktuálně: [?PER_dig_in_speed_factor|+%])" # todo: NEW TRANSLATION
+  PER_pocket_penalty_tt: "Mění £pocket_texticon  §HSankce za obklíčení§! pro §H$PER_artesh_modifier$§! o [?PER_pocket_penalty_change|-%] (Aktuálně: [?PER_pocket_penalty|-%])" # todo: NEW TRANSLATION
+  PER_mil_facs_worker_requirement_modifier_tt: "Mění §HPožadovanou pracovní sílu $arms_factory$ a $dockyard$§! pro §H$PER_economy_modifier$§! o [?PER_mil_facs_worker_requirement_modifier_change|-%] (Aktuálně: [?PER_mil_facs_worker_requirement_modifier|-%])" # todo: NEW TRANSLATION
+  PER_political_power_cost_tt: "Mění £political_power_cost_texticon  §HDenní náklady politické moci§! pro §H$PER_economy_modifier$§! o [?PER_political_power_cost_change|-] (Aktuálně: [?PER_political_power_cost|-])" # todo: NEW TRANSLATION
+  PER_supply_factor_tt: "Mění £supply_texticon  §HEfektivitu zásobování§! pro §H$PER_artesh_modifier$§! o [?PER_supply_factor_change|+%] (Aktuálně: [?PER_supply_factor|+%])" # todo: NEW TRANSLATION
+  PER_air_ace_generation_chance_factor_tt: "Mění §Y£ace_generation_texticon  Šanci na vznik esa§! pro §H$PER_artesh_modifier$§! o [?PER_air_ace_generation_chance_factor_change|+%] (Aktuálně: [?PER_air_ace_generation_chance_factor|+%])" # todo: NEW TRANSLATION
+  PER_ace_effectiveness_factor_tt: "Mění §Y£ace_generation_texticon  Účinnost esa§! pro §H$PER_artesh_modifier$§! o [?PER_ace_effectiveness_factor_change|+%] (Aktuálně: [?PER_ace_effectiveness_factor|+%])" # todo: NEW TRANSLATION
+  PER_air_ace_bonuses_factor_tt: "Mění §Y£ace_generation_texticon  Bonusy vzdušných es§! pro §H$PER_artesh_modifier$§! o [?PER_air_ace_bonuses_factor_change|+%] (Aktuálně: [?PER_air_ace_bonuses_factor|+%])" # todo: NEW TRANSLATION
+  PER_air_range_factor_tt: "Mění §Y£air_range_texticon  Dosah letectva§! pro §H$PER_artesh_modifier$§! o [?PER_air_range_factor_change|+%] (Aktuálně: [?PER_air_range_factor|+%])" # todo: NEW TRANSLATION
+  PER_air_agility_factor_tt: "Mění §Y£speed_air_texticon  Výhodu radaru§! pro §H$PER_artesh_modifier$§! o [?PER_air_agility_factor_change|+%] (Aktuálně: [?PER_air_agility_factor|+%])" # todo: NEW TRANSLATION
+  PER_air_superiority_efficiency_tt: "Mění §Y£air_superiority_efficiency_texticon  Efektivitu mise vzdušné nadvlády§! pro §H$PER_artesh_modifier$§! o [?PER_air_superiority_efficiency_change|+%] (Aktuálně: [?PER_air_superiority_efficiency|+%])" # todo: NEW TRANSLATION
+  PER_air_intercept_efficiency_tt: "Mění §Y£air_interception_efficiency_texticon  Efektivitu mise přerušení§! pro §H$PER_artesh_modifier$§! o [?PER_air_intercept_efficiency_change|+%] (Aktuálně: [?PER_air_intercept_efficiency|+%])" # todo: NEW TRANSLATION
+  PER_air_home_defence_factor_tt: "Mění §Y£home_defence_texticon  §HFaktor domácí letecké obrany§! pro §H$PER_artesh_modifier$§! o [?PER_air_home_defence_factor_change|+%] (Aktuálně: [?PER_air_home_defence_factor|+%])" # todo: NEW TRANSLATION
+  PER_ground_attack_factor_tt: "Mění §Y£cas_texticon  Faktor pozemního útoku§! pro §H$PER_artesh_modifier$§! o [?PER_ground_attack_factor_change|+%] (Aktuálně: [?PER_ground_attack_factor|+%])" # todo: NEW TRANSLATION
+  PER_production_speed_rail_way_factor_tt: "Mění £construction_speed_railway_texticon §H§Y$rail_way$§! Rychlost výstavby§! pro §H$PER_economy_modifier$§! o [?PER_production_speed_rail_way_factor_change|+%] (Aktuálně: [?PER_production_speed_rail_way_factor|+%])" # todo: NEW TRANSLATION
+  PER_navy_fuel_consumption_factor_tt: "Mění £fuel_consumption_texticon  §HSpotřebu paliva námořnictva§! pro §H$PER_artesh_modifier$§! o [?PER_navy_fuel_consumption_factor_change|-%] (Aktuálně: [?PER_navy_fuel_consumption_factor|-%])" # todo: NEW TRANSLATION
+  PER_naval_damage_factor_tt: "Mění £attacker_damage_texticon §HPoškození způsobené našimi loděmi§! pro §H$PER_artesh_modifier$§! o [?PER_naval_damage_factor_change|+%] (Aktuálně: [?PER_naval_damage_factor|+%])" # todo: NEW TRANSLATION
+  PER_us_war: "Americko-íránský konflikt" # todo: NEW TRANSLATION
+  PER_us_war_desc: "Desítky let napětí se konečně vyostřily — kdo zvítězí?" # todo: NEW TRANSLATION
+  PER_american_iranian_war: "Válka o Hormuz" # todo: NEW TRANSLATION
+  PER_american_iranian_war_desc: "'Bitva, jakou lidé neviděli. A Země byla pokrytá ocelí, a šípy padaly z oblaka jako kroupy, a země byla rozervána kopyty, a krev tekla jako voda po pláních'\n - Ferdowsi" # todo: NEW TRANSLATION
+  PER_ministry_of_war_decisions: "Ministerstvo války" # todo: NEW TRANSLATION
+  PER_ministry_of_war_decisions_desc: "Ministerstvo války a logistika ozbrojených sil byly dlouho pověřeny plánováním a přípravou na možné konflikty s našimi sousedy i světovými mocnostmi. Aktivací válečných plánů můžeme využít informace, které jsme po dlouhou dobu shromažďovali." # todo: NEW TRANSLATION
+  PER_war_plan_atash: "Válečný plán Sabz" # todo: NEW TRANSLATION
+  PER_war_plan_meshki: "Válečný plán Zard" # todo: NEW TRANSLATION
+  PER_war_plan_kaveh: "Válečný plán Banafsh" # todo: NEW TRANSLATION
+  PER_war_plan_jamshid: "Válečný plán Sorme'i" # todo: NEW TRANSLATION
+  PER_war_plan_arash: "Válečný plán Nilguni" # todo: NEW TRANSLATION
+  PER_war_plan_rostam: "Válečný plán Boronz" # todo: NEW TRANSLATION
+  PER_war_plan_zahak: "Válečný plán Tala'i" # todo: NEW TRANSLATION
+  PER_war_plan_damavand: "Válečný plán Meshki" # todo: NEW TRANSLATION
+  PER_war_plan_aryana: "Válečný plán Lâjevard" # todo: NEW TRANSLATION
+  PER_war_plan_sorkh: "Válečný plán Sorkh" # todo: NEW TRANSLATION
+  PER_war_plan_abi: "Válečný plán Abi" # todo: NEW TRANSLATION
+  PER_mojahedin_resistance: "Lidová organizace Mojahedínů Íránu" # todo: NEW TRANSLATION
+  PER_mojahedin_resistance_desc: "\n£PER_desctext_MEK\n\n\n\nLidová organizace Mojahedínů, známá také jako MEK, byla trnem v oku [PER.GetFlag] íránským vládám od svého založení v 60. letech. Jejich pokusy o uchopení moci byly neústupné, natolik, že se v 80. letech postavili na stranu nepřítele v [PER.GetFlag] [IRQ.GetFlag] irácko-íránské válce.\n\nV závislosti na oblíbenosti či legitimnosti naší vlády může MEK způsobit více problémů. Budeme moci MEK eliminovat, jakmile stabilizujeme a zlepšíme zemi.\n\nPřejeďte myší přes níže uvedený text pro více informací." # todo: NEW TRANSLATION
+  PER_assassinate_the_rajavis: "Zavraždit Rajaviovy" # todo: NEW TRANSLATION
+  PER_assassinate_the_rajavis_desc: "Kult Rajavího musí být ukončen; když bude moc naší vlády na vrcholu, máme schopnost přesvědčit vysokého člena MEK, aby Rajaviovy zlikvidoval jedním úderem." # todo: NEW TRANSLATION
+  PER_surrender_the_government: "Odevzdat vládu" # todo: NEW TRANSLATION
+  PER_surrender_the_government_desc: "Vyrovnávání se s MEK je příliš náročné a přináší příliš málo užitku — je čas sbalit věci a odejít." # todo: NEW TRANSLATION
+  PER_attack_camp_ashraf: "Útok na tábor Ashraf" # todo: NEW TRANSLATION
+  PER_attack_camp_ashraf_desc: "Útokem na tábor Ashraf budeme schopni vyhnat MEK z regionu a možná je donutit přesunout se do jiné části světa, vzhledem k tomu, že tito švábi mají způsoby, jak přežít i přes naše ozbrojené kapacity." # todo: NEW TRANSLATION
+  PER_attempt_to_retrieve_mek_defectors: "Pokus o získání dezerterů MEK" # todo: NEW TRANSLATION
+  PER_attempt_to_retrieve_mek_defectors_desc: "MEK odmítá dovolit některým svým členům odejít, a je naší odpovědností zachránit ty, kdo nejvíce zoufale potřebují naši pomoc." # todo: NEW TRANSLATION
+  PER_hazara_uprising: "Povstání v Hazaristánu" # todo: NEW TRANSLATION
+  PER_hazari_uprising: "Hazaristán v chaosu" # todo: NEW TRANSLATION
+  PER_cento_decisions: "CENTO" # todo: NEW TRANSLATION
+  PER_cento_decisions_desc: "Znovuzřízené [PER.GetFlag] §HIránem§!, aliance §CCENTO§! si klade za cíl obnovit regionální stabilitu na Středním východě i jinde. Původně založená během studené války, §CCENTO§! byla známa jako Bagdádský pakt. Po islámské revoluci v [PER.GetFlag] §HIránu§! v roce 1979 aliance selhala a rychle zanikla.\nPostupem času se odemknou další rozhodnutí, která umožní provádět specifické akce." # todo: NEW TRANSLATION
+  PER_war_in_yemem: "Válka v Jemenu" # todo: NEW TRANSLATION
+  PER_demand_houthi_perform_offensive: "Požadovat, aby Houthiové zahájili ofenzivu" # todo: NEW TRANSLATION
+  PER_invite_afghanistan: "Pozvat [AFG.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_afghanistan_desc: "Pozvání Afghánistánu by mohlo alianci zajistit větší oporu ve Střední Asii a umožní nám snadněji čelit případným hrozbám z Východu." # todo: NEW TRANSLATION
+  PER_invite_tajikistan: "Pozvat [TAJ.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_tajikistan_desc: "Pozvání Tádžikistánu nám může umožnit proniknout do srdce Střední Asie a čelit rostoucímu ruskému vlivu v regionu." # todo: NEW TRANSLATION
+  PER_invite_pakistan: "Pozvat [PAK.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_pakistan_desc: "Přijetím Pákistánu do frakce bychom formálně obnovili všechny tři členy, kteří byli ve frakci až do rozpuštění aliance CENTO v roce 1979." # todo: NEW TRANSLATION
+  PER_invite_iraq2: "Pozvat [IRQ.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_iraq2_desc: "Navzdory všem problémům je Irák stále velmi potřebným spojencem. Jeho přijetí do frakce by umožnilo růst vlivu CENTO v Levantě a Arábii." # todo: NEW TRANSLATION
+  PER_invite_lebanon2: "Pozvat [LEB.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_lebanon2_desc: "Pozvání Libanonu rozšíří alianci dále na západ a ukáže těm, kteří chtějí vrátit starý řád Islámské republiky, že zde hodláme zůstat." # todo: NEW TRANSLATION
+  PER_intervene_in_syria: "Zásah v Sýrii" # todo: NEW TRANSLATION
+  PER_intervene_in_syria_desc: "Požádáme všechny členy CENTO, aby podpořili [FSA.GetNameWithFlag] vojenskou intervencí." # todo: NEW TRANSLATION
+  PER_invite_jordan: "Pozvat [JOR.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_jordan_desc: "Pozvání Jordánců nám umožní omezit vliv GCC, aby se nešířil více, než už se rozšířil, bez ohledu na náš vztah s [SAU.GetAdjective] státem." # todo: NEW TRANSLATION
+  PER_invite_egypt: "Pozvat [EGY.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_egypt_desc: "Egyptští mají v severní Africe impozantní vojenskou sílu a ignorovat je by byla chyba." # todo: NEW TRANSLATION
+  PER_invite_morocco: "Pozvat [MOR.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_morocco_desc: "Maroko leží na velmi strategickém a důležitém místě světa. Přizvání správce Gibraltarské úžiny dá našemu spojenectví významné globální výhody." # todo: NEW TRANSLATION
+  PER_invite_yemen: "Pozvat [YEM.GetNameWithFlag]" # todo: NEW TRANSLATION
+  PER_invite_yemen_desc: "Pozvání Jemenu do CENTO dá alianci kontrolu nad dalším strategickým úžinou, Rudým mořem." # todo: NEW TRANSLATION
+  PER_Iranian_elections_decision_category: "Prezidentské volby v Íránu" # todo: NEW TRANSLATION
+  PER_auto_update_gui_weekly: "Shromažďování informací..." # todo: NEW TRANSLATION
+  PER_tv_ads_for_principalists: "Vysílat televizní reklamy pro principalisty £generic_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_tv_ads_for_reformists: "Vysílat televizní reklamy pro reformisty £generic_Mod_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_street_ads_for_principalists: "Vylepit plakáty v ulicích pro principalisty £generic_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_street_ads_for_reformists: "Vylepit plakáty v ulicích pro reformisty £generic_Mod_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_internet_ads_for_principalists: "Spustit internetové reklamy pro principalisty £generic_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_internet_ads_for_reformists: "Spustit internetové reklamy pro reformisty £generic_Mod_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+  PER_endorse_a_candidate: "Podpořit kandidáta" # todo: NEW TRANSLATION
+  PER_endorse_a_candidate_desc: "Ajatolláh může veřejně podpořit kandidáta, aby jeho preferovaný kandidát získal prezidentskou nominaci." # todo: NEW TRANSLATION
+  PER_Iranian_president_info: "Íránský prezident" # todo: NEW TRANSLATION
+  PER_the_new_phase_of_economic_plans: "Nová fáze ekonomických plánů" # todo: NEW TRANSLATION
+  PER_the_new_phase_of_economic_plans_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_cSad_on_peoples_situation: "CSad o situaci lidu" # todo: NEW TRANSLATION
+  PER_cSad_on_peoples_situation_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_send_diplomats_to_the_east: "Poslat diplomaty na východ" # todo: NEW TRANSLATION
+  PER_send_diplomats_to_the_east_desc: "Toto rozhodnutí bude opět k dispozici za 250 dní." # todo: NEW TRANSLATION
+  PER_increase_government_supervision: "Zvýšit vládní dohled" # todo: NEW TRANSLATION
+  PER_increase_government_supervision_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_check_on_peoples_situation: "Zkontrolovat situaci lidu" # todo: NEW TRANSLATION
+  PER_check_on_peoples_situation_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_showcase_our_efforts: "Předvést naše úsilí" # todo: NEW TRANSLATION
+  PER_showcase_our_efforts_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_develop_the_military_industry: "Rozvíjet vojenský průmysl" # todo: NEW TRANSLATION
+  PER_develop_the_military_industry_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_new_phase_of_economic_plans_reformists: "Další fáze ekonomického rozvoje" # todo: NEW TRANSLATION
+  PER_new_phase_of_economic_plans_reformists_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_support_the_reform_plans_in_the_parliament: "Podpořit reformní plány v Majlesu" # todo: NEW TRANSLATION
+  PER_support_the_reform_plans_in_the_parliament_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_send_diplomats_to_the_west: "Poslat diplomaty na západ" # todo: NEW TRANSLATION
+  PER_send_diplomats_to_the_west_desc: "Toto rozhodnutí bude opět k dispozici za 250 dní." # todo: NEW TRANSLATION
+  PER_start_the_new_phase_of_liberalization: "Zahájit další fázi liberalizace" # todo: NEW TRANSLATION
+  PER_start_the_new_phase_of_liberalization_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_develop_the_economy: "Rozvinout ekonomiku" # todo: NEW TRANSLATION
+  PER_develop_the_economy_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_factory_conversation: "Rozhovor o továrně" # todo: NEW TRANSLATION
+  PER_factory_conversation_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_resitance_axis: "§7Osa odporu§!" # todo: NEW TRANSLATION
+  PER_resitance_axis_desc: "Osa odporu je šítský proti-západní/proti-izraelská politická a neformální vojenská aliance mezi několika zeměmi pod regionálním vlivem Íránu." # todo: NEW TRANSLATION
+  PER_invite_syria: "Pozvat [SYR.GetFlag][SYR.GetName]" # todo: NEW TRANSLATION
+  PER_invite_iraq: "Pozvat [IRQ.GetFlag][IRQ.GetName]" # todo: NEW TRANSLATION
+  PER_shia_influence_in_iraqi_government: "Zvýšit šíitský vliv v irácké vládě [IRQ.GetFlag]" # todo: NEW TRANSLATION
+  PER_invite_houthis: "Pozvat [HOU.GetFlag][HOU.GetName]" # todo: NEW TRANSLATION
+  PER_invite_hezbollah: "Pozvat [HEZ.GetFlag][HEZ.GetName]" # todo: NEW TRANSLATION
+  PER_invite_azerbaijan: "Pozvat [AZE.GetFlag][AZE.GetName]" # todo: NEW TRANSLATION
+  PER_invite_turkey: "Pozvat [TUR.GetFlag][TUR.GetName]" # todo: NEW TRANSLATION
+  PER_ask_hezbollah_to_start_a_border_war: "Požádat [HEZ.GetFlag][HEZ.GetName], aby zaútočili na [ISR.GetFlag][ISR.GetName]" # todo: NEW TRANSLATION
+  PER_ask_hezbollah_to_start_a_border_war_desc: "Požádáme je, aby zahájili hraniční válku s Izraelem." # todo: NEW TRANSLATION
+  PER_give_arms_to_hezbollah: "Dát zbraně [HEZ.GetFlag][HEZ.GetName]" # todo: NEW TRANSLATION
+  PER_give_arms_to_hezbollah_d: "Dát zbraně [HEZ.GetFlag][HEZ.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_hezbollah: "Finanční pomoc pro [HEZ.GetFlag][HEZ.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_hezbollah_d: "Finanční pomoc pro [HEZ.GetFlag][HEZ.GetName]" # todo: NEW TRANSLATION
+  PER_give_arms_to_iraq: "Dát zbraně [IRQ.GetFlag][IRQ.GetName]" # todo: NEW TRANSLATION
+  PER_give_arms_to_iraq_d: "Dát zbraně [IRQ.GetFlag][IRQ.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_iraq: "Finanční pomoc pro [IRQ.GetFlag][IRQ.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_iraq_d: "Finanční pomoc pro [IRQ.GetFlag][IRQ.GetName]" # todo: NEW TRANSLATION
+  PER_iraq_military_industry_increase: "Průmyslová pomoc pro [IRQ.GetFlag][IRQ.Getname]" # todo: NEW TRANSLATION
+  PER_iraq_military_industry_increase_d: "Průmyslová pomoc pro [IRQ.GetFlag][IRQ.Getname]" # todo: NEW TRANSLATION
+  PER_give_arms_to_syria: "Dát zbraně [SYR.GetFlag][SYR.GetName]" # todo: NEW TRANSLATION
+  PER_give_arms_to_syria_d: "Dát zbraně [SYR.GetFlag][SYR.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_syria: "Finanční pomoc pro [SYR.GetFlag][SYR.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_syria_d: "Finanční pomoc pro [SYR.GetFlag][SYR.GetName]" # todo: NEW TRANSLATION
+  PER_syria_military_industry_increase: "Průmyslová pomoc pro [SYR.GetFlag][SYR.Getname]" # todo: NEW TRANSLATION
+  PER_syria_military_industry_increase_d: "Průmyslová pomoc pro [SYR.GetFlag][SYR.Getname]" # todo: NEW TRANSLATION
+  PER_give_arms_to_houthis: "Dát zbraně [HOU.GetFlag][HOU.GetName]" # todo: NEW TRANSLATION
+  PER_give_arms_to_houthis_d: "Dát zbraně [HOU.GetFlag][HOU.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_houthis: "Finanční pomoc pro [HOU.GetFlag][HOU.GetName]" # todo: NEW TRANSLATION
+  PER_financial_aid_to_houthis_d: "Finanční pomoc pro [HOU.GetFlag][HOU.GetName]" # todo: NEW TRANSLATION
+  PER_houthis_military_industry_increase: "Průmyslová pomoc pro [HOU.GetFlag][HOU.Getname]" # todo: NEW TRANSLATION
+  PER_houthis_military_industry_increase_d: "Průmyslová pomoc pro [HOU.GetFlag][HOU.Getname]" # todo: NEW TRANSLATION
+  PER_invite_hamas: "Sjednotit se s §Y[PAL.Neutral_Muslim_Brotherhood_L]§!" # todo: NEW TRANSLATION
+  PER_kick_hamas: "Přerušit vazby s §Y[PAL.Neutral_Muslim_Brotherhood_L]§!" # todo: NEW TRANSLATION
+  PER_invite_PFLP: "Sjednotit se s §Y[PAL.Communist-State_L]§!" # todo: NEW TRANSLATION
+  PER_kick_PFLP: "Přerušit vazby s §Y[PAL.Communist-State_L]§!" # todo: NEW TRANSLATION
+  PER_invite_PRC: "Sjednotit se s §Y[PAL.Mod_Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION
+  PER_kick_PRC: "Přerušit vazby s §Y[PAL.Mod_Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION
+  PER_invite_PIJ: "Sjednotit se s §Y[PAL.Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION
+  PER_kick_PIJ: "Přerušit vazby s §Y[PAL.Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION
+  PER_overthrow_saudi: "Svržení [SAU.GetFlag] [SAU.GetName]" # todo: NEW TRANSLATION
+  PER_overthrow_saudi_desc: "Nastal čas přinést svobodu v proklamaném [SAU.GetAdjective] národu. Prapor ší'ismu bude vztyčen v Mekce místo jakékoli jiné vlajky." # todo: NEW TRANSLATION
+  PER_overthrow_uae: "Svržení [UAE.GetFlag] [UAE.GetName]" # todo: NEW TRANSLATION
+  PER_overthrow_uae_desc: "" # todo: NEW TRANSLATION
+  PER_overthrow_oman: "Svržení [OMA.GetFlag] [OMA.GetName]" # todo: NEW TRANSLATION
+  PER_overthrow_oman_desc: "" # todo: NEW TRANSLATION
+  PER_bonyad_resources: "Bohatství národa" # todo: NEW TRANSLATION
+  PER_bonyad_resources_desc: "Náš národ vlastní velké bohatství, a toto bohatství musí být spravováno vyšší autoritou. Můžeme dát Bonyadům kontrolu nad určitými zdroji v některých státech výměnou za finanční výnosy." # todo: NEW TRANSLATION
+  PER_liquify_khorasan: "Khorasanská ocel" # todo: NEW TRANSLATION
+  PER_liquify_khorasan_desc: "Ocel je v Chórásánu hojně dostupná, a s tím na mysli, pokud dáme charitám trochu dobročinnosti, nic se nepokazí." # todo: NEW TRANSLATION
+  PER_liquify_khuzestan: "Khuzestanská ropa" # todo: NEW TRANSLATION
+  PER_liquify_khuzestan_desc: "Chuzestán má více než dost ropy. Dát Bonyadům částečnou kontrolu nad trochu jeho ropy neuškodí." # todo: NEW TRANSLATION
+  PER_liquify_hormuz: "Hormuzská ropa" # todo: NEW TRANSLATION
+  PER_liquify_hormuz_desc: "Pobřeží Perského zálivu, a zejména Hormuz, mají spoustu ropy, kterou můžeme prodat Bonyadům." # todo: NEW TRANSLATION
+  PER_liquify_yazd: "Yazdská ropa" # todo: NEW TRANSLATION
+  PER_liquify_yazd_desc: "Ačkoli těžba ropy v Yazdu není v plném provozu, nikdy není pozdě nechat to někomu jinému vyřídit." # todo: NEW TRANSLATION
+  PER_tehran_shiraz_metal: "Kovy z Teheránu a Šírázu" # todo: NEW TRANSLATION
+  PER_tehran_shiraz_metal_desc: "Teherán a Šíráz mají dobré zásoby kovů a minerálů, které bychom mohli dát některým Bonyadům výměnou za daňové výhody." # todo: NEW TRANSLATION
+  PER_SYR: "Syrská občanská válka" # todo: NEW TRANSLATION
+  PER_SYR_desc: "Syrská občanská válka je probíhající vícestranný ozbrojený konflikt v Sýrii, který se vede především mezi vládou prezidenta Bašára al-Asada a jeho spojenci a různými silami, které jsou proti vládě. Neuspokojení v Sýrii, součást širší vlny protestů Arabského jara v roce 2011, vyrostlo z nespokojenosti s asadovskou vládou a eskalovalo do ozbrojeného konfliktu poté, co byly protesty požadující jeho odstoupení násilně potlačeny." # todo: NEW TRANSLATION
+  per_intervene_SYR: "Zasáhnout v syrské občanské válce" # todo: NEW TRANSLATION
+  per_intervene_SYR_desc: "Historicky Írán podporoval syrskou vládu" # todo: NEW TRANSLATION
+  PER_border_fortification: "Opevnění hranic" # todo: NEW TRANSLATION
+  PER_pakistan_border_decision: "Opevnit hranici s Pákistánem" # todo: NEW TRANSLATION
+  PER_afghanistan_border_decision: "Opevnit hranici s Afghánistánem" # todo: NEW TRANSLATION
+  PER_turkmenistan_border_decision: "Opevnit hranici s Turkmenistánem" # todo: NEW TRANSLATION
+  PER_azerbaijan_border_decision: "Opevnit hranici s Ázerbájdžánem" # todo: NEW TRANSLATION
+  PER_armenia_border_decision: "Opevnit hranici s Arménií" # todo: NEW TRANSLATION
+  PER_turkey_border_decision: "Opevnit hranici s Tureckem" # todo: NEW TRANSLATION
+  PER_kurdistan_border_decision: "Opevnit hranici s Kurdistánem" # todo: NEW TRANSLATION
+  PER_iraq_border_decision: "Opevnit hranici s Irákem" # todo: NEW TRANSLATION
+  PER_Iranian_prime_ministers: "Íránský předseda vlády" # todo: NEW TRANSLATION
+  PER_crack_down_on_crime: "Zatnout se na trestné činnosti" # todo: NEW TRANSLATION
+  PER_crack_down_on_crime_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_housing_projects: "Bytové projekty" # todo: NEW TRANSLATION
+  PER_housing_projects_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_appease_clerics: "Financovat náboženské školy" # todo: NEW TRANSLATION
+  PER_appease_clerics_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_rural_development: "Rozvoj venkova" # todo: NEW TRANSLATION
+  PER_rural_development_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_regional_consolidation: "Regionální konsolidace" # todo: NEW TRANSLATION
+  PER_regional_consolidation_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_wealth_redistribution: "Přerozdělení bohatství" # todo: NEW TRANSLATION
+  PER_wealth_redistribution_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_corporate_regulations: "Firemní regulace" # todo: NEW TRANSLATION
+  PER_corporate_regulations_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_expand_workers_rights: "Rozšíření práv pracovníků" # todo: NEW TRANSLATION
+  PER_expand_workers_rights_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_nationalize_industries: "Nacionalizovat domácí průmysly" # todo: NEW TRANSLATION
+  PER_nationalize_industries_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_nationalize_resource_industries: "Nacionalizovat průmysly surovin" # todo: NEW TRANSLATION
+  PER_nationalize_resource_industries_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_civil_liberty_expansion: "Rozšíření občanských svobod" # todo: NEW TRANSLATION
+  PER_civil_liberty_expansion_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_secularist_policies: "Sekulární politiky" # todo: NEW TRANSLATION
+  PER_secularist_policies_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_expansion_of_universities: "Rozšíření univerzit" # todo: NEW TRANSLATION
+  PER_expansion_of_universities_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_open_borders: "Otevřené hranice" # todo: NEW TRANSLATION
+  PER_open_borders_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_cut_back_military_spending: "Snížit vojenské výdaje" # todo: NEW TRANSLATION
+  PER_cut_back_military_spending_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_cultural_preservation: "Ochrana kultury" # todo: NEW TRANSLATION
+  PER_cultural_preservation_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_military_infrastructure: "Rozšíření vojenské infrastruktury" # todo: NEW TRANSLATION
+  PER_military_infrastructure_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_arms_industry_expansion: "Rozšíření zbrojního průmyslu" # todo: NEW TRANSLATION
+  PER_arms_industry_expansion_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_deport_illegals: "Deportace nelegálních migrantů" # todo: NEW TRANSLATION
+  PER_deport_illegals_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_promotion_of_militaristic_ideals: "Propagace militaristických ideálů" # todo: NEW TRANSLATION
+  PER_promotion_of_militaristic_ideals_desc: "Toto rozhodnutí bude opět k dispozici za 180 dní." # todo: NEW TRANSLATION
+  PER_appoint_new_prime_minister: "Jmenovat nového předsedu vlády" # todo: NEW TRANSLATION
+  PER_lor_resistance: "Oddíly odboje Lorestan" # todo: NEW TRANSLATION
+  PER_mobilize_the_tribes: "Mobilizovat kmeny" # todo: NEW TRANSLATION
+  PER_mobilize_the_tribes_desc: "Nastal čas mobilizovat kmeny Lorestanu. Nepřítel vstoupil na poctivé země Lorestanu a zaplatí za to." # todo: NEW TRANSLATION
+  PER_low_popularity_mojahedin: "Nízká popularita" # todo: NEW TRANSLATION
+  PER_medium_popularity_mojahedin: "Střední popularita" # todo: NEW TRANSLATION
+  PER_high_popularity_mojahedin: "Vysoká popularita" # todo: NEW TRANSLATION
+  PER_no_pm_set: "Žádný jmenovaný premiér" # todo: NEW TRANSLATION
+  PER_pahlavi_against: "PROTI" # todo: NEW TRANSLATION
+  PER_pahlavi_allied: "SPOJENEC" # todo: NEW TRANSLATION
+  PER_expose_iran: "Íránský jaderný program" # todo: NEW TRANSLATION
+  PER_expose_iran_desc: "Naši špioni nám hlásí, že Írán vyrábí jaderné zbraně. To pro nás i zbytek světa může být nebezpečné." # todo: NEW TRANSLATION
+  expose_iranian_nuclear_program: "Odhalit íránský jaderný program" # todo: NEW TRANSLATION
+  expose_iranian_nuclear_program_desc: "Naše zpravodajské zprávy uvádějí, že Írán vyrábí nějaký druh jaderného arzenálu... Možná bychom o tom měli informovat svět...?" # todo: NEW TRANSLATION
+  PER_nuclear_ambitions: "Jaderné ambice" # todo: NEW TRANSLATION
+  PER_nuclear_ambitions_desc: "Jak kráčíme cestou získávání jaderných zbraní, budeme pod tlakem našich vlastních lidí i mezinárodní scény. Pokud se nám podaří program udržet v tajnosti, budeme bez tohoto stresu. Pokud některý stát vybuduje §Hšpionážní síť o síle 80%§! nebo více, bude schopen odhalit náš §HJaderný program§!. Rozhodnutí a časované mise se v tomto menu aktivují ohledně našeho §HJaderného programu§!." # todo: NEW TRANSLATION
+  PER_nuclear_disarming: "Jaderné odzbrojení" # todo: NEW TRANSLATION
+  PER_nuclear_disarming_desc: "Slibovali jsme Západu a většině světa, že odzbrojíme naše jaderné politiky a omezíme vlastní schopnosti získat jaderné zbraně. Pokud nesplníme tento slib, můžeme čelit tvrdším a bolestivějším sankcím." # todo: NEW TRANSLATION
+  PER_new_majlis: "Majles" # todo: NEW TRANSLATION
+  PER_new_majlis_desc: "[PER.GetFlag] §HMajles§! je parlament naší země a určuje, které zákony vstoupí v platnost nebo budou zrušeny, což často může být v rozporu s našimi vlastními potřebami. Lidé budou volit zástupce do [PER.GetFlag] §HMajles§! v každém volebním cyklu a mandáty budou přidělovány legalizovaným stranám podle jejich popularity. Mandáty, které by jinak získaly zakázané strany, vyhrají §Hnezávislí§!, kteří budou sledovat neznámý program.\n\nKaždých několik měsíců bude [PER.GetFlag] §HMajles§! pořádat §Hdebaty§!, během nichž můžeme slibovat konkrétní reformy stranám s reprezentací výměnou za výhody. Pokud něco slíbíme, ale neuskutečníme, poneseme následky. Kdykoli může [PER.GetFlag] §HMajles§! vznést námitku vůči změnám zákonů, které provedeme, a možná požadovat, abychom změnu zrušili.\n\n[PER_majlis_0][PER_majlis_1][PER_majlis_2][PER_majlis_3][PER_majlis_4][PER_majlis_5][PER_majlis_6][PER_majlis_7][PER_majlis_8][PER_majlis_9][PER_majlis_10][PER_majlis_11][PER_majlis_12][PER_majlis_13][PER_majlis_14][PER_majlis_15][PER_majlis_16][PER_majlis_17][PER_majlis_18][PER_majlis_19][PER_majlis_20][PER_majlis_21][PER_majlis_22][PER_majlis_23][PER_majlis_24][PER_majlis_25][PER_majlis_26][PER_majlis_27][PER_majlis_28][PER_majlis_29][PER_majlis_30][PER_majlis_31][PER_majlis_32][PER_majlis_33][PER_majlis_IND_MP]Celkový počet míst v Majlesu - [?ROOT.PER_majlis_total_seats|Y0]\nDalší volby: [?ROOT.PER_election_var|Y0] měsíc(ů)\nDalší debata: [?ROOT.PER_session_var|Y0] měsíc(ů)" # todo: NEW TRANSLATION
+  PER_majlis_suffix: " Mandát(y) držené " # todo: NEW TRANSLATION
+  PER_majlis_party_0: "[?ROOT.PER_majlis_seats^0|Y0]$PER_majlis_suffix$§Y[PER.Western_Autocracy_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_1: "[?ROOT.PER_majlis_seats^1|Y0]$PER_majlis_suffix$§Y[PER.conservatism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_2: "[?ROOT.PER_majlis_seats^2|Y0]$PER_majlis_suffix$§Y[PER.liberalism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_3: "[?ROOT.PER_majlis_seats^3|Y0]$PER_majlis_suffix$§Y[PER.socialism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_4: "[?ROOT.PER_majlis_seats^4|Y0]$PER_majlis_suffix$§Y[PER.Communist-State_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_5: "[?ROOT.PER_majlis_seats^5|Y0]$PER_majlis_suffix$§Y[PER.anarchist_communism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_6: "[?ROOT.PER_majlis_seats^6|Y0]$PER_majlis_suffix$§Y[PER.Conservative_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_7: "[?ROOT.PER_majlis_seats^7|Y0]$PER_majlis_suffix$§Y[PER.Autocracy_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_8: "[?ROOT.PER_majlis_seats^8|Y0]$PER_majlis_suffix$§Y[PER.Mod_Vilayat_e_Faqih_L]§! (Umírnění)\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_9: "[?ROOT.PER_majlis_seats^9|Y0]$PER_majlis_suffix$§Y[PER.Vilayat_e_Faqih_L]§! (Tvrdí)\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_10: "[?ROOT.PER_majlis_seats^10|Y0]$PER_majlis_suffix$§Y[PER.Kingdom_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_11: "[?ROOT.PER_majlis_seats^11|Y0]$PER_majlis_suffix$§Y[PER.Caliphate_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_12: "[?ROOT.PER_majlis_seats^12|Y0]$PER_majlis_suffix$§Y[PER.Neutral_Muslim_Brotherhood_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_13: "[?ROOT.PER_majlis_seats^13|Y0]$PER_majlis_suffix$§Y[PER.Neutral_Autocracy_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_14: "[?ROOT.PER_majlis_seats^14|Y0]$PER_majlis_suffix$§Y[PER.Neutral_conservatism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_15: "[?ROOT.PER_majlis_seats^15|Y0]$PER_majlis_suffix$§Y[PER.oligarchism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_16: "[?ROOT.PER_majlis_seats^16|Y0]$PER_majlis_suffix$§Y[PER.Neutral_Libertarian_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_17: "[?ROOT.PER_majlis_seats^17|Y0]$PER_majlis_suffix$§Y[PER.Neutral_green_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_18: "[?ROOT.PER_majlis_seats^18|Y0]$PER_majlis_suffix$§Y[PER.neutral_Social_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_19: "[?ROOT.PER_majlis_seats^19|Y0]$PER_majlis_suffix$§Y[PER.Neutral_Communism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_20: "[?ROOT.PER_majlis_seats^20|Y0]$PER_majlis_suffix$§Y[PER.Nat_Populism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_21: "[?ROOT.PER_majlis_seats^21|Y0]$PER_majlis_suffix$§Y[PER.Nat_Fascism_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_22: "[?ROOT.PER_majlis_seats^22|Y0]$PER_majlis_suffix$the Representatives of §Y[PER.Nat_Autocracy_L]§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_23: "[?ROOT.PER_majlis_seats^23|Y0]$PER_majlis_suffix$the Representatives of the £PER_monarchism  §YThe Peacock Throne§!\n\n" # todo: NEW TRANSLATION
+  PER_majlis_party_IND: "[?ROOT.PER_majlis_seats_INDEPENDENT|Y0]$PER_majlis_suffix$§YNezávislí§!\n\n" # todo: NEW TRANSLATION
+  PER_move_to_baharestan: "Přesunout Majles do Baharestánu" # todo: NEW TRANSLATION
+  PER_move_to_baharestan_desc: "Naše vláda byla v poslední době značně vrtkavá ohledně umístění budovy Majlesu, a je načase, abychom se rozhodli pro něco lepšího a přistáli na tom, co zlepší efektivitu shromáždění." # todo: NEW TRANSLATION
+  PER_dissolve_the_parliament: "Rozpustit Majles" # todo: NEW TRANSLATION
+  PER_dissolve_the_parliament_desc: "Jak stojí, Majles se ukázal jako neschopný řádně vést [PER.GetFlag] íránský národ směrem k prosperitě. Pokud rozpustíme Majles a vyhlásíme nové volby, umožníme [PER.GetFlag] íránskému lidu vybrat nové zástupce \n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! po aktivaci §H8 let§!" # todo: NEW TRANSLATION
+  PER_reschedule_session: "Přesunout další debatu" # todo: NEW TRANSLATION
+  PER_reschedule_session_desc: "Naše země zoufale potřebuje návrhy od zástupců, aby ospravedlnila rychlé reformy. Požádáme Majles, aby přesunul svou příští debatu o 2 měsíce dříve, než bylo plánováno.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! po aktivaci §H2 roky§!" # todo: NEW TRANSLATION
+  PER_accept_constitutionalists_proposal: "£PER_liberalism  £PER_Western_Autocracy   Návrh liberálního bloku" # todo: NEW TRANSLATION
+  PER_accept_constitutionalists_proposal_desc: "\nČlenové bloku:\n- Íránští liberálové\n- Konstitucionalisté\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Liberálního bloku můžeme reformovat [PER.GetFlag] Írán tak, že všechny části společnosti, které jsou znepokojeny zacházením s obyčejnými lidmi, najdou naději, kterou po léta zoufale hledaly.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_west_conservatives_proposal: "£PER_Neutral_conservatism   £PER_conservatism   Návrh bloku umírněných konzervativců" # todo: NEW TRANSLATION
+  PER_accept_west_conservatives_proposal_desc: "\nČlenové bloku:\n- Národní fronta\n- Íránští konzervativci\n§W-----------------------------------------------------------------§!\nPřijetím návrhu bloku umírněných konzervativců můžeme reformovat [PER.GetFlag] Írán tak, aby se reakcionáři, kteří jsou proti některým revolučním hodnotám, konečně smířili s novými změnami v zemi.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_socialist_proposal: "£PER_socialism  £PER_Neutral_Communism   Návrh socialistického bloku" # todo: NEW TRANSLATION
+  PER_accept_socialist_proposal_desc: "\nČlenové bloku:\n- Iran Party\n- Komunistická dělnická strana\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Socialistického bloku můžeme reformovat [PER.GetFlag] Írán tak, aby dělnická třída našla přijatelný střed s naší novou vládou a jejími hodnotami.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_radical_leftist_proposal: "£PER_communism  £PER_anarchist_communism   Návrh krajně levicového bloku" # todo: NEW TRANSLATION
+  PER_accept_radical_leftist_proposal_desc: "\nČlenové bloku:\n- Tudeh Party\n- Organizace Lidových Mužáhedínů (MEK)\n§W-----------------------------------------------------------------§!\nPřijetím návrhu krajní levice můžeme reformovat [PER.GetFlag] Írán tak, že země se radikálně odkloní od své současné protilevicové orientace a hodnot.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_neo_islamist_proposal: "£PER_autocracy  £generic_Mod_Vilayat_e_Faqih_small   Návrh militantně islamistického bloku" # todo: NEW TRANSLATION
+  PER_accept_neo_islamist_proposal_desc: "\nČlenové bloku:\n- Společenství vyučujících v Qom\n- Íránské revoluční gardy (IRGC)\n§W-----------------------------------------------------------------§!\nPřijetím návrhu militantních islamistů můžeme reformovat [PER.GetFlag] Írán tak, že země se vrátí k islámštější minulosti a znovu vytvoří sféru států přátelských vůči režimu.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_moderate_islamist_proposal: "£PER_Neutral_Muslim_Brotherhood  £PER_neutral_Social   Návrh umírněného islamistického bloku" # todo: NEW TRANSLATION
+  PER_accept_moderate_islamist_proposal_desc: "\nČlenové bloku:\n- Zelená cesta naděje\n- Hnutí svobody Íránu\n§W-----------------------------------------------------------------§!\nPřijetím návrhu umírněných islamistů můžeme reformovat [PER.GetFlag] Írán tak, že země najde příjemný střed mezi zbytkem tvrdých zastánců v naší společnosti a rostoucí sekulární třídou.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_libertarian_proposal: "£PER_Neutral_Autocracy  £generic_Neutral_Libertarian_small   Návrh libertariánského bloku" # todo: NEW TRANSLATION
+  PER_accept_libertarian_proposal_desc: "\nČlenové bloku:\n- Restart Party\n- Libertariáni\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Libertariánů můžeme reformovat [PER.GetFlag] Írán tak, že trhy budou svobodnější a méně omezené vládními regulacemi.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_green_proposal: "£PER_Neutral_green   Návrh zeleného bloku" # todo: NEW TRANSLATION
+  PER_accept_green_proposal_desc: "\nČlen bloku:\n- Zelená strana Íránu\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Zelených můžeme reformovat [PER.GetFlag] Írán tak, že bude upřednostněno životní prostředí, aby Íránci uchovali svou zemi pro budoucí generace.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_corporate_proposal: "£generic_oligarchism_small   Návrh korporátního bloku" # todo: NEW TRANSLATION
+  PER_accept_corporate_proposal_desc: "\nČlen bloku:\n- Íránští oligarchové\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Korporátního bloku můžeme reformovat [PER.GetFlag] Írán tak, že regulace korporací budou prakticky neexistující a společnosti budou moci působit bez velkého vládního zasahování.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_monarchist_proposal: "£PER_Nat_Populism_small  £PER_monarchism   Návrh monarchistického bloku" # todo: NEW TRANSLATION
+  PER_accept_monarchist_proposal_desc: "\nČlenové bloku:\n- Paniranistická strana\n- Dynastie Pahlaví\n§W-----------------------------------------------------------------§!\nPřijetím návrhu Monarchistického bloku můžeme reformovat [PER.GetFlag] Írán tak, že se země zaměří na obranu své nezávislosti před cizími mocnostmi a na znovuobnovení nacionalistických hodnot mezi obyvatelstvem.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_ultra_nationalist_proposal: "£PER_fascism   Návrh ultranacionalistického bloku" # todo: NEW TRANSLATION
+  PER_accept_ultra_nationalist_proposal_desc: "\nČlen bloku:\n- Kingdom Assembly of Iran (Tondar)\n§W-----------------------------------------------------------------§!\nPřijetím návrhu ultranacionalistů můžeme reformovat [PER.GetFlag] Írán tak, že země opustí jakékoli islámské ideály a znovu se prosadí jako regionální velmoc, potenciálně i globální. \n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_artesh_proposal: "£PER_military_junta   Návrh vojenského bloku" # todo: NEW TRANSLATION
+  PER_accept_artesh_proposal_desc: "\nČlen bloku:\n- Artesh (ozbrojené síly)\n§W-----------------------------------------------------------------§!\nPřijetím vojenského návrhu můžeme reformovat [PER.GetFlag] Írán tak, že země zaměří více pozornosti na armádu, její rozšíření a modernizaci za každou cenu. \n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_reformists_proposal: "£PER_Mod_Vilayat_e_Faqih   Návrh reformistického bloku" # todo: NEW TRANSLATION
+  PER_accept_reformists_proposal_desc: "\nČlen bloku:\n- Reformisté \n§W-----------------------------------------------------------------§!\nPřijetím návrhu Reformistů můžeme reformovat tak, aby země uklidnila mladé generace, které usilují o větší individuální svobody a spojení se světem.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_accept_principalists_proposal: "£PER_Vilayat_e_Faqih   Návrh principalistického bloku" # todo: NEW TRANSLATION
+  PER_accept_principalists_proposal_desc: "\nČlen bloku:\n- Principalisté \n§W-----------------------------------------------------------------§!\nPřijetím návrhu Principalistů můžeme reformovat tak, že země bude dodržovat přísnější výklad šaría zákona a přesně následovat pokyny revolučních hodnot stanovené ajatolláhem Khomeiním.\n§W-----------------------------------------------------------------§!\nToto rozhodnutí bude §RUNAVAILABLE§! v §HPříští debatě§! po aktivaci, ale odemkne se po následující debatě." # todo: NEW TRANSLATION
+  PER_purging_the_remnants: "Čištění zbytků" # todo: NEW TRANSLATION
+  PER_purging_the_remnants_desc: "Majles přijal dekret podporující oslabení zbývajících zbytků režimu Islámské republiky. Byli jsme pověřeni oslabit jejich vliv a podkopat jakékoli příležitosti šířit jejich propagandu." # todo: NEW TRANSLATION
+  PER_turning_the_clock_forward: "Posunout hodiny vpřed" # todo: NEW TRANSLATION
+  PER_turning_the_clock_forward_desc: "Majles přijal dekret podporující sekularizaci státních institucí za účelem vytvoření většího smyslu národní jednoty." # todo: NEW TRANSLATION
+  PER_deep_pockets_deeper_ties: "Hlubší kapsy, hlubší vazby" # todo: NEW TRANSLATION
+  PER_deep_pockets_deeper_ties_desc: "Majles přijal dekret podporující navázání nových vazeb s ekonomickými mocnostmi po celém světě, povzbuzující náš stát k uzavírání obchodních dohod s jejich vládami." # todo: NEW TRANSLATION
+  PER_the_Iranian_lobby: "Íránské lobbování" # todo: NEW TRANSLATION
+  PER_the_Iranian_lobby_desc: "Majles přijal dekret podporující založení íránského politického lobbování v [ISR.GetFlag] Izraeli a [USA.GetFlag] Spojených státech." # todo: NEW TRANSLATION
+  PER_the_shift_never_ends: "Posun nikdy nekončí" # todo: NEW TRANSLATION
+  PER_the_shift_never_ends_desc: "Majles přijal dekret podporující vytváření nových pracovních míst a intenzivní snahu snížit nezaměstnanost pod 20%." # todo: NEW TRANSLATION
+  PER_clean_records: "Bez poskvrnky" # todo: NEW TRANSLATION
+  PER_clean_records_desc: "Majles přijal dekret, že budeme bojovat proti korupci ve vládě a najít nové způsoby, jak zlepšit ekonomiku po odstranění těch, kdo ji zpomalují." # todo: NEW TRANSLATION
+  PER_is_this_thing_on: "Je to zapnuté?" # todo: NEW TRANSLATION
+  PER_is_this_thing_on_desc: "Majles přijal dekret, že zdigitalizujeme východní části naší země vybudováním lepší síťové infrastruktury a vytvoříme více kancelářských pracovních míst v jižním ostanu Hormozgan." # todo: NEW TRANSLATION
+  PER_disparity_has_no_place_here: "Nerovnost zde nemá místo" # todo: NEW TRANSLATION
+  PER_disparity_has_no_place_here_desc: "Majles přijal dekret, že postavíme novou infrastrukturu v ostanech, kde panuje disparity, a požaduje, aby naše vláda postavila odpovídající zařízení v těchto regionech." # todo: NEW TRANSLATION
+  PER_iran_is_full: "Írán je plný" # todo: NEW TRANSLATION
+  PER_iran_is_full_desc: "Majles přijal dekret, že okamžitě postavíme nové bariéry na hranici v Sistan-o Balochistánu jako prostředek zabránit nechtěným uprchlíkům v proudu do [PER.GetFlag] Íránu." # todo: NEW TRANSLATION
+  PER_the_green_pastures: "Zelené pastviny" # todo: NEW TRANSLATION
+  PER_the_green_pastures_desc: "Majles přijal dekret, že okamžitě postavíme nové zemědělské zařízení pro farmáře v úrodných oblastech národa jako způsob vyvážení naší modernizace s udržením části minulosti." # todo: NEW TRANSLATION
+  PER_safety_security_stability: "Bezpečí, jistota, stabilita" # todo: NEW TRANSLATION
+  PER_safety_security_stability_desc: "Majles přijal dekret, že zvýšíme financování policie jako prostředek k obnovení bezpečí, jistoty a stability pro obyvatelstvo Íránu." # todo: NEW TRANSLATION
+  PER_our_left_hand: "Naše levá ruka" # todo: NEW TRANSLATION
+  PER_our_left_hand_desc: "Majles přijal dekret, že začneme uplatňovat náš vliv nad [IRQ.GetFlag] Irákem, [SYR.GetFlag] Sýrií a [KUR.GetFlag] Kurdistánem jako způsob, jak udržet kontrolu nad státy, které jsme dříve silně ovlivňovali." # todo: NEW TRANSLATION
+  PER_the_socialist_threat: "Socialistická hrozba" # todo: NEW TRANSLATION
+  PER_the_socialist_threat_desc: "Majles přijal dekret, že socialistické skupiny a jejich ideologie představují velmi věrohodnou hrozbu pro národní zájmy [PER.GetFlag] Íránu, a proto musíme co nejvíce potírat jejich aktivity." # todo: NEW TRANSLATION
+  PER_the_arteries_of_iran: "Tepnami Íránu" # todo: NEW TRANSLATION
+  PER_the_arteries_of_iran_desc: "Majles přijal dekret, že se musíme postarat o 'tepnami [PER.GetFlag] Íránu' a pumpovat více ropy do srdce [PER.GetFlag] íránské ekonomiky vytvořením potřebných zařízení." # todo: NEW TRANSLATION
+  PER_chess: "Šach mat" # todo: NEW TRANSLATION
+  PER_chess_desc: "Majles přijal dekret, že světu ukážeme, že jsme schopni chránit své národní zájmy před cizími a prosazovat je u našich sousedů." # todo: NEW TRANSLATION
+  PER_productive_minds: "Plodné mysli" # todo: NEW TRANSLATION
+  PER_productive_minds_desc: "Majles přijal dekret, že zlepšíme produktivitu našeho národa a podpoříme studenty, aby získali řádné vzdělání." # todo: NEW TRANSLATION
+  PER_open_hearts: "Otevřená srdce" # todo: NEW TRANSLATION
+  PER_open_hearts_desc: "Majles přijal dekret, že vytvoříme bezpečnější a stabilnější podmínky pro východ naší země, aby sem migranty mohli přijít a usadit se." # todo: NEW TRANSLATION
+  PER_centers_of_innovation: "Centra inovací" # todo: NEW TRANSLATION
+  PER_centers_of_innovation_desc: "Majles přijal dekret, že podpoříme nová centra inovací v Šírázu a Esfahánu. Tímto způsobem budeme moci rychle modernizovat ostany těsně u hlavního města." # todo: NEW TRANSLATION
+  PER_green_feel_to_paper: "Zelený pocit na papír" # todo: NEW TRANSLATION
+  PER_green_feel_to_paper_desc: "Majles přijal dekret, že budeme bojovat s národním dluhem a snížíme naše úrokové sazby co nejdříve, abychom prokázali, že naše ekonomické politiky stojí za zachování dlouhodobě." # todo: NEW TRANSLATION
+  PER_eyes_on_the_future: "Oči upřené do budoucnosti" # todo: NEW TRANSLATION
+  PER_eyes_on_the_future_desc: "Majles přijal dekret, že modernizujeme naše letiště včetně nové špičkové radarové technologie. Majles také požaduje, abychom začali zkoumat nové způsoby provádění výpočetních úloh." # todo: NEW TRANSLATION
+  PER_rights_of_workers: "Právo dělníka" # todo: NEW TRANSLATION
+  PER_rights_of_workers_desc: "Majles přijal dekret, že zavedeme lepší pracovní podmínky pro naše dělníky tím, že posílíme odbory v zemi." # todo: NEW TRANSLATION
+  PER_the_lights_shine_bright: "Světla zůstávají rozsvícená" # todo: NEW TRANSLATION
+  PER_the_lights_shine_bright_desc: "Majles přijal dekret, že postavíme nová obnovitelná zařízení na výrobu elektřiny a dosáhneme kvóty alespoň 80 GW výkonu." # todo: NEW TRANSLATION
+  PER_no_place_for_fascists: "Žádné místo pro fašisty" # todo: NEW TRANSLATION
+  PER_no_place_for_fascists_desc: "Majles přijal dekret, že zahájíme boj proti radikálním ideologiím a podpoříme konstruktivnější a bezpečnější Írán." # todo: NEW TRANSLATION
+  PER_old_friends: "Staří přátelé" # todo: NEW TRANSLATION
+  PER_old_friends_desc: "Majles přijal dekret, že začneme ovlivňovat a soupeřit s Ruskem a jeho blízkými spojenci. Tím můžeme rozšířit náš vliv v regionu a vybudovat tam lobby." # todo: NEW TRANSLATION
+  PER_the_pride_of_kordestan: "Pýcha Kordestánu" # todo: NEW TRANSLATION
+  PER_the_pride_of_kordestan_desc: "Majles přijal dekret, že postavíme nové továrny v regionu Kordestán, abychom kompenzovali nedostatek pracovních míst." # todo: NEW TRANSLATION
+  PER_health_knowledge_and_prosperity: "Zdraví, vědění, prosperita" # todo: NEW TRANSLATION
+  PER_health_knowledge_and_prosperity_desc: "Majles přijal dekret, že zavádíme principy zdraví, vědění a prosperity pro naše lidi, abychom zlepšili jejich životní úroveň na standard první světě." # todo: NEW TRANSLATION
+  PER_puppet_kurdistan: "Ochrana Kurdů" # todo: NEW TRANSLATION
+  PER_puppet_kurdistan_desc: "Majles přijal dekret, že musíme chránit kurdský lid a jejich autonomní stát na západě za každou cenu." # todo: NEW TRANSLATION
+  PER_help_the_kurds: "Oboustranné kladivo" # todo: NEW TRANSLATION
+  PER_help_the_kurds_desc: "Majles přijal dekret, že postavíme novou infrastrukturu v kurdské oblasti naší země jako prostředek usmíření za špatné zacházení." # todo: NEW TRANSLATION
+  PER_kermanshahs_supply: "Kermanshahův přísun" # todo: NEW TRANSLATION
+  PER_kermanshahs_supply_desc: "Majles přijal dekret, že Kermanshahu musí být poskytnuty nové zásobovací stanice k vyrovnání nedostatku dodávek do regionu." # todo: NEW TRANSLATION
+  PER_military_loyalty: "Zajistit loajalitu armády" # todo: NEW TRANSLATION
+  PER_military_loyalty_desc: "Majles přijal dekret o čistce v Arteshu a jeho vnitřním lobingu v politice našeho státu. Důvodem je, že považují vojenské zasahování za škodlivé a potenciálně nebezpečné." # todo: NEW TRANSLATION
+  PER_our_old_leverage: "Naše staré páky" # todo: NEW TRANSLATION
+  PER_our_old_leverage_desc: "Majles přijal dekret, že 'obnovíme' naši dříve hrdě drženou páku nad některými levantinskými státy." # todo: NEW TRANSLATION
+  PER_our_thorns: "Naše trny" # todo: NEW TRANSLATION
+  PER_our_thorns_desc: "Majles přijal dekret, že postavíme nové raketové zařízení jako prostředek odstrašení jakýchkoli nepřátelských aktů namířených proti našemu národu a armádě." # todo: NEW TRANSLATION
+  PER_explosive_deterrent: "Výbušné odstrašení" # todo: NEW TRANSLATION
+  PER_explosive_deterrent_desc: "Majles přijal dekret, že využijeme veškeré dostupné zařízení k vytvoření jaderné hlavice jako prostředek odstrašení potenciálních škůdců." # todo: NEW TRANSLATION
+  PER_a_return_to_the_past: "Návrat do minulosti" # todo: NEW TRANSLATION
+  PER_a_return_to_the_past_desc: "Majles přijal dekret, že zavedeme reformy, které posunou naši zemi směrem k konzervativnějším a islámským zákonům." # todo: NEW TRANSLATION
+  PER_righteous_roads: "Cesty spravedlnosti" # todo: NEW TRANSLATION
+  PER_righteous_roads_desc: "Majles přijal dekret, že postavíme nová zařízení v převážně náboženských ostanech Qom a Chórásán." # todo: NEW TRANSLATION
+  PER_firm_hand_of_the_law: "Pevná ruka zákona" # todo: NEW TRANSLATION
+  PER_firm_hand_of_the_law_desc: "Majles přijal dekret, že musíme znovu obnovit důvěru v zákon v naší zemi tím, že lidem prokážeme naši kompetenci." # todo: NEW TRANSLATION
+  PER_demand_our_payments: "Požadovat naše platby" # todo: NEW TRANSLATION
+  PER_demand_our_payments_desc: "Majles přijal dekret, že musíme požadovat spravedlivé válečné reparace od Iráku. Tímto můžeme reinvestovat dodatečné peníze do našeho lidu." # todo: NEW TRANSLATION
+  PER_nuclear_activities: "Jaderné aktivity" # todo: NEW TRANSLATION
+  PER_nuclear_activities_desc: "Majles přijal dekret, že je zcela v našem právu stavět nové jaderné reaktory za účelem posílení našich domácích jaderných schopností." # todo: NEW TRANSLATION
+  PER_the_mediator: "Zprostředkovatel" # todo: NEW TRANSLATION
+  PER_the_mediator_desc: "Majles přijal dekret, že musíme věnovat větší geopolitickou pozornost Ománu a jeho aktivitám v regionu." # todo: NEW TRANSLATION
+  PER_take_flight: "Vzlétnout" # todo: NEW TRANSLATION
+  PER_take_flight_desc: "Majles přijal dekret, že zlepšíme kontrolu kvality na našich letištích a požadujeme jejich modernizaci a bezpečnost." # todo: NEW TRANSLATION
+  PER_the_SCO: "Naši přátelé v Šanghaji" # todo: NEW TRANSLATION
+  PER_the_SCO_desc: "Majles přijal dekret, že musíme zlepšit vztahy s našimi přáteli v Číně a připojit se k Šanghajské organizaci pro spolupráci jako prostředek k levnějším metodám zlepšování infrastruktury a průmyslu." # todo: NEW TRANSLATION
+  PER_economic_disturbance: "Ekonomické narušení" # todo: NEW TRANSLATION
+  PER_economic_disturbance_desc: "Majles přijal dekret, že se musíme vypořádat s povstáními IRGC, které poškozují schopnost našeho národa fungovat na základní ekonomické úrovni." # todo: NEW TRANSLATION
+  PER_the_tax_haven: "Daňový ráj" # todo: NEW TRANSLATION
+  PER_the_tax_haven_desc: "Majles přijal dekret, že musíme snížit daně v naší zemi pro všechny subjekty na 10% nebo méně jako prostředek k vytvoření lepších ekonomických podmínek pro růst jednotlivců a společností." # todo: NEW TRANSLATION
+  PER_money_everywhere: "Peníze všude" # todo: NEW TRANSLATION
+  PER_money_everywhere_desc: "Majles přijal dekret, že musíme zvýšit naše podíly v mezinárodních investicích a aktivněji zapojit naši zemi a ekonomiku do globálního trhu." # todo: NEW TRANSLATION
+  PER_right_to_bear_arms: "Právo nosit zbraně" # todo: NEW TRANSLATION
+  PER_right_to_bear_arms_desc: "Majles přijal dekret, že musíme schválit zákon zaručující právo nosit zbraně pro běžného občana. Návrh zákona vede Restart Party." # todo: NEW TRANSLATION
+  PER_exploiting_competition: "Využívání pijavic" # todo: NEW TRANSLATION
+  PER_exploiting_competition_desc: "Majles přijal dekret, že musíme začít zvyšovat náš ekonomický růst nad některými státy, které profitují z naší prosperity." # todo: NEW TRANSLATION
+  PER_controlling_competition: "Kontrolování konkurence" # todo: NEW TRANSLATION
+  PER_controlling_competition_desc: "Majles přijal dekret, že musíme najít nové způsoby, jak zabránit konkurenci, aby nás ohrozila v ekonomických záležitostech." # todo: NEW TRANSLATION
+  PER_renewable_capitals: "Kapitály obnovitelné energie" # todo: NEW TRANSLATION
+  PER_renewable_capitals_desc: "Majles přijal dekret, že postavíme obnovitelná zařízení ve velkých městech, abychom bojovali proti znečištění." # todo: NEW TRANSLATION
+  PER_nuclear_fumes: "Jaderné výpary" # todo: NEW TRANSLATION
+  PER_nuclear_fumes_desc: "Majles přijal dekret, že musíme zahájit výstavbu jaderných elektráren, které pomohou usnadnit přechod země na obnovitelné zdroje." # todo: NEW TRANSLATION
+  PER_farms_over_factories: "Farma místo továren" # todo: NEW TRANSLATION
+  PER_farms_over_factories_desc: "Majles přijal dekret, že musíme upřednostnit vytváření nových zemědělských lokalit místo plánovaných továren, protože továrny byly shledány environmentálně škodlivějšími než farmy." # todo: NEW TRANSLATION
+  PER_the_electric_grid: "Posílit elektrickou síť" # todo: NEW TRANSLATION
+  PER_the_electric_grid_desc: "Majles přijal dekret, že musíme postavit více bateriových parků, abychom posílili elektrickou síť a zabránili výpadkům v některých částech země." # todo: NEW TRANSLATION
+  PER_oil_warehouses: "Černé zlato" # todo: NEW TRANSLATION
+  PER_oil_warehouses_desc: "Majles přijal dekret, že musíme postavit nová zařízení pro ukládání naší ropy, která byla nazvána 'Černým zlatem' Íránu." # todo: NEW TRANSLATION
+  PER_priority_treatment: "Prioritní zacházení" # todo: NEW TRANSLATION
+  PER_priority_treatment_desc: "Majles přijal dekret, že státy s našimi ropnými zdroji budou mít vyšší prioritu, aby byla zajištěna stabilita a vysoká produktivita v těchto regionech." # todo: NEW TRANSLATION
+  PER_look_the_other_way: "Pohlédnout jinam" # todo: NEW TRANSLATION
+  PER_look_the_other_way_desc: "Majles přijal dekret, že při uvalování daní na korporace, které se snaží podnikat, budeme obracet zrak jiným směrem, což jim umožní rozkvět v průmyslovém rozvoji." # todo: NEW TRANSLATION
+  PER_open_borders_more_workers: "Otevřené hranice, více pracovníků" # todo: NEW TRANSLATION
+  PER_open_borders_more_workers_desc: "Majles přijal dekret, že musíme otevřít naše hranice, aby se zvýšil přísun pracovníků do naší země." # todo: NEW TRANSLATION
+  PER_intervention_in_the_east: "Intervence na východě" # todo: NEW TRANSLATION
+  PER_intervention_in_the_east_desc: "Majles přijal dekret, že musíme poslat [PER.GetFlag] íránské jednotky do [AFG.GetFlag] Afghánistánu k boji proti [TAL.GetFlag] Tálibánu." # todo: NEW TRANSLATION
+  PER_air_facilities: "Předměty na obloze" # todo: NEW TRANSLATION
+  PER_air_facilities_desc: "Majles přijal dekret, že musíme najít nové a inovativní způsoby výroby nových letadel, konkrétně prostřednictvím nových výzkumných zařízení." # todo: NEW TRANSLATION
+  PER_lessons_of_white_revolution: "Plody bílé revoluce" # todo: NEW TRANSLATION
+  PER_lessons_of_white_revolution_desc: "Majles přijal dekret, že musíme přivést 'Éru prosperity a modernity' lidu, podobnou bílé revoluci." # todo: NEW TRANSLATION
+  PER_brother_nations: "Bratrské národy" # todo: NEW TRANSLATION
+  PER_brother_nations_desc: "Majles přijal dekret, že musíme znovu prosadit náš vliv nad [AFG.GetFlag] Afghánistánem a [TAJ.GetFlag] Tádžikistánem." # todo: NEW TRANSLATION
+  PER_fight_against_evil: "Boj proti zlu" # todo: NEW TRANSLATION
+  PER_fight_against_evil_desc: "Majles přijal dekret, že musíme vést válku proti zločincům umístěným v jižním Libanonu." # todo: NEW TRANSLATION
+  PER_our_lost_jewel: "Náš ukradený klenot" # todo: NEW TRANSLATION
+  PER_our_lost_jewel_desc: "Majles přijal dekret, že musíme co nejdříve zcela získat [BHR.GetFlag] Bahrajn zpět, protože Majles a jeho předseda jej považují za 'ukradený klenot'." # todo: NEW TRANSLATION
+  PER_the_lions_jungle: "Lví džungle" # todo: NEW TRANSLATION
+  PER_the_lions_jungle_desc: "Majles přijal dekret, že musíme dosáhnout naprosté nezávislosti na jakémkoli cizím vlivu, přičemž předseda Majlesu prohlásil [PER.GetFlag] Írán a jeho území za 'Lví džungli a pouze Lva'." # todo: NEW TRANSLATION
+  PER_prosperity_of_the_people: "Prosperita lidu" # todo: NEW TRANSLATION
+  PER_prosperity_of_the_people_desc: "Majles přijal dekret, že musíme zajistit, aby příjmy lidí odpovídaly průměru podle regionálních standardů. Dny, kdy Íránci vydělávali méně než ostatní, musí skončit." # todo: NEW TRANSLATION
+  PER_insurgencies_nowhere: "Východní řešení" # todo: NEW TRANSLATION
+  PER_insurgencies_nowhere_desc: "Majles přijal dekret, že musíme najít řešení 'východního konfliktu', kde ultranacionalisté podporují íránskou intervenci k ukončení boje na naší hranici." # todo: NEW TRANSLATION
+  PER_jobs_in_the_arms_industry: "Pracovní místa v zbrojním průmyslu" # todo: NEW TRANSLATION
+  PER_jobs_in_the_arms_industry_desc: "Majles přijal dekret, že musíme najít nové práce pro lidi a jednou z oblastí, kde můžeme expandovat, je zbrojní průmysl." # todo: NEW TRANSLATION
+  PER_clear_skies: "Čistá obloha" # todo: NEW TRANSLATION
+  PER_clear_skies_desc: "Majles přijal dekret, že postavíme nové protiletadlové systémy, abychom ochránili naši zemi před cizími letadly pronikajícími bez varování." # todo: NEW TRANSLATION
+  PER_sound_of_marching_boots: "Zvuk pochodujících bot" # todo: NEW TRANSLATION
+  PER_sound_of_marching_boots_desc: "Majles přijal dekret, že musíme zvýšit počty našich ozbrojených sil na alespoň 400 000." # todo: NEW TRANSLATION
+  PER_endless_stockpiles: "Nekonečné zásoby" # todo: NEW TRANSLATION
+  PER_endless_stockpiles_desc: "Majles přijal dekret, že musíme rozšířit naše zásoby tanků MBT a dokázat národu, že jsme silnější, než někteří tvrdí." # todo: NEW TRANSLATION
+  PER_calm_waters: "Zklidněné vody" # todo: NEW TRANSLATION
+  PER_calm_waters_desc: "Majles přijal dekret, že musíme vybudovat nové námořní zařízení k podpoře růstu naší námořní síly v regionu." # todo: NEW TRANSLATION
+  PER_national_connection: "Národní propojení" # todo: NEW TRANSLATION
+  PER_national_connection_desc: "Majles přijal dekret, že musíme vybudovat nové sítě po celé zemi." # todo: NEW TRANSLATION
+  PER_friends_from_across: "Přátelé ze zahraničí" # todo: NEW TRANSLATION
+  PER_friends_from_across_desc: "Majles přijal dekret, že se musíme připojit k SCO jako prostředek posílení našeho národního obchodu." # todo: NEW TRANSLATION
+  PER_booming_economy: "Kvitnoucí ekonomika" # todo: NEW TRANSLATION
+  PER_booming_economy_desc: "Majles přijal dekret, že přineseme ekonomickou prosperitu našim lidem za každou cenu." # todo: NEW TRANSLATION
+  PER_safe_flight: "Bezpečné lety" # todo: NEW TRANSLATION
+  PER_safe_flight_desc: "Majles přijal dekret, že musíme zlepšit naši leteckou infrastrukturu a vytvořit adekvátní zařízení k prospěchu našich lidí." # todo: NEW TRANSLATION
+  PER_seagulls_screech: "Křik racků" # todo: NEW TRANSLATION
+  PER_seagulls_screech_desc: "Majles přijal dekret, že postavíme nové přístavy na jihu naší země, čímž zlepšíme přístup k přístavům a podpoříme mezinárodní obchod." # todo: NEW TRANSLATION
+  PER_brothers_to_the_east: "Bratři na východě" # todo: NEW TRANSLATION
+  PER_brothers_to_the_east_desc: "Majles přijal dekret, že musíme zvýšit naši přítomnost v zemích, které s námi sdílejí společný jazyk." # todo: NEW TRANSLATION
+  PER_investments_everywhere: "Investice všude" # todo: NEW TRANSLATION
+  PER_investments_everywhere_desc: "Majles přijal dekret, že musíme investovat značnou částku peněz a udržet investice po dobu 1 roku" # todo: NEW TRANSLATION
+  PER_those_in_need: "Ti v nouzi" # todo: NEW TRANSLATION
+  PER_those_in_need_desc: "Majles přijal dekret, že musíme zlepšit zařízení, infrastrukturu a životní podmínky 'těch v nouzi', tedy našich chudších ostanů." # todo: NEW TRANSLATION
+  PER_a_place_for_all: "Místo pro všechny" # todo: NEW TRANSLATION
+  PER_a_place_for_all_desc: "Majles přijal dekret, že musíme vytvořit novou infrastrukturu v oblastech, do kterých se začali stěhovat migranti, abychom zlepšili jejich kvalitu života a udělali z Íránu místo pro všechny." # todo: NEW TRANSLATION
+  PER_productive_promises: "Produktivní sliby" # todo: NEW TRANSLATION
+  PER_productive_promises_desc: "Majles přijal dekret, že musíme vytvořit více pracovních příležitostí pro více lidí v naší zemi, abychom splnili sliby o zvýšení zaměstnanosti." # todo: NEW TRANSLATION
+  PER_faith_in_the_government: "Důvěra ve vládu" # todo: NEW TRANSLATION
+  PER_faith_in_the_government_desc: "Majles přijal dekret, že musíme obnovit důvěru ve vládu a jedním ze způsobů je zajistit, že korupce byla zastavena." # todo: NEW TRANSLATION
+  PER_breaks_for_the_needy: "Úlevy pro chudé" # todo: NEW TRANSLATION
+  PER_breaks_for_the_needy_desc: "Majles přijal dekret, že musíme zavést daňové úlevy pro jednotlivce a současně zvýšit regulace a daně na korporace jako způsob udržení stabilního příjmu." # todo: NEW TRANSLATION
+  PER_industrialization_of_rural_areas: "Industrializace venkovských oblastí" # todo: NEW TRANSLATION
+  PER_industrialization_of_rural_areas_desc: "Majles přijal dekret, že musíme industrializovat venkovské oblasti, které byly zanedbávány." # todo: NEW TRANSLATION
+  PER_meddling_in_conflicts: "Míchání se do konfliktů" # todo: NEW TRANSLATION
+  PER_meddling_in_conflicts_desc: "Majles přijal dekret, že musíme zvýšit naše zpravodajství o konfliktech mezi Tureckem a Řeckem." # todo: NEW TRANSLATION
+  PER_passive_aggressive_competition: "Pasivně-agresivní konkurence" # todo: NEW TRANSLATION
+  PER_passive_aggressive_competition_desc: "Majles přijal dekret, že musíme posílit účast našich lidí v politice, a jedním ze způsobů je zvýšení popularity našich front." # todo: NEW TRANSLATION
+  PER_new_energy: "Nová energie" # todo: NEW TRANSLATION
+  PER_new_energy_desc: "Majles přijal dekret, že musíme vytvořit nové zdroje energie pro napájení domovů, podniků a aut." # todo: NEW TRANSLATION
+  PER_a_thriving_economy: "Dobře prosperující ekonomika" # todo: NEW TRANSLATION
+  PER_a_thriving_economy_desc: "Majles přijal dekret, že musíme bojovat s naším dluhem a snížit úrokové sazby na příznivější úroveň." # todo: NEW TRANSLATION
+  PER_intervention_in_afghanistan: "Intervence v Afghánistánu" # todo: NEW TRANSLATION
+  PER_intervention_in_afghanistan_desc: "Majles přijal dekret, že musíme poslat [PER.GetFlag] íránské jednotky do [AFG.GetFlag] Afghánistánu k boji proti [TAL.GetFlag] Tálibánu." # todo: NEW TRANSLATION
+  PER_developing_the_capital: "Rozvoj hlavního města" # todo: NEW TRANSLATION
+  PER_developing_the_capital_desc: "Majles přijal dekret, že začneme rozvoj hlavního města Teheránu jako prostředek ke zvýšení morálky lidí v této oblasti." # todo: NEW TRANSLATION
+  PER_syrian_hand: "Syrská ruka" # todo: NEW TRANSLATION
+  PER_syrian_hand_desc: "Majles přijal dekret, že musíme dostat syrskou vládu pod náš vliv jakýmkoli možným způsobem." # todo: NEW TRANSLATION
+  PER_the_armys_suppliers: "Zisky armády" # todo: NEW TRANSLATION
+  PER_the_armys_suppliers_desc: "Majles přijal dekret, že musíme zvýšit průmyslové schopnosti armády, abychom zvýšili zisky z výroby vybavení." # todo: NEW TRANSLATION
+  PER_ease_of_prayer: "Cesty zbožnosti" # todo: NEW TRANSLATION
+  PER_ease_of_prayer_desc: "Majles přijal dekret, že musíme zlepšit silnice a infrastrukturu v okolí našich náboženských a svatých míst a měst." # todo: NEW TRANSLATION
+  PER_our_rightful_money: "Naše oprávněné peníze" # todo: NEW TRANSLATION
+  PER_our_rightful_money_desc: "Majles přijal dekret, že musíme požadovat od Iračanů reparace, které nám dlouho dluží v důsledku války v 80. letech." # todo: NEW TRANSLATION
+  PER_enemies_on_a_leash: "Nepřátelé na vodítku" # todo: NEW TRANSLATION
+  PER_enemies_on_a_leash_desc: "Majles přijal dekret, že musíme udržet naše nepřátele na vodítku, kontrolovat jejich vlády a ekonomiky." # todo: NEW TRANSLATION
+  PER_fighting_foreigners: "Boj s cizinci" # todo: NEW TRANSLATION
+  PER_fighting_foreigners_desc: "Majles přijal dekret, že musíme bojovat proti cizincům, kteří se snaží zasahovat do nezávislosti regionálních zemí, a snížit jejich vliv v Jordánsku." # todo: NEW TRANSLATION
+  PER_aiding_the_farmer: "Venkovská expanze" # todo: NEW TRANSLATION
+  PER_aiding_the_farmer_desc: "Majles přijal dekret, že musíme rozšířit venkovské oblasti a zejména budovat lepší a moderní farmy." # todo: NEW TRANSLATION
+  PER_fueling_our_revolution: "Napájení naší revoluce" # todo: NEW TRANSLATION
+  PER_fueling_our_revolution_desc: "Majles přijal dekret, že musíme zlepšit naši ropnou infrastrukturu jako způsob 'Napájení naší revoluce'." # todo: NEW TRANSLATION
+  PER_outnumbering_the_enemy: "Převýšení nepřítele množstvím" # todo: NEW TRANSLATION
+  PER_outnumbering_the_enemy_desc: "Majles přijal dekret, že musíme přemoci všechny naše nepřátele vyššími počty vojáků, aby jejich statistiky vypadaly horší v porovnání s námi." # todo: NEW TRANSLATION
+  PER_safety_with_stability: "Bezpečí skrze stabilitu" # todo: NEW TRANSLATION
+  PER_safety_with_stability_desc: "Majles přijal dekret, že musíme zajistit bezpečí a stabilitu v naší zemi zvýšením naší bezpečnosti." # todo: NEW TRANSLATION
+  PER_national_deterrents: "Národní odstrašující prostředky" # todo: NEW TRANSLATION
+  PER_national_deterrents_desc: "Majles přijal dekret, že musíme vytvořit nové odstrašující prostředky, aby naši nepřátelé byli odstrašeni a dvakrát si rozmysleli útok." # todo: NEW TRANSLATION
+  PER_exploiting_our_proxies: "Využívání našich lokajů" # todo: NEW TRANSLATION
+  PER_exploiting_our_proxies_desc: "Majles přijal dekret, že musíme najít jiný způsob akumulace příjmů, a někteří poslanci naznačili získávání těchto peněz ze zemí, kde máme mnoho lokajů." # todo: NEW TRANSLATION
+  PER_productive_state: "Produktivní stát" # todo: NEW TRANSLATION
+  PER_productive_state_desc: "Majles přijal dekret, že náš národ musí splnit kvótu produktivity, protože jsme výrazně pozadu za některými jinými státy." # todo: NEW TRANSLATION
+  PER_debate_now: "Probíhá debata..." # todo: NEW TRANSLATION
+  PER_doing_proposal: "Vybrán návrh" # todo: NEW TRANSLATION
+  PER_domestic_politics: "Domácí záležitosti Íránu" # todo: NEW TRANSLATION
+  PER_domestic_politics_desc: "Naše domácí záležitosti jsou formovány naší stranou, ideologií a národním směrem. Jak naše vláda roste, budou k dispozici další rozhodnutí." # todo: NEW TRANSLATION
+  PER_yazd_to_bushehr_railway: "Železnice Yazd–Bushehr" # todo: NEW TRANSLATION
+  PER_yazd_to_bushehr_railway_desc: "Pobřežní město Bushehr zoufale potřebuje spojení s centrem země železnicí." # todo: NEW TRANSLATION
+  PER_qom_to_ilam_railway: "Železnice Qom–Ilam" # todo: NEW TRANSLATION
+  PER_qom_to_ilam_railway_desc: "Region Kordestán postrádá řádnou dopravu a zásobovací infrastrukturu, nastal čas to změnit." # todo: NEW TRANSLATION
+  PER_kerman_to_chabahar: "Železnice Kerman–Chabahar" # todo: NEW TRANSLATION
+  PER_kerman_to_chabahar_desc: "Region Balochistánu byl dost dlouho zanedbáván; můžeme uklidnit napětí a uspokojit lidi zavedením řádné železniční infrastruktury." # todo: NEW TRANSLATION
+  PER_political_backup: "Politická záloha" # todo: NEW TRANSLATION
+  PER_political_backup_desc: "V dobách politického selhání se vždy můžeme spolehnout na tento program, abychom oživit podporu." # todo: NEW TRANSLATION
+  PER_economic_backup: "Ekonomická záloha" # todo: NEW TRANSLATION
+  PER_economic_backup_desc: "V čase ekonomických potíží se vždy můžeme spolehnout na tento plán, aby nás zachránil." # todo: NEW TRANSLATION
+  PER_kurdish_troops: "Mobilizovat kurdské stoupence" # todo: NEW TRANSLATION
+  PER_kurdish_troops_desc: "Můžeme mobilizovat kurdské stoupence v naší vládě, aby pomohli posílit naše ozbrojené síly a připravili se bránit zemi za každou cenu." # todo: NEW TRANSLATION
+  PER_kurdish_promise_economy: "Kurdský slib" # todo: NEW TRANSLATION
+  PER_kurdish_promise_economy_desc: "Slibovali jsme Kurdům, že podpoříme ekonomický růst v regionu, a výměnou se zaměří na rozvoj služeb." # todo: NEW TRANSLATION
+  PER_kurdish_promise_army: "Kurdský slib" # todo: NEW TRANSLATION
+  PER_kurdish_promise_army_desc: "Slibovali jsme Kurdům, že podpoříme pracovní místa v zbrojním průmyslu, a výměnou nabídnou svoje vojenské služby." # todo: NEW TRANSLATION
+  PER_reza_pahlavi: "Pozvat Rezu Pahlavího" # todo: NEW TRANSLATION
+  PER_reza_pahlavi_desc: "Korunní princ Reza Pahlavi a jeho stoupenci čekají na formální pozvání do nové ústavní vlády. Můžeme je ignorovat kvůli demokracii, ale tím bychom znehodnotili účel naší strany." # todo: NEW TRANSLATION
+  PER_utilize_party_support: "Mobilizovat podporovatele strany" # todo: NEW TRANSLATION
+  PER_utilize_party_support_desc: "Povoláním vlasteneckých a statečných stoupenců Paniranistické strany budeme schopni bojovat proti nepříteli s větší zuřivostí než kdy dříve." # todo: NEW TRANSLATION
+  PER_socialist_union_with_iraq: "Pozvat Irák do socialistické unie" # todo: NEW TRANSLATION
+  PER_socialist_union_with_iraq_desc: "Můžeme pozvat iráckou vládu, aby se k nám připojila do socialistické unie. Tento krok bude jistě přivítán iráckými komunisty." # todo: NEW TRANSLATION
+  PER_integrate_basrah_maysan: "Integrovat Basru a Maysan" # todo: NEW TRANSLATION
+  PER_integrate_basrah_maysan_desc: "Jižní irácké provincie Basra a Maysan jsou nábožensky a kulturně íránské. Zůstává málo důvodů, proč bychom tyto důležité regiony měli ignorovat." # todo: NEW TRANSLATION
+  PER_integrate_azerbaijan: "Integrovat Ázerbájdžán" # todo: NEW TRANSLATION
+  PER_integrate_azerbaijan_desc: "Nastal čas znovu sjednotit oba Ázerbájdžány v jeden celek. Rusové ukořistili severní část Ázerbájdžánu kvůli vojenské neschopnosti Kádžárů. Po rozpadu Sovětského svazu se stát, který byl více než 2000 let součástí Íránu, stal poprvé samostatným státem — připomínka našeho pádu." # todo: NEW TRANSLATION
+  PER_integrate_armenia: "Integrovat Arménii" # todo: NEW TRANSLATION
+  PER_integrate_armenia_desc: "Arménie byla dlouho pufrovým státem mezi námi a západními a severními sousedy. Několik pokusů o začlenění Arménů do Íránu bylo učiněno s mírným úspěchem v 17. století. Armény nám vzali Turci na západě a později byla Arménie v 20. století propuštěna jako nezávislý stát." # todo: NEW TRANSLATION
+  PER_integrate_turkmenistan: "Integrovat Turkmenistán" # todo: NEW TRANSLATION
+  PER_integrate_turkmenistan_desc: "Turkmenský stát byl vytvořen na vratkých základech. Od smlouvy z Turkmenčaje jsou turkmenský lid oddělen od svých íránských příbuzných." # todo: NEW TRANSLATION
+  PER_rebellion_in_kordestan: "Povstání v [IKR.GetFlag] Kordestánu" # todo: NEW TRANSLATION
+  PER_rebellion_in_kordestan_desc: "Západní část země hoří, protože zahraniční aktéři je vyzbrojili k boji proti naší vládě!" # todo: NEW TRANSLATION
+  PER_rebellion_in_arabistan: "Povstání v [ARA.GetFlag] Chúzestánu" # todo: NEW TRANSLATION
+  PER_rebellion_in_arabistan_desc: "Ropou bohatý ostan Chúzestán se bouří proti centrální vládě!" # todo: NEW TRANSLATION
+  PER_rebellion_in_balochistan: "Povstání v [BLC.GetFlag] Balochistánu" # todo: NEW TRANSLATION
+  PER_rebellion_in_balochistan_desc: "Lidé v Balochistánu vytvořili různé milice, aby bojovali proti naší vládě!" # todo: NEW TRANSLATION
+  PER_rebellion_in_azerbaijan: "Povstání v [SAZ.GetFlag] Jižním Ázerbájdžánu" # todo: NEW TRANSLATION
+  PER_rebellion_in_azerbaijan_desc: "Lidé íránského Ázerbájdžánu byli vyzbrojeni a financováni cizími vládami k boji proti našemu státu!" # todo: NEW TRANSLATION
+  PER_state_visit_to_usa: "Státní návštěva v [USA.GetFlag] Spojených státech" # todo: NEW TRANSLATION
+  PER_state_visit_to_usa_desc: "Zorganizování státní návštěvy našich starých přátel v USA může být užitečné při navazování nových aliancí ve světě, ve kterém jsme byli izolováni." # todo: NEW TRANSLATION
+  PER_establish_hardliner_control: "Zavést totalitní kontrolu tvrdých zastánců" # todo: NEW TRANSLATION
+  PER_establish_hardliner_control_desc: "Nastal čas konsolidovat kontrolu nad naší politikou. Už nebudeme hrát hru on proti němu; skutečná moc vždy stála u Ajatolláha. Odstranění malicherné instituce Majlesu zkrátí mnoho byrokracie ve vládě. A post prezidenta byl jen figurkou, která vykonávala vůli Ajatolláha." # todo: NEW TRANSLATION
+  PER_lift_the_fatwa: "Zrušit fatwu" # todo: NEW TRANSLATION
+  PER_lift_the_fatwa_desc: "Nastal čas, aby náš vůdce odvolal svou fatwu proti jaderným zbraním. Západní mocnosti nám nenechaly jinou volbu než usilovat o tento odstrašující prostředek." # todo: NEW TRANSLATION
+  PER_the_national_flag: "Národní vlajka" # todo: NEW TRANSLATION
+  PER_the_national_flag_desc: "Máme možnost změnit národní vlajku na jakoukoli, kterou chceme." # todo: NEW TRANSLATION
+  PER_separatist_warning: "Hrozby separatismu" # todo: NEW TRANSLATION
+  PER_separatist_warning_desc: "Pro vedení byla připravena podrobná zpráva o cizím vykořisťování našich nejzranitelnějších regionů." # todo: NEW TRANSLATION
+  PER_complete_milad_tower: "Dokončit stavbu Milad Tower" # todo: NEW TRANSLATION
+  PER_complete_milad_tower_desc: "Plány věže vznikly již před revolucí; Milad Tower je symbolem naší modernizace a ukázkou domácí prosperity. Po desetiletích zpoždění ukázat dokončení věže národu, že směřujeme do 21. století plnou silou." # todo: NEW TRANSLATION
+  PER_reestablish_savak: "Znovu založit £PER_monarchism  SAVAK" # todo: NEW TRANSLATION
+  PER_reestablish_savak_desc: "SAVAK byl před mnoha lety zrušen Islámskou republikou, čímž byl zničen tajný aparát státu. Dnes však s několika reformami a mezinárodním lobbováním budeme schopni ospravedlnit návrat a obnovení SAVAKu." # todo: NEW TRANSLATION
+  PER_request_pahlavi_tomb: "Získat tělo Mohammada Reza Pahlaviho" # todo: NEW TRANSLATION
+  PER_request_pahlavi_tomb_desc: "Musíme dovolat zpět tělo bývalého šáha a postavit pro něj nový hrob v Teheránu." # todo: NEW TRANSLATION
+  PER_restore_bandar_pahlavi: "Obnovit Bandar-e Pahlavi" # todo: NEW TRANSLATION
+  PER_restore_bandar_pahlavi_desc: "Bandar-e Pahlavi, také známý jako Pahlavi Port, byl přejmenován na Bandar Anzali po svržení monarchie v roce 1979. Návrat této změny provedené mulláhy by mohl naší vládě pomoci znovu získat určitou legitimitu." # todo: NEW TRANSLATION
+  PER_distribute_leader_photos: "Distribuovat portréty [PER.GetLeader]" # todo: NEW TRANSLATION
+  PER_distribute_leader_photos_desc: "Musíme nahradit všechny portréty Khameneího a Khomeiniho v domácnostech, kancelářích a jiných budovách portrétem [PER.GetLeader]. To nám může pomoci upevnit naši revoluci a věc." # todo: NEW TRANSLATION
+  PER_redesign_the_gulf: "Přepracovat Bandar Abbas" # todo: NEW TRANSLATION
+  PER_redesign_the_gulf_desc: "Bandar Abbas bude opět hlavním obchodním přístavem v Perském zálivu, zejména pokud jej zrenovujeme a zlepšíme." # todo: NEW TRANSLATION
+  PER_establish_support_in_yemen: "Založit podporu v Jemenu" # todo: NEW TRANSLATION
+  PER_establish_support_in_yemen_desc: "Situace v Jemenu se pomalu destabilizuje. Musíme se pokusit navázat nějakou formu podpory v arabském státě." # todo: NEW TRANSLATION
+  PER_move_capital_esfahan: "Přesunout hlavní město do Esfahánu" # todo: NEW TRANSLATION
+  PER_move_capital_esfahan_desc: "Přesunutím našeho hlavního města do Esfahánu můžeme zajistit bezpečí našeho nejdůležitějšího města v případě války. Esfahán je ideální umístění, protože leží v centru naší země, daleko od sousedních států." # todo: NEW TRANSLATION
+  PER_resistance_movement: "Protivládní protesty" # todo: NEW TRANSLATION
+  PER_resistance_movement_desc: "Jako přímá reakce na nedávná opatření vlády vznikly protesty ohrožující legitimitu režimu a stabilitu země. Jak se rozhodneme na protesty reagovat, určí, zda budou pokračovat nebo opadnou.\n\n§RČerveně§! označuje oblasti pod vládní kontrolou, zatímco §ZZeleně§! označuje oblasti, kam se protesty rozšířily." # todo: NEW TRANSLATION
+  PER_throttle_internet_speeds: "Omezit rychlost internetu" # todo: NEW TRANSLATION
+  PER_throttle_internet_speeds_desc: "Omezením rychlosti internetu můžeme potlačit šíření informací a organizaci dalších protestů." # todo: NEW TRANSLATION
+  PER_nationwide_security_presence: "Nasadit celostátní bezpečnostní síly" # todo: NEW TRANSLATION
+  PER_nationwide_security_presence_desc: "Nasazením bezpečnostních sil po celé zemi můžeme zastrašit protestující, aby nevycházeli do ulic." # todo: NEW TRANSLATION
+  PER_fund_pro_government_protests: "Financovat prorozp-governmentní protesty" # todo: NEW TRANSLATION
+  PER_fund_pro_government_protests_desc: "Financováním a propagací prorozp-governmentních protestů můžeme ukázat lidem v ulicích, že jejich názor je chybný." # todo: NEW TRANSLATION
+  PER_start_the_revolution: "Žádat odstoupení [PER.GetLeader]" # todo: NEW TRANSLATION
+  PER_deploy_security_khoy_1: "Nasadit bezpečnostní síly v Khoy" # todo: NEW TRANSLATION
+  PER_deploy_security_west_azarbaijan_1: "Nasadit bezpečnostní síly v Západním Ázerbájdžánu" # todo: NEW TRANSLATION
+  PER_deploy_security_kordestan_1: "Nasadit bezpečnostní síly v Kordestánu" # todo: NEW TRANSLATION
+  PER_deploy_security_khuzestan_1: "Nasadit bezpečnostní síly v Chúzestánu" # todo: NEW TRANSLATION
+  PER_deploy_security_azarbaijan_1: "Nasadit bezpečnostní síly v Ázerbájdžánu" # todo: NEW TRANSLATION
+  PER_deploy_security_qom_1: "Nasadit bezpečnostní síly v Qom" # todo: NEW TRANSLATION
+  PER_deploy_security_lorestan_1: "Nasadit bezpečnostní síly v Lorestánu" # todo: NEW TRANSLATION
+  PER_deploy_security_fars_1: "Nasadit bezpečnostní síly ve Farsu" # todo: NEW TRANSLATION
+  PER_deploy_security_gilan_1: "Nasadit bezpečnostní síly v Gilan" # todo: NEW TRANSLATION
+  PER_deploy_security_esfahan_1: "Nasadit bezpečnostní síly v Esfahánu" # todo: NEW TRANSLATION
+  PER_deploy_security_kavir_1: "Nasadit bezpečnostní síly v Kaviru" # todo: NEW TRANSLATION
+  PER_deploy_security_hormuz_1: "Nasadit bezpečnostní síly v Hormuzu" # todo: NEW TRANSLATION
+  PER_deploy_security_mazandaran_1: "Nasadit bezpečnostní síly v Mazandaran" # todo: NEW TRANSLATION
+  PER_deploy_security_khorasan_1: "Nasadit bezpečnostní síly v Chórásánu" # todo: NEW TRANSLATION
+  PER_deploy_security_balochistan_1: "Nasadit bezpečnostní síly v Balochistánu" # todo: NEW TRANSLATION
+  PER_deploy_security_hamadan_1: "Nasadit bezpečnostní síly v Hamadánu" # todo: NEW TRANSLATION
+  PER_deploy_security_markazi_1: "Nasadit bezpečnostní síly v Markazi" # todo: NEW TRANSLATION
+  PER_deploy_security_tehran_1: "Nasadit bezpečnostní síly v Teheránu" # todo: NEW TRANSLATION
+  PER_deploy_security_semnan_1: "Nasadit bezpečnostní síly v Semnánu" # todo: NEW TRANSLATION
+  PER_deploy_security_yazd_1: "Nasadit bezpečnostní síly v Yazdu" # todo: NEW TRANSLATION
+  PER_deploy_security_golestan_1: "Nasadit bezpečnostní síly v Golestánu" # todo: NEW TRANSLATION
+  PER_deploy_security_kermanshah_1: "Nasadit bezpečnostní síly v Kermanshahu" # todo: NEW TRANSLATION
+  PER_deploy_security_ilam_1: "Nasadit bezpečnostní síly v Ilamu" # todo: NEW TRANSLATION
+  PER_deploy_security_bushehr_1: "Nasadit bezpečnostní síly v Bushehru" # todo: NEW TRANSLATION
+  PER_deploy_security_kerman_1: "Nasadit bezpečnostní síly v Kermánu" # todo: NEW TRANSLATION
+  PER_deploy_security_north_khorasan_1: "Nasadit bezpečnostní síly v Severním Chórásánu" # todo: NEW TRANSLATION
+  PER_deploy_security_south_khorasan_1: "Nasadit bezpečnostní síly v Jižním Chórásánu" # todo: NEW TRANSLATION
+  PER_deploy_security_razavi_khorasan_1: "Nasadit bezpečnostní síly v Razavi Chórásánu" # todo: NEW TRANSLATION
+  PER_cento_expand: "Rozšíření CENTO" # todo: NEW TRANSLATION
+  PER_cento_expand_desc: "Naše aliance potřebuje více členů, aby prosperovala a soutěžila s GCC. Proto se musíme zaměřit na expanzi a rozšířit pozvání dalším státům v regionu.\nStáty způsobilé k členství v §CCENTO§! nejsou omezeny pouze na ty, které jsou aktuálně viditelné; potřebujeme §H30% vliv§! v některé ze způsobilých zemí, abychom získali možnost je pozvat.\n\n§RNemůžeme pozvat současné ani bývalé členy GCC§!\n§CZemě způsobilé k členství v CENTO§!:\n-----------\n[TUR.GetFlag] §HTurecko§! [TAJ.GetFlag] §HTádžikistán§! [YEM.GetFlag] §HJemen§! [AFG.GetFlag] §HAfghánistán§! [SYR.GetFlag] §HSýrie§! [IRQ.GetFlag] §HIrák§! [PAK.GetFlag] §HPákistán§!" # todo: NEW TRANSLATION
+  PER_iraq_war_compensation: "Kompenzace z Írán-Íránské války" # todo: NEW TRANSLATION
+  PER_iraq_war_compensation_desc: "Naše válka s Irákem trvala od roku 1980 do 1988. Začala iráckou invazí do Íránu a trvala téměř osm let, dokud obě strany nepřijaly Rezoluci Rady bezpečnosti OSN č. 598. Expertní skupina byla poslána do Íránu vyšetřit otázku rekonstrukce a vyčíslit škody a informovala Radu bezpečnosti. Oznámili přímé škody ve výši 99 miliard dolarů a nepřímé škody 150 miliard dolarů, celkem 249 miliard dolarů. Zatím jsme tyto peníze od Iráku nevyžadovali, abychom nepoškodili jejich ekonomiku a neztratili vliv nad nimi. Nyní je však můžeme požádat, aby nám platili každý týden po určitou dobu. Pokud odmítnou, máme právo na ně zaútočit vojensky." # todo: NEW TRANSLATION
+  PER_half_billion_weekly: "Získat 0,5 miliardy $ týdně (trvá téměř 9 let)" # todo: NEW TRANSLATION
+  PER_one_billion_weekly: "Získat 1 miliardu $ týdně (trvá téměř 5 let)" # todo: NEW TRANSLATION
+  PER_two_billion_weekly: "Získat 2 miliardy $ týdně (trvá téměř 2 roky)" # todo: NEW TRANSLATION
+  PER_basij_fervor: "Zapálení Basídže" # todo: NEW TRANSLATION
+  PER_basij_fervor_desc: "Basídž je dobrovolnické polovojenské křídlo Islámských revolučních gard (IRGC). Obvykle tvořené nejloajálnějšími prvky režimu, Basídž byl mobilizován v historii Islámské republiky pro různé účely, jako budování národa, humanitární pomoc, válečné úsilí a potlačování vnitřních nepokojů jako protesty.\nKaždý měsíc se zapálení Basídže zvýší o §H5%§!, a my můžeme §Hmobilizovat§! Basídž pro jakýkoli účel dostupný v našich rozhodnutích. Během aktivace se zapálení Basídže snižuje o §H-10% každý měsíc§! dokud není 0%, po čemž se §Hdemobilizují§! na dobu 1 roku." # todo: NEW TRANSLATION
+  PER_mobilize_basij_construction: "Mobilizovat Basídž pro národní výstavbu" # todo: NEW TRANSLATION
+  PER_mobilize_basij_construction_desc: "Musíme povolat Basídž, aby nám pomohl s národní výstavbou a asistoval při stavbě nových zařízení pro průměrného Íránce." # todo: NEW TRANSLATION
+  PER_mobilize_basij_education: "Mobilizovat Basídž pro vzdělávací pokrok" # todo: NEW TRANSLATION
+  PER_mobilize_basij_education_desc: "Mnoho studentů v íránském vzdělávacím systému se dobrovolně připojilo k Basídž kadetům základních škol. Tato podskupina Basídže nám umožní povolat naše studenty, aby se podíleli na podpoře vzdělávání po celé zemi." # todo: NEW TRANSLATION
+  PER_mobilize_basij_war: "Mobilizovat Basídž pro válku" # todo: NEW TRANSLATION
+  PER_mobilize_basij_war_desc: "Nastal čas mobilizovat Basídž, aby odolal nepřátelům islámu a našeho státu." # todo: NEW TRANSLATION
+  PER_basij_vote_suggestion: "Ovlivnit hlasování Basídže" # todo: NEW TRANSLATION
+  PER_basij_vote_suggestion_desc: "Nadcházející prezidentské volby nám umožňují využít početní výhodu Basídže v těchto volbách a dát našemu preferovanému kandidátovi náskok." # todo: NEW TRANSLATION
+  PER_basij_protest_utilization: "Nasadit Basídž proti nepokojům" # todo: NEW TRANSLATION
+  PER_basij_protest_utilization_desc: "Probíhající nepokoje a demonstrace proti vládě vytvořily napjatou atmosféru, kde možná budeme muset povolat Basídž, aby je uklidnil a podpořil vládu." # todo: NEW TRANSLATION
+  PER_basij_parade: "Vyhlásit shromáždění Basídže" # todo: NEW TRANSLATION
+  PER_basij_parade_desc: "Vyhlášením shromáždění a průvodu Basídže můžeme ukázat našim lidem, že podpora vlády je silná, což může zvýšit morálku a názor na vládu." # todo: NEW TRANSLATION
+  PER_clergy_balance_of_power_category: "§HLegitimita Islámské republiky§!" # todo: NEW TRANSLATION
+  PER_secularists_bop_left_medium_range: "Protirežimní prvky" # todo: NEW TRANSLATION
+  PER_secularists_bop_left_low_range: "Organizovaná opozice" # todo: NEW TRANSLATION
+  PER_secularists_bop_left_advanced_range: "Nedostatek státní autority" # todo: NEW TRANSLATION
+  PER_secularists_bop_left_win_range: "Režim v krizi" # todo: NEW TRANSLATION
+  PER_secularists_bop_left_side: "Kolaps Islámské republiky" # todo: NEW TRANSLATION
+  PER_secularists_bop_mid_range: "Polarizovaná společnost" # todo: NEW TRANSLATION
+  PER_clergy_bop_right_medium_range: "Široká podpora vlády" # todo: NEW TRANSLATION
+  PER_clergy_bop_right_low_range: "Optimismus vůči vládě" # todo: NEW TRANSLATION
+  PER_clergy_bop_right_advanced_range: "Převládající podpora vlády" # todo: NEW TRANSLATION
+  PER_clergy_bop_right_win_range: "Totální podpora vlády" # todo: NEW TRANSLATION
+  PER_clergy_right_side: "Tisíciletá vláda" # todo: NEW TRANSLATION
+  PER_seize_mosque_funds: "Omezit financování mešit" # todo: NEW TRANSLATION
+  PER_seize_mosque_funds_desc: "Naše vláda přidělila určitý rozpočet na financování mešit po celé zemi. To však jen posiluje ulemu a duchovenstvo. Abychom omezili jejich vliv, musíme snížit jejich financování." # todo: NEW TRANSLATION
+  PER_seda_o_sima_campaign: "Kampaň Seda va Sima" # todo: NEW TRANSLATION
+  PER_seda_o_sima_campaign_desc: "Můžeme využít státní vysílací systém Seda va Sima k šíření zprávy, kterou považujeme za vhodnou." # todo: NEW TRANSLATION
+  PER_hold_army_parade: "Pořádat vojenskou přehlídku" # todo: NEW TRANSLATION
+  PER_hold_army_parade_desc: "Můžeme uspořádat vojenskou přehlídku, abychom povzbudili duchy vyčerpaných vojáků a vzbudili vlastenectví mezi našimi lidmi." # todo: NEW TRANSLATION
+  PER_promote_religious_services: "Podporovat náboženské služby" # todo: NEW TRANSLATION
+  PER_promote_religious_services_desc: "Můžeme propagovat náboženské služby v zemi, aby se lidé více sblížili s islámem a jeho institucemi." # todo: NEW TRANSLATION
+  PER_boost_imam_khomeini_relief_foundation: "Rozšířit nadaci Imam Khomeini pro pomoc" # todo: NEW TRANSLATION
+  PER_boost_imam_khomeini_relief_foundation_desc: "Můžeme rozšířit operace nadace Imam Khomeini po celé zemi, abychom zlepšili situaci chudých." # todo: NEW TRANSLATION
+  PER_increases_productivity_by_10: "§BZvýší produktivitu§! v §BNáhodném ostanu§! o §B10§!" # todo: NEW TRANSLATION
+  PER_influence_neighbors: "§BOvlivní§! každého §Bsouseda§! o §B1%§!" # todo: NEW TRANSLATION
+  PER_influence_neighbors2: "§BOvlivní§! každého §Bsouseda§! o §B2%§!" # todo: NEW TRANSLATION
+  PER_relax_religious_laws: "Uvolnit náboženské hlídky" # todo: NEW TRANSLATION
+  PER_relax_religious_laws_desc: "Možná jsou naše náboženské donucovací praktiky trochu nelidské... Možná je lepší přistoupit k uvolněnějšímu přístupu." # todo: NEW TRANSLATION
+  PER_vezarate_jahade_keshavarzi: "[ROOT.PER_vezarate_jahade_keshavarzi_name]" # todo: NEW TRANSLATION
+  PER_vezarate_jahade_keshavarzi_desc: "[ROOT.PER_vezarate_jahade_keshavarzi_name_desc]" # todo: NEW TRANSLATION
+  PER_vezarate_keshavarzi_name: "Vezārat-e Keshāvarzī" # todo: NEW TRANSLATION
+  PER_vezarate_keshavarzi_name_desc: "Ministerstvo zemědělství je íránský vládní orgán odpovědný za dohled nad zemědělstvím v Íránu." # todo: NEW TRANSLATION
+  PER_vezarate_jahade_keshavarzi_name: "Vezārat-e Jahād-e Keshāvarzī" # todo: NEW TRANSLATION
+  PER_vezarate_jahade_keshavarzi_name_desc: "Ministerstvo zemědělského džihádu je íránský vládní orgán odpovědný za dohled nad zemědělstvím v Íránu. Ministerstvo bylo nazváno Džihád výstavby, ale v roce 2001 bylo sloučeno s ministerstvem zemědělství do Ministerstva zemědělského džihádu." # todo: NEW TRANSLATION
+  PER_appoint_jamshid_amouzegar: "Jmenovat Jamshida Amouzegara" # todo: NEW TRANSLATION
+  aircraft_designs_research: "" # todo: NEW TRANSLATION
+  PER_one_year_missile_penalty: "" # todo: NEW TRANSLATION
+  ICBM_research_TT: "" # todo: NEW TRANSLATION
+  nuclear_reactors_research_bonus: "" # todo: NEW TRANSLATION
+  PER_artesh_government: "Vláda Artesh Íránu" # todo: NEW TRANSLATION
+  PER_artesh_government_DEF: "vláda Artesh Íránu" # todo: NEW TRANSLATION
+  PER_artesh_government_ADJ: "íránský" # todo: NEW TRANSLATION
+  IRQ_economic_union_member: "Člen ekonomické unie" # todo: NEW TRANSLATION
+  turkey_iraqi_base_blown: "Turecko–irácká základna zničena" # todo: NEW TRANSLATION
+  PER_unit_leader_trait_artesh: "Větve: Artesh" # todo: NEW TRANSLATION
+  PER_unit_leader_trait_artesh_desc: "Tento velitel je členem Arteshu, konvenční vojenské síly Íránu. Jako následník několika íránských armád, původně založen během achajmenovské éry před více než 2 500 lety, byl moderní Artesh založen v roce 1921 Reza Šáhem Pahlavím. Artesh má málo nebo žádnou politickou příslušnost, většina jeho armády je tvořena odvedenci z obecné populace. Několik pokusů o podkopání Arteshu v průběhu let z důvodu obav z neloajality je stavělo do sporu s IRGC o dominanci nad íránskými ozbrojenými silami." # todo: NEW TRANSLATION
+  PER_unit_leader_trait_irgc: "Větve: IRGC" # todo: NEW TRANSLATION
+  PER_unit_leader_trait_irgc_desc: "Tento velitel je členem Islámských revolučních gard (IRGC), neortodoxní vojenské síly Íránu. Byly založeny ajatolláhem Ruholláhem Chomejním v roce 1979 po islámské revoluci a byly pověřeny ochranou Islámské republiky před puči konvenčními silami Arteshu. Během let se IRGC vyvinuly v sílu zahrnující vše od pořádkové policie přes milice až po speciální jednotky. Jednotky IRGC často dostávají nejnovější technologie a vybavení a jsou favorizovány Islámskou republikou, což je staví do sporu s Arteshem." # todo: NEW TRANSLATION
+  PER_socialism2: "£PER_anarchist_communism (MEK) Organizace lidových mujahedínů Íránu - §CZápadní kliky§! jsou u moci" # todo: NEW TRANSLATION
+  PER_chahbahar_port: "Projekt velkého přístavu Čabahar" # todo: NEW TRANSLATION
+  PER_chahbahar_port_desc: "Projekt přístavu Čabahar výrazně zlepšil stav Balochistánu a umožňuje efektivní zásobování a přepravu zboží v provincii." # todo: NEW TRANSLATION
+  PER_khamenei_desc: "Khamenei se narodil v roce 1939 v Mashhadu do rodiny ázerbájdžánského původu. Budoucí ajatolláh se rozhodl soustředit na teologii a studoval pod vlivnými duchovními jako Khomeini. V 60. a 70. letech byl aktivní proti šáhovi a dostal se do problémů se SAVAKem, byl zatčen. Po islámské revoluci pomáhal s válečným úsilím proti irácké invazi a podílel se na mobilizaci obyvatel k obraně země. Khamenei aktivně formoval novou vládu a byl nakonec zvolen 3. prezidentem Islámské republiky. Po ztrátě nástupnictví Montazeriho byl Khamenei určeným následníkem ajatolláha Chomejního. Přestože je stále velice konzervativní, někteří ho považují za reformistu ve srovnání s Khomeiním, protože zrušil mnoho omezení v hudbě po roce 1979. Je také známý svým zasahováním do politiky, kde pokud jedna skupina zesílí, snaží se posílit tu druhou." # todo: NEW TRANSLATION
+  PER_mashaei_desc: "Narodil se v Mazandaran, Mashaei hrál roli při potlačování kurdského povstání v roce 1979 po Íránské revoluci. Jako bývalý důstojník zpravodajství během tohoto konfliktu se setkal s Ahmadínežádem, s nímž se spřátelil, což mu později umožnilo vystřelit jeho politickou kariéru do popředí. S relativně neortodoxními názory ve srovnání s ostatními íránskými principalisty Mashaei věří, že duchovenstvo zesílilo příliš a musí být oslabeno v íránské společnosti, nábožensky i politicky. Chtěje obnovit mix islámského nacionalismu a předislámského íránského nacionalismu, Mashaei a jeho kruh jsou duchovenstvem označováni jako jedinci s 'odchylujícími sklony'." # todo: NEW TRANSLATION
+  PER_montazeri_desc: "Narodil se v Najafabádu, Isfahán, Montazeri byl vzděláván velkým marjou, jedním z nejvyšších autorit v ší'itském islámu. Montazeri byl také jedním z vůdců islámské revoluce v roce 1979. Jako velký ajatolláh byl jmenován nástupcem ajatolláha Chomejního po jeho smrti. Věci se však ubíraly jiným směrem a revoluce se nevyvinula podle Montazeriho představ. Místo demokracie zahrnující všechny sektory íránské politiky byli vybráni a ověření jednotlivci. Některé skupiny byly zakázány kandidovat nebo se účastnit voleb a mnoho stran bylo zakázáno. Po hromadné popravě různých levicových osob v Íránu v roce 1988 Montazeri vystoupil proti vládě a kritizoval Chomejního kroky, což vedlo k jeho ztrátě dědictví. Od té doby Montazeri aktivně pracoval proti režimu a volal po jeho svržení a vyzýval k výstavbě nového neislámského režimu." # todo: NEW TRANSLATION
+  PER_pahlavi_desc: "Narodil se v Teheránu jako korunní princ a dědic Trůnu páva, Reza zažil v mládí život královské rodiny. Často byl umírněný ve srovnání s otcem; činil kroky jako udělení milostí nepřátelům státu nebo volání po liberálnějších změnách. Netrpělivě nezdědil trůn. Během pobytu ve Spojených státech, kde se připravoval stát pilotem stíhacího letounu, byla v roce 1979 svržena íránská monarchie a 2 500letá tradice perských šáhů. Po rozpadu císařského Íránu musel Reza zůstat v USA v exilu. Mnoho jeho stoupenců v Íránu uteče do západních států, jako jsou státy v Evropě či Americe. Neztratil zcela naději na trůn; až do poloviny 80. let dostával finanční podporu od CIA k aktivitám proti Islámské republice. To skončilo po aféře Iran-Contra. To neukončilo jeho odhodlání svrhnout Islámskou republiku; Reza se soustředil na sjednocení Íránců kampaněmi odporu proti režimu." # todo: NEW TRANSLATION
+  PER_homayoon_desc: "Narodil se 27. září 1928, Homayoon zahájil politickou činnost ve věku čtrnácti let. Byl součástí několika politických stran a hnutí a byl raným stoupencem Mohammada Mossadegha. Jeho politická angažovanost nebyla omezena pouze na Mossadegha; podílel se na SUMKA, fašistické straně vedené bývalým členem SS, Monshizadehem. Homayoon se také angažoval v několika paniranistických organizacích a jeho politické směřování se nakonec posunulo doprava. Nakonec se stal ministrem informací a turistiky, což mu umožnilo získat dost přízně u císařského státu, aby se stal místopředsedou strany Rastakhiz, státní strany Íránu v 70. letech. Po revoluci Homayoon uprchl do Francie, kde pokračoval v aktivitách proti Islámské republice. Usiloval o vytvoření liberálního řádu v Íránu a pomohl tak založit Konstitucionalistickou stranu Íránu, která usilovala o obnovení ústavní monarchie pod Rezou Pahlavím II. To však neznamená, že Homayoon byl pevný monarchista nebo zarytý stoupenec Pahlaviho; existovaly případy, kdy Homayoon kritizoval Pahlaviho." # todo: NEW TRANSLATION
+  PER_irgc_name: "(IRGC) Islámské revoluční gardy" # todo: NEW TRANSLATION
+  PER_irgc_description: "Hlavní rolí Islámských revolučních gard (IRGC) je chránit systém Islámské republiky. Mají vlastní zpravodajské agentury, zahraniční legii, milice (síly Basídž), stavební rameno a velké podíly v ekonomice. Jejich Quds Force (speciální jednotky) operují v zahraničí, aby školily přátelské milice a prováděly utajené operace." # todo: NEW TRANSLATION
+  PER_artesh_name: "(AJA) Íránské ozbrojené síly" # todo: NEW TRANSLATION
+  PER_vevak_name: "(VAJA) Ministerstvo zpravodajství Islámské republiky Írán" # todo: NEW TRANSLATION
+  PER_regular_name: "Ministerstvo zpravodajství" # todo: NEW TRANSLATION
+  PER_jask_base_modifier: "Obrana základny Jask" # todo: NEW TRANSLATION
+  PER_zagros_defenses: "Zagros obrany" # todo: NEW TRANSLATION
+  PER_zagros_defenses_desc: "Írán nemá hory, hory mají Írán. Pohoří Zagros, táhnoucí se od východu na západ, se ukázalo jako náročná překážka pro jakoukoli útočící armádu. Každá útočící armáda bude muset zajistit dost zásob a morálky, protože cesta přes pohoří Zagros je dlouhá a zrádná." # todo: NEW TRANSLATION
+  PER_no_nuclear: "Má fatwu proti jaderným zbraním" # todo: NEW TRANSLATION
+  PER_davoud_minister_bio: "Davoud Hermidas-Bavand se narodil 10. listopadu 1934 v Teheránu. Získal bakalářský titul v právu a politických vědách na Teheránské univerzitě v roce 1957 a stal se politologem a diplomatem. Byl členem vedení Národní fronty Íránu a působil jako její mluvčí. Hermidas-Bavand také zastupoval Írán v delegaci při Organizaci spojených národů. Byl místopředsedou ad hoc výboru pro vypracování Mezinárodní úmluvy proti braní rukojmích v roce 1979." # todo: NEW TRANSLATION
+  PER_seyed_hassan_minister_bio: "Narodil se 28. listopadu 1948 v Sabzavaru, Seyed Hassan Amin nastoupil na Teheránskou univerzitu ve 17 letech a získal bakalářský titul z práva s vyznamenáním. Díky svým právním studiím v Íránu začal praxi u advokátů podle předpisů Fakulty advokátů. Později byl povýšen na roli zaměstnaneckého profesora na Glasgow Caledonian University." # todo: NEW TRANSLATION
+  PER_hashem_sabbaghian_minister_bio: "Narodil se 4. dubna 1937, Hashem Sabbaghian se stal íránským politikem, humanitárním aktivistou, advokátem demokracie a členem parlamentu. Během revoluce v roce 1979 byl jmenován ministrem vnitra přechodné vlády, jmenovaný Mehdi Bazarganem. Později vstoupil do parlamentu v roce 1980. V roce 1996 mu Rada strážců odmítla kandidovat znovu. Sabbaghian se přidal k Hnutí za svobodu Íránu a působil jako zástupce Ebrahima Yazdiho." # todo: NEW TRANSLATION
+  PER_hedayatollah_matin_minister_bio: "Narodil se v Teheránu v roce 1933, Hedayatollah byl vnukem a politickým dědicem Mohammada Mossadegha. Matin-Daftari byl právníkem pro lidská práva za vlády šáha a aktivně se podílel na revoluci, která ho svrhla. Založil Národní demokratickou frontu, která sdružuje mnoho nezávislých íránských socialistů. Matin také hostil a účinkoval v mnoha dokumentárních filmech o různých politických událostech v Íránu." # todo: NEW TRANSLATION
+  PER_mohammad_tavasoli_minister_bio: "Narodil se 15. května 1938, Mohammad Tavasoli-Hojjati se stal íránským demokratickým aktivistou a později ředitelem politického úřadu Hnutí za svobodu Íránu. Odjel do Německa studovat dopravu a provoz a po návratu do Íránu v roce 1971 byl zatčen a uvězněn na 1 rok za pomoc členu MEK. Po revoluci se stal starostou Teheránu v roce 1980 až do svého zatčení v roce 1983 společně s Hashem Sabbaghianem." # todo: NEW TRANSLATION
+  PER_mostafa_tajzade_minister_bio: "Narodil se 22. listopadu 1956, Seyyed Mostafa Tajzade odjel do USA studovat a stal se členem Muslim Student Association, která aktivně působila proti šáhovi. Byl také členem Asociace íránských novinářů. Stal se poradcem Khatamiho a byl jedním ze sedmi reformistů, kteří podali žalobu proti IRGC za zasahování do prezidentských voleb. Později byl vězněn v Evině na několik let za propagandu proti režimu." # todo: NEW TRANSLATION
+  PER_mostafa_moein_minister_bio: "Narodil se 1. dubna 1951 v Najafabadu, Esfahán, Moein je íránský politik, profesor pediatrie a obhájce lidských práv. Založil Frontu za lidská práva a demokracii v Íránu a byl prezidentským kandidátem. Později se stal ministrem vědy, výzkumu a technologie, ale rezignoval po studentských protestech v roce 1999 a později znovu poté, co nedokázal přesvědčit Radu strážců přesměrovat jeho ministerstvo k vyšší vědecké produktivitě." # todo: NEW TRANSLATION
+  PER_ali_khavari_minister_bio: "Ali Khavari se narodil 22. března 1923 v Masshadu za kádžárské dynastie Íránu. Během politické nestability po britsko-sovětské invazi do Íránu se Khavari stal íránským komunistou a v roce 1941 vstoupil do strany Tudeh. Byl zvolen do ústředního výboru v počátku 60. let. Během revoluce v roce 1979 byl zvolen do politického výboru a stal se generálním tajemníkem strany Tudeh." # todo: NEW TRANSLATION
+  PER_hashem_aghajari_minister_bio: "Narodil se v Abadanu v Íránu v roce 1957, Aghajari se stal íránským historikem, univerzitním profesorem a kritikem Islámské republiky. Jeho aktivismus proti režimu mu přinesl trest smrti za 'odpadlictví', když řekl Íráncům, aby slepě neuposlechli duchovní. Vyzýval k 'islámskému protestantismu', což rozhněvalo mnohé duchovní, kteří ho obvinili z útoku na islám a proroka." # todo: NEW TRANSLATION
+  PER_mohsen_makhmalbaf_minister_bio: "Narodil se 29. května 1957 v Teheránu, Makhmalbaf byl součástí levicového křídla Organizace mujahedínů islámské revoluce v letech 1979–1980. Pokračoval ve filmové kariéře jako editor, režisér, scénárista a producent. Ve 15 letech se připojil k militantní skupině bojující proti Mohammad Reza Pahlavi. Bodl a zabil policistu, byl uvězněn a odsouzen k trestu smrti, ale byl osvobozen během islámské revoluce. Později z Íránu odešel kvůli vítězství tvrdých zastánců." # todo: NEW TRANSLATION
+  PER_abdolali_bazargan_minister_bio: "Narodil se 14. srpna 1943 v Teheránu, Abdolali Bazargan se stal íránským liberálním politikem, spisovatelem a zástupcem vůdce Hnutí za svobodu Íránu. Připojil se k Národní frontě v roce 1961, ale později odešel v roce 1963 a přidal se k otcově straně Hnutí za svobodu Íránu. Jeho otec byl Mehdi Bazargan, první premiér Íránu po revoluci v roce 1979." # todo: NEW TRANSLATION
+  PER_amir_etemadi_minister_bio: "Narodil se v listopadu 1981, Amir Etemadi se stal íránským aktivistou a mluvčím Íránských liberálních studentů a absolventů. Začal politickou činnost při nástupu na Teheránskou univerzitu v roce 1999 a založil první studentské noviny velmi kritické vůči Islámské republice. Kvůli své činnosti byl uvězněn v Evině na mnoho let za 'činnost proti národní bezpečnosti' a 'rušení veřejného pořádku'." # todo: NEW TRANSLATION
+  PER_hassan_shariatmadari_minister_bio: "Narodil se 26. května 1947 v Tabrizu, Shariatmadari byl synem mocného duchovního, ajatolláha Seyyeda Kazema Shariatmadariho. Podporoval otce v omezení moci šáha na ústavu z roku 1906 a v oddělení duchovenstva od politiky v Íránu. Během revoluce v roce 1979 spoluzakládal Iránskou lidovou republikánskou stranu a je pevně přesvědčen o oddělení náboženství a státu. Díky tomu jeho strana dokázala mobilizovat více než milion lidí k revoluci proti Khomeinimu." # todo: NEW TRANSLATION
+  PER_roozbeh_farahinpour_minister_bio: "Narodil se 16. července 1971 v Teheránu, Farahanipour byl studentem práv na Azad University, stal se studentským aktivistou a založil 'Stranu slavného pohraničí' nebo 'Marz-e Por Gohar'. Strana usiluje o svržení Islámské republiky a volá po sekulární republice. Farahanipour byl zatčen a brutálně mučen za svou roli v červencových protestech v roce 1999, což ho přinutilo uprchnout do USA za azylem." # todo: NEW TRANSLATION
+  PER_abulqasem_porhashmi_minister_bio: "Porhashmi se narodil někdy na konci 1920. let a byl zapáleným íránským nacionalistou. To ho později vedlo ke setkání s podobně smýšlejícími lidmi a k pomoci při zakládání studentského sdružení Iran-Doost. Během britsko-sovětské invaze do Íránu v srpnu 1941 bojoval on a jeho přátelé jako teenageři a byli aktivní součástí odboje. Později podporoval založení školy paniranismu a nakonec se stal součástí paniranistické strany." # todo: NEW TRANSLATION
+  PER_alireza_kiani_minister_bio: "Narodil se 19. prosince 1984 v Pol-e Sefid, Mazandaran, Kiani absolvoval magisterský program v politologii. Připojil se k různým politickým organizacím, v jedné z nich se stal politickým předsedou. Kvůli politické činnosti byl několikrát zatčen a vyslýchán íránskými bezpečnostními silami a nakonec musel uprchnout do USA pro svůj bezpečí. Nakonec se stal umírněným podporovatelem dynastie Pahlaví a podporoval ústavní monarchii." # todo: NEW TRANSLATION
+  PER_farhad_baghnani_minister_bio: "Farhad Baghbani vstoupil do paniranistické strany jako novinář a výzkumník. Vnímá Írán jako národ s 'přítomným lidem, ale chybějící vládou'. Jeho aktivity jej vedly k zatčení a uvěznění Islámskou republikou a později se stal členem křídla 'Mladí vlastenci Chúzestánu' v rámci strany." # todo: NEW TRANSLATION
+  PER_foad_pashei_minister_bio: "Jamshid Amouzegar se narodil 25. června 1923. Absolvoval Teheránskou univerzitu s tituly v právu i inženýrství, následně pokračoval na Cornell University za Ph.D. Amouzegar se stal náměstkem ministra zdraví a nakonec 43. premiérem Íránu v roce 1977. Byl také vůdcem strany 'Rastakhiz' a působil jako poradce vlád Saúdské Arábie a Kuvajtu." # todo: NEW TRANSLATION
+  PER_hamed_sheibanyard_minister_bio: "Taghi Rahmani, narozen 1959 v Teheránu, se stal současným íránským intelektuálem a autorem mnoha knih o náboženském intelektualismu a rozumu. Jeho ideologie jako náboženského nacionalisty jej často stavěla do střetu s Islámskou republikou; během jejich vlády strávil v celku 5 000 dní ve vězení. Pomáhal také několika reformistům při organizaci jejich prezidentských kampaní." # todo: NEW TRANSLATION
+  PER_reza_pirzadeh_minister_bio: "Narodil se 16. října 1928, Ardeshir Zahedi byl íránský politik za císařského Íránu, který sloužil jako ministr zahraničí v letech 1966–1971. Byl synem Fazlollaha Zahediho, vojenského generála, který v roce 1953 svrhl Mossadegha. Po revoluci v roce 1979 byl stále velvyslancem ve Washingtonu, ale rezignoval po převzetí moci Khomeiniho." # todo: NEW TRANSLATION
+  PER_ask_for_german_tanks: "Požádáme o §H100 tanků Leopard§! za §R$38B§!" # todo: NEW TRANSLATION
+  PER_ask_for_british_planes: "Požádáme o §H36 Eurofighterů§! za §R$45B§!" # todo: NEW TRANSLATION
+  PER_amouzegar_modifiers: "§YZkušený:§!\n  Měsíční růst produktivity: §G+0.2§!\n§YZahraniční ministr:§!\n  £foreign_influence_modifier_texticon §YZahraniční vliv§! Násobitel: §G+5%§!\n  £ai_acceptance_texticon Přijetí pro-západní diplomacie: §G15§!\n§YMonarchista:§!\n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G0.05%§!\n  £surrender_texticon Limit kapitulace: §G20%§!" # todo: NEW TRANSLATION
+  PER_davoud_modifiers: "§YZkušený politik:§!\n  Získávání politické moci: §G+5%§!\n§YZahraniční ministr:§!\n  £foreign_influence_modifier_texticon §YZahraniční vliv§! Násobitel: §G+5%§!\n  £ai_acceptance_texticon Přijetí pro-západní diplomacie: §G15§!\n§YČlen Národní fronty:§!\n  £nonaligned_outlook_campaign_cost_modifier_texticon Denní podpora neblokových: §G0.05%§!\n  £stability_texticon Stabilita: §G10%§!" # todo: NEW TRANSLATION
+  PER_baghbani_modifiers: "§YZpravodajský:§!\n  £corruption_cost_factor_texticon Náklady na změnu korupce: §G-15%§!\n§YZastánce mládeže:§!\n  £manpower_texticon Náborová populace: §G+5%§!\n  £reinforce_texticon Rychlost doplňování: §G2%§!\n§YČlen paniranistů:§!\n  £war_goal_time_send_texticon Doba ospravedlnění válečného cíle: §G-10%§!\n  £foreign_influence_defense_modifier_texticon §YZahraniční obrana vlivu§! Násobitel: §G15%§!" # todo: NEW TRANSLATION
+  PER_sabbaghian_modifiers: "§YDemokratický aktivista:§!\n  £western_outlook_campaign_cost_modifier_texticon Denní podpora pro-západních: §G0.10%§!\n§YRevolucionář:§!\n  £bureaucracy_cost_multiplier_modifier_texticon §YByrokratické náklady§! Násobitel: §G-15%§!\n  £tax_gain_multiplier_modifier_texticon §YDaňové příjmy§! Násobitel: §G+3%§!\n§YZkušenost z parlamentu:§!\n  §YOčekávané výdaje na policii§!: §G-1.00§!\n  §YOčekávané výdaje na zdravotnictví§!: §G-1.00§!" # todo: NEW TRANSLATION
+  PER_tavasoli_modifiers: "§YDemokratický aktivista:§!\n  £western_outlook_campaign_cost_modifier_texticon Denní podpora pro-západních: §G0.10%§!\n§YExpert na dopravu:§!\n  £supply_texticon Rozsah zásob: §G+10%§!\n  £organization_texticon Organizace divize: §G+5%§!\n§YČlen Hnutí za svobodu:§!\n  £social_cost_multiplier_modifier_texticon §YNáklady sociálních výdajů§! Násobitel: §G-10%§!\n  £corporate_tax_income_multiplier_modifier_texticon §YDaň z korporací§! Násobitel: §G+2%§!" # todo: NEW TRANSLATION
+  PER_meoin_modifiers: "§YProfesor:§!\n  £education_cost_multiplier_modifier_texticon §YNáklady na vzdělání§! Násobitel: §G-10%§!\n§YNaukovec:§!\n  £research_speed_texticon Rychlost výzkumu: §G+15%§!\n  £resources_texticon Efektivita zisku zdrojů: §G+10%§!\n§YObhájce lidských práv:§!\n  £police_cost_multiplier_modifier_texticon §YNáklady na policii§! Násobitel: §G-10%§!\n  £population_texticon Měsíční populace: §G+5%§!" # todo: NEW TRANSLATION
+  PER_tajzade_modifiers: "§YZpravodajský:§!\n  £corruption_cost_factor_texticon Náklady na změnu korupce: §G-15%§!\n§YRevolucionář:§!\n  £bureaucracy_cost_multiplier_modifier_texticon §YByrokratické náklady§! Násobitel: §G-15%§!\n  £tax_gain_multiplier_modifier_texticon §YDaňové příjmy§! Násobitel: §G+3%§!\n§YPoradce:§!\n  £political_power_cost_texticon Denní náklady politické moci: §G-15%§!\n  £sabotaged_resource_texticon Sankce za nedostatek zdrojů: §G-15%§!" # todo: NEW TRANSLATION
+  PER_matin_modifiers: "§YŘeditel:§!\n  £propaganda_campaign_cost_modifier_texticon Náklady na propagační kampaň: §G-35%§!\n§YDědictví Mossadegha:§!\n  £drift_defence_texticon Obrana před odklonem ideologie: §G+15%§!\n  £army_morale_texticon Míra obnovy divizí: §G+5%§!\n§YČlen Národní fronty:§!\n  £nonaligned_outlook_campaign_cost_modifier_texticon Denní podpora neblokových: §G0.05%§!\n  £stability_texticon Stabilita: §G10%§!" # todo: NEW TRANSLATION
+  PER_amin_modifiers: "§YProfesor:§!\n  £education_cost_multiplier_modifier_texticon Náklady na vzdělání: §G-10%§!\n§YExpert práva:§!\n  £police_cost_multiplier_modifier_texticon Náklady na policii: §G-20%§!\n  §YOčekávané výdaje na policii§!: §G-1.00%§!\n§YTechnokrat:§!\n  £corporate_tax_income_multiplier_modifier_texticon Daň z korporací: §G10%§!\n  Produktivita úřadů: §G0.10§!" # todo: NEW TRANSLATION
+  PER_khavari_modifiers: "§YZkušený:§!\n  Měsíční růst produktivity: §G+0.2§!\n§YZahraniční diplomat pro Východ:§!\n  £emerging_outlook_campaign_cost_modifier_texticon Denní podpora vzcházejících: §G+0.05%§!\n  £ai_acceptance_texticon Přijetí diplomacie se vzcházejícími: §G15§!\n§YKomunista:§!\n  £construction_speed_texticon Rychlost výstavby: §G+10%§!\n £consumer_goods_texticon Daňový faktor spotřebního zboží: §G-3%§!" # todo: NEW TRANSLATION
+  PER_aghajari_modifiers: "§YAko-kladový vůči duchovenstvu:§!\n  £emerging_outlook_campaign_cost_modifier_texticon Denní podpora vzcházejících: §G-0.10§!\n§YPopulární v Majlesu:§!\n  £stability_texticon Stabilita: §G+5%§!\n  £political_power_texticon Získávání politické moci: §G+10%§!\n§YLevicový:§!\n  £health_cost_multiplier_modifier_texticon Náklady na zdravotnictví: §G-10%§!\n £social_cost_multiplier_modifier_texticon Náklady sociálních výdajů: §G-10%§!" # todo: NEW TRANSLATION
+  PER_makhmalbalf_modifiers: "§YRežisér:§!\n  £propaganda_campaign_cost_modifier_texticon Náklady na propagační kampaň: §G-35%§!\n§YRevolucionář:§!\n  £bureaucracy_cost_multiplier_modifier_texticon §YByrokratické náklady§! Násobitel: §G-15%§!\n  £tax_gain_multiplier_modifier_texticon §YDaňové příjmy§! Násobitel: §G+3%§!\n§YMilitant:§!\n  £attack_texticon Útok divizí: §G+5%§!\n £attacker_speed_texticon Rychlost divizí: §G+5%§!" # todo: NEW TRANSLATION
+  PER_bazargan_modifiers: "§YLiberál:§!\n  £western_outlook_campaign_cost_modifier_texticon Denní pro-západní podpora: §G+0.10%§!\n§YNárodní demokratická fronta:§!\n  Faktor stability popularity strany: §G+10%§!\n  £interest_rate_multiplier_modifier_texticon Úroková sazba: §G-1.50%§!\n§YObhájce lidských práv:§!\n  £police_cost_multiplier_modifier_texticon Náklady na policii: §G-10%§!\n  £population_texticon Měsíční populace: §G+5%§!" # todo: NEW TRANSLATION
+  PER_etemadi_modifiers: "§YZpravodajský:§!\n  £corruption_cost_factor_texticon Náklady na změnu korupce: §G-15%§!\n§YStudentský revolucionář:§!\n  Požadavky na pracovní sílu v úřadech: §G-10%§!\n  £corporate_tax_income_multiplier_modifier_texticon Příjmy z daní úřadů: §G+10%§!\n§YUmírněný monarchista:§!\n  £defence_texticon Obrana divizí: §G10%§!\n  £surrender_texticon Limit kapitulace: §G20%§!" # todo: NEW TRANSLATION
+  PER_shariatmadari_modifiers: "§YPodmíněný revolucionář:§!\n  £personnel_cost_multiplier_modifier_texticon Náklady armády: §G-10%§!\n§YSekularista:§!\n  Faktor růstu produktivity státu: §G+1§!\n  £research_speed_texticon Rychlost výzkumu: §G+10%§!\n§YExpert na mobilizaci:§!\n  £mobilisation_texticon Rychlost mobilizace: §G20%§!\n  £manpower_texticon Náborová populace: §G5%§!" # todo: NEW TRANSLATION
+  PER_farahanipour_modifiers: "§YZkušený politik:§!\n  Získávání politické moci: §G+5%§!\n§YProtesty studentů 1999:§!\n  £western_outlook_campaign_cost_modifier_texticon Denní pro-západní podpora: §G+0.10%§!\n  £political_violence_damage_texticon Poškození posádek: §G-15%§!\n§YStrana slavného pohraničí:§!\n  £construction_speed_texticon Rychlost výstavby průmyslových komplexů: §G+15%§!\n  £econ_cycle_upg_cost_multiplier_modifier_texticon Náklady na vylepšení ekonomického cyklu: §G+15%§!" # todo: NEW TRANSLATION
+  PER_porhashmi_modifiers: "§YSKola paniranismu:§!\n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G+0.10%§!\n§YZápasník Anjoman:§!\n  £specops_training_speed_texticon Doba výcviku speciálních sil: §G-15%§!\n  £terrain_penalty_texticon Snížení penalizace terénu: §G+10%§!\n§YČlen paniranistů:§!\n  £war_goal_time_send_texticon Doba ospravedlnění válečného cíle: §G-10%§!\n  £foreign_influence_defense_modifier_texticon Obrana proti zahraničnímu vlivu: §G15%§!" # todo: NEW TRANSLATION
+  PER_kiani_modifiers: "§YPolitický expert:§!\n  £tax_gain_multiplier_modifier_texticon Daňové příjmy: §G+10%§!\n§YPolitický ekonom:§!\n £prod_eff_cap Kapacita efektivity výroby: §G+10%§!\n  £efficiency_base_texticon Základní efektivita výroby: §G+5%§!\n§HMonarchista:§!\n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G0.05%§!\n  £surrender_texticon Limit kapitulace: §G20%§!" # todo: NEW TRANSLATION
+  PER_rahmani_modifiers: "§YIntelektuál:§!\n  £education_cost_multiplier_modifier_texticon Náklady na vzdělání: §G-20%§!\n§YObhájce lidských práv:§!\n  £police_cost_multiplier_modifier_texticon Náklady na policii: §G-10%§!\n  £population_texticon Měsíční populace: §G+5%§!\n§HReligiózní nacionalista:§!\n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G0.05%§!\n  £defence_texticon Obrana divizí: §G+10%§!" # todo: NEW TRANSLATION
+  PER_zahedi_modifiers: "§YStárnoucí:§!\n  £political_power_texticon Získávání politické moci: §R-5%§!\n§YZkušený diplomat:§!\n  £foreign_influence_modifier_texticon §YZahraniční vliv§! Násobitel: §G+15%§!\n  £ai_acceptance_texticon Přijetí pro-západní diplomacie: §G35§!\n§HTvrdý monarchista:§!\n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G0.20%§!\n  £surrender_texticon Limit kapitulace: §G50%§!" # todo: NEW TRANSLATION
+  PER_ahmadinejad_name: "Mahmúd Ahmadínežád" # todo: NEW TRANSLATION
+  PER_ahmadinejad_modifiers: "§YCharizmatický:§!\n  Podpora ve válce: §G+2.00%§!\n  Rychlost výstavby: §G+10.00%§!\n§YTvrďák:§!\n  Přijetí pro-západní diplomacie: §R-30§!\n  Denní podpora vzcházejících: §G0.20§!\n§YPodporován principalistickými stranami:§!\n  Získávání politické moci: §G+5%§!" # todo: NEW TRANSLATION
+  PER_ahmadinejad_bio: "Narodil se 28. října 1956 poblíž Garmsaru v provincii Semnan; je íránský principalistický a nacionalistický politik. Jeho otec v roce 1960 změnil příjmení z Saborjhian na Ahmadínežád, aby se vyhnul diskriminaci. V roce 1976 Ahmadínežád složil íránské přijímací zkoušky na univerzitu a podle jeho autobiografie skončil na 132. místě z 400 000 účastníků. Zapsal se na IUST v Teheránu ke studiu stavebního inženýrství. Působil jako starosta provincie Ardabil, ale tu pozici ztratil ve stejném roce kvůli politice Mohammada Khatamiho." # todo: NEW TRANSLATION
+  PER_hemmati_name: "Abdolnaser Hemmati" # todo: NEW TRANSLATION
+  PER_hemmati_modifiers: "§YPodporován reformisty:§!\n  Získávání politické moci: §G+5%§!\n§YPro-západní:§!\n  Denní pro-západní podpora: §R+0.20§!\n Přijetí pro-západní diplomacie: §G+20§!\n§YEkonomický liberál:§!\n  Multiplikační faktor daně z korporací: §G+5.00%§!\n  Rychlost výstavby sektoru úřadů: §G15.00%§!" # todo: NEW TRANSLATION
+  PER_hemmati_bio: "Narodil se 9. dubna 1956 v Kadubarahandu, provincii Hamadán; je politik a ekonom. V roce 1978 získal bakalářský titul z ekonomie na Teheránské univerzitě a později i magisterský titul. Absolvoval pokročilý auditorský kurz v Cooper and Lybrand Institute a studoval ekonomii v Londýně. Dokončil studia PhD na Teheránské univerzitě. Měl na starosti zpravodajství a organizaci televize Íránu a stal se politikem. Byl zodpovědný za válečnou propagandu během íránsko-irácké války." # todo: NEW TRANSLATION
+  PER_khatami_name: "Mohammad Khatami" # todo: NEW TRANSLATION
+  PER_khatami_modifiers: "§YKulturní liberál:§!\n  Denní pro-západní podpora: §R+0.10§!\n  Stabilita: §R-5.00%§!\n§YPodporován Rafsandžáním:§!\n  Získávání politické moci: §G+10%§!\n§YEkonomický liberál:§!\n  Multiplikační faktor nákladů na ekonomické vylepšení: §G-15.00%§!\n  Multiplikační faktor daňových příjmů: §G+10.00%§!" # todo: NEW TRANSLATION
+  PER_khatami_bio: "Mohammad Khatami se narodil 14. října 1943 v Ardaakanu, provincii Yazd. Vlastní titul sayyid. Je íránský reformistický politik. Khatami získal bakalářský titul z západní filozofie na Esfahánské univerzitě, ale opustil akademii při studiu magisterského oboru v pedagogických vědách na Teheránské univerzitě a odešel do Qomu dokončit studia islámských věd. Studium tam trvalo sedm let a dokončil kurzy až na úroveň ijtihád. Poté krátce pobýval v Německu jako předseda Islámského centra v Hamburku v letech 1978–1980." # todo: NEW TRANSLATION
+  PER_rafsanjani_name: "Akbar Hashemi Rafsandžání" # todo: NEW TRANSLATION
+  PER_rafsanjani_modifiers: "§YVlivný:§!\n  Denní politická moc: §G+0.1§!\n§YSymbol reformistů:§!\n  Získávání politické moci: §G+5%§!\n  Denní pro-západní podpora: §R+0.10§!\n§YEkonomický liberál:§!\n  Rychlost výstavby sektoru úřadů: §G10.00%§!\n  Náklad na daně: §G-2.00§!" # todo: NEW TRANSLATION
+  PER_rafsanjani_bio: "Akbar Hashemi Rafsandžání se narodil 25. srpna 1934 v Bahremanu poblíž města Rafsanjan v provincii Kerman. Je politik, spisovatel a jeden ze zakladatelů Islámské republiky. Odešel z domu ve 14 letech studovat teologii v Qomu a seznámil se s myšlenkami ajatolláha Ruholláha Chomejního, budovatele Islámské republiky." # todo: NEW TRANSLATION
+  PER_raisi_name: "Ebrahim Raisí" # todo: NEW TRANSLATION
+  PER_raisi_modifiers: "§YNáměstek soudnictví:§!\n  Stabilita: §G+2.00%§!\n  Multiplikační faktor byrokratických nákladů: §G-10.00%§!\n  Obrana proti ideologickému odchylu: §G10.0%§!\n§YPodporován principalisty:§!\n  Získávání politické moci: §G+5%§!\n§YRozvoj bydlení:§!\n  Rychlost výstavby civilních továren: §G+15.00%§!\n  Rychlost výstavby: §R-5.00%§!\n  Multiplikační faktor daně z populace: §R-5.00%§!" # todo: NEW TRANSLATION
+  PER_raisi_bio: "Narodil se 14. prosince 1960 v okrese Noghan v Mashhadu, vyrostl v duchovní rodině a zahájil studium v Teheráně. Poté studoval v hawze a v roce 1975 ve věku 15 let začal studium v škole ajatolláha Boroujerdiho a pokračoval ve studiu v semináři v Qomu, kde získal doktorát z občanského práva na Motahari University." # todo: NEW TRANSLATION
+  PER_rouhani_name: "Hassan Rouhani" # todo: NEW TRANSLATION
+  PER_rouhani_modifiers: "§YPro-západní:§!\n  Přijetí pro-západní diplomacie: §G+30§!\n  Denní pro-západní podpora: §R+0.10%§!\n§YPodporován reformisty:§!\n  Získávání politické moci: §G+10%§!\n§YEkonomický reformista:§!\n  Stabilita: §R-2.00%§!\n  Rychlost výstavby sektoru úřadů: §G20.00%§!\n  Rychlost výstavby civilních továren: §G15.00%§!\n  Multiplikační faktor nákladů na ekonomické vylepšení: §R+10.00%§!\n§YNesouhlasí s IRGC:§!\n  Podpora ve válce: §R-7.00%§!" # todo: NEW TRANSLATION
+  PER_rouhani_bio: "Narodil se 12. listopadu 1948 v Sorkhehu v provincii Semnan do nábožensky orientované perské rodiny. Vyrostl v malém městě, kde se poprvé objevil politický aktivismus proti šáhovi. Byl zatčen asi dvacetkrát před revolucí v roce 1979. Zahájil náboženská studia v roce 1960. Byl přijat na Teheránskou univerzitu v roce 1969, kde získal bakalářský titul v soudním právu. Rok poté sloužil v íránsko-irácké válce. Po službě Rouhani pokračoval ve studiu na Glasgow Caledonian University ve Skotsku." # todo: NEW TRANSLATION
+  PER_tavakoli_name: "Ahmad Tavakkoli" # todo: NEW TRANSLATION
+  PER_tavakoli_modifiers: "§YZastupitel parlamentu:§!\n  Získávání politické moci: §G+5%§!\n§YFormer ministr práce a sociálních věcí:§!\n  Multiplikační faktor daňových příjmů: §G+10.00%§!\n§YFormer vládní mluvčí:§!\n  Denní politická moc: §G+0.1§!\n§YZávislý na ostatních principalistických stranách:§!\n  Obrana proti ideologickému odchylu: §R-20.0%§!" # todo: NEW TRANSLATION
+  PER_tavakoli_bio: "Ahmad Tawakli se narodil v Behshahr v roce 1952, syn obchodníka, který obchodoval s Kavkazem a Ruskem na konci carské vlády. V roce 1970 studoval elektrotechniku, ale byl vyloučen před dokončením kvůli stávce. Po dokončení bakalářského studia získal doktorát z ekonomie na Nottinghamské univerzitě v Anglii v roce 1997 s tezí 'Důvody inflace v íránské ekonomice, 1972–1990'. Po návratu do Íránu v roce 1998 založil noviny Farda." # todo: NEW TRANSLATION
+  PER_mousavi_name: "Mir-Hossein Mousavi" # todo: NEW TRANSLATION
+  PER_mousavi_modifiers: "§YRafsandžaniho loutka:§!\n  Stabilita: §R-2.00%§!\n  Získávání politické moci: §R-5%§!\n§YArchitekt:§!\n  Rychlost výstavby civilních továren: §G15.00%§!\n  Multiplikační faktor nákladů projektu: §G-5.00%§!\n§YLiberál:§!\n  Denní pro-západní podpora: §G+0.10§!" # todo: NEW TRANSLATION
+  PER_mousavi_bio: "Narodil se 2. března 1942 v Khamenehu, Východní Ázerbájdžán. Mousavi získal bakalářský titul v architektuře na Teheránské univerzitě v roce 1969. Byl aktivní v Levicové islámské studentské asociaci a měl úzké vazby na Hnutí za svobodu Íránu. Měl velkou roli během íránské revoluce a účastnil se militantních hnutí. Po pádu šáhova režimu pomohl Mohammad Beheshti založit Islámskou republikánskou stranu v roce 1979 a pomáhal zakládat Islámskou republiku v Íránu." # todo: NEW TRANSLATION
+  PER_ghalibaf_name: "Mohammad Bagher Ghalibaf" # todo: NEW TRANSLATION
+  PER_ghalibaf_modifiers: "§YVojenský:§!\n  Kapacita efektivity výroby: §G+5.00%§!\n  Růst efektivity výroby: §G+5.00%§!\n§YSchválen principalisty:§!\n  Získávání politické moci: §G+5%§!\n§YBývalý šéf policie:§!\n  Multiplikační faktor nákladů na policii: §G-7.00%§!" # todo: NEW TRANSLATION
+  PER_ghalibaf_bio: "Mohammad Bagher Ghalibaf je íránský konzervativní politik a bývalý vojenský důstojník. Narodil se 23. srpna 1961 v Torqabehu poblíž Mashhadu, matka perského původu a otec kurdského původu. Ghalibaf získal bakalářský titul v lidské geografií na Teheránské univerzitě, magisterský titul z lidské geografie na Islámské Azad university a PhD v politické geografii na Tarbiat Modares University. Ve 19 letech byl velitelem v íránsko-irácké válce. Po válce získal hodnost generálmajora po získání magisterského titulu v geopolitice." # todo: NEW TRANSLATION
+  PER_rezaee_name: "Mohsen Rezaee" # todo: NEW TRANSLATION
+  PER_rezaee_modifiers: "§YEkonom:§!\n  Rychlost výstavby: §G+5.00%§!\n  Multiplikační faktor nákladů na ekonomické vylepšení: §G-5.00%§!\n  Multiplikační faktor daňových příjmů: §G+5.00§!\n§YVazby na IRGC:§!\n  Rychlost výstavby civilních továren: §G10.00%§!\n  Základní produkční efektivita: §R-15.00§!\n§YTvrďák:§!\n  Denní podpora vzcházejících: §G+0.20§!\n§YPozice v opozici ve straně:§!\n  Získávání politické moci: §R-10%§!" # todo: NEW TRANSLATION
+  PER_rezaee_bio: "Narodil se 9. září 1954 v Masjed Soleyman do nábožensky založené rodiny. V roce 1969 měl zahájit studium ve škole vlastněné NIOC, ale přestěhoval se do Ahvazu a začal boj proti šáhovu režimu. Ve 17 letech byl uvězněn a ve 25 zahájil studium strojírenství na Univerzitě Íránu. Vstoupil do IRGC a byl jmenován šéfem zpravodajství; později se stal velitelem IRGC. Po válce přešel ke studiu ekonomie na Teheránské univerzitě." # todo: NEW TRANSLATION
+  PER_yazdi_name: "Ebrahim Yazdi" # todo: NEW TRANSLATION
+  PER_yazdi_bio: "Narodil se 26. září 1931, Yazdi se stal jedním z raných revolucionářských činitelů pod Chomejním. Po svržení Mossadeghovy vlády se Yazdi připojil k boji proti šáhovi a stal se členem Národního odporového hnutí Íránu. V roce 1961 spolu s dalšími členy založil Hnutí za svobodu Íránu (FMI). Později se stal místopředsedou vlády a ministrem zahraničí za nové revoluční vlády." # todo: NEW TRANSLATION
+  PER_yazdi_modifiers: "§YBývalý místopředseda vlády:§!\n Zahraniční vliv: §G5%§!\n§YJeden ze zakládajících reformistů:§!\n  Získávání politické moci: §G5%§!\n§YSociálně demokratický:§!\n  Multiplikační faktor nákladů na sociální služby: §G-10.00%§!" # todo: NEW TRANSLATION
+  PER_kavakebian_name: "Mostafa Kavakebian" # todo: NEW TRANSLATION
+  PER_kavakebian_bio: "Narodil se 18. března 1963, Kavakebian je vůdce Demokratické strany, založené v roce 2000. Má bakalářský a magisterský titul v politologii z Imam Sadiq University a PhD v politologii z Tarbiat Modares University. Byl zástupcem Islámské republiky v několika zemích, jako Itálie, Polsko, Sýrie a Libye." # todo: NEW TRANSLATION
+  PER_kavakebian_modifiers: "§YExpert na mezinárodní vztahy:§!\n  Snížení nákladů na udržení vztahů: §G-25%§!\n§YDémokratický reformátor:§!\n  Denní pro-západní podpora: §R+0.03§!\n§YUčitel:§!\n  Multiplikační faktor nákladů na vzdělání: §G-10.00%§!" # todo: NEW TRANSLATION
+  PER_karroubi_name: "Mehdi Karroubi" # todo: NEW TRANSLATION
+  PER_karroubi_bio: "Narodil se 26. září 1937, Karroubi je ší'itský duchovní a dlouhodobý reformistický politik. Jako zakládající člen Sdružení bojujícího duchovenstva vedl mnoho stran a organizací ve své politické kariéře. Karroubi byl znám kritikou Rady strážců a dalších vládních orgánů, čímž získal podporu mnoha opozičních skupin. Studoval teologii pod postavami jako ajatolláh Montazeri, což formovalo jeho politickou ideologii k levicovějším názorům." # todo: NEW TRANSLATION
+  PER_karroubi_modifiers: "§YDuchovní:§!\n Obranný násobitel proti zahraničnímu vlivu: §G15.00%§!\n§YNaproti několika vládním orgánům:§!\n  Multiplikační faktor byrokratických nákladů: §G-10.00%§!\n§YPolitický veterán:§!\n  Získávání politické moci: §G15.00%§!" # todo: NEW TRANSLATION
+  PER_mashaei_name: "Esfandiar Rahim Mashaei" # todo: NEW TRANSLATION
+  PER_mashaei_bio: "Narodil se 16. listopadu 1960, Mashaei vstoupil do VAJA jako důstojník zpravodajství během kurdského povstání v roce 1979. Během operací se setkal s Mahmúdem Ahmadínežádem, který mu později pomohl nastartovat politickou kariéru. Mashaei byl hlasitým kritikem duchovního establishmentu a byl zapleten do mnoha kontroverzí. Přesto má silnou podporu bývalých voličů a příznivců Ahmadínežáda." # todo: NEW TRANSLATION
+  PER_mashaei_modifiers: "§YBylý důstojník zpravodajství:§!\n Civilní zpravodajství: §G15.00%§!\n§YNacionalista:§!\n  Útok divizí: §G10.00%§!\n§YZvazky s vojskem:§!\n Mzdový násobitel armády: §G-10.00%§!" # todo: NEW TRANSLATION
+  PER_bayadi_name: "Hassan Bayadi" # todo: NEW TRANSLATION
+  PER_bayadi_bio: "Narodil se v roce 1956 v městě Rey. Má magisterský titul v průmyslovém inženýrství a byl členem Islámské rady v Teheránu. Byl generálním tajemníkem Společnosti mladých Abadgaran Islámského Íránu a pracoval jako univerzitní lektor. Pod vedením Mohsena Rezaee byl bývalým volebním poradcem a byl také jmenován do městské správy." # todo: NEW TRANSLATION
+  PER_bayadi_modifiers: "§YInženýr:§!\n Rychlost výstavby civilních továren: §G15.00%§!\n§YUčitel:§!\n  Rychlost výzkumu: §G10.00%§!\n§YPolitik z povolání:§!\n  Multiplikační faktor byrokratických nákladů: §G-10.00%§!" # todo: NEW TRANSLATION
+  PER_haghshenas_name: "Mohammad-Javad Haghshenas" # todo: NEW TRANSLATION
+  PER_haghshenas_bio: "Narodil se 18. března 1953, Haghshenas byl členem rady Teheránu, Ray a Tajrish. Byl také ústředním členem strany Etemad-e Melli, novinářem a univerzitním profesorem a měl angažmá v zahraničních vztazích. Za Khatamiho působil jako poradce ministra a ředitel politického odboru ministerstva vnitra a jako zástupce pro právní, parlamentní a provinční záležitosti na Ministerstvu kultury a islámské výchovy." # todo: NEW TRANSLATION
+  PER_haghshenas_modifiers: "§YZpravodajský:§!\n Denní drift vzcházejících: §G0.05%§!\n§YExpert organizátor:§!\n Měsíční růst produktivity: §G0.10§!\n§YPrávní expert:§!\n Multiplikační faktor nákladů na policii: §G-10.00%§!" # todo: NEW TRANSLATION
+  PER_pezeshkian_name: "Massoud Pezeshkian" # todo: NEW TRANSLATION
+  PER_pezeshkian_bio: "Narodil se 29. září 1954 do rodiny ázerbájdžánského původu. Pezeshkian sloužil jako guvernér okresů Piranshahr a Naghadeh. Byl zvolen do íránského parlamentu (Majlesu) pětkrát a byl ministrem zdravotnictví v letech 2001–2005 za vlády Mohammada Khatamiho. Během íránsko-irácké války často cestoval na frontu a pomáhal s lékařskými snahami. V roce 1993 ztratil manželku a nejmladšího syna při autonehodě a znovu se neoženil. Mluví více jazyky: perština, arabština, kurdština a ázerbájdžánština." # todo: NEW TRANSLATION
+  PER_pezeshkian_modifiers: "§YLékař:§!\n  Náklady na zdravotnictví: §G-10.00%§!\n  Rychlost doplňování: §G10.00%§!\n  Stabilita: §G5.00%§!\n§YPodporován reformisty:§!\n  Získávání politické moci: §G+5%§!\n§YSociální reformy:§!\n Rychlost výstavby: §G10.00%§!\n  Multiplikační faktor daní z populace: §G5.00%§!" # todo: NEW TRANSLATION
+  PER_principalist_popularity_loc: "[?principalists_popularity_percent_round]% Podpora" # todo: NEW TRANSLATION
+  PER_reformist_popularity_loc: "[?reformists_popularity_percent_round]% Podpora" # todo: NEW TRANSLATION
+  PER_representing_principalists_election: "Zastupující principalisty £PER_Vilayat_e_Faqih" # todo: NEW TRANSLATION
+  PER_representing_reformists_election: "Zastupující reformisty £PER_Mod_Vilayat_e_Faqih " # todo: NEW TRANSLATION
+  PER_VS: "VS" # todo: NEW TRANSLATION
+  Fart: "" # todo: NEW TRANSLATION
+  SAU_Iran_prox_ima_civil_war.threat: "Saúdско-íránský proxy konflikt" # todo: NEW TRANSLATION
+  AQY_in_yemen: "Povstání al-Káidy v Jemenu" # todo: NEW TRANSLATION
+  HOU_houthi_yemen: "Hutijské povstání" # todo: NEW TRANSLATION
+  PER_yemen_defense_lands: "Západní pevnost" # todo: NEW TRANSLATION
+  PER_Houthi_large_offensive: "Útok na Sana'a" # todo: NEW TRANSLATION
+  PER_Houthi_offensive: "Hutijská ofenzíva" # todo: NEW TRANSLATION
+  PER_yemen_army_unorg: "Kolaps kontroly" # todo: NEW TRANSLATION
+  PER_locals_swayed: "Probíhají protesty" # todo: NEW TRANSLATION
+  PER_cant_do_pmf_untill_100_days_after: "Tento soustředění nelze provést po §Y100§! dnech po dokončení §YDescend On Iraq§!" # todo: NEW TRANSLATION
+  SOV_rejected_PER: "Nabídka odmítnuta Ruskem" # todo: NEW TRANSLATION
+  NKO_rejected_PER: "Nabídka odmítnuta Severní Koreou" # todo: NEW TRANSLATION
+  steal_russian_icbm: "Ukrást ruské ICBM" # todo: NEW TRANSLATION
+  steal_russian_icbm_desc: "V minulosti nám Rusové důvěřovali a umožnili našim úředníkům přístup a prohlídku jejich rozsáhlého arzenálu ICBM; využijeme této příležitosti a vezmeme si některé, protože jich mají už více než dost." # todo: NEW TRANSLATION
+  PER_nuclear_negotiations: "Probíhají jaderná jednání" # todo: NEW TRANSLATION
+  PER_its_joever_nukes: "Vzdal se jaderných ambicí" # todo: NEW TRANSLATION
+  PER_sanctions: "Sanakce" # todo: NEW TRANSLATION
+  PER_sanctioned: "Odsankcionován" # todo: NEW TRANSLATION
+  PER_nuclear_known: "Jaderný program odhalen" # todo: NEW TRANSLATION
+  PER_14623_name_restore: "Bandar-e Pahlavi" # todo: NEW TRANSLATION
+  PER_1086_name: "Al-Quds" # todo: NEW TRANSLATION
+  PER_4206_name: "Ahuzat Bayit" # todo: NEW TRANSLATION
+  PER_11970_name: "Bi'r as-Sab'" # todo: NEW TRANSLATION
+  CENTO: "CENTO" # todo: NEW TRANSLATION
+  display_the_irgc_opinion: "Názor §Y(IRGC-VAJA) Islámských revolučních gard§! se změní o [?temp_opinion|+0] (Aktuálně: [MILI_opinion_display])\n" # todo: NEW TRANSLATION
+  PER_basij_fervor_drain: "V současnosti povolává Basídž" # todo: NEW TRANSLATION
+  PER_basij_const_1_year: "V posledním roce mobilizoval Basídž pro výstavbu" # todo: NEW TRANSLATION
+  PER_basij_edu_1_year: "V posledním roce mobilizoval Basídž pro vzdělávání" # todo: NEW TRANSLATION
+  PER_basij_war_1_year: "V posledním roce mobilizoval Basídž pro válku" # todo: NEW TRANSLATION
+  PER_basij_vote_1_year: "V posledním roce mobilizoval Basídž pro volby" # todo: NEW TRANSLATION
+  PER_basij_protest_1_year: "V posledním roce mobilizoval Basídž k potlačení protestů" # todo: NEW TRANSLATION
+  PER_basij_parade_1_year: "V posledním roce svolal pochod Basídže" # todo: NEW TRANSLATION
+  PER_election_enabled: "Konají se prezidentské volby" # todo: NEW TRANSLATION
+  PER_national_protests: "Probíhají celonárodní protesty" # todo: NEW TRANSLATION
+  PER_13th: "Konaly se 13. prezidentské volby" # todo: NEW TRANSLATION
+  PER_guarded_domains: "Ochráněné domény Íránu" # todo: NEW TRANSLATION
+  PER_guarded_domains_DEF: "ochráněné domény Íránu" # todo: NEW TRANSLATION
+  PER_guarded_domains_ADJ: "íránský" # todo: NEW TRANSLATION
+  autonomy_islamic_republic: "Islámská republika" # todo: NEW TRANSLATION
+  autonomy_socialist_union: "Socialistická unie" # todo: NEW TRANSLATION
+  autonomy_federal_state_iran: "Federalizovaný region" # todo: NEW TRANSLATION
+  raid_type_PER_raid_hezbollah: "Zavraždit generály IRGC v jižním Libanonu" # todo: NEW TRANSLATION
