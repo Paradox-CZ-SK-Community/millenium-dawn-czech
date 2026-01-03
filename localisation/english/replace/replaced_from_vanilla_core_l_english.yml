@@ -1,38 +1,38 @@
 ﻿l_english:
-  LOADING_GUI: "Uvalování sankcí na Severní Koreu..." # todo: NEW TRANSLATION
-  LOADING_HISTORY: "Rozpuštění parlamentu..." # todo: NEW TRANSLATION
-  LOADING_DATABASES: "Podporování povstalců..." # todo: NEW TRANSLATION
-  LOADING_MAP_SPRITES: "Vypouštění křižujících střel..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_SHADERS: "Falšování zpráv..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_TERRAIN: "Uznávání Kosova..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_BORDERS: "Kárání mediálních poradců..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_TEXTURES: "Bičování blogerů..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_TREES: "Deklarativní podpora lidských práv..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_RIVERS: "Manipulace ekonomikou..." # todo: NEW TRANSLATION
-  LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Tvrzení o chemických zbraních..." # todo: NEW TRANSLATION
-  LOAD_INIT: "Hackování Pentagonu..." # todo: NEW TRANSLATION
-  LOAD_EVENTS: "Pózování v OSN..." # todo: NEW TRANSLATION
-  MENU_HOMEPAGE: "MD Wiki" # todo: NEW TRANSLATION
-  MENU_FORUM: "Fórum Paradoxu" # todo: NEW TRANSLATION
-  MENU_FACEBOOK: "Facebook" # todo: NEW TRANSLATION
-  MENU_TWITTER: "Sledujte nás na Twitteru pro aktualizace" # todo: NEW TRANSLATION
-  LOAD_GFX: "Zpožďování výplat sociálních dávek..." # todo: NEW TRANSLATION
-  LOAD_FLAGS: "Demokratizace Středního východu..." # todo: NEW TRANSLATION
-  PROC_FLAGS: "Odklánění kritiky..." # todo: NEW TRANSLATION
-  CREATING_PROVINCE: "Zabarvování revolucí..." # todo: NEW TRANSLATION
-  EXECUTE_HISTORY: "Zavádění šaríjského práva..." # todo: NEW TRANSLATION
-  CREATING_CHKSUM: "Obcházení sankcí..." # todo: NEW TRANSLATION
-  GENERATING_GRADIENT_BORDERS: "Odkládání voleb..." # todo: NEW TRANSLATION
-  PRECALC_NAVAL_DIST: "Podplácení diplomatů..." # todo: NEW TRANSLATION
-  INIT_MAP_LOGIC: "Obviňování Číny..." # todo: NEW TRANSLATION
-  INIT_GAMESTATE: "Ignorování korupce..." # todo: NEW TRANSLATION
-  FLEET_NAME_SOV: "Skupina ruského námořnictva $NUMBER$." # todo: NEW TRANSLATION
-  LEADER_ENDLESS_CAPACITY_DESC: "$NAME$ je generál a nemá žádné omezení velení." # todo: NEW TRANSLATION
-  CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ is already assigned to another §GArmy§! that has been sent as an §Yintervention force§!.\nOpravdu chcete §RReassign§! the §GCommander§!?" # todo: NEW TRANSLATION
-  FE_SELECT_COUNTRY: "Vyberte jiné země na mapě" # todo: NEW TRANSLATION
-  FE_SELECT_COUNTRY_2: "Přejít na mapu" # todo: NEW TRANSLATION
-  FUEL_DAILY_GAIN_FROM_STATES: "Z průmyslu: $NUM|H$" # todo: NEW TRANSLATION
-  DIPLOMACY_SEND_VOLUNTEERS_TITLE: "Poslat intervenční sílu" # todo: NEW TRANSLATION
-  LOGISTICS_CAPACITY_DETAILED_DESC: "Logistická kapacita udává, jak dobře jsou zajištěny vaše zásobovací linie. Pokud vaší zemi chybějí vlaky nebo užitková vozidla potřebná k přepravě všech zásob, vaše jednotky obdrží snížené zásobování a budou postiženy penalizacemi za nedostatek zásob." # todo: NEW TRANSLATION
-  TRUCKS: "Užitková vozidla" # todo: NEW TRANSLATION
-  FUEL_DESC: "§HFuel§! se generuje z přebytečné ropy vaší země. Každá země má maximální kapacitu §HFuel§!, kterou lze zvýšit výstavbou §HSilos§!. §HFuel§! používají tanky/mechanizované jednotky, lodě a letadla, a je dodáváno pomocí §HSupply Lines§!.\n\n§HFuel§! se také používá k pohonu §HFossil Fuel Power Plants§! vaší země a je důležitým zdrojem, aby vaše ekonomika pokračovala v chodu. §HNuclear Reactors§!, §HRenewable Energy Infrastructure§!, a §HOther Sources of Power§! nepoužívají žádné §HFuel§! k výrobě energie. Vaše §HPopulation§! také spotřebovává §HFuel§! jako součást svých obecných potřeb. Pro více informací o vaší nevojenské spotřebě §HFuel§! se podívejte na §HEnergy Screen§! v záložce §HConstruction§!." # todo: NEW TRANSLATION
+ LOADING_GUI: "Uvalení sankcí na Severní Koreu..."
+ LOADING_HISTORY: "Rozpuštění parlamentu..."
+ LOADING_DATABASES: "Podpora povstalců..."
+ LOADING_MAP_SPRITES: "Odpálení střel s plochou dráhou letu..."
+ LOAD_GFX_PDXMAP_SHADERS: "Falšování zpráv..."
+ LOAD_GFX_PDXMAP_TERRAIN: "Uznání Kosova..."
+ LOAD_GFX_PDXMAP_BORDERS: "Kárání mediálních poradců..."
+ LOAD_GFX_PDXMAP_TEXTURES: "Trestání bloggerů..."
+ LOAD_GFX_PDXMAP_TREES: "Předstírání zájmu o lidská práva..."
+ LOAD_GFX_PDXMAP_RIVERS: "Manipulace s ekonomikou..."
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Vznesení obvinění z použití chemických zbraní..."
+ LOAD_INIT: "Hacknutí Pentagonu..."
+ LOAD_EVENTS: "Politické manévrování v OSN..."
+ LOAD_GFX: "Zadržování sociálních dávek..."
+ LOAD_FLAGS: "Demokratizace Blízkého východu..."
+ PROC_FLAGS: "Odklánění kritiky..."
+ CREATING_PROVINCE: "Vybarvování revolucí..."
+ EXECUTE_HISTORY: "Zavedení práva šaría..."
+ CREATING_CHKSUM: "Obcházení sankcí..."
+ GENERATING_GRADIENT_BORDERS: "Odkládání voleb..."
+ PRECALC_NAVAL_DIST: "Uplácení diplomatů..."
+ INIT_MAP_LOGIC: "Přičítání viny Číně..."
+ INIT_GAMESTATE: "Ignorování korupce..."
+ MENU_HOMEPAGE: "MD Wiki"
+ MENU_FORUM: "Paradoxní fóra"
+ MENU_FACEBOOK: "Facebook"
+ MENU_TWITTER: "Sledujte nás na Twitteru pro novinky"
+ FLEET_NAME_SOV: "Skupina ruského námořnictva $NUMBER$."
+ LEADER_ENDLESS_CAPACITY_DESC: "$NAME$ je generál a nemá žádný limit velení."
+ CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§!, která byla vyslána jako §Yintervenční síly§!.\nOpravdu chcete §Rpřeřadit§! tohoto §Gvelitele§!?"
+ FE_SELECT_COUNTRY: "Vybrat jinou zemi na mapě"
+ FE_SELECT_COUNTRY_2: "Přejít na mapu"
+ FUEL_DAILY_GAIN_FROM_STATES: "Z průmyslu: $NUM|H$"
+ DIPLOMACY_SEND_VOLUNTEERS_TITLE: "Vyslat intervenční síly"
+ LOGISTICS_CAPACITY_DETAILED_DESC: "Logistická kapacita vyjadřuje, jak dobře jsou uspokojeny vaše zásobovací trasy. Pokud vašemu státu chybí vlaky nebo užitková vozidla potřebná k přepravě všech zásob, jednotky budou trpět sníženým zásobováním a budou postiženy zásobovacími postihy."
+ TRUCKS: "Užitková vozidla"
+ FUEL_DESC: "§HPalivo§! je vytvářeno z přebytků ropy vaší země. Každý stát má maximální kapacitu §Hpaliva§!, kterou lze zvýšit výstavbou §Hsil§!. §HPalivo§! spotřebovávají tanky a mechanizované jednotky, lodě a letadla a je distribuováno prostřednictvím §Hzásobovacích tras§!.\n\n§HPalivo§! je rovněž využíváno k provozu §Hfosilních elektráren§! a je klíčovým zdrojem pro fungování ekonomiky. §HJaderné reaktory§!, §Hobnovitelné zdroje energie§! a §Hostatní zdroje§! ke své výrobě žádné §Hpalivo§! nespotřebovávají. §HObyvatelstvo§! rovněž spotřebovává §Hpalivo§! jako součást svých základních potřeb. Více informací o nevojenské spotřebě §Hpaliva§! naleznete na §Henergetické obrazovce§! v záložce §HVýstavba§!."
